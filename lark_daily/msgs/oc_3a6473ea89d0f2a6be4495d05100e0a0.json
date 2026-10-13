@@ -1,0 +1,49 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "has_more": false,
+    "messages": [
+      {
+        "chat_id": "oc_3a6473ea89d0f2a6be4495d05100e0a0",
+        "content": "\u003ccard title=\"权限开通\"\u003e\n@葛徐(ou_0f7a25d655fff3c41fb293c79d152734) 给你开通了妙记 [计划与AI数字化深度融合项目启动会](https://inovance.feishu.cn/minutes/obcnkrbh6f7326mmkxl51qxc?from_source=permission_change) 的查看权限\n\u003c/card\u003e",
+        "create_time": "2026-10-12 06:36",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_0f7a25d655fff3c41fb293c79d152734",
+            "key": "@_user_1",
+            "name": "葛徐"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_3a6473ea89d0f2a6be4495d05100e0a0\u0026position=107",
+        "message_id": "om_x100b63f3b388dca0c4807b331e4fe22",
+        "message_position": "107",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a0d9f8eba778d00e",
+          "id_type": "app_id",
+          "name": "智能纪要助手",
+          "open_bot_id": "ou_97d77295aa8c7505841b5ddf7df85a39",
+          "sender_i18n_names": {
+            "en_us": "AI Notes Assistant",
+            "ja_jp": "AI ノートアシスタント",
+            "zh_cn": "智能纪要助手"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      }
+    ],
+    "page_token": "",
+    "total": 1
+  },
+  "meta": {
+    "pagination": {
+      "complete": true,
+      "pages": 1,
+      "items": 1
+    }
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "has_more": false,
+    "messages": [
+      {
+        "chat_id": "oc_9ebf1608d5be3a0561147e4e68c65dca",
+        "content": "糟糕",
+        "create_time": "2026-10-12 08:11",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_9ebf1608d5be3a0561147e4e68c65dca\u0026position=215",
+        "message_id": "om_x100b63fd2f8e84a8b15e99c7f330baa",
+        "message_position": "215",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_c6d4bbac2c2c99263c3df4d9d488a79a",
+          "id_type": "open_id",
+          "name": "金垠博",
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_9ebf1608d5be3a0561147e4e68c65dca",
+        "content": "我手机被t下线了",
+        "create_time": "2026-10-12 08:11",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_9ebf1608d5be3a0561147e4e68c65dca\u0026position=216",
+        "message_id": "om_x100b63fd2f0964b4b2412a21741300c",
+        "message_position": "216",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_c6d4bbac2c2c99263c3df4d9d488a79a",
+          "id_type": "open_id",
+          "name": "金垠博",
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_9ebf1608d5be3a0561147e4e68c65dca",
+        "content": "换个账号吧",
+        "create_time": "2026-10-12 08:11",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_9ebf1608d5be3a0561147e4e68c65dca\u0026position=217",
+        "message_id": "om_x100b63fd2c3410bcb1ada575e92c07a",
+        "message_position": "217",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_c6d4bbac2c2c99263c3df4d9d488a79a",
+          "id_type": "open_id",
+          "name": "金垠博",
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_9ebf1608d5be3a0561147e4e68c65dca",
+        "content": "[Image: img_v3_0216d_8c192b5c-3ba6-434d-9a78-2f6edfe8b45g]",
+        "create_time": "2026-10-12 09:34",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_9ebf1608d5be3a0561147e4e68c65dca\u0026position=218",
+        "message_id": "om_x100b63fed7b4747cb303ae876b7c477",
+        "message_position": "218",
+        "msg_type": "image",
+        "sender": {
+          "id": "ou_bad9fa308d164639768020eb8810499f",
+          "id_type": "open_id",
+          "name": "宋海峰",
+          "sender_i18n_names": {
+            "en_us": "Jordan Song"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_9ebf1608d5be3a0561147e4e68c65dca",
+        "content": "[Image: img_v3_0216d_1c196a23-dfe9-4bf3-acb4-b068987f778g]",
+        "create_time": "2026-10-12 09:34",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_9ebf1608d5be3a0561147e4e68c65dca\u0026position=219",
+        "message_id": "om_x100b63fed40144bcb176983fe0d02b4",
+        "message_position": "219",
+        "msg_type": "image",
+        "sender": {
+          "id": "ou_bad9fa308d164639768020eb8810499f",
+          "id_type": "open_id",
+          "name": "宋海峰",
+          "sender_i18n_names": {
+            "en_us": "Jordan Song"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_9ebf1608d5be3a0561147e4e68c65dca",
+        "content": "[Invalid rich text JSON]",
+        "create_time": "2026-10-12 09:37",
+        "deleted": true,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_9ebf1608d5be3a0561147e4e68c65dca\u0026position=220",
+        "message_id": "om_x100b63fee9c08504c10d4c54a550466",
+        "message_position": "220",
+        "msg_type": "post",
+        "sender": {
+          "id": "ou_e41d7538c671ace94d83136352e71f91",
+          "id_type": "open_id",
+          "name": "何荣福",
+          "sender_i18n_names": {
+            "en_us": "herongfu"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      }
+    ],
+    "page_token": "",
+    "total": 6
+  },
+  "meta": {
+    "pagination": {
+      "complete": true,
+      "pages": 1,
+      "items": 6
+    }
+  }
+}

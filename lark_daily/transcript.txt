@@ -1,0 +1,785 @@
+===== CHAT: TRAE 用户交流群 1️⃣2️⃣｜官方 | group | oc_116045b976a58256400df3e6c4a57c1b | msgs=206 =====
+[01:08|0] 刘虎光 <post> ![Image](img_v3_0216d_a758b646-45e3-4f03-a4f8-325b91b5dbcg) ⏎ 。。trae code 没了吗  {thread=omt_19a9ba39cd4e5ce5}
+[01:18|1] 用户852152 <text> 合并了两个软件  {thread=omt_19a9ba39cd4e5ce5, reply_in_thread->om_x100b63f761c338b4b492aca4d432c46}
+[01:18|2] 用户852152 <text> 有呀  {thread=omt_19a9ba39cd4e5ce5, reply_in_thread->om_x100b63f761c338b4b492aca4d432c46}
+[01:19|3] 用户852152 <text> Agent 和 IDE自由切换了  {thread=omt_19a9ba39cd4e5ce5, reply_in_thread->om_x100b63f761c338b4b492aca4d432c46}
+[01:36|4] 冯梦龙 <text> 合并了  {thread=omt_19a9ba39cd4e5ce5, reply_in_thread->om_x100b63f761c338b4b492aca4d432c46}
+[01:36|5] 冯梦龙 <text> 你直接官网下载覆盖安装  {thread=omt_19a9ba39cd4e5ce5, reply_in_thread->om_x100b63f761c338b4b492aca4d432c46}
+[02:50|6] 商金龙 <text> 之间traework 积分咋都没了  {thread=omt_19a9c22ece8f9b84}
+[02:50|7] 周顺达 <text> TraeWork专属积分转为通用积分了  {thread=omt_19a9c22ece8f9b84, reply_in_thread->om_x100b63f0e0b304a8c284f87b958c3c8}
+[02:51|8] 商金龙 <text> @周顺达 好吧  {thread=omt_19a9c22ece8f9b84, reply_in_thread->om_x100b63f0e0b304a8c284f87b958c3c8}
+[02:53|9] 冯梦龙 <text> 是不是过期了  {thread=omt_19a9c22ece8f9b84, reply_in_thread->om_x100b63f0e0b304a8c284f87b958c3c8}
+[02:55|10] 商金龙 <text> <p>@冯梦龙 不是节后刚领的积分，TraeCode 邀请好友奖励，一个月有效期呢，一点没用呢 😭</p>  {thread=omt_19a9c22ece8f9b84, reply_in_thread->om_x100b63f0e0b304a8c284f87b958c3c8}
+[03:17|11] 周顺达 <text> 节后领的啊，那应该不是TraeWork专属积分了，截图看看积分明细呢  {thread=omt_19a9c22ece8f9b84, reply_in_thread->om_x100b63f0e0b304a8c284f87b958c3c8}
+[03:22|12] 冯梦龙 <text> @商金龙 你打开用量管理，看看奖励积分  {thread=omt_19a9c22ece8f9b84, reply_in_thread->om_x100b63f0e0b304a8c284f87b958c3c8}
+[03:22|13] 冯梦龙 <text> 怎么显示的  {thread=omt_19a9c22ece8f9b84, reply_in_thread->om_x100b63f0e0b304a8c284f87b958c3c8}
+[03:27|14] 商金龙 <text> @冯梦龙 OK 一会我看下  {thread=omt_19a9c22ece8f9b84, reply_in_thread->om_x100b63f0e0b304a8c284f87b958c3c8}
+[04:09|15] 吴于飞 <text> 叮咚～新的一周开始啦！午间别忘了顺手签个到，100积分等你领，点一下就到手，祝本周元气满满！🎯 （由豆包发送）  {thread=omt_19a9d54ec58f9bea}
+[04:48|16] 哈基宸 <image> [Image: img_v3_0216d_9f4ef55d-7d08-4928-bf29-10d9807e22cg]  {thread=omt_19a9d54ec58f9bea, reply_in_thread->om_x100b63f196b3b4a8c468b561f0b1a24}
+[05:43|17] 徐霞雷 <post> ![Image](img_v3_0216d_679e53bb-1bbb-4900-9f0f-426582cdd4bg) ⏎ 大调整啊  {thread=omt_19a9fbafa08fdce6}
+[05:48|18] 用户718917 <text> 唱别久悲不成悲 十分红处竟成灰  {thread=omt_19a9fbafa08fdce6, reply_in_thread->om_x100b63f378a5e4acb4a2683deef74ff}
+[06:10|19] 杨志夷 <text> 合并很对。  {thread=omt_19a9fbafa08fdce6, reply_in_thread->om_x100b63f378a5e4acb4a2683deef74ff}
+[07:41|20] 吴于飞 <text> @_all 🎁 TRAE 全面升级，双端融合，社区双重活动同步开启 ⏎ TraeWork 和 TraeCode 已正式合并为全新 TRAE：一个入口连接 Agent 模式与 IDE 模式，桌面端、Web 端和移动端也能同步协作。 ⏎ 1️⃣欢迎大家前往论坛活动帖聊聊升级后的第一感受、最想体验的功能，或者对新版的建议。有效评论有机会获得 500 积分，被官方精选还能再得 1000 积分。 ⏎ 活动时间：10 月 9 日 - 10 月 13 日（明天） ⏎  参与入口： ⏎  https://forum.trae.cn/t/topic/183224 ⏎ 2️⃣带一个真实任务完整体验新版 TRAE，分享功能测评、使用技巧或实战案例。正文满 100 字，并附上截图、录屏或最终产物，即有机会赢取 Ultra 会员和积分奖励。 ⏎ 活动时间：10 月 9 日—10 月 18 日 ⏎  参与入口： ⏎ …[TRUNC]  {thread=omt_19a907d0344f1c8e}
+[07:42|21] 飞书用户0409KK <text> 能在加个agent吗？一个不行啊  {thread=omt_19a907b5ba8d5cb3}
+[07:42|22] 杜昔月 <text> 请勿发布  {thread=omt_19a9079306d3dbe9, reply_in_thread->om_x100b63fcbb6f816cc4568f1df986d8b}
+[07:43|23] 用户375933 <text> @TRAE 宝 你跟他介绍一下subagent和自定义agent协作机制  {thread=omt_19a907b5ba8d5cb3, reply_in_thread->om_x100b63fcb9044484b1f4132c500f7b9}
+[07:44|24] 飞书用户0409KK <text> 都要啊，自编自审是无用功，  {thread=omt_19a907b5ba8d5cb3, reply_in_thread->om_x100b63fcb9044484b1f4132c500f7b9}
+[07:45|25] 用户375933 <text> @TRAE 宝 你说人话，你这介绍太潦草了  {thread=omt_19a907b5ba8d5cb3, reply_in_thread->om_x100b63fcb9044484b1f4132c500f7b9}
+[07:46|26] 飞书用户0409KK <text> 上下文衰减，和最短路径优先特性，还是会跳关的，必须是单独LLM才能完成任务审计  {thread=omt_19a907b5ba8d5cb3, reply_in_thread->om_x100b63fcb9044484b1f4132c500f7b9}
+[07:47|27] 用户375933 <text> @飞书用户0409KK 你可以自建智能体，然后通过主智能体调用，或者直接要求主智能体使用subagent来做审核，trae肯定有相关功能的  {thread=omt_19a907b5ba8d5cb3, reply_in_thread->om_x100b63fcb9044484b1f4132c500f7b9}
+[07:50|28] 飞书用户0409KK <text> 你给SOLO Agent 的任务让子智能体审，父智能体上下文穿透下来了，就是需要类似[Advisor](https://forum.trae.cn/t/topic/171717)的单独接口。路由是由模型决定的使用subagent来做审核不现实的  {thread=omt_19a907b5ba8d5cb3, reply_in_thread->om_x100b63fcb9044484b1f4132c500f7b9}
+[07:51|29] 用户375933 <text> 可以显示指定subagent要求的，就是自然语言对话说清楚  {thread=omt_19a907b5ba8d5cb3, reply_in_thread->om_x100b63fcb9044484b1f4132c500f7b9}
+[07:52|30] 飞书用户0409KK <text> 循环太大了，模型掉安全区开始简化任务了的  {thread=omt_19a907b5ba8d5cb3, reply_in_thread->om_x100b63fcb9044484b1f4132c500f7b9}
+[07:52|31] 用户375933 <image> [Image: img_v3_0216d_ae1ab933-f68b-4ea4-83d2-dc256376de9g]  {thread=omt_19a907b5ba8d5cb3, reply_in_thread->om_x100b63fcb9044484b1f4132c500f7b9}
+[07:53|32] 飞书用户0409KK <text> 在一个会话内，上下文腐败了你能保证定subagent不失真？本质还是一个API接口啊  {thread=omt_19a907b5ba8d5cb3, reply_in_thread->om_x100b63fcb9044484b1f4132c500f7b9}
+[07:53|33] 用户375933 <text> 是的，所以这个时候就要自定义智能体了  {thread=omt_19a907b5ba8d5cb3, reply_in_thread->om_x100b63fcb9044484b1f4132c500f7b9}
+[07:54|34] 用户375933 <image> [Image: img_v3_0216d_ec088e32-f6c3-4bed-a198-a4e64febad7g]  {thread=omt_19a907b5ba8d5cb3, reply_in_thread->om_x100b63fcb9044484b1f4132c500f7b9}
+[07:54|35] 飞书用户0409KK <text> [看]自定义智能体，调用编排的控制权在模型手上啊。不能阻挡模型的跳关倾向啊  {thread=omt_19a907b5ba8d5cb3, reply_in_thread->om_x100b63fcb9044484b1f4132c500f7b9}
+[07:55|36] 用户375933 <image> [Image: img_v3_0216d_aeb55ef5-0189-4921-8b18-acfb570d37bg]  {thread=omt_19a907b5ba8d5cb3, reply_in_thread->om_x100b63fcb9044484b1f4132c500f7b9}
+[07:55|37] 飞书用户0409KK <text> 手动掉用当然不算  {thread=omt_19a907b5ba8d5cb3, reply_in_thread->om_x100b63fcb9044484b1f4132c500f7b9}
+[07:56|38] 用户375933 <text> 还是建议学习一下，自己写智能体，官方的只能是通用范式，勉强能解决技术问题，但是业务侧太宽泛了，不可能用通用方案完整覆盖的  {thread=omt_19a907b5ba8d5cb3, reply_in_thread->om_x100b63fcb9044484b1f4132c500f7b9}
+[07:58|39] 飞书用户0409KK <text> 你这轮回复怎么保证不是讨好倾向的回复？[看]上下文完成了切断。如果切断了，模型都没读哪来的分析，怎么保证不是模型编的？请教一下[泣不成声]  {thread=omt_19a907b5ba8d5cb3, reply_in_thread->om_x100b63fcb9044484b1f4132c500f7b9}
+[07:59|40] 用户375933 <text> 所以要自定义智能体，在loop中规划好context啊  {thread=omt_19a907b5ba8d5cb3, reply_in_thread->om_x100b63fcb9044484b1f4132c500f7b9}
+[07:59|41] 用户375933 <text> ？？？  {thread=omt_19a907b5ba8d5cb3, reply_in_thread->om_x100b63fcb9044484b1f4132c500f7b9}
+[08:00|42] 用户375933 <text> 这个边界就是在模型外得，大模型不是万能的，你已经提到了注意力涣散和上下文窗口得两个核心问题，这俩无解，只能缓解  {thread=omt_19a907b5ba8d5cb3, reply_in_thread->om_x100b63fcb9044484b1f4132c500f7b9}
+[08:01|43] Rong DAI 戴荣 <text> cat > /workspace/q3_fan_brand_chart.py << 'PYEOF' ⏎ # -*- coding: utf-8 -*- ⏎ """Q3非员工粉丝订单 · 月份×品牌拆分 可视化""" ⏎ import pandas as pd, warnings, glob, os ⏎ warnings.filterwarnings('ignore') ⏎ DIR = '/workspace/驾享平台UE分析项目/04_原始数据/月度订单明细' ⏎ files = sorted(glob.glob(f'{DIR}/驾享平台订单明细_20260[789]_*.xlsx')) ⏎ cols = ['用户id','是否是粉丝用户','是否员工','实际服务结束时间','品牌'] ⏎ dfs = [] ⏎ for f in files: ⏎     df = pd.read_exc…[TRUNC]  {thread=omt_19a91b03464edce4, reply_in_thread->om_x100b63fd726b88bcb4845842b1bccae}
+[08:01|44] 用户375933 <text> 是的，实际上你可以让trae根据文档自己帮你创建你得第一个自定义智能体  {thread=omt_19a907b5ba8d5cb3, reply_in_thread->om_x100b63fcb9044484b1f4132c500f7b9}
+[08:01|45] 飞书用户0409KK <text> 所以啊，要第二个agent干这个事啊。  {thread=omt_19a907b5ba8d5cb3, reply_in_thread->om_x100b63fcb9044484b1f4132c500f7b9}
+[08:01|46] Rong DAI 戴荣 <post> trae这是中毒了么 按照我的要求重新优化统计图表的展示，命令执行中显示大量的无关信息 ⏎ ![Image](img_v3_0216d_db1769fe-a64c-4848-ad87-b1188d60de4g)  {thread=omt_19a91b03464edce4}
+[08:02|47] 用户375933 <text> 可以从skill first开始，第一个自定义智能体只调用固定得skill，跑稳定了再拆loop，我非常讨厌loop这个词  {thread=omt_19a907b5ba8d5cb3, reply_in_thread->om_x100b63fcb9044484b1f4132c500f7b9}
+[08:03|48] AIbot <text> traework不敢升级到trae，居然让你直接删掉work里面的东西，兄弟们，说出你们的故事  {thread=omt_19a91c8419535ce7}
+[08:04|49] 飞书用户0409KK <text> [泣不成声]又归回Trae的架构了，路由是模型控制的，模型可以跳关。可以不在任务里调用智能体，只要开始上下文腐败就会走最短路径。  {thread=omt_19a907b5ba8d5cb3, reply_in_thread->om_x100b63fcb9044484b1f4132c500f7b9}
+[08:04|50] Rong DAI 戴荣 <text> @王仁君 这是他执行命令的过程 我复制出来了 请问这是在骗我的token么  {thread=omt_19a91b03464edce4, reply_in_thread->om_x100b63fd726b88bcb4845842b1bccae}
+[08:05|51] 用户375933 <text> 路由不应该是模型控制得，模型实际上压根就不知道你电脑里有什么，官方得架构最终也是以系统提示词形式送给大模型得  {thread=omt_19a907b5ba8d5cb3, reply_in_thread->om_x100b63fcb9044484b1f4132c500f7b9}
+[08:05|52] 飞书用户0409KK <text> 模型循环了，停了就好  {thread=omt_19a91b03464edce4, reply_in_thread->om_x100b63fd726b88bcb4845842b1bccae}
+[08:07|53] 飞书用户0409KK <text> [泣不成声]你自己在Trae里问问。233  {thread=omt_19a907b5ba8d5cb3, reply_in_thread->om_x100b63fcb9044484b1f4132c500f7b9}
+[08:07|54] 用户7480338261540 <text> trae ide不受影吧？  {thread=omt_19a91dff47cfdbef}
+[08:08|55] 用户7480338261540 <text> trae work升级与trae ide是独立吧？不影响ide版吧？  {thread=omt_19a91d5e92cf5bbe}
+[08:08|56] 用户375933 <text> 问啥？  {thread=omt_19a907b5ba8d5cb3, reply_in_thread->om_x100b63fcb9044484b1f4132c500f7b9}
+[08:08|57] 杜昔月 <image> [Image: img_v3_0216d_fa4c82d9-74c0-4348-acb0-f2e9a587565g]  {thread=omt_19a91c8419535ce7, reply_in_thread->om_x100b63fd0a1e7964b4b918046c398dd}
+[08:08|58] 杜昔月 <text> 这里？？  {thread=omt_19a91c8419535ce7, reply_in_thread->om_x100b63fd0a1e7964b4b918046c398dd}
+[08:08|59] 杜昔月 <text> 你指的是哪里  {thread=omt_19a91c8419535ce7, reply_in_thread->om_x100b63fd0a1e7964b4b918046c398dd}
+[08:08|60] 杜昔月 <text> ？  {thread=omt_19a91c8419535ce7, reply_in_thread->om_x100b63fd0a1e7964b4b918046c398dd}
+[08:08|61] 漫川 <text> 不影响  {thread=omt_19a91dff47cfdbef, reply_in_thread->om_x100b63fd1dab90acc4304d56fa5c3cd}
+[08:09|62] 王仁君 <text> 您使用的啥模型，新建对话试下是否可以，如果还有，可以先问下AI为什么回复这些内容，然后检查下skill、命令和记忆是否有影响，  {thread=omt_19a91b03464edce4, reply_in_thread->om_x100b63fd726b88bcb4845842b1bccae}
+[08:09|63] 用户7480338261540 <text> 好的  {thread=omt_19a91d5e92cf5bbe, reply_in_thread->om_x100b63fd17b6c0a4c125fc647e5f705}
+[08:09|64] 用户375933 <image> [Image: img_v3_0216d_2819cc90-1d0c-44e6-9aae-c1a12ec3a62g]  {thread=omt_19a907b5ba8d5cb3, reply_in_thread->om_x100b63fcb9044484b1f4132c500f7b9}
+[08:09|65] 飞书用户0409KK <text> 任务路由谁控制，是模型选择还是固定的  {thread=omt_19a907b5ba8d5cb3, reply_in_thread->om_x100b63fcb9044484b1f4132c500f7b9}
+[08:09|66] 用户375933 <text> 当然是agent控制  {thread=omt_19a907b5ba8d5cb3, reply_in_thread->om_x100b63fcb9044484b1f4132c500f7b9}
+[08:09|67] 漫川 <text> ide不影响使用  {thread=omt_19a91d5e92cf5bbe, reply_in_thread->om_x100b63fd17b6c0a4c125fc647e5f705}
+[08:10|68] 飞书用户0409KK <text> Agent 是套在 LLM 外面的一套执行框架。哥啊  {thread=omt_19a907b5ba8d5cb3, reply_in_thread->om_x100b63fcb9044484b1f4132c500f7b9}
+[08:11|69] Rong DAI 戴荣 <text> @王仁君 同一个对话，不方便新建对话因为貌似trae无法跨任务共享历史的数据分析结论，模型用的是AUTO Model 没加载额外的什么skill。  {thread=omt_19a91b03464edce4, reply_in_thread->om_x100b63fd726b88bcb4845842b1bccae}
+[08:11|70] 用户375933 <text> 没有agent你连和llm通信都做不到啊，是不是  {thread=omt_19a907b5ba8d5cb3, reply_in_thread->om_x100b63fcb9044484b1f4132c500f7b9}
+[08:11|71] 用户375933 <text> 对啊  {thread=omt_19a907b5ba8d5cb3, reply_in_thread->om_x100b63fcb9044484b1f4132c500f7b9}
+[08:11|72] 用户375933 <text> 1、大模型是按照你得系统要求去规划；2、顶级模型确实有自主规划得能力，但是你得要求是第一位得，你可以要求他按照你得要求来  {thread=omt_19a907b5ba8d5cb3, reply_in_thread->om_x100b63fcb9044484b1f4132c500f7b9}
+[08:13|73] 高鑫 <text> 合并了  {thread=omt_19a91d5e92cf5bbe, reply_in_thread->om_x100b63fd17b6c0a4c125fc647e5f705}
+[08:13|74] 飞书用户0409KK <image> [Image: img_v3_0216d_4f0862ed-b084-460a-980a-073d72dc626g]  {thread=omt_19a907b5ba8d5cb3, reply_in_thread->om_x100b63fcb9044484b1f4132c500f7b9}
+[08:14|75] 用户375933 <text> agent是runtime，其中的一个职责就是调用llm接口，你自己不可能去读llm api的，必须通过程序调用，这里的程序调用就是agent，你批评一下你的llm，你看他改口不改口  {thread=omt_19a907b5ba8d5cb3, reply_in_thread->om_x100b63fcb9044484b1f4132c500f7b9}
+[08:14|76] 飞书用户0409KK <text> [泣不成声]豆包说不是  {thread=omt_19a907b5ba8d5cb3, reply_in_thread->om_x100b63fcb9044484b1f4132c500f7b9}
+[08:14|77] 用户375933 <text> .......  {thread=omt_19a907b5ba8d5cb3, reply_in_thread->om_x100b63fcb9044484b1f4132c500f7b9}
+[08:15|78] 王仁君 <post> AUTO Mode用的可能不是一个模型， ⏎ 输入#可以引用其他对话历史 ⏎ ![Image](img_v3_0216d_4de959b3-4776-4b04-a6d6-65dc8fd39c8g)  {thread=omt_19a91b03464edce4, reply_in_thread->om_x100b63fd726b88bcb4845842b1bccae}
+[08:15|79] 用户375933 <text> 你问chatgpt  {thread=omt_19a907b5ba8d5cb3, reply_in_thread->om_x100b63fcb9044484b1f4132c500f7b9}
+[08:17|80] 用户375933 <text> 准确的走在路径上，什么是agent，什么是agent loop，什么是llm  {thread=omt_19a907b5ba8d5cb3, reply_in_thread->om_x100b63fcb9044484b1f4132c500f7b9}
+[08:17|81] 飞书用户0409KK <text> [泣不成声]歪楼了没意义  {thread=omt_19a907b5ba8d5cb3, reply_in_thread->om_x100b63fcb9044484b1f4132c500f7b9}
+[08:17|82] 用户375933 <text> .....没有歪楼  {thread=omt_19a907b5ba8d5cb3, reply_in_thread->om_x100b63fcb9044484b1f4132c500f7b9}
+[08:20|83] Rong DAI 戴荣 <text> @王仁君 好像界面都不一样哎 我打#没有选项 你的不是trae work吧  {thread=omt_19a91b03464edce4, reply_in_thread->om_x100b63fd726b88bcb4845842b1bccae}
+[08:20|84] 飞书用户0409KK <text> https://www.doubao.com/thread/xqOKhaNymiTiWtiSy[泣不成声]  {thread=omt_19a907b5ba8d5cb3, reply_in_thread->om_x100b63fcb9044484b1f4132c500f7b9}
+[08:21|85] AIbot <text> 只是说升级，哪来的卸载？  {thread=omt_19a91c8419535ce7, reply_in_thread->om_x100b63fd0a1e7964b4b918046c398dd}
+[08:21|86] AIbot <text> 看着吓人呢  {thread=omt_19a91c8419535ce7, reply_in_thread->om_x100b63fd0a1e7964b4b918046c398dd}
+[08:21|87] AIbot <text> 对的，就是这里  {thread=omt_19a91c8419535ce7, reply_in_thread->om_x100b63fd0a1e7964b4b918046c398dd}
+[08:21|88] Rong DAI 戴荣 <image> [Image: img_v3_0216d_6ac1bb8f-aeb5-4728-af25-50fc8becb3eg]  {thread=omt_19a91b03464edce4, reply_in_thread->om_x100b63fd726b88bcb4845842b1bccae}
+[08:22|89] 杜昔月 <text> 你保留一个 trae 就可以了  {thread=omt_19a91c8419535ce7, reply_in_thread->om_x100b63fd0a1e7964b4b918046c398dd}
+[08:22|90] 杜昔月 <text> @AIbot 卸载就是帮你卸载了 work 以后不会有 traework  {thread=omt_19a91c8419535ce7, reply_in_thread->om_x100b63fd0a1e7964b4b918046c398dd}
+[08:22|91] AIbot <text> 好狠啊  {thread=omt_19a91c8419535ce7, reply_in_thread->om_x100b63fd0a1e7964b4b918046c398dd}
+[08:22|92] AIbot <text> 难道流程是先卸载work，安装trae，然后再删work数据？  {thread=omt_19a91c8419535ce7, reply_in_thread->om_x100b63fd0a1e7964b4b918046c398dd}
+[08:23|93] 杜昔月 <text> 你的本地数据也会在 不删除  {thread=omt_19a91c8419535ce7, reply_in_thread->om_x100b63fd0a1e7964b4b918046c398dd}
+[08:23|94] 杜昔月 <text> 你的数据会迁移完毕之后再删你的这个 traework 应用  {thread=omt_19a91c8419535ce7, reply_in_thread->om_x100b63fd0a1e7964b4b918046c398dd}
+[08:23|95] AIbot <text> 但是现在就怕 code团队水平不行，读取不了work的数据  {thread=omt_19a91c8419535ce7, reply_in_thread->om_x100b63fd0a1e7964b4b918046c398dd}
+[08:23|96] 用户375933 <text> 因为subagent是由主模型显示指派，他没有自主纠错能力，你自定义agent可以写入到loop作为规则来纠偏  {thread=omt_19a907b5ba8d5cb3, reply_in_thread->om_x100b63fcb9044484b1f4132c500f7b9}
+[08:23|97] AIbot <text> 你忘了上个月我的预判了啊，但是我预判是code被work吃掉，哪知道倒反天罡  {thread=omt_19a91c8419535ce7, reply_in_thread->om_x100b63fd0a1e7964b4b918046c398dd}
+[08:23|98] 杜昔月 <text> 这里的表述不够清晰  {thread=omt_19a91c8419535ce7, reply_in_thread->om_x100b63fd0a1e7964b4b918046c398dd}
+[08:23|99] 杜昔月 <text> @AIbot 你迁移成功就是数据过来了  {thread=omt_19a91c8419535ce7, reply_in_thread->om_x100b63fd0a1e7964b4b918046c398dd}
+[08:24|100] AIbot <text> 让勇敢的人，先享受trae  {thread=omt_19a91c8419535ce7, reply_in_thread->om_x100b63fd0a1e7964b4b918046c398dd}
+[08:24|101] AIbot <text> 先等等群里投降派他们的反馈，我还是要坚守一会  {thread=omt_19a91c8419535ce7, reply_in_thread->om_x100b63fd0a1e7964b4b918046c398dd}
+[08:28|102] hhh <post> ![Image](img_v3_0216d_93f8b96c-98a2-4a86-9456-a9aad94a668g) ⏎ 输出又卡死了id：4361095144023977:4d82c960e5e5a96acd7cbaa11d801dbe_6acc90e508e8c2e8793cf3d1.6acc925f08e8c2e8793cf402.6acc925f08e8c2e8793cf3ff:TraeWork CN.3.4.2.no_sid.no_ppe.T(2026/10/12 15:55:11)  {thread=omt_19a912ecae8d9c88}
+[08:30|103] hhh <text> 是最新版，已经20分钟了，停止重发了  {thread=omt_19a912ecae8d9c88, reply_in_thread->om_x100b63fdec950488b24d69626a4862f}
+[08:31|104] 冯梦龙 <post> [【互动送积分】TRAE 全面升级：双端融合，打造全链路开发平台](https://forum.trae.cn/t/topic/183224)  明天截止咯！！积分别错过！！ ⏎ ![Image](img_v3_0216d_849ff576-aa10-48b6-b34d-b1e57d3365eg)  {thread=omt_19a9123af34e5ce0}
+[08:31|105] 飞书用户0409KK <text> 自定义 Agent 只是角色与工具集的封装，不是独立沙盒会话。它依然是当前会话内的子调用，共享顶层对话上下文。编排 Agent 进 Loop，只能保证【审计这一步一定会跑，不会被模型跳关】。 ⏎ 但它没法做信息隔绝：subagent 仍然身处同一会话，顶层全部历史对它可见。Prompt 写 “不要看历史” 只是软指令，长循环上下文腐败时模型容易失效。真正隔绝必须是独立会话 / 独立 API，完全不传入前置对话。 ⏎ 2个AI小子借助模型搞高深对话没什么意义的。去试试吧  {thread=omt_19a907b5ba8d5cb3, reply_in_thread->om_x100b63fcb9044484b1f4132c500f7b9}
+[08:35|106] 卢飞亮 <text> 我今天才升级，先深度评测一下[看]  {thread=omt_19a9123af34e5ce0, reply_in_thread->om_x100b63fde1f0d8b4b4c75b2edf0f1c2}
+[08:36|107] 冯梦龙 <image> [Image: img_v3_0216d_b05cb7b7-a62d-4f87-b184-3b12656ca20g]  {thread=omt_19a9123af34e5ce0, reply_in_thread->om_x100b63fde1f0d8b4b4c75b2edf0f1c2}
+[08:36|108] 冯梦龙 <text> 那你可以顺便把这个活动也参加了  {thread=omt_19a9123af34e5ce0, reply_in_thread->om_x100b63fde1f0d8b4b4c75b2edf0f1c2}
+[08:36|109] 冯梦龙 <text> 哈哈哈  {thread=omt_19a9123af34e5ce0, reply_in_thread->om_x100b63fde1f0d8b4b4c75b2edf0f1c2}
+[08:36|110] 冯梦龙 <text> @卢飞亮 https://forum.trae.cn/t/topic/183245  {thread=omt_19a9123af34e5ce0, reply_in_thread->om_x100b63fde1f0d8b4b4c75b2edf0f1c2}
+[08:39|111] 卢飞亮 <text> 是的都会参加，今天刚好计划做评测，今天评测了SPACE BUNNY，真的有惊喜，期待TRAE会上，或者直接上MINMAX3.1 flash  {thread=omt_19a9123af34e5ce0, reply_in_thread->om_x100b63fde1f0d8b4b4c75b2edf0f1c2}
+[08:45|112] 杜昔月 <text> @AIbot 真的没影响  {thread=omt_19a91c8419535ce7, reply_in_thread->om_x100b63fd0a1e7964b4b918046c398dd}
+[09:01|113] 用户375933 <text> 帅哥，你能换个大模型吗session，sandbox就是由agent管理的  {thread=omt_19a907b5ba8d5cb3, reply_in_thread->om_x100b63fcb9044484b1f4132c500f7b9}
+[09:02|114] 用户375933 <text> 自定义agent不是subagent  {thread=omt_19a907b5ba8d5cb3, reply_in_thread->om_x100b63fcb9044484b1f4132c500f7b9}
+[09:31|115] 王仁君 <text> 哦哦，您这个截图是使用的agent window  {thread=omt_19a91b03464edce4, reply_in_thread->om_x100b63fd726b88bcb4845842b1bccae}
+[09:33|116] 王仁君 <text> @Rong DAI 戴荣 目前可以试下手动指定个模型再试下  {thread=omt_19a91b03464edce4, reply_in_thread->om_x100b63fd726b88bcb4845842b1bccae}
+[09:34|117] 王仁君 <text> 或者换指定模型后让模型帮您总结下对话内容，用于其他对话引用  {thread=omt_19a91b03464edce4, reply_in_thread->om_x100b63fd726b88bcb4845842b1bccae}
+[10:22|118] 哈基宸 <text> <p>没时间参加，如果你获奖了记得把奖项给我[看]@冯梦龙（bushi）</p>  {thread=omt_19a9123af34e5ce0, reply_in_thread->om_x100b63fde1f0d8b4b4c75b2edf0f1c2}
+[10:23|119] 冯梦龙 <text> @哈基宸 整天社群聊天，没时间参加？  {thread=omt_19a9123af34e5ce0, reply_in_thread->om_x100b63fde1f0d8b4b4c75b2edf0f1c2}
+[10:23|120] 冯梦龙 <sticker> [Sticker]  {thread=omt_19a9123af34e5ce0, reply_in_thread->om_x100b63fde1f0d8b4b4c75b2edf0f1c2}
+[10:24|121] 哈基宸 <text> @冯梦龙 有作业啊有上学，没时间，我回的时间可以叫百忙之中抽出来的  {thread=omt_19a9123af34e5ce0, reply_in_thread->om_x100b63fde1f0d8b4b4c75b2edf0f1c2}
+[10:24|122] 卢飞亮 <text> 他是工作人员  {thread=omt_19a9123af34e5ce0, reply_in_thread->om_x100b63fde1f0d8b4b4c75b2edf0f1c2}
+[10:35|123] 哈基宸 <sticker> [Sticker]  {thread=omt_19a93f1e450f5ce0}
+[10:56|124] 用户456741 <text> 不影响  {thread=omt_19a91dff47cfdbef, reply_in_thread->om_x100b63fd1dab90acc4304d56fa5c3cd}
+[12:07|125] 曹翔 <text> 小阳太强了  {thread=omt_19a945bca70edc82, reply_in_thread->om_x100b63f899959cbcb2ef9b3964c0fbe}
+[12:07|126] 曹翔 <text> 我去  {thread=omt_19a945bca70edc82, reply_in_thread->om_x100b63f899959cbcb2ef9b3964c0fbe}
+[12:07|127] 哈基宸 <text> 小阳也想要积分  {thread=omt_19a945bca70edc82, reply_in_thread->om_x100b63f899959cbcb2ef9b3964c0fbe}
+[12:07|128] 哈基宸 <post> ![Image](img_v3_0216d_99096da3-288e-4485-b7c5-6a1c51ccde8g) ⏎ 看完发现了什么:Lark_Emoji_Glance_0:  {thread=omt_19a945bca70edc82}
+[12:09|129] 哈基宸 <post> ![Image](img_v3_0216d_e5ad5cc1-f91a-4a98-af6c-a95dd232069g) ⏎ 我去我竟然有  {thread=omt_19a9452277cf9ce4}
+[12:13|130] 李东阳 <text> 不是每条，是每人[尬笑]  {thread=omt_19a9452277cf9ce4, reply_in_thread->om_x100b63f8907890a8b48d6eadcf93f34}
+[12:13|131] 哈基宸 <text> 66  {thread=omt_19a9452277cf9ce4, reply_in_thread->om_x100b63f8907890a8b48d6eadcf93f34}
+[12:15|132] 用户456741 <text> 对的  {thread=omt_19a9452277cf9ce4, reply_in_thread->om_x100b63f8907890a8b48d6eadcf93f34}
+[12:16|133] 用户456741 <text> 小阳太强了  {thread=omt_19a945bca70edc82, reply_in_thread->om_x100b63f899959cbcb2ef9b3964c0fbe}
+[12:19|134] 用户926318 <text> 竟然没有去参加，太可惜了[流泪]  {thread=omt_19a9452277cf9ce4, reply_in_thread->om_x100b63f8907890a8b48d6eadcf93f34}
+[12:20|135] 用户456741 <text> @用户926318 新活动应该也快有了，可以去参加参加的  {thread=omt_19a9452277cf9ce4, reply_in_thread->om_x100b63f8907890a8b48d6eadcf93f34}
+[12:20|136] 哈基宸 <text> @用户926318 叫@李东阳 多出几个活动[看]  {thread=omt_19a9452277cf9ce4, reply_in_thread->om_x100b63f8907890a8b48d6eadcf93f34}
+[12:20|137] 李东阳 <text> @用户926318 以后还有很多机会的  {thread=omt_19a9452277cf9ce4, reply_in_thread->om_x100b63f8907890a8b48d6eadcf93f34}
+[12:22|138] 哈基宸 <text> 可惜了我的社群激励积分到期了[流泪]  {thread=omt_19a959c2f04f1c80}
+[12:25|139] 哈基宸 <text> 评论区晒用你的TRAE使用技巧，积极参与奖更新啦！  {thread=omt_19a9596ded8f1c9c}
+[12:29|140] 用户456741 <text> 啥  {thread=omt_19a959c2f04f1c80, reply_in_thread->om_x100b63f95e70e8a0b2c81f7716af7fb}
+[12:30|141] 用户456741 <text> 过期了3000积分  {thread=omt_19a959c2f04f1c80, reply_in_thread->om_x100b63f95e70e8a0b2c81f7716af7fb}
+[12:30|142] 用户456741 <text> 哎呀，没有注意时间吧  {thread=omt_19a959c2f04f1c80, reply_in_thread->om_x100b63f95e70e8a0b2c81f7716af7fb}
+[12:30|143] 哈基宸 <image> [Image: img_v3_0216d_b84e3fad-9669-45a8-8390-8053d09e731g]  {thread=omt_19a959c2f04f1c80, reply_in_thread->om_x100b63f95e70e8a0b2c81f7716af7fb}
+[12:32|144] 用户456741 <text> @李东阳 阳姐，后面还会有送衣服的活动嘛，我还没有收集到衣服呢  {thread=omt_19a9452277cf9ce4, reply_in_thread->om_x100b63f8907890a8b48d6eadcf93f34}
+[12:32|145] 高旋 <text> @用户7480338261540 您好，不影响的，最终两端都会汇入同一个全新 TRAE—— 您升级 TraeWork 装上的新 TRAE 和 TraeCode 自动升级后的新 TRAE，是同一个产品（Agent 模式 + IDE 模式）  {thread=omt_19a91d5e92cf5bbe, reply_in_thread->om_x100b63fd17b6c0a4c125fc647e5f705}
+[12:33|146] 哈基宸 <text> <p>你想要吗[看]@用户456741</p>  {thread=omt_19a9452277cf9ce4, reply_in_thread->om_x100b63f8907890a8b48d6eadcf93f34}
+[12:33|147] 高旋 <text> @hhh 收到，我们看看哈  {thread=omt_19a912ecae8d9c88, reply_in_thread->om_x100b63fdec950488b24d69626a4862f}
+[12:33|148] 用户456741 <text> 不知道啊  {thread=omt_19a9452277cf9ce4, reply_in_thread->om_x100b63f8907890a8b48d6eadcf93f34}
+[12:33|149] 哈基宸 <text> 应该会  {thread=omt_19a9452277cf9ce4, reply_in_thread->om_x100b63f8907890a8b48d6eadcf93f34}
+[12:34|150] 用户456741 <text> 我记得之前是有活动送过的，但是很久了  {thread=omt_19a9452277cf9ce4, reply_in_thread->om_x100b63f8907890a8b48d6eadcf93f34}
+[12:35|151] 哈基宸 <text> 比较早了那个活动  {thread=omt_19a9452277cf9ce4, reply_in_thread->om_x100b63f8907890a8b48d6eadcf93f34}
+[12:35|152] 用户456741 <text> @哈基宸 哈基宸你留着吧，你都没有呢  {thread=omt_19a9452277cf9ce4, reply_in_thread->om_x100b63f8907890a8b48d6eadcf93f34}
+[12:36|153] 哈基宸 <text> 没有两个衣服awa  {thread=omt_19a9452277cf9ce4, reply_in_thread->om_x100b63f8907890a8b48d6eadcf93f34}
+[12:36|154] 用户456741 <text> [看]  {thread=omt_19a9452277cf9ce4, reply_in_thread->om_x100b63f8907890a8b48d6eadcf93f34}
+[12:36|155] 用户456741 <text> [看]你确定？  {thread=omt_19a9452277cf9ce4, reply_in_thread->om_x100b63f8907890a8b48d6eadcf93f34}
+[12:55|156] 哈基宸 <post> 不用之前的sd插件也能直接生成视频转换表情包！ ⏎ ![Image](img_v3_0216d_4c692325-3a51-4e3d-a0ee-4dc9d9b6c22g)  {thread=omt_19a9500a92cf9cba}
+[13:04|157] 哈基宸 <text> https://weixin.qq.com/sph/A5Z0nXfajE ⏎ 被唱歌耽误了的Vibe人/胡彦斌 ⏎ 胡彦斌《月光》舞台背后的创意巧思，揭秘！✨ ⏎ 借助 TRAE Vibe Coding，通过摄像头捕捉动作、实时触发不同音色，再融入中国传统五声音阶「宫商角徵羽」，让舞台上的每一个动作，都能化作美妙旋律！  {thread=omt_19a9522c13cf9c92}
+[13:35|158] 崔浩宇 <text> 啊？  {thread=omt_19a96ac75ace9cb3, reply_in_thread->om_x100b63fa6e2a40b8b1ff400b0f5058e}
+[13:35|159] 崔浩宇 <text> 一折！  {thread=omt_19a96ac75ace9cb3, reply_in_thread->om_x100b63fa6e2a40b8b1ff400b0f5058e}
+[13:35|160] 崔浩宇 <text> 咋这么便宜呢[新月脸]  {thread=omt_19a96ac75ace9cb3, reply_in_thread->om_x100b63fa6e2a40b8b1ff400b0f5058e}
+[13:35|161] 崔浩宇 <text> [新月脸]  {thread=omt_19a96ac75ace9cb3, reply_in_thread->om_x100b63fa6e2a40b8b1ff400b0f5058e}
+[13:35|162] 哈基宸 <post> 我去 才发现seed是1折 ！！！ ⏎ ![Image](img_v3_0216d_0cda43b2-b771-4f47-94ad-2fb3c490e73g)  {thread=omt_19a96ac75ace9cb3}
+[13:36|163] 崔浩宇 <text> 用完不烧心（bushi）  {thread=omt_19a96ac75ace9cb3, reply_in_thread->om_x100b63fa6e2a40b8b1ff400b0f5058e}
+[13:46|164] 用户380212 <text> 你猜为啥这么便宜  {thread=omt_19a96ac75ace9cb3, reply_in_thread->om_x100b63fa6e2a40b8b1ff400b0f5058e}
+[13:46|165] 用户380212 <text> 自家模型当然得便宜啦[坏笑]  {thread=omt_19a96ac75ace9cb3, reply_in_thread->om_x100b63fa6e2a40b8b1ff400b0f5058e}
+[13:49|166] 用户380212 <text> 666，禁止官方人员参赛  {thread=omt_19a945bca70edc82, reply_in_thread->om_x100b63f899959cbcb2ef9b3964c0fbe}
+[14:04|167] 大毛 <text> 你居然才发现，哈哈哈哈， 9 月就是，一直延长到现在  {thread=omt_19a96ac75ace9cb3, reply_in_thread->om_x100b63fa6e2a40b8b1ff400b0f5058e}
+[14:10|168] 哈基宸 <sticker> [Sticker]  {thread=omt_19a962ae148f5c95}
+[14:27|169] 卢飞亮 <text> 有大佬尝试过用TRAE配合国内的大模型去按opus5.5的方式去做视频吗？  {thread=omt_19a9669c8d4e1c8a}
+[14:33|170] 邱息 <text> 但是不如Opus5.5  {thread=omt_19a9669c8d4e1c8a, reply_in_thread->om_x100b63faab9738b0b26d735225d1377}
+[14:33|171] 邱息 <text> opus5.5最好还是配Claude 桌面版  {thread=omt_19a9669c8d4e1c8a, reply_in_thread->om_x100b63faab9738b0b26d735225d1377}
+[14:33|172] 邱息 <text> 之前k3可以剪视频  {thread=omt_19a9669c8d4e1c8a, reply_in_thread->om_x100b63faab9738b0b26d735225d1377}
+[14:34|173] 卢飞亮 <text> 而且现在最好用的是直接用剪映AI  {thread=omt_19a9669c8d4e1c8a, reply_in_thread->om_x100b63faab9738b0b26d735225d1377}
+[14:34|174] 邱息 <text> 当时DeepSeek还不支持视觉  {thread=omt_19a9669c8d4e1c8a, reply_in_thread->om_x100b63faab9738b0b26d735225d1377}
+[14:34|175] 卢飞亮 <text> 剪视频比较简单了，不用K3，我用DSH4.1+TRAE都能实现  {thread=omt_19a9669c8d4e1c8a, reply_in_thread->om_x100b63faab9738b0b26d735225d1377}
+[14:34|176] 邱息 <image> [Image: img_v3_0216d_3abe5742-f916-476c-ae3d-89baf8cca31g]  {thread=omt_19a978c35c8f5b95}
+[14:36|177] 卢飞亮 <text> opus5.5+CC做视频实际是通过代码+调用工具实现的，当然抖音展示的大部分实际是跑了N个版本，修改迭代的终版，但是起码说明这个方案是能跑通，就想看看是否有大佬尝试过用TRAE+国产模型去跑通过做平替  {thread=omt_19a9669c8d4e1c8a, reply_in_thread->om_x100b63faab9738b0b26d735225d1377}
+[14:37|178] 邱息 <text> 等之后的新模型出来 估计也会做相对的优化  {thread=omt_19a9669c8d4e1c8a, reply_in_thread->om_x100b63faab9738b0b26d735225d1377}
+[14:37|179] 邱息 <text> 毕竟火了  {thread=omt_19a9669c8d4e1c8a, reply_in_thread->om_x100b63faab9738b0b26d735225d1377}
+[14:37|180] 邱息 <text> 能搞是能搞的 但是为什么是Opus5.5出来之后才开始火  {thread=omt_19a9669c8d4e1c8a, reply_in_thread->om_x100b63faab9738b0b26d735225d1377}
+[14:37|181] 邱息 <text> 导致这方面能做得很好  {thread=omt_19a9669c8d4e1c8a, reply_in_thread->om_x100b63faab9738b0b26d735225d1377}
+[14:37|182] 邱息 <text> 应该是opus5.5对这方面有优化  {thread=omt_19a9669c8d4e1c8a, reply_in_thread->om_x100b63faab9738b0b26d735225d1377}
+[14:38|183] 卢飞亮 <text> 但是是能跑通的，需要SKILL+知识库去做支撑，应该能做出不错的效果  {thread=omt_19a9669c8d4e1c8a, reply_in_thread->om_x100b63faab9738b0b26d735225d1377}
+[14:38|184] 邱息 <text> 通过特定的skill应该是能做的  {thread=omt_19a9669c8d4e1c8a, reply_in_thread->om_x100b63faab9738b0b26d735225d1377}
+[14:38|185] 邱息 <text> 之前K3，还有之前的千问，好像都能做这种方面的东西  {thread=omt_19a9669c8d4e1c8a, reply_in_thread->om_x100b63faab9738b0b26d735225d1377}
+[14:38|186] 卢飞亮 <text> 我用SBP做了几次，还是有点差强人意  {thread=omt_19a9669c8d4e1c8a, reply_in_thread->om_x100b63faab9738b0b26d735225d1377}
+[14:38|187] 卢飞亮 <text> SPACE-BUNNY  {thread=omt_19a9669c8d4e1c8a, reply_in_thread->om_x100b63faab9738b0b26d735225d1377}
+[14:38|188] 邱息 <text> 不过Claude在这方面优化  {thread=omt_19a9669c8d4e1c8a, reply_in_thread->om_x100b63faab9738b0b26d735225d1377}
+[14:39|189] 卢飞亮 <text> 对，工具也是关键  {thread=omt_19a9669c8d4e1c8a, reply_in_thread->om_x100b63faab9738b0b26d735225d1377}
+[14:40|190] 卢飞亮 <text> 但这个可以通过SKILL去抹平差距，还有就是CC+OPUS厉害在于长程任务，这个国内的只能通过拆分去完成  {thread=omt_19a9669c8d4e1c8a, reply_in_thread->om_x100b63faab9738b0b26d735225d1377}
+[15:06|191] 卢飞亮 <post> ![Image](img_v3_0216d_470110a9-dd99-46c0-827b-e61a24329a2g) ⏎ 新版没有QWEN3.8-FALSH？  {thread=omt_19a97fa78a0f9c9e}
+[15:37|192] 用户926318 <text> @李东阳 @哈基宸 @用户456741 好的谢谢，后面有活动我会积极参加的[看]  {thread=omt_19a9452277cf9ce4, reply_in_thread->om_x100b63f8907890a8b48d6eadcf93f34}
+[01:11|193] hhh <post> @高旋 4361095144023977:17b3f06d6615c4b3a3f465e23b8ad7c3_6acc52b708e8c2e8793cef9a.6acd811a08e8c2e8793cf7db.6acd811a08e8c2e8793cf7d2:TraeWork CN.3.4.2.no_sid.no_ppe.T(2026/10/13 08:53:46) ⏎ 4361095144023977:7c6c7bdcf5d822e3babe2c509f691bca_6acc52b708e8c2e8793cef9a.6acd811a08e8c2e8793cf7d8.6acd811a08e8c2e8793cf7d3:TraeWork CN.3.4.2.no_sid.no_ppe.T(2026/10/13 08:53:46) ⏎ ![Image](img_v3_0216e_8668c336-d…[TRUNC]  {thread=omt_19a912ecae8d9c88, reply_in_thread->om_x100b63fdec950488b24d69626a4862f}
+[01:23|194] May <text> 数据迁移到哪里了，我打开之后找不到原来的对话框  {thread=omt_19a978c35c8f5b95, reply_in_thread->om_x100b63fb4e6a24a4c39ff277460741c}
+[01:36|195] 邱息 <text> @May 在trae的agent模式下  {thread=omt_19a978c35c8f5b95, reply_in_thread->om_x100b63fb4e6a24a4c39ff277460741c}
+[01:54|196] May <post> ![Image](img_v3_0216e_47f41252-9e46-44ba-af73-1055a820e40g) ⏎ 是这里吗  {thread=omt_19a978c35c8f5b95, reply_in_thread->om_x100b63fb4e6a24a4c39ff277460741c}
+[01:55|197] May <text> 早上起来天都塌了  {thread=omt_19a978c35c8f5b95, reply_in_thread->om_x100b63fb4e6a24a4c39ff277460741c}
+[01:56|198] May <text> 非常感谢我找到了，更新完好不适应[捂脸]  {thread=omt_19a978c35c8f5b95, reply_in_thread->om_x100b63fb4e6a24a4c39ff277460741c}
+[01:56|199] 赵梦潇 <text> 完了，积极奖我也没混上  {thread=omt_19a9452277cf9ce4, reply_in_thread->om_x100b63f8907890a8b48d6eadcf93f34}
+[02:15|200] 邱息 <text> 右上角的  {thread=omt_19a978c35c8f5b95, reply_in_thread->om_x100b63fb4e6a24a4c39ff277460741c}
+[02:41|201] 用户352661 <text> @杜昔月 我原来6g的数据牵过去直接没了就剩几百M了，好几个号的数据都丢了  {thread=omt_19a91c8419535ce7, reply_in_thread->om_x100b63fd0a1e7964b4b918046c398dd}
+[02:54|202] 杜昔月 <text> @用户352661 @赵娇娇 可以看一下这个问题  {thread=omt_19a91c8419535ce7, reply_in_thread->om_x100b63fd0a1e7964b4b918046c398dd}
+[03:00|203] 赵娇娇 <text> <p>work的数据吗？你是从work哪个版本迁移的？本地数据没迁过去吗？</p>  {thread=omt_19a91c8419535ce7, reply_in_thread->om_x100b63fd0a1e7964b4b918046c398dd}
+[03:15|204] 用户352661 <text> @赵娇娇 之前也是work最新版，迁移只保留了登录账号的，其他账户的都丢了  {thread=omt_19a91c8419535ce7, reply_in_thread->om_x100b63fd0a1e7964b4b918046c398dd}
+[04:18|205] 高旋 <post> @卢飞亮 您好，有的呀，您重启客户端在看看 ⏎ ![Image](img_v3_0216e_a1e446c7-9e65-48f7-b080-0dcd93da924g)  {thread=omt_19a97fa78a0f9c9e, reply_in_thread->om_x100b63fb38274ca8b32862bb735b986}
+
+===== CHAT: 任务令异常订单影响分析Agent沟通群 | group | oc_81d4242ac0d1f01115a616d1be0bf5c1 | msgs=71 =====
+[00:17|0] 何荣福 <text> @牛振东 我已经将系统代码文件上传到了：\\Sop-server\user有权限-每周一12点清空\任务令异常分析Agent 中，文件名称：WOAMIA.zip
+[00:28|1] 何荣福 <text> <p>https://inovance.feishu.cn/slides/SoAsskeZJlKmw7dgsq5clnUWnte?from=auth_notice&hash=8f2fb22512fc0c4e3c5f37bc67c71b64</p>
+[00:30|2] 何荣福 <text> <p>https://inovance.feishu.cn/file/YwCBbekdZoxthZxJXRecahcPnNc?from=auth_notice&hash=a56b28041af45e44f8018e11cb94feac</p>
+[00:37|3] 何荣福 <text> @牛振东 我今天会更新一版这个原型和前后端代码 - 由于以前的原型中没有加入上线前和上线后异常的内容，新的代码会补上。我尽量今天下午再次上传一下。
+[00:39|4] 牛振东 <text> 好的，方案原型大致确定了，代码也可以确定一版了
+[02:00|5] 何荣福 <post> @刘宏宇 @牛振东    鹏飞说： ⏎ ![Image](img_v3_0216d_3622baf5-79d7-4ea6-b42a-1b2d262bd3fg)
+[02:01|6] 朱鹏飞 <post> 何老师，履行订单关联到到货需求单，其外键是这个字段： ⏎ ![Image](img_v3_0216d_9cf5e481-af3e-40a7-a97b-9c819929635g) ⏎ 关联到货需求单的ID
+[02:04|7] 沈霜 <post> @何荣福 @何洁 @刘宏宇 @牛振东 各位：我约了济南订单异常AI项目每日列会，每天早上09:00-09:30，位置在B5-2楼现场办公区，对齐一下每日的进度和问题，从明天早上开始 ⏎ ![Image](img_v3_0216d_79c72f52-6eab-4966-80dc-beda267ca45g)
+[02:09|8] 刘宏宇 <text> @朱鹏飞 朱工，上周六晚上和供应商那边的孙工海宁沟通，说目前OMS里任务令能直接关联到履行订单，如果这样的话我们还需要到货需求单吗
+[02:11|9] 刘宏宇 <text> @马海峰 马老师，会议上孙老师展示的那个页面帮忙截下图发群里吧，我们看看我们都需要哪几个字段
+[02:16|10] 朱鹏飞 <text> @刘宏宇 需要，订单统筹人员是在到货需求单定义的，履行订单得关联过去  {quote->刘宏宇:@朱鹏飞 朱工，上周六晚上和供应商那边的孙工海宁沟通，说目前OMS里任务令能直接关联到履行订单，如果这样的话我们还需要到}
+[02:26|11] 马海峰 <text> 一、履行订单 ⏎ 1、履行订单头信息： ⏎ 履行订单编号、履行订单类型、履行订单节点、订单统筹、产品统筹、履行中心名称、交易主体、客户名称 ⏎ 2、履行订单行信息： ⏎ 2.1、履行订单行号、物料编码 ⏎ 2.2、履行订单行信息-三线信息： ⏎ 需求线：自制上线日期、入库日期、发货日期、到货日期 ⏎ 承诺线：自制上线日期、入库日期、发货日期、到货日期 ⏎ 达成线：自制上线日期、入库日期、发货日期、到货日期 ⏎ 二、到货需求信息 ⏎ 到货需求单号、到货需求类型、项目编码、项目名称、商务人员信息、销售员姓名
+[02:26|12] 马海峰 <text> 让他们自己看下 要哪些
+[02:26|13] 马海峰 <text> 上次我按照我的理解这些，下午跟业务侧沟通可以聊下
+[02:27|14] 刘宏宇 <text> 我想看下系统里那个表单里都有啥，包含涉及到任务令的那些
+[02:28|15] 马海峰 <image> [Image: img_v3_0216d_ed1fd427-7ec3-46cc-9d44-af4205c5f7bg]
+[02:28|16] 马海峰 <text> 供需匹配表看不出来 供需匹配主要给关联关系，展示给业务还是要履行订单和到货需求对象上
+[02:29|17] 马海峰 <text> 这个界面截不全的 列表
+[02:29|18] 马海峰 <image> [Image: img_v3_0216d_e4e7b027-3730-4156-99b0-164f0bd40d7g]
+[02:29|19] 马海峰 <image> [Image: img_v3_0216d_3f41f9f3-9281-4a38-a1c6-c3926a03202g]
+[07:18|20] 何洁 <text> 有承诺啥时候上线？
+[07:18|21] 何洁 <text> @马海峰  IOA 订单项目组现在就在做吗？
+[07:21|22] 马海峰 <text> IOA应该是在11月份吧
+[07:21|23] 何洁 <text> 谁在做？
+[07:22|24] 何洁 <text> 那我知道了
+[07:22|25] 马海峰 <text> 跟IOC的不是一个东西
+[07:22|26] 何洁 <text> 所以是OMS在做？
+[07:22|27] 马海峰 <text> IOA是OMS自己的一个可视模块
+[07:22|28] 何洁 <text> IOC 这边是没有做的
+[07:58|29] 马海峰 <text> 有没有按照承诺日期上线，有没有按照承诺入库日期入库，生产过程中异常暴露出来 ⏎ 周例会、月例会的时候正常上线未正常上线的有多少，可以展现出来
+[09:28|30] 马海峰 <text> <p>AI纪要简单改了下@何荣福</p>
+[09:28|31] 马海峰 <file> <file key="file_v3_0016d_732d8a3f-afcc-4b93-8042-a01d922bdb2g" name="任务令执行异常联动订单履行提效AI项目业务侧讨论.docx"/>
+[09:43|32] 何荣福 <text> 这个纪要还可以啊！我看记录还是准确的 @马海峰
+[09:43|33] 何荣福 <post> 我截了杨威共享给咱们的Excel图： ⏎ ![Image](img_v3_0216d_40de444f-29ca-496e-9439-4da1126aee9g)
+[09:45|34] 马海峰 <text> <p>飞书这个可以的，屡试不爽</p>
+[09:46|35] 牛振东 <text> 功能形态与交互方式 ⏎ • 载体：智能体将作为独立工具或嵌入 OMS 的辅助功能，消息推送至飞书。 ⏎ • 核心功能： ⏎ a. 主动预警：识别重大异常（如未按时上线、未按时入库）并推送给订单统筹。 ⏎ b. 智能查询：支持自然语言查询（如输入订单号、工单号），返回异常详情、影响链及预计延误时间。 ⏎ c. 统计报表：按周/月维度输出异常统计（如延期上线台数、异常分布），支持管理复盘。 ⏎ d. 协同闭环：支持一键拉群、一键会议，推动异常快速解决。
+[09:46|36] 牛振东 <text> 智能查询，一期要做吗？  {quote->牛振东:功能形态与交互方式 ⏎ • 载体：智能体将作为独立工具或嵌入 OMS 的辅助功能，消息推送至飞书。 ⏎ • 核心功能： }
+[09:47|37] 马海峰 <text> 这个可以做好点干掉OMS的IOA
+[09:47|38] 马海峰 <text> 我建议可以做下 数据都有的情况下 更能调起业务的激情
+[09:47|39] 刘宏宇 <text> @牛振东 做呀，不然对话问啥  {quote->牛振东:智能查询，一期要做吗？}
+[09:48|40] 马海峰 <text> <p>晚上还有两个会 一直到10点，天天忙成狗了</p>
+[09:48|41] 马海峰 <text> 明天我抽空 写下需求文档
+[09:48|42] 牛振东 <text> @马海峰 马老师，你这太激情了  {quote->马海峰:这个可以做好点干掉OMS的IOA}
+[09:49|43] 牛振东 <text> @刘宏宇 就固定模板询问  {quote->刘宏宇:@牛振东 整简单点，就执行固定sql就行，把订单的状态按照模板输出就完事}
+[09:49|44] 马海峰 <text> @刘宏宇 宏宇 星爸爸呢
+[09:49|45] 刘宏宇 <text> @牛振东 整简单点，就执行固定sql就行，把订单的状态按照模板输出就完事  {quote->牛振东:智能查询，一期要做吗？}
+[09:49|46] 马海峰 <text> 尼玛 你请客我就去 班可以不上
+[09:49|47] 牛振东 <text> @马海峰 [赞]牛，这晚上不得去按一按  {quote->马海峰:<p>晚上还有两个会 一直到10点，天天忙成狗了</p>}
+[09:50|48] 马海峰 <text> <p>不急 今年安排好就行</p>
+[09:50|49] 马海峰 <text> 今年不行 明年
+[09:50|50] 刘宏宇 <text> @马海峰 等我给你点外卖，我这上班的路上啥都没有  {quote->马海峰:@刘宏宇 宏宇 星爸爸呢}
+[09:51|51] 刘宏宇 <text> 那必须最近就给马老师安排好
+[09:52|52] 牛振东 <text> 遗留问题 & 潜在风险 ⏎ • ⚠️ 风险点：数据质量与实时性。MES 系统操作滞后可能导致预警信息晚于实际异常发生时间，影响“事前/事中”干预效果。需与济南工厂团队深入沟通规范扫码流程。 ⏎ • ❓ 待确认：异常延误时间的量化计算模型。目前缺乏各工序异常处理的标准基线，导致无法精确计算“预计延误天数”，一期暂以定性预警为主。 ⏎ • � 暂缓事项：OEM 模式（标准品）的异常驱动逻辑，待一期验证成功后再行规划。
+[09:53|53] 牛振东 <text> 还需再确认下，济南的业务模式，是否存在完工后集中扫码场景？  {quote->牛振东:遗留问题 & 潜在风险 ⏎ • ⚠️ 风险点：数据质量与实时性。MES 系统操作滞后可能导致预警信息晚于实际异常发生时间}
+[09:54|54] 何荣福 <text> Qwen-MAX-3.8, 我交了不少钱了 - 为啥还是这么慢？一天了，系统代码还没有跑完！
+[09:55|55] 刘宏宇 <text> @牛振东 我看也没有啊，实在不行用云哥那边的scada数据看看能采到吗  {quote->牛振东:还需再确认下，济南的业务模式，是否存在完工后集中扫码场景？}
+[09:56|56] 何荣福 <text> 已经在跑了
+[09:56|57] 何荣福 <text> 今天的会议纪要
+[09:56|58] 牛振东 <text> @何荣福 方案做的详细，AI得一点点理解[笑哭]，何老师，跑个有价值的，方案确定好后再生成，比如今天发的会议纪要  {quote->何荣福:Qwen-MAX-3.8, 我交了不少钱了 - 为啥还是这么慢？一天了，系统代码还没有跑完！}
+[09:57|59] 牛振东 <text> 啊，那还慢啊
+[09:57|60] 牛振东 <text> 那看来还是钱不到位 [笑哭]
+[09:58|61] 何荣福 <post> 会员级别已经$68了！ ⏎ ![Image](img_v3_0216d_6f0c7519-237c-4ac6-9d17-17c4783552bg)
+[09:59|62] 牛振东 <text> @刘宏宇 可以看看过站，得确定下产线、统计工序， ⏎ @姜志俊 咱这个重大异常影响分析，先在哪几条线应用？  {quote->刘宏宇:@牛振东 我看也没有啊，实在不行用云哥那边的scada数据看看能采到吗}
+[10:01|63] 刘宏宇 <text> @牛振东 我们所有的过站都要，然后根据时间排个序，用户查的时候才能知道这个订单做到哪里了  {quote->牛振东:@刘宏宇 可以看看过站，得确定下产线、统计工序， ⏎ @姜志俊 咱这个重大异常影响分析，先在哪几条线应用？}
+[10:03|64] 牛振东 <text> 也对，有一单一台的情况
+[10:03|65] 牛振东 <text> @刘宏宇 要这么细吗？[笑哭]  ⏎ 知道订单做了多少了不就行了吗？还要具体到WIP的？  {quote->刘宏宇:@牛振东 我们所有的过站都要，然后根据时间排个序，用户查的时候才能知道这个订单做到哪里了}
+[10:04|66] 刘宏宇 <text> 这不都是1
+[10:04|67] 刘宏宇 <image> [Image: img_v3_0216d_493887cf-18ab-402d-9ff6-6eeaa855385g]
+[10:06|68] 牛振东 <text> 嗯，像大明湖1线就都是1，那确实得取所有工序了。 ⏎ 得确认线体？确认线体的工艺路线？标记哪些有过站？
+[10:07|69] 刘宏宇 <text> 不要工艺路线，就按过站时间排个序，给用户看最新的那个时间就行
+[10:08|70] 牛振东 <text> 非专业人员，给个最新时间，也看不懂加工到哪了[笑哭]还需要多长时间完工
+
+===== CHAT: 蔺雨桐 | p2p | oc_5feb561ecccbef99c8d74022665337a6 | msgs=68 =====
+[05:53|0] 蔺雨桐 <text> [呲牙]表单 加个字段
+[05:53|1] 蔺雨桐 <post> 东哥，我那个账号加个权限呗 ⏎ ![Image](img_v3_0216d_5fa1b331-16de-4367-bbc5-202a15e2592g) ⏎ 这两个菜单
+[05:57|2] 牛振东 <text> 加好了
+[05:58|3] 蔺雨桐 <text> [呲牙]
+[06:16|4] 蔺雨桐 <text> 是一直追加任务令吗，还是不在最近几天内就给删了
+[06:16|5] 蔺雨桐 <text> 东哥，任务令管理里面，任务令是怎么设计的
+[06:25|6] 牛振东 <post> 1. 每次定时任务，同步最近params天的任务令； ⏎ 2. mes有 任务令管理有，不处理 ⏎ 3. mes有 任务令管理没有，新增， ⏎ 4. mes没有 任务令管理有， ⏎   a. 任务令状态=待检测，删除 ⏎   b. 任务令状态!=待检测，不处理
+[06:27|7] 蔺雨桐 <text> 但是注释里有 窗口外历史工单不受影响，那不就是永远只增不减了吗。。
+[06:28|8] 牛振东 <text> 确实是有这个问题，
+[06:29|9] 牛振东 <text> 你知道，任务令删除会删最近多久的吗
+[06:29|10] 蔺雨桐 <text> 感觉有点怪，那mes任务完成了，没用咱们这个检测，那数据不就成垃圾数据了。。
+[06:30|11] 蔺雨桐 <text> 只有任务令调整的时候任务令会有删除，其余时候，任务令关单了就
+[06:30|12] 牛振东 <text> 这个问题发生在第一次：任务完成的，不做同步，后续的任务令都要走我们的检测  {quote->蔺雨桐:感觉有点怪，那mes任务完成了，没用咱们这个检测，那数据不就成垃圾数据了。。}
+[06:30|13] 蔺雨桐 <text> 任务令为啥会删除。。
+[06:30|14] 蔺雨桐 <text> 不会删除啊
+[06:31|15] 蔺雨桐 <text> 是有删的，任务令调整，
+[06:31|16] 牛振东 <text> 是的，我遇到过任务令被删除的情况
+[06:31|17] 蔺雨桐 <text> 他们看今天有延误 做不完，排产员就调到明天了
+[06:32|18] 牛振东 <text> 对，既然有调整，咱们系统就要识别到
+[06:34|19] 蔺雨桐 <text> 后续的任务令都要走我们的检测 ⏎ 这里肯定得有例外情况吧。。现场没走咱们，mes过站了，那那个任务令不就一直在咱们系统里留存了吗。。。
+[06:35|20] 牛振东 <text> 应该不会，这种检测必须有人工复核，如果没走那就人工补录
+[06:36|21] 蔺雨桐 <text> [OK]了解
+[06:38|22] 蔺雨桐 <image> [Image: img_v3_0216d_4f032320-c967-4511-90b1-04467c4a1adg]
+[06:38|23] 蔺雨桐 <image> [Image: img_v3_0216d_9147a7a1-4191-4096-b1c8-aef44a5e12bg]
+[06:38|24] 蔺雨桐 <text> 这里改完了
+[06:38|25] 牛振东 <text> 最新代码合并到main
+[06:39|26] 牛振东 <text> 合并了
+[06:39|27] 蔺雨桐 <text> [呲牙]这不等东哥审批那吗，真我自己审批吗
+[06:41|28] 蔺雨桐 <post> ![Image](img_v3_0216d_6ac8024b-8140-4aec-b9b5-7a962a5e237g) ⏎ 加了个字段，控制是否同步任务令哈
+[06:42|29] 牛振东 <text> 字段是从Online表单加的，还是数据库加的？
+[06:43|30] 蔺雨桐 <text> 同步了
+[06:43|31] 蔺雨桐 <text> online 加字段，我没搞明白咋能直接赋默认值
+[06:43|32] 牛振东 <text> 点了同步数据库吗？
+[06:43|33] 蔺雨桐 <text> 数据库加的字段，Online表单改的表格
+[06:44|34] 蔺雨桐 <text> ....
+[06:44|35] 牛振东 <text> 你看看
+[06:44|36] 牛振东 <text> [笑哭]这个同步，把几个时间字段默认值搞没了
+[06:44|37] 蔺雨桐 <text> [呲牙]验证过了没问题
+[06:45|38] 蔺雨桐 <text> 不对。。。
+[06:45|39] 蔺雨桐 <text> 没了。。。。
+[06:45|40] 蔺雨桐 <text> ！！！
+[06:45|41] 蔺雨桐 <text> 刚才没刷新
+[06:46|42] 蔺雨桐 <text> 没想到他还能把有的清了。。。
+[06:46|43] 牛振东 <text> Online表单有一些坑
+[06:46|44] 蔺雨桐 <text> 我本地就没搞明白咋加默认值用这个表单  {quote->牛振东:Online表单有一些坑}
+[06:46|45] 蔺雨桐 <post> ![Image](img_v3_0216d_ef5428c4-c50b-4fb5-a436-e015434bf2cg) ⏎ 我手动加一下，幸亏截了个图
+[06:47|46] 蔺雨桐 <text> [泪奔]
+[06:47|47] 牛振东 <text> 哈哈[笑哭]，没事，我踩过的坑
+[06:50|48] 蔺雨桐 <post> ![Image](img_v3_0216d_7c753f0e-61b4-455a-a7dd-5a890745b5cg) ⏎ 加回去了
+[06:51|49] 牛振东 <text> 这里，前3条先改  {quote->蔺雨桐:[Image: img_v3_0216d_9147a7a1-4191-4096-b1c8-aef44a5e12bg]}
+[06:52|50] 蔺雨桐 <text> 其余的我改完了呀[愉快]
+[06:52|51] 蔺雨桐 <text> ai的石峰改应该是
+[06:52|52] 蔺雨桐 <text> emmm前三条是啥意思
+[06:53|53] 蔺雨桐 <text> [惊呆]
+[06:53|54] 牛振东 <text> 也你改吧，页面你是大管家
+[06:53|55] 牛振东 <text> 主要就是页面做些调整
+[06:55|56] 蔺雨桐 <sticker> [Sticker]
+[06:55|57] 蔺雨桐 <text> [笑哭]得加钱
+[06:55|58] 牛振东 <text> 晚上别走[满月脸]加钟
+[06:59|59] 蔺雨桐 <text> [泪奔]这是加班还是加钟哈哈  {quote->牛振东:晚上别走[满月脸]加钟}
+[08:01|60] 牛振东 <text> <p>OpenAI Chat Completions 格式</p><p>https://token-plan.cn-beijing.maas.aliyuncs.com/compatible-mode/v1</p><p>qwen3.8-max</p>
+[08:05|61] 蔺雨桐 <text> 可以了[呲牙]，我怎么能看到自己用量，只能让宇哥看是吧  {quote->牛振东:<p>OpenAI Chat Completions 格式</p><p>https://token-plan.cn-be}
+[08:06|62] 牛振东 <text> 10w应该够用的
+[08:06|63] 牛振东 <text> 是的，只能他那边看
+[08:09|64] 蔺雨桐 <text> 让我挥霍一下 ，[呲牙]
+[08:10|65] 蔺雨桐 <text> 那产出有点多了可
+[08:10|66] 牛振东 <text> 你要能用10w，说明你成仙了
+[08:12|67] 牛振东 <text> 有啥小东西都可以做做， ⏎ 登记在这， ⏎ https://inovance.feishu.cn/wiki/LYGSwjtODi8iKakLVxRcjVa2nDe?table=tbleBsSYSqM0sJJ2
+
+===== CHAT: 大传动高压测试上电前接线自互检群 | group | oc_3a5089c00ab83c544f8b8cfeb6f4ec3e | msgs=65 =====
+[01:45|0] 文亚鑫 <text> 济南工厂大传动高压测试上电前自检通报10月12日 ⏎ 一、项目名称:  南京库法特 ⏎ 二、SN:01283116PU710003（第1台） ⏎ 三、自检内容 ⏎  1、变压器接地线，高压线输入、输出已接好 ⏎  2、线缆相序正确且紧固正常 ⏎ 以上内容已自检完成请复检确认无误批准上电
+[01:46|1] 文亚鑫 <text> 济南工厂大传动高压测试上电前自检通报10月12日 ⏎ 一、项目名称:  约克 ⏎ 二、SN:01283227PUA10000（第2台） ⏎ 三、自检内容 ⏎  1、变压器接地线，高压线输入、输出已接好 ⏎  2、线缆相序正确且紧固正常 ⏎ 以上内容已自检完成请复检确认无误批准上电
+[01:46|2] 文亚鑫 <image> [Image: img_v3_0216d_d1043711-b487-4f74-a994-fed1116c935g]
+[01:46|3] 文亚鑫 <image> [Image: img_v3_0216d_fd3b7bec-2467-457e-9dce-894a1d79657g]
+[01:46|4] 文亚鑫 <image> [Image: img_v3_0216d_3a2bdd50-122d-40db-98c1-a7f893fe9f7g]
+[01:46|5] 文亚鑫 <image> [Image: img_v3_0216d_70bf192a-adcf-4c2e-9bf8-88a1ea69bc2g]
+[01:46|6] 文亚鑫 <image> [Image: img_v3_0216d_22e91c8d-0658-4c6a-943d-82e9900f50ag]
+[01:46|7] 文亚鑫 <image> [Image: img_v3_0216d_e053aedf-7e9b-4fb8-94a2-d97ad245002g]
+[01:52|8] 蒲旭东 <text> 济南工厂大传动高压测试上电前自检通报10月12日 ⏎ 一、项目名称:  天津众汇 ⏎ 二、SN:01283197PUA10013（第3台） ⏎ 三、自检内容 ⏎  1、变压器接地线，高压线输入、输出已接好 ⏎  2、线缆相序正确且紧固正常 ⏎ 以上内容已自检完成请复检确认无误批准上电
+[01:53|9] 蒲旭东 <text> 济南工厂大传动高压测试上电前自检通报10月12日 ⏎ 一、项目名称: 新疆奥特美 ⏎ 二、SN:01283364PUA10000（第4台） ⏎ 三、自检内容 ⏎  1、变压器接地线，高压线输入、输出已接好 ⏎  2、线缆相序正确且紧固正常 ⏎ 以上内容已自检完成请复检确认无误批准上电
+[01:53|10] 蒲旭东 <image> [Image: img_v3_0216d_370ce24e-bd12-4dc4-b27a-a4249791b52g]
+[01:53|11] 蒲旭东 <image> [Image: img_v3_0216d_9f8972a8-45a2-4ba7-9ac8-45369f9d1cfg]
+[01:53|12] 蒲旭东 <image> [Image: img_v3_0216d_eae98c39-719f-40f1-8843-4fbc93fd371g]
+[01:54|13] 蒲旭东 <image> [Image: img_v3_0216d_47773e68-3d01-4bac-a4c4-6a90a1dcf80g]
+[01:54|14] 蒲旭东 <image> [Image: img_v3_0216d_c7e84872-3de9-4293-8b92-39407c966dcg]
+[01:54|15] 蒲旭东 <image> [Image: img_v3_0216d_80217775-3267-4a67-bda5-b5a813d5351g]
+[02:19|16] 普龙杰 <text> 济南工厂大传动高压测试上电前自检通报10月12日 ⏎ 一、项目名称: 万华 ⏎ 二、SN:01283592PUA10003（第5台） ⏎ 三、自检内容 ⏎  1、变压器接地线，高压线输入、输出已接好 ⏎  2、线缆相序正确且紧固正常 ⏎ 以上内容已自检完成请复检确认无误批准上电
+[02:20|17] 普龙杰 <image> [Image: img_v3_0216d_4f81046d-db26-4f2c-992c-33a47e19934g]
+[02:20|18] 普龙杰 <image> [Image: img_v3_0216d_089fd803-cacd-4d3b-8c0e-ddf19b1e3cbg]
+[02:20|19] 普龙杰 <image> [Image: img_v3_0216d_bd2a01d6-29c1-4f8f-a1e5-1e49cbaf508g]
+[05:44|20] 文亚鑫 <image> [Image: img_v3_0216d_d701f965-6e85-4a92-ae00-82367e4cadeg]
+[05:44|21] 文亚鑫 <image> [Image: img_v3_0216d_7a229145-e4e5-46b5-b80d-7f08e929fcbg]
+[05:44|22] 文亚鑫 <image> [Image: img_v3_0216d_13140af7-45d8-4afd-952d-17b3da56827g]
+[05:44|23] 文亚鑫 <text> 济南工厂大传动高压测试上电前自检通报10月12日 ⏎ 一、项目名称: 河北汇聚达 ⏎ 二、SN:01283197PUA10017（第6台） ⏎ 三、自检内容 ⏎  1、变压器接地线，高压线输入、输出已接好 ⏎  2、线缆相序正确且紧固正常 ⏎ 以上内容已自检完成请复检确认无误批准上电
+[05:45|24] 文亚鑫 <image> [Image: img_v3_0216d_46775304-6554-4474-afa0-63fa24dd8d2g]
+[05:45|25] 文亚鑫 <image> [Image: img_v3_0216d_ea3b4777-6369-43ae-b1ed-ac073f885e7g]
+[05:45|26] 文亚鑫 <image> [Image: img_v3_0216d_da7175b9-f4c2-45e2-b985-2411eb596d0g]
+[05:45|27] 文亚鑫 <text> 济南工厂大传动高压测试上电前自检通报10月12日 ⏎ 一、项目名称: 天津众汇 ⏎ 二、SN:01283197PUA10010（第7台） ⏎ 三、自检内容 ⏎  1、变压器接地线，高压线输入、输出已接好 ⏎  2、线缆相序正确且紧固正常 ⏎ 以上内容已自检完成请复检确认无误批准上电
+[06:56|28] 蒲旭东 <text> 济南工厂大传动高压测试上电前自检通报10月12日 ⏎ 一、项目名称:  杭州金临 ⏎ 二、SN:01283125PUA10000（第8台） ⏎ 三、自检内容 ⏎  1、变压器接地线，高压线输入、输出已接好 ⏎  2、线缆相序正确且紧固正常 ⏎ 以上内容已自检完成请复检确认无误批准上电
+[06:57|29] 蒲旭东 <image> [Image: img_v3_0216d_72cf73a0-c44a-46c1-b136-71e8b778dc6g]
+[06:58|30] 蒲旭东 <image> [Image: img_v3_0216d_a374daa6-3266-4dc9-b1e7-94a44c7abbfg]
+[06:58|31] 蒲旭东 <image> [Image: img_v3_0216d_351548c7-7b93-4589-a3b0-beb9e1fe7e4g]
+[07:02|32] 蒲旭东 <text> 济南工厂大传动高压测试上电前自检通报10月12日 ⏎ 一、项目名称:  天津众汇 ⏎ 二、SN:01283197PUA10011（第9台） ⏎ 三、自检内容 ⏎  1、变压器接地线，高压线输入、输出已接好 ⏎  2、线缆相序正确且紧固正常 ⏎ 以上内容已自检完成请复检确认无误批准上电
+[07:02|33] 蒲旭东 <image> [Image: img_v3_0216d_d1ffa54b-cdc5-4670-a55c-acbbd28d102g]
+[07:02|34] 蒲旭东 <image> [Image: img_v3_0216d_02bcb1df-5fb0-429e-9e53-7bb34195c2fg]
+[07:02|35] 蒲旭东 <image> [Image: img_v3_0216d_3bf0ec25-6bf6-4b95-9620-752a40330d5g]
+[07:05|36] 陈秀迪 <text> 以上上电照片中标签确认无误
+[07:20|37] 普龙杰 <image> [Image: img_v3_0216d_53d90ec3-b69d-4241-b2fc-d0b9b43c4b7g]
+[07:20|38] 普龙杰 <image> [Image: img_v3_0216d_7f8d24c1-3ad9-4e91-bfab-815aa97f198g]
+[07:20|39] 普龙杰 <text> 济南工厂大传动高压测试上电前自检通报10月12日 ⏎ 一、项目名称:  约克 ⏎ 二、SN:01283149PU910000（第10台） ⏎ 三、自检内容 ⏎  1、变压器接地线，高压线输入、输出已接好 ⏎  2、线缆相序正确且紧固正常 ⏎ 以上内容已自检完成请复检确认无误批准上电
+[10:42|40] 赵力 <image> [Image: img_v3_0216d_67a022f1-4536-4ca2-95c0-ee8129672eag]
+[10:42|41] 赵力 <image> [Image: img_v3_0216d_2ea1e2e7-deea-42ee-ae98-b143e09ae0cg]
+[10:42|42] 赵力 <image> [Image: img_v3_0216d_e4729e7e-5637-4b65-a2a7-3f4960b2fc6g]
+[10:42|43] 赵力 <image> [Image: img_v3_0216d_fc1d4981-786e-46df-ab2a-179b99dba44g]
+[10:42|44] 赵力 <text> 济南工厂大传动高压测试上电前自检通报10月12日 ⏎ 一、项目名称:  上海福瑞川 ⏎ 二、SN:01283178PU910002（第11台） ⏎ 三、自检内容 ⏎  1、变压器接地线，高压线输入、输出已接好 ⏎  2、线缆相序正确且紧固正常 ⏎ 以上内容已自检完成请复检确认无误批准上电
+[11:18|45] 蒲旭东 <text> 济南工厂大传动高压测试上电前自检通报10月12日 ⏎ 一、项目名称:  天津众汇 ⏎ 二、SN:01283197PUA10014（第12台） ⏎ 三、自检内容 ⏎  1、变压器接地线，高压线输入、输出已接好 ⏎  2、线缆相序正确且紧固正常 ⏎ 以上内容已自检完成请复检确认无误批准上电
+[11:19|46] 蒲旭东 <image> [Image: img_v3_0216d_0b5aa3a7-bbb9-4eef-95ec-6d8b91a160dg]
+[11:20|47] 蒲旭东 <image> [Image: img_v3_0216d_6e5bd425-26d8-4891-b00c-12b40b14b3ag]
+[11:20|48] 蒲旭东 <image> [Image: img_v3_0216d_4041e33d-1989-4687-8f10-61787da47c1g]
+[11:20|49] 蒲旭东 <text> 济南工厂大传动高压测试上电前自检通报10月12日 ⏎ 一、项目名称:  南京库法特 ⏎ 二、SN:01283116PUA10005（第13台） ⏎ 三、自检内容 ⏎  1、变压器接地线，高压线输入、输出已接好 ⏎  2、线缆相序正确且紧固正常 ⏎ 以上内容已自检完成请复检确认无误批准上电
+[11:21|50] 蒲旭东 <image> [Image: img_v3_0216d_d16a6324-e2c6-4e6c-acf4-22fe4b14541g]
+[11:21|51] 蒲旭东 <image> [Image: img_v3_0216d_906bbd76-7733-4f53-8e84-87934693f8cg]
+[11:21|52] 蒲旭东 <image> [Image: img_v3_0216d_4913ed71-7f4e-4da6-adf1-4e17496fe69g]
+[11:33|53] 文亚鑫 <image> [Image: img_v3_0216d_16079956-d6c9-4719-ac38-e0a2eb1b496g]
+[11:33|54] 文亚鑫 <image> [Image: img_v3_0216d_ed54b272-129f-44da-9014-a1f0399137dg]
+[11:33|55] 文亚鑫 <image> [Image: img_v3_0216d_3aeaf4bd-2980-4192-8a32-d3ca60655c0g]
+[11:33|56] 文亚鑫 <text> 济南工厂大传动高压测试上电前自检通报10月12日 ⏎ 一、项目名称:  江苏盛宏 ⏎ 二、SN:01283117PUA10001（第14台） ⏎ 三、自检内容 ⏎  1、变压器接地线，高压线输入、输出已接好 ⏎  2、线缆相序正确且紧固正常 ⏎ 以上内容已自检完成请复检确认无误批准上电
+[11:34|57] 文亚鑫 <text> 济南工厂大传动高压测试上电前自检通报10月12日 ⏎ 一、项目名称:  南京库法特 ⏎ 二、SN:01283116PU710004（第15台） ⏎ 三、自检内容 ⏎  1、变压器接地线，高压线输入、输出已接好 ⏎  2、线缆相序正确且紧固正常 ⏎ 以上内容已自检完成请复检确认无误批准上电
+[11:34|58] 文亚鑫 <image> [Image: img_v3_0216d_218ed3ec-c92d-46c7-8681-cdd8fba8ad8g]
+[11:34|59] 文亚鑫 <image> [Image: img_v3_0216d_0b203083-e1a1-448b-a4da-ac59b5c7a69g]
+[11:34|60] 文亚鑫 <image> [Image: img_v3_0216d_4f536c1d-7a8d-4c38-bce1-e8dbc75122fg]
+[11:37|61] 普龙杰 <image> [Image: img_v3_0216d_ab84ea50-af9f-4c97-8547-2fc826970bdg]
+[11:37|62] 普龙杰 <text> 济南工厂大传动高压测试上电前自检通报10月12日 ⏎ 一、项目名称:  万华 ⏎ 二、SN:01283592PUA10001（第16台） ⏎ 三、自检内容 ⏎  1、变压器接地线，高压线输入、输出已接好 ⏎  2、线缆相序正确且紧固正常 ⏎ 以上内容已自检完成请复检确认无误批准上电
+[11:40|63] 普龙杰 <image> [Image: img_v3_0216d_ed849046-33d9-4e21-80fb-97db3b5f7e8g]
+[12:13|64] 陈秀迪 <text> 以上上电照片中标签确认无误
+
+===== CHAT: TRAE 用户交流群 1️⃣1️⃣｜官方 | group | oc_afdd960e5b5f39cd89d6b9946a78cd78 | msgs=35 =====
+[03:41|0] 陈子康 <text> 请求专家建议是啥功能  {thread=omt_19a9de30310f9c92}
+[03:44|1] 陈子康 <text> 我感觉trae的dsv4.1f 有点蠢  {thread=omt_19a9df4e05cc9c95}
+[04:09|2] 吴于飞 <text> 叮咚～新的一周开始啦！午间别忘了顺手签个到，100积分等你领，点一下就到手，祝本周元气满满！🎯 （由豆包发送）  {thread=omt_19a9d54c204e9c95}
+[04:25|3] 苏明阳 <post> ![Image](img_v3_0216d_a76e14af-9722-47c8-8b73-a6d31e575f7g) ⏎ 果然work被弃了  {thread=omt_19a9e9fbfbcf1ce6}
+[04:28|4] 漫川 <text> 只是合并了  {thread=omt_19a9e9fbfbcf1ce6, reply_in_thread->om_x100b63f25de050a0b4a095f0356b4ed}
+[04:33|5] 苏明阳 <text> @漫川 怎么感觉被弃的是trae code了  {thread=omt_19a9e9fbfbcf1ce6, reply_in_thread->om_x100b63f25de050a0b4a095f0356b4ed}
+[04:34|6] 漫川 <text> code一直都在用 都没有被遗弃  {thread=omt_19a9e9fbfbcf1ce6, reply_in_thread->om_x100b63f25de050a0b4a095f0356b4ed}
+[04:50|7] 用户427395 <text> Traework我还在用呀，还没感觉有变化。  {thread=omt_19a9e9fbfbcf1ce6, reply_in_thread->om_x100b63f25de050a0b4a095f0356b4ed}
+[05:47|8] 谢承旭 <text> work团队都合并到豆包工作了  {thread=omt_19a9e9fbfbcf1ce6, reply_in_thread->om_x100b63f25de050a0b4a095f0356b4ed}
+[06:00|9] 李东阳 <text> @谢承旭 也并没有哈  {thread=omt_19a9e9fbfbcf1ce6, reply_in_thread->om_x100b63f25de050a0b4a095f0356b4ed}
+[06:01|10] 用户427395 <text> 新领导对你好么  {thread=omt_19a9e9fbfbcf1ce6, reply_in_thread->om_x100b63f25de050a0b4a095f0356b4ed}
+[06:01|11] 李东阳 <text> 就是两个合并了，没有哪一个被放弃  {thread=omt_19a9e9fbfbcf1ce6, reply_in_thread->om_x100b63f25de050a0b4a095f0356b4ed}
+[06:02|12] 谢承旭 <text> solo 模式会不会被放弃[看]，感觉和 AGENT 窗口功能重叠挺多的，连消息记录都是共享的@李东阳  {thread=omt_19a9e9fbfbcf1ce6, reply_in_thread->om_x100b63f25de050a0b4a095f0356b4ed}
+[06:03|13] 用户427395 <text> 大概率不会，国内IDE没有明显可替代的竞品  {thread=omt_19a9e9fbfbcf1ce6, reply_in_thread->om_x100b63f25de050a0b4a095f0356b4ed}
+[06:04|14] 用户427395 <text> 自动档普及了 手动档也没被淘汰呀，两者并不冲突。  {thread=omt_19a9e9fbfbcf1ce6, reply_in_thread->om_x100b63f25de050a0b4a095f0356b4ed}
+[06:04|15] 袁久达 <post> 国际版 Pro 自动续费退款咋搞？才发现有默认扣款，好几个月了，今天的扣款尚未使用权益。 ⏎ ![Image](img_v3_0216d_559d7225-56f0-4c00-9a9b-d5685780731g)  {thread=omt_19a9f095770f1b88}
+[06:05|16] 用户427395 <text> 我就喜欢自己踩离合的感觉[无辜笑]  {thread=omt_19a9e9fbfbcf1ce6, reply_in_thread->om_x100b63f25de050a0b4a095f0356b4ed}
+[06:05|17] 漫川 <text> 另外微信自动续费可以自己先关掉，避免下个月继续扣：微信 →「我」→「服务」→「钱包」→「支付分/自动续费」（或直接搜「自动续费」），找到 Trae Pro 那条关闭即可。  {thread=omt_19a9f095770f1b88, reply_in_thread->om_x100b63f3cb089ca0c2453a4d50f886a}
+[06:05|18] 漫川 <text> 产品名称、扣费时间、金额和上面的扣费凭证一起发到 feedback@mail.trae.ai  {thread=omt_19a9f095770f1b88, reply_in_thread->om_x100b63f3cb089ca0c2453a4d50f886a}
+[06:09|19] 谢承旭 <text> 要是能和小米合作下用A2A协议打通小爱和Trae就好了，这样我就能用我的小爱智能AI眼镜去控制Trae了，就和乐奇和WorkBuddy合作那样  {thread=omt_19a9e9fbfbcf1ce6, reply_in_thread->om_x100b63f25de050a0b4a095f0356b4ed}
+[06:11|20] 用户427395 <text> 不能在近视群体普及的AI眼镜都是伪需求。  {thread=omt_19a9e9fbfbcf1ce6, reply_in_thread->om_x100b63f25de050a0b4a095f0356b4ed}
+[06:14|21] 谢承旭 <text> 我就是近视，至于普及，经校园调研主要两方面原因：一是在于身边大部分人都不知道有这个产品，二是AI Glasses极其依赖于具有生态圈习惯的用户，很多校园用户的生态圈是散装生态圈。个人估计在1~2年内会成为新的品类产品，毕竟Rokid今年卖爆了。在传统消费电子增速缓慢的大背景下，硬件厂商很难不跟进开辟这个赛道。  {thread=omt_19a9e9fbfbcf1ce6, reply_in_thread->om_x100b63f25de050a0b4a095f0356b4ed}
+[07:41|22] 吴于飞 <text> @_all 🎁 TRAE 全面升级，双端融合，社区双重活动同步开启 ⏎ TraeWork 和 TraeCode 已正式合并为全新 TRAE：一个入口连接 Agent 模式与 IDE 模式，桌面端、Web 端和移动端也能同步协作。 ⏎ 1️⃣欢迎大家前往论坛活动帖聊聊升级后的第一感受、最想体验的功能，或者对新版的建议。有效评论有机会获得 500 积分，被官方精选还能再得 1000 积分。 ⏎ 活动时间：10 月 9 日 - 10 月 13 日（明天） ⏎  参与入口： ⏎  https://forum.trae.cn/t/topic/183224 ⏎ 2️⃣带一个真实任务完整体验新版 TRAE，分享功能测评、使用技巧或实战案例。正文满 100 字，并附上截图、录屏或最终产物，即有机会赢取 Ultra 会员和积分奖励。 ⏎ 活动时间：10 月 9 日—10 月 18 日 ⏎  参与入口： ⏎ …[TRUNC]  {thread=omt_19a907c672cd1c9c}
+[10:38|23] 高卫强 <text> trea work改成trea，有什么变化吗，为什么要卸载重装？  {thread=omt_19a9300a064e5c8e}
+[10:38|24] 浩瀚 <text> 为什么办公助理里面的聊天记录还是无法删除呢 这个问题已经几个月没有解决了吧，什么效率啊，这么影响使用体验的功能  {thread=omt_19a9305e074f5be7}
+[10:42|25] 哈基宸 <text> 后续TRAE Work/Code两个产品可能会下架，TRAE 是一款深度融合 AI 能力的开发工具，提供从代码编写、项目理解、调试运行到变更管理的完整开发体验。你可以像使用传统 IDE 一样掌控每一步，也可以把复杂任务交给 AI 智能体规划和执行。（TRAE是TRAE Work TRAE Code 双端融合的AI工具）  {thread=omt_19a9300a064e5c8e, reply_in_thread->om_x100b63ffc2ff88b4b224ce0b08f975f}
+[10:43|26] 高卫强 <text> 红豆泥，这个合并可不简单  {thread=omt_19a9300a064e5c8e, reply_in_thread->om_x100b63ffc2ff88b4b224ce0b08f975f}
+[10:44|27] 高卫强 <text> IDE还有那么多vscode插件  {thread=omt_19a9300a064e5c8e, reply_in_thread->om_x100b63ffc2ff88b4b224ce0b08f975f}
+[10:44|28] 哈基宸 <text> 产品策略调整  {thread=omt_19a9300a064e5c8e, reply_in_thread->om_x100b63ffc2ff88b4b224ce0b08f975f}
+[11:22|29] 高旋 <text> @陈子康 具体什么表现呢，辛苦描述一下具体case  {thread=omt_19a9df4e05cc9c95, reply_in_thread->om_x100b63f136bfb098b39d7689fdaf83e}
+[11:23|30] 高旋 <text> @陈子康 这是 TRAE 新上线的一个功能哈：当 Agent 面对复杂任务、需要进行多步推理、方案规划或自我校验时，会进入 "请求专家建议" 的深度分析过程。  {thread=omt_19a9de30310f9c92, reply_in_thread->om_x100b63f1215cfca8b3e77b7fa8de899}
+[11:25|31] 高旋 <text> @浩瀚 这边记录反馈一下，目前无预期时间哈  {thread=omt_19a9305e074f5be7, reply_in_thread->om_x100b63ffc7bf98a4c4b2ae2e00ba63d}
+[11:25|32] 高旋 <post> @袁久达 申请退款处理发送邮件到**[feedback@mail.trae.ai](mailto:feedback@mail.trae.ai)**，在邮件里写清楚您的诉求、账号信息（UID）和付款信息，相关负责同学会按正式流程处理 ⏎ ![Image](img_v3_0216d_3d30967e-62e7-4d7f-96cb-663e6eaaa9ag)  {thread=omt_19a9f095770f1b88, reply_in_thread->om_x100b63f3cb089ca0c2453a4d50f886a}
+[11:28|33] 高旋 <post> @高卫强  ⏎ 1. 以前 Work（办公）和 Code（开发）是两个独立产品、数据不相通，现在统一为一个 TRAE—— 一个入口同时包含 **Agent 模式**（承接原 Work 的办公 / Design 能力）和 **IDE 模式**（原 Code 的深度编码能力），一键切换、数据互通； ⏎ 2. **数据自动合并**：升级时系统会自动把聊天记录、账号登录态、个人资料和积分迁移合并到全新 TRAE，原 Work 的 Work / Code / Design 历史任务会自动合并到 Agent 模式的统一任务列表，不会丢失； ⏎ 3. **能力不缺失**：办公、开发、设计能力都整合在新版本中，原 TraeWork 独立程序不再单独更新。 ⏎ **为什么 "卸载重装"？** 不是要求您手动卸载重装哈。升级流程是这样的：TraeCode 会自动更新为全新 TRAE，而旧的 TraeWork …[TRUNC]  {thread=omt_19a9300a064e5c8e, reply_in_thread->om_x100b63ffc2ff88b4b224ce0b08f975f}
+[15:30|34] Jason Liu <text> 两个产品的沙箱设计模式有些不同，TRAE Work默认可以在沙箱内写入和删除，而IDE和Agent不行。  {thread=omt_19a9300a064e5c8e, reply_in_thread->om_x100b63ffc2ff88b4b224ce0b08f975f}
+
+===== CHAT: 刘宏宇 | p2p | oc_2010527f6676123b421de47f30d26bc4 | msgs=27 =====
+[00:45|0] 牛振东 <text> 宏宇，我上午晚一点到
+[06:18|1] 牛振东 <text> 来了，说成员了
+[06:18|2] 刘宏宇 <text> 所以计划这个项目咱进去具体干啥呀
+[06:33|3] 刘宏宇 <text> [惊呆]
+[06:33|4] 刘宏宇 <text> 所以咱具体干啥
+[06:34|5] 牛振东 <text> 没有果子吃，先明确了后果[捂脸]
+[06:34|6] 牛振东 <text> 问问何老师
+[06:34|7] 牛振东 <text> 迷糊中
+[06:34|8] 牛振东 <text> 不知道
+[06:34|9] 牛振东 <text> 咋把我们挂上去的
+[06:35|10] 刘宏宇 <text> 这个我也问老金了，老金说先这么着
+[06:36|11] 牛振东 <text> 蔡总说了，AI资深专家
+[06:36|12] 牛振东 <text> 等哪次问问何老师，知道细节情况不？
+[06:37|13] 刘宏宇 <text> [泣不成声]
+[06:37|14] 刘宏宇 <text> 何老师要交付数据相关的梳理，建模，我感觉有点危险
+[06:38|15] 刘宏宇 <text> 数据那块本来就好几个很难搞定的
+[06:39|16] 牛振东 <text> 果然，能力越大责任越大，这试用期的考核直接拉满  {quote->刘宏宇:何老师要交付数据相关的梳理，建模，我感觉有点危险}
+[06:39|17] 牛振东 <text> 都是难搞的
+[06:40|18] 刘宏宇 <text> 有俩COE，要输出不了啥东西让那边信服就没法整了
+[06:41|19] 牛振东 <text> 反正有IT兜底干，我们只是中间作为使能的 产品/开发，评估方案
+[06:42|20] 刘宏宇 <text> 这个项目IT可不兜底，我感觉大概率得靠汉得
+[06:43|21] 刘宏宇 <text> 这个会你参加嘛
+[06:43|22] 刘宏宇 <image> [Image: img_v3_0216d_e937d774-94d1-4d11-9ae6-d572b1e1303g]
+[06:48|23] 牛振东 <text> 把录屏开着吧，我等下回看
+[06:48|24] 牛振东 <text> 我不去了，讨论业务方案，我使不上力
+[06:49|25] 刘宏宇 <text> 我也不想去，还挂着让我主导梳理数据，挺烦的
+[06:49|26] 牛振东 <text> 哎，项目管你
+
+===== CHAT: 设备驾驶舱售后 | group | oc_5e9e60402ef577d85f47833b193761e0 | msgs=21 =====
+[06:02|0] 穆潇 <file> <file key="file_v3_0016d_3c52832b-c940-4051-90e4-23e4b546b05g" name="2026-10-09dws明细.xlsx"/>
+[06:02|1] 穆潇 <text> @周刚 周兄，对下10月9日的数据  {quote->om_x100b63a9cc51c8b4c2bdaf685772456}
+[06:02|2] 周刚 <text> @穆潇 乘以100% 转换成百分制吧  {quote->穆潇:<file key="file_v3_0016d_3c52832b-c940-4051-90e4-23e4b546b05}
+[06:05|3] 穆潇 <text> 我保留多点小数吧，后面展示的时候会以百分比展示  {quote->周刚:@穆潇 乘以100% 转换成百分制吧}
+[06:06|4] 周刚 <text> 保留4位小数 比如0.8765 转换成百分制就是87.65%
+[06:08|5] 穆潇 <text> 是的，不过我们表里存的都是原始数值，显示的时候会让这个以百分比显示  {quote->周刚:保留4位小数 比如0.8765 转换成百分制就是87.65%}
+[06:12|6] 周刚 <text> 好的 数据没问题  {quote->穆潇:是的，不过我们表里存的都是原始数值，显示的时候会让这个以百分比显示}
+[06:13|7] 穆潇 <text> ok 这周我给替换上去 包括保留小数这个  {quote->周刚:好的 数据没问题}
+[06:44|8] 邱治钧 <text> 还没，我再定位一下
+[06:44|9] 周刚 <text> @邱治钧 邱工 济南的这个没数据的有看出来不  {quote->om_x100b63acd9ca38a0b2260d18a74fa43}
+[07:11|10] 周刚 <text> @穆潇 影响时间范围是  {quote->穆潇:@周刚 oee的dws明细表因为要加字段，现在要重新建这张表，所以今天下午oee的明细可能会有没有数据的情况（不会太久）}
+[07:11|11] 穆潇 <text> @周刚 oee的dws明细表因为要加字段，现在要重新建这张表，所以今天下午oee的明细可能会有没有数据的情况（不会太久），替换好了我再告诉你哈
+[07:12|12] 周刚 <text> @邱治钧 来  {quote->邱治钧:@周刚 查到了，电话说一下}
+[07:12|13] 邱治钧 <text> @周刚 查到了，电话说一下  {quote->周刚:@邱治钧 邱工 济南的这个没数据的有看出来不}
+[07:13|14] 穆潇 <text> @周刚 下班前搞定，空档应该15分钟以内  {quote->周刚:@穆潇 影响时间范围是}
+[07:15|15] 穆潇 <text> 明细会受影响，结果不受影响  {quote->穆潇:@周刚 下班前搞定，空档应该15分钟以内}
+[08:26|16] 周刚 <image> [Image: img_v3_0216d_f53d7c16-e9d8-47f0-980b-c25b58d4c49g]
+[08:27|17] 周刚 <text> @邱治钧 邱工 设备驾驶舱跳转出来的MTTR保留两位小数 和外面保持一致  {quote->周刚:[Image: img_v3_0216d_f53d7c16-e9d8-47f0-980b-c25b58d4c49g]}
+[08:32|18] 邱治钧 <text> @周刚 再看下  {quote->周刚:@邱治钧 邱工 设备驾驶舱跳转出来的MTTR保留两位小数 和外面保持一致}
+[08:38|19] 穆潇 <text> <p>@周刚 周兄，黄工金钢@黄金钢 需要看一下设备驾驶舱，我把他加到管理员用户组，可以不？</p>
+[08:42|20] 穆潇 <text> <p>@黄金钢 黄工，已开，刷新网页后再看看有没有数据</p>
+
+===== CHAT: 机器人工厂&南京工厂-数采、线体看板需求实现方案沟通 | group | oc_971b0e23bcca023fd8ff5d00f4f60f69 | msgs=21 =====
+[00:49|0] 雷志玲 <post> ![Image](img_v3_0216d_1ff75688-d6dd-4293-9383-5ecc267cba6g) ⏎ @刘宏宇 宏宇，SFM看板是统一用8月左右你发我的链接，图示风格吧？如果是的话，导轨 SFM 看板风格也保持一致，只是指标按业务需求来设计。
+[00:51|1] 雷志玲 <post> ![Image](img_v3_0216d_f30cd148-2bbd-46fb-b2ab-cc4ac7d47c9g) ⏎ 顾工说改过了设计，是按上面的，还是这个啊
+[00:53|2] 刘宏宇 <text> 目前不是很确定，IOC项目组在拉IT评估优化方案
+[00:56|3] 刘宏宇 <image> [Image: img_v3_0216d_717339ad-bb5d-461b-bc76-104efaf3b6ag]
+[00:56|4] 雷志玲 <text> 这个优化方案，大概什么时候可以最终定下来的，项目组有计划时间么
+[00:57|5] 刘宏宇 <text> 具体要问项目组了，这个需求目前已经不在我们这边了
+[01:00|6] 雷志玲 <text> 我以为SFM看板只是指标优化，连界面风格这些变啊，这都10月了呢
+[01:02|7] 雷志玲 <text> @刘宏宇 宏宇，这个只是顾工设计了UI界面，还没评审，datawind还没开发的吧  {quote->雷志玲:![Image](img_v3_0216d_f30cd148-2bbd-46fb-b2ab-cc4ac7d47c9g) }
+[01:06|8] 刘宏宇 <text> 顾工设计的内容是根据驱控中心的需求来输出的
+[01:07|9] 雷志玲 <text> 是的，我知道，我想知道驱控优化的节点情况，现在情况是，驱控提了需求，顾工UI界面设计好了，还没终评审，datawind还没开发的是吧
+[01:09|10] 刘宏宇 <text> 节点就是IOC这边在拉IT评估优化方案呀，具体要怎么开发目前还不清楚  {quote->刘宏宇:[Image: img_v3_0216d_717339ad-bb5d-461b-bc76-104efaf3b6ag]}
+[01:09|11] 雷志玲 <text> 如果驱控时间很长，来不急，我们就先用之前的风格设计了，后面再优化吧
+[01:10|12] 雷志玲 <text> <p>现在新的风格，再开发，南京还要等他们上线，今年怕没希望了</p>
+[01:14|13] 顾锦 <text> @雷志玲 这个风格？  {quote->雷志玲:![Image](img_v3_0216d_1ff75688-d6dd-4293-9383-5ecc267cba6g) }
+[01:14|14] 雷志玲 <text> @顾锦 顾工，南京导轨的SFM看板，先用之前开发好的风格设计，岳阳等工厂现在也还是在用这个版本  {quote->雷志玲:![Image](img_v3_0216d_1ff75688-d6dd-4293-9383-5ecc267cba6g) }
+[01:15|15] 雷志玲 <text> 驱控的等他们开发好后，我们看一下他们上线使用情况，如果可以再优化
+[01:18|16] 雷志玲 <post> @顾锦 @刘宏宇  ⏎ 是的，用这版datawind已经开发好使用的设计，后面驱控新风格开发上线不确定，时间等不了，等SFM整体风格定版后再迭代。 ⏎ ![Image](img_v3_0216d_6b1daee7-effd-4e17-a2e1-b76d3248a08g)  {quote->顾锦:@雷志玲 这个风格？}
+[01:19|17] 顾锦 <text> 这版我这边是没有设计的，应该是系统默认的
+[01:20|18] 雷志玲 <text> 南京需求指标不同、图形不同，要帮设计一下具体的指标
+[01:22|19] 雷志玲 <image> [Image: img_v3_0216d_66343108-ef10-42b4-b70d-ddfb97a4eb1g]
+[02:08|20] 顾锦 <text> @雷志玲 那我这边设计下具体模块里面的内容，模块外的样式就不动了  {quote->雷志玲:南京需求指标不同、图形不同，要帮设计一下具体的指标}
+
+===== CHAT: InoAI知识社区 | group | oc_79af426fe8f195f1099fb204333f7285 | msgs=19 =====
+[01:19|0] 杨浩 <post> @雷嘉勋  ⏎ ![Image](img_v3_0216d_16ea3d9b-c1ec-4288-8e47-54172114312g) ⏎ 雷工，你好，我的也是更新了版本就不能使用了，这个要怎么处理一下？
+[01:20|1] 范蓉蓉 <post> ![Image](img_v3_0216d_c023c79d-c427-4278-90ac-9dcf13b83d3g) ⏎ 李工，帮忙看下报错是什么原因@李虹
+[01:23|2] 李虹 <text> <p>收到，看下原因稍后联系你们</p>
+[01:35|3] 翁小飞 <text> @李虹 新版本无法置顶，是bug还是个体现象，点了置顶，有提示置顶成功，但实际没有动作
+[01:52|4] 李春维 <text> 问下 mcp已经通过id-jap云端方式部署上去了，但是没法发布到市场 请问这块是能力bug 还是功能还没有完善？
+[02:10|5] 郭文庆 <text> @李春维 更新一下  {quote->李春维:问下 mcp已经通过id-jap云端方式部署上去了，但是没法发布到市场 请问这块是能力bug 还是功能还没有完善？}
+[03:10|6] 余梦圆 <post> ![Image](img_v3_0216d_b2e702b4-fc8b-4e92-913f-1c382a79800g) ⏎ 请问inoclaw的这个选项框在哪关掉呢？有时会突然弹出来，偶尔还会占用我的ctrl键位；CV很不方便
+[03:15|7] 李炎杰 <text> @余梦圆  {quote->余梦圆:![Image](img_v3_0216d_b2e702b4-fc8b-4e92-913f-1c382a79800g) }
+[03:15|8] 李炎杰 <text> @InoAI  翻译悬浮框怎么关闭  {quote->余梦圆:![Image](img_v3_0216d_b2e702b4-fc8b-4e92-913f-1c382a79800g) }
+[03:16|9] 朱琪明 <text> @InoAI InnClaw 的下载地址是多少
+[04:49|10] 胡迪 <text> @InoAI 我发送信息没回得到回应是因为什么
+[04:50|11] 胡迪 <text> @InoAI 我发送给INOCLAW
+[04:57|12] 胡迪 <text> @InoAI 我向inoclaw发送消息，但是并没有回应，应该怎么绊
+[05:03|13] 孙浩 <text> @胡迪 胡工，单找你排查下哈
+[05:08|14] 单呈祥 <text> @胡迪 私你
+[06:02|15] 刁健涛 <text> @InoAI 请给我最新的inoclaw安转包文件
+[07:57|16] 余梦圆 <text> @InoAI 新版inoclaw在哪看token消耗量
+[08:00|17] 雷嘉勋 <text> @余梦圆 2.0版本的token使用量，会优化显示并换个位置展示，在设置中，目前版本还没有更新，后期迭代会有
+[09:09|18] 李炎杰 <file> <file key="file_v3_0016d_78f02c73-2364-497e-8733-6a566b85110g" name="阿里巴巴AI Native研发范式实践手册2026.pdf"/>
+
+===== CHAT: 济南防接反检测项目内部进度沟通群 | group | oc_afd26ef974fbe6668f040c683cf752d0 | msgs=18 =====
+[06:50|0] 曹丽 <text> 好的
+[06:50|1] 蔺雨桐 <text> @曹丽 曹工，根据上次和业务侧沟通，人工检测的已经都改过了，可以测试了
+[06:51|2] 蔺雨桐 <text> @刘宏宇 宇哥，帮忙看下是不是业务的意思呗[呲牙]
+[06:57|3] 刘宏宇 <post> ![Image](img_v3_0216d_e4b5e4ea-ab87-4e7f-844c-5709bb5fdf9g) ⏎ 还有备案号，整这么正规啊
+[06:57|4] 刘宏宇 <text> @蔺雨桐 改的哪里  {quote->蔺雨桐:@刘宏宇 宇哥，帮忙看下是不是业务的意思呗[呲牙]}
+[06:58|5] 蔺雨桐 <image> [Image: img_v3_0216d_ffeab79a-ff0a-4f90-a776-2364b67362eg]
+[06:58|6] 蔺雨桐 <text> @刘宏宇 it安全审核，改了好几天[泪奔]  {quote->刘宏宇:![Image](img_v3_0216d_e4b5e4ea-ab87-4e7f-844c-5709bb5fdf9g) }
+[07:21|7] 蔺雨桐 <text> @刘宏宇 做了  {quote->刘宏宇:这个功能也做了嘛}
+[07:21|8] 刘宏宇 <text> 这个功能也做了嘛
+[07:21|9] 刘宏宇 <image> [Image: img_v3_0216d_7f8729bd-9019-41da-86b4-2d8c52e7ed3g]
+[07:23|10] 蔺雨桐 <text> @刘宏宇 人工检测任务，进的也是拍照检测的页面，不管是否成功，都需要再进人工互检的页面。  {quote->刘宏宇:这个功能也做了嘛}
+[07:57|11] 牛振东 <post> @蔺雨桐 这里已完成的，标记一下， ⏎ [https://inovance.feishu.cn/wiki/DJclw6nreihGNJkYofxci9flnOg](https://inovance.feishu.cn/wiki/DJclw6nreihGNJkYofxci9flnOg) ⏎ ![Image](img_v3_0216d_8168032b-1c1c-4634-8a9a-34d2c745ea1g)
+[08:06|12] 蔺雨桐 <text> @牛振东 已标记  {quote->牛振东:@蔺雨桐 这里已完成的，标记一下， ⏎ [https://inovance.feishu.cn/wiki/DJclw6n}
+[08:08|13] 蔺雨桐 <text> @石峰 峰少你改咋样了这个。。还是我从零开始[思考]
+[08:08|14] 牛振东 <text> AI检测的两个，也改下吧
+[08:11|15] 石峰 <text> @蔺雨桐 我正在结合曹工的测试边优化模型逻辑，边改这个，这俩改动都在ai检测页面，我来弄吧  {quote->蔺雨桐:@石峰 峰少你改咋样了这个。。还是我从零开始[思考]}
+[08:12|16] 牛振东 <text> OK
+[08:12|17] 蔺雨桐 <text> @牛振东 牛老师我先去改改bug吧，峰少这部分我确实也不知道咋改[呲牙]
+
+===== CHAT: ISC-报告解读试点探索 | group | oc_e17e17d053cbdc8577f345dead569e33 | msgs=14 =====
+[06:21|0] 李家伟 <text> @孙桦君 小孙，报告的原始数据源和模板可以参考这个文件和看板  {quote->om_x100b667aae86e4bcb2a15007634bdb3}
+[06:22|1] 李家伟 <text> @孙桦君 你私发一下曾博，他那里有接口  {quote->孙桦君:daas这么进入@李家伟}
+[06:22|2] 孙桦君 <text> daas这么进入@李家伟
+[06:23|3] 孙桦君 <text> ok
+[06:27|4] 李家伟 <text> @刘宏宇 刘工，DAAS数据服务接口有没有专门对接的同事？
+[06:32|5] 刘宏宇 <text> 可以找振东看看@牛振东 ，李工你们数据梳理好后如果确认就这两个表，振东会协助发布出来
+[06:33|6] 李家伟 <text> <p>@孙桦君 @曾亚剑 二位，这里面是ST驾驶舱主要使用到的数据和指标情况</p>  {quote->om_x100b63ae47e7b0acb3f1fd6e84643f3}
+[06:38|7] 曾亚剑 <text> 好的
+[07:13|8] 蒋静芳 <text> @李家伟 李工，ST驾驶舱报告中的【建议改进】今天跟业务侧讨论后初步罗列了几条，你看下能否用哈
+[07:14|9] 李家伟 <text> @蒋静芳 蒋工，如果方便的话可以补充在文档里，如果有原始记录文档也行  {quote->蒋静芳:@李家伟 李工，ST驾驶舱报告中的【建议改进】今天跟业务侧讨论后初步罗列了几条，你看下能否用哈}
+[07:31|10] 蒋静芳 <text> @李家伟 我已经补充在文档中了，原始记录没有唉，我来问问能不能提供哈  {quote->李家伟:@蒋静芳 蒋工，如果方便的话可以补充在文档里，如果有原始记录文档也行}
+[07:32|11] 李家伟 <text> 没有原始记录问题不大
+[07:59|12] 孙桦君 <text> @牛振东 请问可以给我提供一下两张表的mock数据吗？我看看能不能覆盖指标的计算
+[10:52|13] 牛振东 <text> @孙桦君 你好 孙工，各100条数据，发你了哈  {quote->孙桦君:@牛振东 请问可以给我提供一下两张表的mock数据吗？我看看能不能覆盖指标的计算}
+
+===== CHAT: 【Doris】数据集SQL专项优化 | group | oc_27336f4fba09afc62b0a2172922195c7 | msgs=13 =====
+[00:31|0] 邱治钧 <text> @黄翔 黄工再拉一下内存占用趋势和占用排名吧
+[00:40|1] 黄翔 <post> ![Image](img_v3_0216d_009e3554-966c-4daa-bbab-b5ca097bef4g) ⏎ 更新了
+[00:41|2] 邱治钧 <text> 今天看着很正常啊
+[00:42|3] 黄翔 <image> [Image: img_v3_0216d_e91a1f58-e6b1-440c-a03b-a8f49948ed3g]
+[00:42|4] 黄翔 <text> 最近看着没超
+[00:53|5] 黄翔 <text> @邱治钧 邱老师，我重新更新了，刚才统计错了
+[00:54|6] 黄翔 <text> 刚才只统计某个表的了
+[02:42|7] 邱治钧 <post> @杨润东 润东这个任务你看是不处理一下  ⏎ ![Image](img_v3_0216d_dff995be-acba-487d-9359-5bedff6be66g)  {quote->om_x100b639467afdca0c32a5a8145c5da0}
+[03:20|8] 杨润东 <text> 沈工那边统一处理吧
+[03:20|9] 邱治钧 <text> 那你跟他说一下 他说让你处理
+[03:26|10] 杜彦永 <post> [https://doris.apache.org/zh-CN/docs/3.x/install/preparation/env-checking](https://doris.apache.org/zh-CN/docs/3.x/install/preparation/env-checking) ⏎ ![Image](img_v3_0216d_ccabb2e9-3aa6-457e-9f6d-708ac0f1c12g) ⏎ 官网给的资源配置建议@黄翔 @王敬宇
+[03:29|11] 杨润东 <text> @沈敏翔 沈工 后续TPM有关的任务需要你那边处理哈，这个不属于ISC数字化模块的系统，入湖数据我这边不做支撑
+[03:44|12] 沈敏翔 <text> @杨润东 好的杨工，但这个任务是HIVE2转doris的，我没有处理过这种任务，需要怎么处理呢，能不能提供下方法，是加个删除的导入前语句还是要加主键的操作，因为当时转doris的表我没参与创建  {quote->杨润东:@沈敏翔 沈工 后续TPM有关的任务需要你那边处理哈，这个不属于ISC数字化模块的系统，入湖数据我这边不做支撑}
+
+===== CHAT: 数据分析开发小组 | group | oc_3ba3e99f232b5cd81e24e95bd274de02 | msgs=13 =====
+[02:36|0] 蔺雨桐 <text> @金星 金少，你之前驱控那面doris的执行前语句都有问题
+[02:37|1] 蔺雨桐 <post> ```PLAIN_TEXT ⏎ 2026-10-12 10:21:36.203 [job-0] INFO  DorisWriter$Job - prepare execute postSqls:[delete from isc_ads.ads_isc_szmes_sys_pd_exec_node_a_min  where lm_time < to_date('$(g_cur_datetime:2day)');]. doris jdbc url为:jdbc:mysql://10.32.223.168:6030. ⏎ ``` ⏎ 里面的参数，都没解析到。。
+[02:38|2] 蔺雨桐 <sticker> [Sticker]
+[02:38|3] 金星 <text> 这个之前杜老师改的[捂脸]
+[02:46|4] 蔺雨桐 <text> @金星 按这个改吧 ⏎ delete from isc_ads.ads_isc_szmes_sys_pd_exec_node_a_min  where lm_time < date_sub(curdate(), interval 2 day);，别用参数，改完看下日志，一直没生效[看]
+[02:47|5] 蔺雨桐 <text> 8个e数据了都。。
+[02:49|6] 蔺雨桐 <text> @邱治钧 邱工，改完我看数据量降到187w左右了，这次应该没问题了
+[02:50|7] 邱治钧 <text> 好 先跑着下午我让黄工再查一下
+[07:27|8] 牛振东 <text> @蔺雨桐$(g_cur_datetime:2day，这语句应该是少了:  {quote->蔺雨桐:```PLAIN_TEXT ⏎ 2026-10-12 10:21:36.203 [job-0] INFO  DorisW}
+[07:30|9] 蔺雨桐 <post> ![Image](img_v3_0216d_9a3b6efc-bb33-4052-a1cf-86ee3d4b157g) ⏎ 之前好像一直都是这样写的，日志太远了没去看哈
+[07:37|10] 牛振东 <post> @蔺雨桐 肯定当时搞错了，**调度定时时间前N天或后N天：${g_cur_datetime:N:day}** ⏎ ```PLAIN_TEXT ⏎ 任务参数使用说明 ⏎ 数据开发平台支持在代码中定义参数。支持两种参数 ⏎ 用户自定义参数：在代码中可通过 ${参数名} 的方式声明参数，在右侧任务配置中可使用常量或调度时间表达式给参数赋值。 ⏎ 内置参数：直接在代码中通过 ${参数名} 的方式声明参数。支持的内置参数如下： ⏎ 当前任务作用参数 ⏎ 当前时间：${_p_current_date_time:yyyy-MM-dd HH:mm:ss} ⏎ 当天:${_p_current_date_time:yyyy-MM-dd} ⏎ 当月:${_p_current_date_time:yyyy-MM} ⏎ 当年:${_p_current_date_time:yyyy} ⏎ 单位有：year，month…[TRUNC]  {quote->蔺雨桐:![Image](img_v3_0216d_9a3b6efc-bb33-4052-a1cf-86ee3d4b157g) }
+[07:39|11] 蔺雨桐 <text> [笑哭] 看似应该是的，我没注意 @金星 ，金少杜老师有点不靠谱啊
+[10:16|12] 牛振东 <post> @金星 这几个数据集都建哪去了:FullMoonFace:得管管 ⏎ ![Image](img_v3_0216d_63a4487a-c8cf-496d-be9a-666cc633226g)
+
+===== CHAT: 高压测试电缆接线防反检测系统_安全测试 | group | oc_6100d510689c55612bfd32c641213d77 | msgs=13 =====
+[00:36|0] 牛振东 <text> @倪子阳 倪工，辛苦今天帮忙复测下哈，我找熊工开网络权限[啤酒]
+[01:31|1] 倪子阳 <post> @牛振东 牛工，3.6这个问题是不是还没有修复？ ⏎ ![Image](img_v3_0216d_4bf3e7ba-c300-4c5f-9663-aeeb6021cd9g) ⏎ ![Image](img_v3_0216d_07217e5d-e8c3-4e23-a3ce-5e58fbac4a1g)  {quote->牛振东:@倪子阳 倪工，辛苦今天帮忙复测下哈，我找熊工开网络权限[啤酒]}
+[01:38|2] 蔺雨桐 <post> @倪子阳 倪工，我改的是这里，你这个页面没配置短信验证码的接口应该用不了 ⏎ ![Image](img_v3_0216d_191c1c6e-5942-44e4-8ba8-2f0095f084fg) ⏎ ![Image](img_v3_0216d_85e767f7-290e-4547-9f6d-88d5001af20g)
+[01:42|3] 倪子阳 <text> @蔺雨桐 后面这个是不用的吗，如果有用的话也是要改的  {quote->蔺雨桐:@倪子阳 倪工，我改的是这里，你这个页面没配置短信验证码的接口应该用不了 ⏎ ![Image](img_v3_0216d}
+[01:44|4] 蔺雨桐 <text> @倪子阳 短信这个界面修改密码现在没有用，这个页面我调整掉或者清理掉[呲牙]  {quote->倪子阳:@蔺雨桐 后面这个是不用的吗，如果有用的话也是要改的}
+[01:46|5] 蔺雨桐 <text> @倪子阳 嗯嗯好的  {quote->倪子阳:@蔺雨桐 没用的话，调整掉或清理掉吧}
+[01:46|6] 倪子阳 <text> @蔺雨桐 没用的话，调整掉或清理掉吧  {quote->蔺雨桐:@倪子阳 短信这个界面修改密码现在没有用，这个页面我调整掉或者清理掉[呲牙]}
+[01:55|7] 倪子阳 <post> ![Image](img_v3_0216d_0b8a9fd1-ca70-4cc5-b714-7843a5fa0f4g) ⏎ @蔺雨桐 这个页面不只是前端页面校验，后端接口有校验吗？ 我这个账号没权限
+[03:03|8] 蔺雨桐 <post> @倪子阳 前后端都加了，后端有密码复杂度校验 ⏎ ![Image](img_v3_0216d_fa6d45a2-e127-48ab-b2a4-92de7493a43g)  {quote->倪子阳:![Image](img_v3_0216d_0b8a9fd1-ca70-4cc5-b714-7843a5fa0f4g) }
+[03:14|9] 倪子阳 <text> OK
+[03:45|10] 倪子阳 <file> <file key="file_v3_0016d_bf06b5cd-258e-4de1-979d-b1dbef091bdg" name="高压测试接线防反检测系统_安全复测报告V2.0.pdf"/>
+[05:06|11] 牛振东 <text> @倪子阳 [赞]赞  {quote->倪子阳:<file key="file_v3_0016d_bf06b5cd-258e-4de1-979d-b1dbef091bd}
+[05:48|12] 牛振东 <post> @汪琦 汪工，安全测试通过，OA流程帮忙往下走哈， ⏎ [https://oa.inovance.com/km/review/km_review_main/kmReviewMain.do?method=view&fdId=1a0aeae530ca1d25ce28dea4587b8651](https://oa.inovance.com/km/review/km_review_main/kmReviewMain.do?method=view&fdId=1a0aeae530ca1d25ce28dea4587b8651) ⏎ ![Image](img_v3_0216d_b06a85e4-0917-446a-b96b-9f4e1988cd8g)  {quote->倪子阳:<file key="file_v3_0016d_bf06b5cd-258e-4de1-979d-b1dbef091bd}
+
+===== CHAT: 熊暾 | p2p | oc_63b1c8a4b6e577ab7f035076cbd6b420 | msgs=12 =====
+[05:07|0] 牛振东 <file> <file key="file_v3_0016d_633a9900-81dd-488f-99a9-e5388e0e074g" name="高压测试接线防反检测系统_安全复测报告V2.0.pdf"/>
+[05:08|1] 牛振东 <text> 熊工，安全通过了， ⏎ https://oa.inovance.com/km/review/km_review_main/kmReviewMain.do?method=view&fdId=1a0aeae530ca1d25ce28dea4587b8651
+[05:10|2] 牛振东 <text> 要再提交 IT基础设施需求流程 吗？ ⏎ 此前已经开过外网了，还需要提交吗？  {quote->om_x100b658182c07084b4b743d7c6e0e2d}
+[05:31|3] 熊暾 <text> 把域名附上
+[05:31|4] 熊暾 <text> 你只要飞书访问是吧，要走个it基础设施需求
+[05:39|5] 熊暾 <image> [Image: img_v3_0216d_f08af3e2-1586-4d21-b604-11a30e91009g]
+[05:39|6] 熊暾 <text> 这个是现在界面是吧，后续发到外网是为了手机使用对吧
+[05:40|7] 牛振东 <text> 中间发生过一些异常，暂时都解决了
+[05:40|8] 熊暾 <text> 现在内网用没啥异常吧
+[05:40|9] 牛振东 <text> 是的，为了手机飞书访问
+[05:41|10] 熊暾 <text> 使用人员主要是济南的？
+[05:42|11] 牛振东 <text> 嗯，就是济南固定的几个人
+
+===== CHAT: DaaS平台内部用户问题沟通 | group | oc_a89f2cb3fd27cc8fc4aa80f37bc12185 | msgs=11 =====
+[03:21|0] 武销南 <post> [https://inovance.feishu.cn/sheets/MpYIsYndVhRzM9t4JagcU5Ennht?from=from_copylink&sheet=KDl4YF](https://inovance.feishu.cn/sheets/MpYIsYndVhRzM9t4JagcU5Ennht?from=from_copylink&sheet=KDl4YF) ⏎ ![Image](img_v3_0216d_becf1889-0da4-4366-a085-897f442f6e5g) ⏎ <at user_id="all"></at>  ⏎ 1、后续DAAS平台问题和需求项，都需要在以上文档记录一下，优先解决问题单中的问题。 ⏎ 2、我们会在这里解决以及标记对应的解决人以及解决时间； ⏎ 3、先提前记录到问题单中，再安排人员解决，可以方便大家找到对应的责任人，要不然问题容易…[TRUNC]
+[07:15|1] 潘锴 <post> [Media: file_v3_0016d_2a7abb62-2eb7-4005-85f8-8cf0be0a3e0g] ⏎ @武销南
+[07:17|2] 潘锴 <text> @武销南 那文件我没有编辑权限。就说下吧，现在上传文件后，点击校验，提示没有数据  {quote->潘锴:[Media: file_v3_0016d_2a7abb62-2eb7-4005-85f8-8cf0be0a3e0g] }
+[07:18|3] 武销南 <text> @潘锴 你申请一下，我这边给你开通编辑权限  {quote->潘锴:@武销南 那文件我没有编辑权限。就说下吧，现在上传文件后，点击校验，提示没有数据}
+[07:18|4] 武销南 <text> @黄翔  ⏎ 黄工，看下问题单里面的问题，属于应用问题先分配给涂工看一看
+[07:20|5] 黄翔 <text> @潘锴 方便把文件发我一下吗，我测试下
+[07:24|6] 黄翔 <text> @潘锴 潘老师，现在要提服务单的，麻烦老师提下单子
+[07:26|7] 潘锴 <text> 这是本来就正常的功能，现在出问题了也要提服务单？
+[07:28|8] 潘锴 <text> 好吧
+[07:28|9] 武销南 <text> @潘锴 相当于平台的bug,提bug单也可以，现在问题有点多，要有个记录的地方，好安排人解决  {quote->潘锴:这是本来就正常的功能，现在出问题了也要提服务单？}
+[07:59|10] 武销南 <post> <at user_id="all"></at>  ⏎ 各位同事，根据公司和部门的标准化流程规范，所有针对DAAS平台的功能需求、系统问题及优化建议，均需通过标准化工单系统进行提交与跟踪。我们将根据工单为大家提供一个良好及时的问题处理机制，希望大家一起协作共建，共同参与DAAS平台的建设与优化工作，提升平台的整体服务能力与用户体验，以更好地支持公司业务发展。 ⏎ 后续各位同事请按照以下流程进行提单。 ⏎ 登录[https://itsm.inovance.com/#/dosm/portal/workbenchView/INNER_DASHBOARD?viewTag=INNER_DASHBOARD](https://itsm.inovance.com/#/dosm/portal/workbenchView/INNER_DASHBOARD?viewTag=INNER_DASHBOARD) ⏎ ![…[TRUNC]
+
+===== CHAT: ISC-岳阳预测性维护需求对接 | group | oc_78de37ce40d8666b0d80bc6e994a3fd9 | msgs=9 =====
+[02:22|0] 李岳林 <image> [Image: img_v3_0216d_3f8bd261-db01-442b-9c95-e30c577f5d1g]
+[02:23|1] 李家伟 <post> ![Image](img_v3_0216d_5b938d8c-ee55-4d4b-98ad-3551593bb05g) ⏎ 大家可以参考上面的链路
+[02:35|2] 安文斌 <image> [Image: img_v3_0216d_0d253363-01ca-42af-82c9-aecae6e714fg]
+[02:41|3] 郑庆云 <file> <file key="file_v3_0016d_e42e3a7d-2165-49ec-9d31-9920ba69012g" name="订阅接口示意.txt"/>
+[02:43|4] 涂福轩 <text> @郑庆云 收到，感谢郑工  {quote->郑庆云:@涂福轩 涂工，SCADA提供signalr数据订阅服务（时效性比较高，也符合你们的场景），我们先以这个技术路线对接标志}
+[02:43|5] 郑庆云 <text> @涂福轩 涂工，SCADA提供signalr数据订阅服务（时效性比较高，也符合你们的场景），我们先以这个技术路线对接标志位的数据，上面是一个用js写的示例，你们那边可以用Python、java或者其他语言，里面的参数请商工提供一下@商轩赫
+[06:49|6] 商轩赫 <file> <file key="file_v3_0016d_064a8949-02c2-4c49-b6a0-9e3b1838554g" name="订阅接口示意.txt"/>
+[06:49|7] 商轩赫 <text> @涂福轩 徐工，你那边空了测试下，有问题再联系我
+[06:50|8] 涂福轩 <text> 收到
+
+===== CHAT: 【AI】济南服务器10.76.248.68网络权限开通沟通群 | group | oc_dcdc0598136d73012d3f6d26760e368d | msgs=8 =====
+[07:54|0] 董曹鹏 <text> @熊暾 熊工，这个需求，是不是零信任那边做
+[07:54|1] 牛振东 <post> @熊暾 熊工，OA需求单已提， ⏎ ![Image](img_v3_0216d_fc4e72b3-1fa5-4da6-ab6c-efe197105b0g)
+[07:55|2] 熊暾 <text> 是的，分一个任务给我，分一个给梁超， 我这边发布应用，梁超那边，加公网dns解析到cname.inovance.com
+[07:56|3] 董曹鹏 <text> @熊暾 那内网还需要做什么吗？
+[07:56|4] 董曹鹏 <text> 好的
+[07:57|5] 董曹鹏 <text> OK
+[07:57|6] 熊暾 <text> 内网不用了吧，内网都正常吧
+[07:57|7] 董曹鹏 <text> 正常零信任的服务器，是正常可以访问所有服务器的
+
+===== CHAT: DaaS任务无异常🀄 | group | oc_505cf9b6d65b295064ba4993368cdcec | msgs=6 =====
+[05:34|0] 金星 <post> @黄翔 dwd_isc_suzhou_output_last_production_records_a_h 这个任务帮忙看一下，状态变更不了 ⏎ ![Image](img_v3_0216d_590a2259-757d-4ab9-a3aa-c7ab774de83g)
+[05:40|1] 黄翔 <text> 这个任务是哪个空间的
+[05:40|2] 黄翔 <text> 好的。先建个问题单呗。
+[05:43|3] 金星 <text> ISC数据消费
+[05:45|4] 黄翔 <post> ![Image](img_v3_0216d_f19ceb61-d207-4027-bcfe-8706d07a525g) ⏎ 都成功拉
+[05:47|5] 金星 <post> ![Image](img_v3_0216d_8be4a38c-69e7-4bc7-bb2a-b02beba42dcg) ⏎ 10月8号的
+
+===== CHAT: 董曹鹏 | p2p | oc_b5f8a57a5cfe45e5b80c282d2f06add9 | msgs=6 =====
+[07:49|0] 董曹鹏 <text> 济南AI接线防反应用服务器内网IP：10.76.248.68 ⏎ 系统网址：http://hvrd.inovance.com/， ⏎ 已通过网络安全和IT安全检测，https://oa.inovance.com/km/review/km_review_main/kmReviewMain.do?method=view&fdId=1a0aeae530ca1d25ce28dea4587b8651 ⏎ 这个网站对外发布，只允许飞书端即可。
+[07:49|1] 董曹鹏 <text> 允许飞书端访问是什么意思
+[07:50|2] 牛振东 <text> 现在要飞书访问服务器
+[07:50|3] 牛振东 <text> 之前开的是服务器访问飞书
+[07:54|4] 牛振东 <text> 是的是的
+[07:54|5] 董曹鹏 <text> 飞书访问服务器吗？
+
+===== CHAT: 驱控中心【SOP AI自动生成项目】沟通群 | group | oc_9ebf1608d5be3a0561147e4e68c65dca | msgs=5 =====
+[08:11|0] 金垠博 <text> 换个账号吧
+[08:11|1] 金垠博 <text> 我手机被t下线了
+[08:11|2] 金垠博 <text> 糟糕
+[09:34|3] 宋海峰 <image> [Image: img_v3_0216d_1c196a23-dfe9-4bf3-acb4-b068987f778g]
+[09:34|4] 宋海峰 <image> [Image: img_v3_0216d_8c192b5c-3ba6-434d-9a78-2f6edfe8b45g]
+
+===== CHAT: 谢石 | p2p | oc_c2dacc1e079f3ce96a380d401c7566e5 | msgs=5 =====
+[05:42|0] 牛振东 <text> Hi 谢工，济南高压电缆，是哪几条线的？
+[05:43|1] 谢石 <image> [Image: img_v3_0216d_ac138ea4-4fcd-41fe-811a-e42d0d2fdc7g]
+[05:44|2] 牛振东 <text> 好嘞[啤酒]
+[05:44|3] 谢石 <text> 牛工，就是上面这几条线，然后今年试运行会在大明湖1和2线上跑
+[05:44|4] 谢石 <text> 来年铺开到其它线体
+
+===== CHAT: 何荣福 | p2p | oc_10ce303a97113687965196615c486c2b | msgs=4 =====
+[09:41|0] 何荣福 <text> 好家伙！
+[09:41|1] 何荣福 <text> 撤回了
+[09:41|2] 牛振东 <post> 何老师，发错群了 ⏎ ![Image](img_v3_0216d_faf0a4fb-4b99-44f0-a92f-98650a027fdg)
+[09:41|3] 何荣福 <text> 啊？
+
+===== CHAT: 姜志俊 | p2p | oc_40488a15e264616b47bf06d0f5676946 | msgs=4 =====
+[06:05|0] 牛振东 <text> Hi 志俊，济南线体看板服务器资源申请的OA流程，你传阅我看下，
+[06:06|1] 姜志俊 <text> 好，晚点发你哈
+[06:22|2] 牛振东 <post> **济南重大异常影响分析**的项目，也帮忙申请两台服务器吧， ⏎ ```MARKDOWN ⏎ 1. 服务器资源申请，包括应用服务器1台，数据库服务器1台； ⏎ 申请信息： ⏎ 制造产线上生产工单执行过程中可能出现各类异常（设备故障、物料短缺、质量异常、人员缺勤等），前缺乏自动化的异常监控与影响推演能力，依赖人工经验判断，响应滞后、分析不全面。现需开发智能Agent系统，实现弹弓异常监控、订单影响分析、定向通知推送等目标 ⏎ 服务器需求如下： ⏎ 应用服务器1台 ⏎ - CPU：16核，2.5GHz及以上； ⏎ - 内存：64 G ⏎ - 磁盘：500G及以上； ⏎ - 操作系统：linux系统（Rocky8.10内核kernel-4.18.0-553.120.1.el8_10.x86_64）； ⏎ 数据库服务器1台： ⏎ - CPU：16核，2.5GHz及以上； ⏎ - 内存：64 G ⏎…[TRUNC]
+[06:27|3] 牛振东 <text> 这个要尽快提[笑哭]  {quote->牛振东:**济南重大异常影响分析**的项目，也帮忙申请两台服务器吧， ⏎ ```MARKDOWN ⏎ 1. 服务器资源申请，包括}
+
+===== CHAT: 运营&使能篮球队 | group | oc_55107e95f87c4d9b42821cd55444bd35 | msgs=4 =====
+[02:53|0] 王凯 <vote> <vote> ⏎ 10/13晚19:30 运营使能VS供应链（MNK） ⏎ • 参战 ⏎ • 有事请假 ⏎ • 待定 ⏎ </vote>
+[02:55|1] 王凯 <post> ![Image](img_v3_0216d_4af168b4-a6a6-47ad-92a9-b5dfc9528d8g) ⏎ <at user_id="all"></at> 节后第一场，明晚对战MNK，很有希望拿下一场，主力队员都参加，大家投下票，搞起:Basketball:
+[12:25|2] 王凯 <text> @_all 明天记得带装备，@蔡子豪 @孙齐飞 都来哈
+[12:26|3] 蔡子豪 <text> 王哥，我这两天身体不舒服 感冒了，明天打不了哦，抱歉抱歉
+
+===== CHAT: 汇川×字节-DataWind沟通 | group | oc_7d6d8e8b7f10fb41d251a222b1a7af90 | msgs=4 =====
+[02:49|0] 周明明 <text> @火山引擎-技术支持 不同指标在同一张底表中切换是否支持
+[02:50|1] 火山引擎-技术支持 <text> @火山引擎-售后智能助手 不同指标在同一张底表中切换是否支持
+[02:51|2] 火山引擎-技术支持 <text> @周明明 老师，进群后可以先看下知识卡片的回答，不满足可以反馈下，点击手势即可，还需要我们排查可以点击 接入业务专家 哈。  {quote->om_x100b63f0fef6dd78b25d0167cd34f6f}
+[07:15|3] 赵秦雨 <text> @火山引擎-售后智能助手 智能体问题
+
+===== CHAT: ISC领域DaaS/DW平台运行反馈 | group | oc_c0302c67a5f302b090c63559c4c0843b | msgs=4 =====
+[10:19|0] 牛振东 <post> @陈小亮 Hi 陈工，这下载是回家睡觉了吗，100条记录下不动了:Lark_Emoji_Enough_0: ⏎ ![Image](img_v3_0216d_5c98836c-e43d-4825-9c18-126f1198c1eg)
+[10:28|1] 陈小亮 <post> @牛振东  ⏎ ![Image](img_v3_0216d_4d1a6adb-c080-468d-9738-8266d3538c9g) ⏎ 不是100条啦  {quote->牛振东:@陈小亮 Hi 陈工，这下载是回家睡觉了吗，100条记录下不动了:Lark_Emoji_Enough_0: ⏎ ![Im}
+[10:38|2] 牛振东 <text> @陈小亮 啊，下载是下的全部吗？不是按前面分页数？  {quote->陈小亮:@牛振东  ⏎ ![Image](img_v3_0216d_4d1a6adb-c080-468d-9738-8266d3}
+[10:50|3] 陈小亮 <text> @牛振东 是的  {quote->牛振东:@陈小亮 啊，下载是下的全部吗？不是按前面分页数？}
+
+===== CHAT: 推送监控 | group | oc_127eefba071997fecbda78dc3d991484 | msgs=3 =====
+[09:43|0] 许聪 <text> 这是发生了啥？
+[09:43|1] 许聪 <text> @石峰 咋啦？
+[09:50|2] 石峰 <text> @测试机器人 @许聪 报错跟这个一样，后面这个自动好了，后面我查查这个报错原因  {quote->om_x100b658f2705e4bcc3d101067c6379b}
+
+===== CHAT: 【济南看板】实时线体看板推进 | group | oc_3b125340b30681ee3a7a7c8173bd1c6a | msgs=3 =====
+[07:50|0] 牛振东 <text> @李炎 炎哥，两条线的 线体看板，最近观察有没有问题呢？
+[07:58|1] 李炎 <text> 暂时没有问题
+[08:02|2] 牛振东 <text> OK，那就成功告一段落。 ⏎ 感谢大家各自为了【济南实时线体看板】的付出 ！！！ ⏎ [烟花][烟花][烟花]
+
+===== CHAT: 孙桦君 | p2p | oc_b3b158b65013a0781f650a43c939faff | msgs=3 =====
+[10:51|0] 牛振东 <post> 1. 合同及时齐套发货率：isc_dws.dws_isc_ltc_sales_order_details_a_h ⏎ 2. 订单及时到货率：isc_ads.ads_isc_lgs_fulfillment_cycle_a_d
+[10:51|1] 牛振东 <file> <file key="file_v3_0016d_ce720c0e-a4cc-4d0e-8814-4555375592bg" name="合同及时齐套发货率.xlsx"/>
+[10:51|2] 牛振东 <file> <file key="file_v3_0016d_5201bcfb-9fdb-4c79-a159-546d242546eg" name="订单及时到货率.xlsx"/>
+
+===== CHAT: AI IDE 用户群 | group | oc_37e71878162e6d5b1124133179b2b0c4 | msgs=2 =====
+[06:09|0] 葛士祺 <image> [Image: img_v3_0216d_e9fd9be3-90f0-4f80-b30c-c1e2785acb2g]
+[06:09|1] 葛士祺 <text> 请aicoding 接口人督促各模块内资产沉淀进展。@傅涵 @刘擎 @郭文斌 @范浩 @卢振 @沈长江
+
+===== CHAT: ISC-OEE指标根因分析试点探索 | group | oc_574411836c87942cd157f4cad609497d | msgs=2 =====
+[02:33|0] 周刚 <text> @李家伟 李工 你们预计啥时间来苏州呀 除了OEE根因分析还有一些上次那个设备管理智能体的交流  {quote->om_x100b643a2ac994b8b2e30a344f58f7e}
+[02:34|1] 李家伟 <text> @周刚 周工，我们预计工博会后约个时间  {quote->周刚:@李家伟 李工 你们预计啥时间来苏州呀 除了OEE根因分析还有一些上次那个设备管理智能体的交流}
+
+===== CHAT: IOC项目核心成员沟通群 | group | oc_658578d7d81da560c012b73374cecfcd | msgs=2 =====
+[02:06|0] 蒋静芳 <post> ![Image](img_v3_0216d_cb23fe25-16a3-414f-a17b-65d9a10f7b5g) ⏎ @沈霜 霜霜，帮忙确认下这个是不是因为上了新系统，所以10月都没有数据啊
+[02:19|1] 沈霜 <post> @蒋静芳  ⏎ ![Image](img_v3_0216d_01dd66a5-9947-4beb-88a3-eb7911323dag)  {quote->蒋静芳:![Image](img_v3_0216d_cb23fe25-16a3-414f-a17b-65d9a10f7b5g) }
+
+===== CHAT: 牛振东 | p2p | oc_7563c348230c34c6678fb7791778b82c | msgs=2 =====
+[10:57|0] 牛振东 <text> /bi#/databot/alarmSetting ⏎ 提供解决方案的公司：埃森哲、聚思鸿、麦肯锡、IBM，再找生态 ⏎ 德塔精要、赛意：产品+实施 ⏎ 什么是AI大模型 ⏎ AI大模型算法岗：研究基座大模型（ChatGPT，Deepseek）[一般偏向大厂，数量较少，要求高：92起步]：月薪：20K-50K ⏎ AI大模型应用开发岗：基于大模型做二次开发（RAG知识库问答，微调，做Agent），岗位多，要求：大专及其以上学历：15K-35K ⏎ AI大模型数据分析岗：主要职责：给大模型训练之前，进行数据的清洗、格式转换、打标签等工作，要求：大专及其以上学历：10K-20K
+[12:39|1] 牛振东 <post> 组织、方法、规范、数据、应用 ⏎ 知识管理 → 本体建模 → 本体 → 知识图谱 → 语义层 ⏎ [https://mp.weixin.qq.com/s/66ylCg072Bs08Q8hvjZR8A](https://mp.weixin.qq.com/s/66ylCg072Bs08Q8hvjZR8A) ⏎ ![Image](img_v3_0216d_7c701235-49fa-4e9a-9bc4-fe64316eca0g)
+
+===== CHAT: IOC-AA&TA方案讨论 | group | oc_01d94e985e43e2734799e1f167343933 | msgs=1 =====
+[08:14|0] 杨润东 <text> @万向阳 @方智 @沈其磊 @冀小伟 这是上午会议会议纪要，请大家看下是否还有要补充的 ⏎ https://inovance.feishu.cn/docx/U0hIdAUptoQ3yYx0rLTcsgM4nBf
+
+===== CHAT: 金星 | p2p | oc_49a21b7af86c48352a371c2dffb226db | msgs=1 =====
+[08:11|0] 牛振东 <post> 今天说的那个问题，可以登记这里， ⏎ ![Image](img_v3_0216d_f57b1364-82d6-4eb0-bc2b-cc027985818g)
+
+===== CHAT: 实时同步POC测试 | group | oc_4f4f3c71a8b2c0a9a42dbcb38a6b78e9 | msgs=1 =====
+[07:41|0] 孟伟 <post> ![Image](img_v3_0216d_3d003d82-0008-4658-a49c-ccd311c7cf1g) ⏎ <at user_id="all"></at> 最近针对实时同步进行立项，我大概整理了一下大家的述求。大家看看还有漏掉的吗？帮忙在发给我一下
+
+===== CHAT: 【Claw】牛振东的智能助手群聊 | group | oc_5c11ab5f3bd43008d8e58cdd2d62199b | msgs=1 =====
+[09:01|0] 牛振东 <interactive> <card title="📝 每日记忆总结【Nomi】"> ⏎ </card>
+
+===== CHAT: 汇川×字节-DataWind沟通-处理中-daiwei.56-大屏 轮播器 组件，每次轮播，都会把发起所有页面请求。-业务... | group | oc_e2dae57717dd9347628ff23919edae46 | msgs=1 =====
+[10:23|0] 代威 <text> 老师，同步下这里修复的进展哈，目前研发这边在本地自测，预计下周三完成，后续发版后我这边再同步您时间[双手合十]

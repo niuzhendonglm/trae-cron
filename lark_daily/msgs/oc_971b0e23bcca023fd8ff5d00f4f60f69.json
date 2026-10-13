@@ -1,0 +1,512 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "has_more": false,
+    "messages": [
+      {
+        "chat_id": "oc_971b0e23bcca023fd8ff5d00f4f60f69",
+        "content": "![Image](img_v3_0216d_1ff75688-d6dd-4293-9383-5ecc267cba6g)\n@刘宏宇 宏宇，SFM看板是统一用8月左右你发我的链接，图示风格吧？如果是的话，导轨 SFM 看板风格也保持一致，只是指标按业务需求来设计。",
+        "create_time": "2026-10-12 00:49",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_c8afe8aab3f80a020c356c0ca46a12ce",
+            "key": "@_user_1",
+            "name": "刘宏宇"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_971b0e23bcca023fd8ff5d00f4f60f69\u0026position=229",
+        "message_id": "om_x100b63f6a92f74a4b10171aa72ddc38",
+        "message_position": "229",
+        "msg_type": "post",
+        "sender": {
+          "id": "ou_a2f5396871c8e8b1721147548ab4aee3",
+          "id_type": "open_id",
+          "name": "雷志玲",
+          "sender_i18n_names": {
+            "en_us": "leizhiling"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-12 00:49",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_971b0e23bcca023fd8ff5d00f4f60f69",
+        "content": "![Image](img_v3_0216d_f30cd148-2bbd-46fb-b2ab-cc4ac7d47c9g)\n顾工说改过了设计，是按上面的，还是这个啊",
+        "create_time": "2026-10-12 00:51",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_971b0e23bcca023fd8ff5d00f4f60f69\u0026position=230",
+        "message_id": "om_x100b63f6bc2638bcb4bc68984b9c645",
+        "message_position": "230",
+        "msg_type": "post",
+        "sender": {
+          "id": "ou_a2f5396871c8e8b1721147548ab4aee3",
+          "id_type": "open_id",
+          "name": "雷志玲",
+          "sender_i18n_names": {
+            "en_us": "leizhiling"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_971b0e23bcca023fd8ff5d00f4f60f69",
+        "content": "目前不是很确定，IOC项目组在拉IT评估优化方案",
+        "create_time": "2026-10-12 00:53",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_971b0e23bcca023fd8ff5d00f4f60f69\u0026position=231",
+        "message_id": "om_x100b63f6b6159cb4c3908ad7ea203ad",
+        "message_position": "231",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_c8afe8aab3f80a020c356c0ca46a12ce",
+          "id_type": "open_id",
+          "name": "刘宏宇",
+          "sender_i18n_names": {
+            "en_us": "liuhongyu"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-12 00:53",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_971b0e23bcca023fd8ff5d00f4f60f69",
+        "content": "这个优化方案，大概什么时候可以最终定下来的，项目组有计划时间么",
+        "create_time": "2026-10-12 00:56",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_971b0e23bcca023fd8ff5d00f4f60f69\u0026position=232",
+        "message_id": "om_x100b63f74cfdd4a8b4b794e24933ce2",
+        "message_position": "232",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_a2f5396871c8e8b1721147548ab4aee3",
+          "id_type": "open_id",
+          "name": "雷志玲",
+          "sender_i18n_names": {
+            "en_us": "leizhiling"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_971b0e23bcca023fd8ff5d00f4f60f69",
+        "content": "[Image: img_v3_0216d_717339ad-bb5d-461b-bc76-104efaf3b6ag]",
+        "create_time": "2026-10-12 00:56",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_971b0e23bcca023fd8ff5d00f4f60f69\u0026position=233",
+        "message_id": "om_x100b63f74a476cb0c3262205b68504f",
+        "message_position": "233",
+        "msg_type": "image",
+        "sender": {
+          "id": "ou_c8afe8aab3f80a020c356c0ca46a12ce",
+          "id_type": "open_id",
+          "name": "刘宏宇",
+          "sender_i18n_names": {
+            "en_us": "liuhongyu"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_971b0e23bcca023fd8ff5d00f4f60f69",
+        "content": "具体要问项目组了，这个需求目前已经不在我们这边了",
+        "create_time": "2026-10-12 00:57",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_971b0e23bcca023fd8ff5d00f4f60f69\u0026position=234",
+        "message_id": "om_x100b63f74b01c4a4c2f919432548b47",
+        "message_position": "234",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_c8afe8aab3f80a020c356c0ca46a12ce",
+          "id_type": "open_id",
+          "name": "刘宏宇",
+          "sender_i18n_names": {
+            "en_us": "liuhongyu"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_971b0e23bcca023fd8ff5d00f4f60f69",
+        "content": "我以为SFM看板只是指标优化，连界面风格这些变啊，这都10月了呢",
+        "create_time": "2026-10-12 01:00",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_971b0e23bcca023fd8ff5d00f4f60f69\u0026position=235",
+        "message_id": "om_x100b63f75cba8884b277217630f4779",
+        "message_position": "235",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_a2f5396871c8e8b1721147548ab4aee3",
+          "id_type": "open_id",
+          "name": "雷志玲",
+          "sender_i18n_names": {
+            "en_us": "leizhiling"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_971b0e23bcca023fd8ff5d00f4f60f69",
+        "content": "@刘宏宇 宏宇，这个只是顾工设计了UI界面，还没评审，datawind还没开发的吧",
+        "create_time": "2026-10-12 01:02",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_c8afe8aab3f80a020c356c0ca46a12ce",
+            "key": "@_user_1",
+            "name": "刘宏宇"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_971b0e23bcca023fd8ff5d00f4f60f69\u0026position=236",
+        "message_id": "om_x100b63f75410c8a4b24513201c3ccbd",
+        "message_position": "236",
+        "msg_type": "text",
+        "reply_to": "om_x100b63f6bc2638bcb4bc68984b9c645",
+        "sender": {
+          "id": "ou_a2f5396871c8e8b1721147548ab4aee3",
+          "id_type": "open_id",
+          "name": "雷志玲",
+          "sender_i18n_names": {
+            "en_us": "leizhiling"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-12 01:02",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_971b0e23bcca023fd8ff5d00f4f60f69",
+        "content": "顾工设计的内容是根据驱控中心的需求来输出的",
+        "create_time": "2026-10-12 01:06",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_971b0e23bcca023fd8ff5d00f4f60f69\u0026position=237",
+        "message_id": "om_x100b63f7693a5cacc47614ba9e78901",
+        "message_position": "237",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_c8afe8aab3f80a020c356c0ca46a12ce",
+          "id_type": "open_id",
+          "name": "刘宏宇",
+          "sender_i18n_names": {
+            "en_us": "liuhongyu"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_971b0e23bcca023fd8ff5d00f4f60f69",
+        "content": "是的，我知道，我想知道驱控优化的节点情况，现在情况是，驱控提了需求，顾工UI界面设计好了，还没终评审，datawind还没开发的是吧",
+        "create_time": "2026-10-12 01:07",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_971b0e23bcca023fd8ff5d00f4f60f69\u0026position=238",
+        "message_id": "om_x100b63f76323f8b8b4be5e9fd7f57d5",
+        "message_position": "238",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_a2f5396871c8e8b1721147548ab4aee3",
+          "id_type": "open_id",
+          "name": "雷志玲",
+          "sender_i18n_names": {
+            "en_us": "leizhiling"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-12 01:07",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_971b0e23bcca023fd8ff5d00f4f60f69",
+        "content": "节点就是IOC这边在拉IT评估优化方案呀，具体要怎么开发目前还不清楚",
+        "create_time": "2026-10-12 01:09",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_971b0e23bcca023fd8ff5d00f4f60f69\u0026position=239",
+        "message_id": "om_x100b63f77a5814a0ddc8f3e6601b877",
+        "message_position": "239",
+        "msg_type": "text",
+        "reply_to": "om_x100b63f74a476cb0c3262205b68504f",
+        "sender": {
+          "id": "ou_c8afe8aab3f80a020c356c0ca46a12ce",
+          "id_type": "open_id",
+          "name": "刘宏宇",
+          "sender_i18n_names": {
+            "en_us": "liuhongyu"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_971b0e23bcca023fd8ff5d00f4f60f69",
+        "content": "如果驱控时间很长，来不急，我们就先用之前的风格设计了，后面再优化吧",
+        "create_time": "2026-10-12 01:09",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_971b0e23bcca023fd8ff5d00f4f60f69\u0026position=240",
+        "message_id": "om_x100b63f77be374acb20e04ca258f437",
+        "message_position": "240",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_a2f5396871c8e8b1721147548ab4aee3",
+          "id_type": "open_id",
+          "name": "雷志玲",
+          "sender_i18n_names": {
+            "en_us": "leizhiling"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_971b0e23bcca023fd8ff5d00f4f60f69",
+        "content": "\u003cp\u003e现在新的风格，再开发，南京还要等他们上线，今年怕没希望了\u003c/p\u003e",
+        "create_time": "2026-10-12 01:10",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_971b0e23bcca023fd8ff5d00f4f60f69\u0026position=241",
+        "message_id": "om_x100b63f774e4b08cb2719934dd27536",
+        "message_position": "241",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_a2f5396871c8e8b1721147548ab4aee3",
+          "id_type": "open_id",
+          "name": "雷志玲",
+          "sender_i18n_names": {
+            "en_us": "leizhiling"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-12 01:11",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_971b0e23bcca023fd8ff5d00f4f60f69",
+        "content": "@顾锦 顾工，南京导轨的SFM看板，先用之前开发好的风格设计，岳阳等工厂现在也还是在用这个版本",
+        "create_time": "2026-10-12 01:14",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_1e7a50964769f560cfe974c3ed14b112",
+            "key": "@_user_1",
+            "name": "顾锦"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_971b0e23bcca023fd8ff5d00f4f60f69\u0026position=242",
+        "message_id": "om_x100b63f709d9b4b0b1df110d2f36f67",
+        "message_position": "242",
+        "msg_type": "text",
+        "reply_to": "om_x100b63f6a92f74a4b10171aa72ddc38",
+        "sender": {
+          "id": "ou_a2f5396871c8e8b1721147548ab4aee3",
+          "id_type": "open_id",
+          "name": "雷志玲",
+          "sender_i18n_names": {
+            "en_us": "leizhiling"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-12 01:14",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_971b0e23bcca023fd8ff5d00f4f60f69",
+        "content": "@雷志玲 这个风格？",
+        "create_time": "2026-10-12 01:14",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_a2f5396871c8e8b1721147548ab4aee3",
+            "key": "@_user_1",
+            "name": "雷志玲"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_971b0e23bcca023fd8ff5d00f4f60f69\u0026position=243",
+        "message_id": "om_x100b63f707e3a0a4de25b4c57145f1d",
+        "message_position": "243",
+        "msg_type": "text",
+        "reply_to": "om_x100b63f6a92f74a4b10171aa72ddc38",
+        "sender": {
+          "id": "ou_1e7a50964769f560cfe974c3ed14b112",
+          "id_type": "open_id",
+          "name": "顾锦",
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-12 01:14",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_971b0e23bcca023fd8ff5d00f4f60f69",
+        "content": "驱控的等他们开发好后，我们看一下他们上线使用情况，如果可以再优化",
+        "create_time": "2026-10-12 01:15",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_971b0e23bcca023fd8ff5d00f4f60f69\u0026position=244",
+        "message_id": "om_x100b63f707a198a4b170210e28d36de",
+        "message_position": "244",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_a2f5396871c8e8b1721147548ab4aee3",
+          "id_type": "open_id",
+          "name": "雷志玲",
+          "sender_i18n_names": {
+            "en_us": "leizhiling"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_971b0e23bcca023fd8ff5d00f4f60f69",
+        "content": "@顾锦 @刘宏宇 \n是的，用这版datawind已经开发好使用的设计，后面驱控新风格开发上线不确定，时间等不了，等SFM整体风格定版后再迭代。\n![Image](img_v3_0216d_6b1daee7-effd-4e17-a2e1-b76d3248a08g)",
+        "create_time": "2026-10-12 01:18",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_1e7a50964769f560cfe974c3ed14b112",
+            "key": "@_user_1",
+            "name": "顾锦"
+          },
+          {
+            "id": "ou_c8afe8aab3f80a020c356c0ca46a12ce",
+            "key": "@_user_2",
+            "name": "刘宏宇"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_971b0e23bcca023fd8ff5d00f4f60f69\u0026position=245",
+        "message_id": "om_x100b63f719ead8b4b2eeef954555a55",
+        "message_position": "245",
+        "msg_type": "post",
+        "reply_to": "om_x100b63f707e3a0a4de25b4c57145f1d",
+        "sender": {
+          "id": "ou_a2f5396871c8e8b1721147548ab4aee3",
+          "id_type": "open_id",
+          "name": "雷志玲",
+          "sender_i18n_names": {
+            "en_us": "leizhiling"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-12 01:18",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_971b0e23bcca023fd8ff5d00f4f60f69",
+        "content": "这版我这边是没有设计的，应该是系统默认的",
+        "create_time": "2026-10-12 01:19",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_971b0e23bcca023fd8ff5d00f4f60f69\u0026position=246",
+        "message_id": "om_x100b63f714dc70b4c12816da3e3035d",
+        "message_position": "246",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_1e7a50964769f560cfe974c3ed14b112",
+          "id_type": "open_id",
+          "name": "顾锦",
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_971b0e23bcca023fd8ff5d00f4f60f69",
+        "content": "南京需求指标不同、图形不同，要帮设计一下具体的指标",
+        "create_time": "2026-10-12 01:20",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_971b0e23bcca023fd8ff5d00f4f60f69\u0026position=247",
+        "message_id": "om_x100b63f71374b0acb34d9c8b6dd1bcd",
+        "message_position": "247",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_a2f5396871c8e8b1721147548ab4aee3",
+          "id_type": "open_id",
+          "name": "雷志玲",
+          "sender_i18n_names": {
+            "en_us": "leizhiling"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_971b0e23bcca023fd8ff5d00f4f60f69",
+        "content": "[Image: img_v3_0216d_66343108-ef10-42b4-b70d-ddfb97a4eb1g]",
+        "create_time": "2026-10-12 01:22",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_971b0e23bcca023fd8ff5d00f4f60f69\u0026position=248",
+        "message_id": "om_x100b63f729d32870b1f9e9f83fd76eb",
+        "message_position": "248",
+        "msg_type": "image",
+        "sender": {
+          "id": "ou_a2f5396871c8e8b1721147548ab4aee3",
+          "id_type": "open_id",
+          "name": "雷志玲",
+          "sender_i18n_names": {
+            "en_us": "leizhiling"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_971b0e23bcca023fd8ff5d00f4f60f69",
+        "content": "@雷志玲 那我这边设计下具体模块里面的内容，模块外的样式就不动了",
+        "create_time": "2026-10-12 02:08",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_a2f5396871c8e8b1721147548ab4aee3",
+            "key": "@_user_1",
+            "name": "雷志玲"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_971b0e23bcca023fd8ff5d00f4f60f69\u0026position=249",
+        "message_id": "om_x100b63f05f4b7088c282e29f68cf307",
+        "message_position": "249",
+        "msg_type": "text",
+        "reply_to": "om_x100b63f71374b0acb34d9c8b6dd1bcd",
+        "sender": {
+          "id": "ou_1e7a50964769f560cfe974c3ed14b112",
+          "id_type": "open_id",
+          "name": "顾锦",
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-12 02:08",
+        "updated": true
+      }
+    ],
+    "page_token": "",
+    "total": 21
+  },
+  "meta": {
+    "pagination": {
+      "complete": true,
+      "pages": 1,
+      "items": 21
+    }
+  }
+}

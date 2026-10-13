@@ -1,0 +1,109 @@
+{
+  "manifest_version": "v1",
+  "format": "ndjson",
+  "base_token": "KezfbQ2fDaNBonskSTZcM3YVnWf",
+  "table_id": "tblrHaPTUI8x71ot",
+  "rev": 392,
+  "timezone": "Asia/Shanghai",
+  "query_context": {
+    "field_scope": "all_fields",
+    "record_scope": "all_records"
+  },
+  "requested_limit": 2000,
+  "records_count": 189,
+  "page_count": 1,
+  "has_more": false,
+  "record_file": "/workspace/lark_daily/qa_history_all.ndjson",
+  "record_file_size_bytes": 106517,
+  "manifest_file": "/workspace/lark_daily/qa_history_all.manifest.json",
+  "columns": {
+    "AI回复": {
+      "field_id": "fldtSg9R3M",
+      "field_type": "text",
+      "physical_type": "string|null",
+      "stats": {
+        "null_count": 176,
+        "max_length": 257
+      },
+      "example": "可以。操作建议：将黄金钢的账号加入设备驾驶舱管理员用户组，添加后请其刷新页面验证菜单与数据可见性；同时按最小权限原则仅开通本次所需权限，并在权限台账中登记该次权限变更，到期或使用结束后及时回收。"
+    },
+    "Answer": {
+      "field_id": "fldGVRHmev",
+      "field_type": "text",
+      "physical_type": "string|null",
+      "stats": {
+        "null_count": 0,
+        "max_length": 1881
+      },
+      "example": "这不都是1"
+    },
+    "Question": {
+      "field_id": "flduTpz0TC",
+      "field_type": "text",
+      "physical_type": "string|null",
+      "stats": {
+        "null_count": 0,
+        "max_length": 1500
+      },
+      "example": "谁在做？"
+    },
+    "record_id": {
+      "physical_type": "string",
+      "stats": {
+        "max_length": 14
+      },
+      "example": "recvxTA14wuL9U"
+    },
+    "回复人": {
+      "field_id": "fldL8QOn5x",
+      "field_type": "text",
+      "physical_type": "string|null",
+      "stats": {
+        "null_count": 0,
+        "max_length": 21
+      },
+      "example": "黄翔"
+    },
+    "提问人": {
+      "field_id": "fldY017GaS",
+      "field_type": "text",
+      "physical_type": "string|null",
+      "stats": {
+        "null_count": 0,
+        "max_length": 15
+      },
+      "example": "hhh"
+    },
+    "文本": {
+      "field_id": "fldyixshzh",
+      "field_type": "text",
+      "physical_type": "string|null",
+      "stats": {
+        "null_count": 0,
+        "max_length": 3000
+      },
+      "example": "谁在做？"
+    },
+    "问题日期": {
+      "field_id": "fldVyCiJ2m",
+      "field_type": "datetime",
+      "physical_type": "string|null",
+      "stats": {
+        "null_count": 0,
+        "min": "2025-10-13T01:08:01.000+08:00",
+        "max": "2026-10-12T15:06:00.000+08:00"
+      },
+      "example": "2025-10-13T12:46:35.000+08:00"
+    },
+    "问题类型": {
+      "field_id": "fldZ8OCMiW",
+      "field_type": "text",
+      "physical_type": "string|null",
+      "stats": {
+        "null_count": 0,
+        "max_length": 4
+      },
+      "example": "技术讨论"
+    }
+  }
+}

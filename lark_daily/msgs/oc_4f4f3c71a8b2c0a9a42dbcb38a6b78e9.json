@@ -1,0 +1,40 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "has_more": false,
+    "messages": [
+      {
+        "chat_id": "oc_4f4f3c71a8b2c0a9a42dbcb38a6b78e9",
+        "content": "![Image](img_v3_0216d_3d003d82-0008-4658-a49c-ccd311c7cf1g)\n\u003cat user_id=\"all\"\u003e\u003c/at\u003e 最近针对实时同步进行立项，我大概整理了一下大家的述求。大家看看还有漏掉的吗？帮忙在发给我一下",
+        "create_time": "2026-10-12 07:41",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_4f4f3c71a8b2c0a9a42dbcb38a6b78e9\u0026position=74",
+        "message_id": "om_x100b63fcbade78b8b30a434debaab40",
+        "message_position": "74",
+        "msg_type": "post",
+        "sender": {
+          "id": "ou_1d5bbfeea5d0c672e91e70ff32b6e96f",
+          "id_type": "open_id",
+          "name": "孟伟",
+          "sender_i18n_names": {
+            "en_us": "mengwei"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-12 07:41",
+        "updated": true
+      }
+    ],
+    "page_token": "",
+    "total": 1
+  },
+  "meta": {
+    "pagination": {
+      "complete": true,
+      "pages": 1,
+      "items": 1
+    }
+  }
+}

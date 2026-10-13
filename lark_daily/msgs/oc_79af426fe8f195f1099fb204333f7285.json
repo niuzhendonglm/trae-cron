@@ -1,0 +1,828 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "has_more": false,
+    "messages": [
+      {
+        "chat_id": "oc_79af426fe8f195f1099fb204333f7285",
+        "content": "@雷嘉勋 \n![Image](img_v3_0216d_16ea3d9b-c1ec-4288-8e47-54172114312g)\n雷工，你好，我的也是更新了版本就不能使用了，这个要怎么处理一下？",
+        "create_time": "2026-10-12 01:19",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_692aaa0a6c9c7fa178d04b4b942483cf",
+            "key": "@_user_1",
+            "name": "雷嘉勋"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_79af426fe8f195f1099fb204333f7285\u0026position=4564",
+        "message_id": "om_x100b63f716593cc8b0332b9f72aad70",
+        "message_position": "4564",
+        "msg_type": "post",
+        "sender": {
+          "id": "ou_3eeb769ad4b88dc01b060b3733444844",
+          "id_type": "open_id",
+          "name": "杨浩",
+          "sender_i18n_names": {
+            "en_us": "yanghao"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-12 01:19",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_79af426fe8f195f1099fb204333f7285",
+        "content": "![Image](img_v3_0216d_c023c79d-c427-4278-90ac-9dcf13b83d3g)\n李工，帮忙看下报错是什么原因@李虹",
+        "create_time": "2026-10-12 01:20",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_5f259a11149e8f92df0e2141b8b507c3",
+            "key": "@_user_1",
+            "name": "李虹"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_79af426fe8f195f1099fb204333f7285\u0026position=4565",
+        "message_id": "om_x100b63f7129f6ca0c11e9b01db8e814",
+        "message_position": "4565",
+        "msg_type": "post",
+        "sender": {
+          "id": "ou_43366337a59f42996db31500ce376fb8",
+          "id_type": "open_id",
+          "name": "范蓉蓉",
+          "sender_i18n_names": {
+            "en_us": "fanrongrong"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-12 01:20",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_79af426fe8f195f1099fb204333f7285",
+        "content": "\u003cp\u003e收到，看下原因稍后联系你们\u003c/p\u003e",
+        "create_time": "2026-10-12 01:23",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_79af426fe8f195f1099fb204333f7285\u0026position=4566",
+        "message_id": "om_x100b63f726cd60b0b3b017d6bb0b704",
+        "message_position": "4566",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_5f259a11149e8f92df0e2141b8b507c3",
+          "id_type": "open_id",
+          "name": "李虹",
+          "sender_i18n_names": {
+            "en_us": "lihong"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-12 01:23",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_79af426fe8f195f1099fb204333f7285",
+        "content": "[Invalid image JSON]",
+        "create_time": "2026-10-12 01:23",
+        "deleted": true,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_79af426fe8f195f1099fb204333f7285\u0026position=4567",
+        "message_id": "om_x100b63f726221ca8b16581ab3fa4aee",
+        "message_position": "4567",
+        "msg_type": "image",
+        "sender": {
+          "id": "ou_9281a23d6836fa0c540102c9a521df03",
+          "id_type": "open_id",
+          "name": "管颖智",
+          "sender_i18n_names": {
+            "en_us": "guanyingzhi"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_79af426fe8f195f1099fb204333f7285",
+        "content": "@李虹 新版本无法置顶，是bug还是个体现象，点了置顶，有提示置顶成功，但实际没有动作",
+        "create_time": "2026-10-12 01:35",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_5f259a11149e8f92df0e2141b8b507c3",
+            "key": "@_user_1",
+            "name": "李虹"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_79af426fe8f195f1099fb204333f7285\u0026position=4568",
+        "message_id": "om_x100b63f7dbb2dcb8c4f016ad93a0e63",
+        "message_position": "4568",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_5855d96f6563adf05870d0ffa383b9c1",
+          "id_type": "open_id",
+          "name": "翁小飞",
+          "sender_i18n_names": {
+            "en_us": "Ba Loo"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-12 01:35",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_79af426fe8f195f1099fb204333f7285",
+        "content": "问下 mcp已经通过id-jap云端方式部署上去了，但是没法发布到市场 请问这块是能力bug 还是功能还没有完善？",
+        "create_time": "2026-10-12 01:52",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_79af426fe8f195f1099fb204333f7285\u0026position=4569",
+        "message_id": "om_x100b63f7985abca4b15a867b7dc0e41",
+        "message_position": "4569",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_cb2cee73a2a030e8a2550255b373e3ce",
+          "id_type": "open_id",
+          "name": "李春维",
+          "sender_i18n_names": {
+            "en_us": "lichunwei"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_79af426fe8f195f1099fb204333f7285",
+        "content": "@李春维 更新一下",
+        "create_time": "2026-10-12 02:10",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_cb2cee73a2a030e8a2550255b373e3ce",
+            "key": "@_user_1",
+            "name": "李春维"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_79af426fe8f195f1099fb204333f7285\u0026position=4570",
+        "message_id": "om_x100b63f055f3e4a8c11c7edc5b09572",
+        "message_position": "4570",
+        "msg_type": "text",
+        "reply_to": "om_x100b63f7985abca4b15a867b7dc0e41",
+        "sender": {
+          "id": "ou_9ef7b0ab2ae8ff0b0f27af10f9383c3e",
+          "id_type": "open_id",
+          "name": "郭文庆",
+          "sender_i18n_names": {
+            "en_us": "guowenqing"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-12 02:11",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_79af426fe8f195f1099fb204333f7285",
+        "content": "![Image](img_v3_0216d_b2e702b4-fc8b-4e92-913f-1c382a79800g)\n请问inoclaw的这个选项框在哪关掉呢？有时会突然弹出来，偶尔还会占用我的ctrl键位；CV很不方便",
+        "create_time": "2026-10-12 03:10",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_79af426fe8f195f1099fb204333f7285\u0026position=4572",
+        "message_id": "om_x100b63f0b2fe1ca0c3bdb69be65efc7",
+        "message_position": "4572",
+        "msg_type": "post",
+        "sender": {
+          "id": "ou_0db2f32caf16282348e84b5620209b59",
+          "id_type": "open_id",
+          "name": "余梦圆",
+          "sender_i18n_names": {
+            "en_us": "yumengyuan"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_79af426fe8f195f1099fb204333f7285",
+        "content": "[Invalid text JSON]",
+        "create_time": "2026-10-12 03:11",
+        "deleted": true,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_79af426fe8f195f1099fb204333f7285\u0026position=4573",
+        "message_id": "om_x100b63f0b3e9dca0ddac43a14a279d3",
+        "message_position": "4573",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_0db2f32caf16282348e84b5620209b59",
+          "id_type": "open_id",
+          "name": "余梦圆",
+          "sender_i18n_names": {
+            "en_us": "yumengyuan"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-12 03:11",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_79af426fe8f195f1099fb204333f7285",
+        "content": "\u003ccard\u003e\n你好，余梦圆！我是 **InoAI**，你的问题解决助手。\n\n我看到你@了我，请问有什么我可以帮你的？无论是工作上的问题、技术难题，还是日常需要处理的事情，都可以告诉我，我会尽力帮你解决。 😊\n\u003c/card\u003e",
+        "create_time": "2026-10-12 03:11",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_79af426fe8f195f1099fb204333f7285\u0026position=4574",
+        "message_id": "om_x100b63f0b38f40b4dd8f6864c5dd770",
+        "message_position": "4574",
+        "msg_type": "interactive",
+        "reply_to": "om_x100b63f0b3e9dca0ddac43a14a279d3",
+        "sender": {
+          "id": "cli_a6923266569a900b",
+          "id_type": "app_id",
+          "name": "InoAI",
+          "open_bot_id": "ou_c07ea47f247dd9910ace099eb9725088",
+          "sender_i18n_names": {
+            "en_us": "InoAI",
+            "zh_cn": "InoAI"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-12 03:12",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_79af426fe8f195f1099fb204333f7285",
+        "content": "@InoAI  翻译悬浮框怎么关闭",
+        "create_time": "2026-10-12 03:15",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_c07ea47f247dd9910ace099eb9725088",
+            "key": "@_user_1",
+            "name": "InoAI"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_79af426fe8f195f1099fb204333f7285\u0026position=4575",
+        "message_id": "om_x100b63f145530898b32085a08095943",
+        "message_position": "4575",
+        "msg_type": "text",
+        "reply_to": "om_x100b63f0b2fe1ca0c3bdb69be65efc7",
+        "sender": {
+          "id": "ou_509e6c0dd49deec5ebea6f705f881e81",
+          "id_type": "open_id",
+          "name": "李炎杰",
+          "sender_i18n_names": {
+            "en_us": "liyanjie"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-12 03:15",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_79af426fe8f195f1099fb204333f7285",
+        "content": "\u003ccard\u003e\n我来帮你解决这个问题。首先让我查看一下你上传的截图，同时搜索知识库了解相关信息。根据截图分析和知识库检索，我来回答您的问题。## 问题分析从截图来看，您看到的是在**文件资源管理器**中选中文件后弹出的一个**右键快捷菜单（悬浮框）**，里面包含：\n- **去提问**\n- **翻译**\n- **复制**这个悬浮菜单是 InoClaw 的**桌面右键集成功能**。它会在您选中文件或右键点击时弹出，其中\"翻译\"选项可以快速对选中内容进行翻译。\n\n关于您提到的\"**偶尔占用Ctrl键位**\"的问题 — 这很可能是因为该悬浮框在弹出时会拦截或注册快捷键，导致您的 **Ctrl+C / Ctrl+V** 等复制粘贴操作受到了干扰。## 如何关闭这个悬浮框根据知识库资料，这个功能与 InoClaw 的**桌面悬浮助手**相关。关闭步骤如下：\n1. 打开 **InoClaw** 客户端\n2. 点击底部**账号区 → 设置**（或按 `Ctrl + ,`）\n3. 进入 **inoClaw实验室**（如果版本较老则叫\"实验室\"）\n4. 找到 **\"桌面悬浮助手\"** 开关\n5. **关闭该开关** — 桌面不再显示悬浮球/选项框\u003e ⚠️ **注意**：关闭\"桌面悬浮助手\"后，桌面悬浮球和**这个选中文件时弹出的快捷菜单**都会一并关闭。## 补充说明- 如果关闭桌面悬浮助手后问题仍未解决，也可以检查 **设置 → 快捷键** 页面，看是否有快捷键被 InoClaw 占用，可以将其修改或清空。\n- 如果只是想临时关闭，也可以右键悬浮球选择\"隐藏\"。您先试试关闭**桌面悬浮助手**这个开关，应该就能解决弹窗和Ctrl键占用的问题。如果还有其他疑问，欢迎继续问我！\n\u003c/card\u003e",
+        "create_time": "2026-10-12 03:15",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_79af426fe8f195f1099fb204333f7285\u0026position=4576",
+        "message_id": "om_x100b63f14519bcbcc3263a3aad990fb",
+        "message_position": "4576",
+        "msg_type": "interactive",
+        "reply_to": "om_x100b63f145530898b32085a08095943",
+        "sender": {
+          "id": "cli_a6923266569a900b",
+          "id_type": "app_id",
+          "name": "InoAI",
+          "open_bot_id": "ou_c07ea47f247dd9910ace099eb9725088",
+          "sender_i18n_names": {
+            "en_us": "InoAI",
+            "zh_cn": "InoAI"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-12 03:15",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_79af426fe8f195f1099fb204333f7285",
+        "content": "@余梦圆",
+        "create_time": "2026-10-12 03:15",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_0db2f32caf16282348e84b5620209b59",
+            "key": "@_user_1",
+            "name": "余梦圆"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_79af426fe8f195f1099fb204333f7285\u0026position=4577",
+        "message_id": "om_x100b63f1407d1080b482930daaf371b",
+        "message_position": "4577",
+        "msg_type": "text",
+        "reply_to": "om_x100b63f0b2fe1ca0c3bdb69be65efc7",
+        "sender": {
+          "id": "ou_509e6c0dd49deec5ebea6f705f881e81",
+          "id_type": "open_id",
+          "name": "李炎杰",
+          "sender_i18n_names": {
+            "en_us": "liyanjie"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-12 03:15",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_79af426fe8f195f1099fb204333f7285",
+        "content": "@InoAI InnClaw 的下载地址是多少",
+        "create_time": "2026-10-12 03:16",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_c07ea47f247dd9910ace099eb9725088",
+            "key": "@_user_1",
+            "name": "InoAI"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_79af426fe8f195f1099fb204333f7285\u0026position=4578",
+        "message_id": "om_x100b63f15e3768acc290b6700c97c19",
+        "message_position": "4578",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_30d1651374f59841f244e3aa636f93f7",
+          "id_type": "open_id",
+          "name": "朱琪明",
+          "sender_i18n_names": {
+            "en_us": "zhuqiming"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-12 03:16",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_79af426fe8f195f1099fb204333f7285",
+        "content": "\u003ccard\u003e\nLet me search the knowledge base for information about Inclaw's download address.根据知识库中的信息，我找到了 **InoClaw** 的相关下载和安装信息：---### Windows 客户端关于 Windows 版 InoClaw 的下载地址，知识库中已有的信息是 **WebView2 离线安装包** 的下载地址（用于无外网电脑修复 WebView 报错）：```plain_text\nhttps://inoai-s3.inovance.com/inoai-prod-public/desktop/webview/0/S3/e40e36f22f8f446395f50dba10d7d78f@MicrosoftEdgeWebView2RuntimeInstallerX64.exe```\n不过，这个并不是 InoClaw 客户端的下载地址。知识库中暂时没有直接列出 **InoClaw 客户端主程序的下载地址**。\n\n建议您可以通过以下途径获取 InoClaw 客户端的下载地址：\n1. 访问 **InoClaw 快速开始** 文档获取下载链接：\n[https://inovance.feishu.cn/wiki/AdVVwJmWDiF8EjkGVGucgVt2nOb](https://inovance.feishu.cn/wiki/AdVVwJmWDiF8EjkGVGucgVt2nOb)\n2. 如果您是 **Mac 用户**，可以参考 **InoClaw Mac 安装** 文档：\n[https://inovance.feishu.cn/wiki/WV18w2TeeimC5xkKVIQceSpDnUf](https://inovance.feishu.cn/wiki/WV18w2TeeimC5xkKVIQceSpDnUf)\n3. 也可以查看 **InoClaw 使用 Q\u0026A** 文档，里面可能包含更多下载相关信息：\n[https://inovance.feishu.cn/wiki/I2ijwYqTjiHSqck7WQScGPWTnNf](https://inovance.feishu.cn/wiki/I2ijwYqTjiHSqck7WQScGPWTnNf)需要我帮您进一步查找具体的客户端下载链接吗？\n\u003c/card\u003e",
+        "create_time": "2026-10-12 03:16",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_79af426fe8f195f1099fb204333f7285\u0026position=4579",
+        "message_id": "om_x100b63f15fdaaca8c273d4388dd08a8",
+        "message_position": "4579",
+        "msg_type": "interactive",
+        "reply_to": "om_x100b63f15e3768acc290b6700c97c19",
+        "sender": {
+          "id": "cli_a6923266569a900b",
+          "id_type": "app_id",
+          "name": "InoAI",
+          "open_bot_id": "ou_c07ea47f247dd9910ace099eb9725088",
+          "sender_i18n_names": {
+            "en_us": "InoAI",
+            "zh_cn": "InoAI"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-12 03:17",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_79af426fe8f195f1099fb204333f7285",
+        "content": "[Invalid text JSON]",
+        "create_time": "2026-10-12 03:22",
+        "deleted": true,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_79af426fe8f195f1099fb204333f7285\u0026position=4580",
+        "message_id": "om_x100b63f16901c4acb4a1b1c989942dc",
+        "message_position": "4580",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_692aaa0a6c9c7fa178d04b4b942483cf",
+          "id_type": "open_id",
+          "name": "雷嘉勋",
+          "sender_i18n_names": {
+            "en_us": "lei"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-12 03:23",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_79af426fe8f195f1099fb204333f7285",
+        "content": "[nonsupport]",
+        "create_time": "2026-10-12 03:22",
+        "deleted": true,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_79af426fe8f195f1099fb204333f7285\u0026position=4581",
+        "message_id": "om_x100b63f169254880c31c28c19254a84",
+        "message_position": "4581",
+        "msg_type": "nonsupport",
+        "reply_to": "om_x100b63f16901c4acb4a1b1c989942dc",
+        "sender": {
+          "id": "cli_a6923266569a900b",
+          "id_type": "app_id",
+          "name": "InoAI",
+          "open_bot_id": "ou_c07ea47f247dd9910ace099eb9725088",
+          "sender_i18n_names": {
+            "en_us": "InoAI",
+            "zh_cn": "InoAI"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-12 03:23",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_79af426fe8f195f1099fb204333f7285",
+        "content": "@InoAI 我发送信息没回得到回应是因为什么",
+        "create_time": "2026-10-12 04:49",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_c07ea47f247dd9910ace099eb9725088",
+            "key": "@_user_1",
+            "name": "InoAI"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_79af426fe8f195f1099fb204333f7285\u0026position=4583",
+        "message_id": "om_x100b63f223d3b0a4c3e8efab672cc7f",
+        "message_position": "4583",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_f2e6d8f9b003de9c7ebac891cb29b4ce",
+          "id_type": "open_id",
+          "name": "胡迪",
+          "sender_i18n_names": {
+            "en_us": "hudi"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-12 04:49",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_79af426fe8f195f1099fb204333f7285",
+        "content": "\u003ccard\u003e\n您好！您的问题是关于\"发送信息没有收到回应\"的原因。让我先尝试理解一下情况。\n\n请问您是否能提供更多背景信息？比如：\n1. **您是通过什么工具/平台发送信息？** 例如 InoAI 机器人、飞书群聊、某个系统等。\n2. **您发送信息给谁（@_user_1 是什么角色）？** 是发给另一个用户、机器人还是某个群组？\n3. **您发送的是什么样的信息？** 是提问、命令还是普通消息？如果您是在使用 **InoAI 相关产品**（如 Inclaw 或其他功能），让我先帮您查询一下相关知识库，看看是否有关于消息无法得到回应的常见原因说明。\n\n让我先搜索一下知识库：\n\n根据知识库中的相关资料，我来帮你分析发送信息没有得到回应可能的原因。\n\n从知识库内容来看，**InoAI 飞书机器人不回复消息**，主要有以下几种常见原因：---### 📋 检查清单（按可能性排序）#### 1️⃣ **启用了飞书机器人回复开关是否开启**- 在 InoAI 智能体配置中，「**启用飞书机器人回复**」是总开关，默认值通常为 `true`，但如果被关闭，**所有消息都会被消费但不发送回复**（即\"完全静默\"模式）。\n- ⚠️ 检查这个开关是否被关闭了。#### 2️⃣ **绑定关系和长连接是否已开启**- 需要在 InoAI 平台添加**智能体和飞书机器人的绑定关系**，并确保飞书状态显示为 **\"已链接\"**。\n- 同时需要在**飞书机器人工作台开启\"长连接\"**，并添加**接收消息 V2.0 事件**。\n- 如果没有开启长连接，机器人根本收不到你的消息。#### 3️⃣ **群聊场景下是否@机器人（权限问题）**- 默认配置下，**群聊中必须 @机器人** 才会触发 AI 回复；\n- 如果开启了「回复群聊任意消息」，才不需要 @。\n- 如果机器人没被 @ 却被要求回复，自然不会应答。\n- 还要确认已开通权限：`im:message.group_at_msg:readonly`（群聊艾特触发 AI 回复）。#### 4️⃣ **权限是否齐全**机器人要回复消息必须开通以下权限：\n- `im:message:send_as_bot`（机器人发送消息）\n- `contact:user.employee_id:readonly`（获取用户域账号）\n- 群聊@：`im:message.group_at_msg:readonly`\n- 全部消息：`im:message.group_msg`\n- 卡片回复：`cardkit:card:write`如果提示 **\"权限不足\"**，需要到飞书开发者后台搜索并申请相应权限，由 **覃群（17844）** 审批。#### 5️⃣ **会话上下文（连续对话半小时失效）**- 连续对话会话 ID **半小时内有效**，超过半小时后再次询问会以**新话题**形式发起，若配置有误也可能导致不响应。#### 6️⃣ **查看日志定位具体原因**- 知识库提到：InoAI 的**日志查看**功能会记录用户对话内容、AI 回答内容、**成功/失败状态及原因**，可以用来针对性分析为什么不回复。---### ✅ 建议排查步骤1. 去 InoAI 平台查看**该智能体的日志**，确认消息是否被接收到、回答是**成功还是失败**，失败原因是什么；\n2. 确认「启用飞书机器人回复」开关为 **true**；\n3. 确认飞书机器人状态为 **\"已链接\"**，且长连接已开启、事件已添加；\n4. 如果是群聊，确认已 @机器人，或开启了\"回复群聊任意消息\"；\n5. 确认相关权限已全部开通。如果你能提供更多信息（比如是**单聊还是群聊**、是否有@机器人、平台日志里的报错信息等），我可以帮你更精准地定位问题。\n\u003c/card\u003e",
+        "create_time": "2026-10-12 04:49",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_79af426fe8f195f1099fb204333f7285\u0026position=4584",
+        "message_id": "om_x100b63f223f490a4c22e5bfee2397ae",
+        "message_position": "4584",
+        "msg_type": "interactive",
+        "reply_to": "om_x100b63f223d3b0a4c3e8efab672cc7f",
+        "sender": {
+          "id": "cli_a6923266569a900b",
+          "id_type": "app_id",
+          "name": "InoAI",
+          "open_bot_id": "ou_c07ea47f247dd9910ace099eb9725088",
+          "sender_i18n_names": {
+            "en_us": "InoAI",
+            "zh_cn": "InoAI"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-12 04:49",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_79af426fe8f195f1099fb204333f7285",
+        "content": "@InoAI 我发送给INOCLAW",
+        "create_time": "2026-10-12 04:50",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_c07ea47f247dd9910ace099eb9725088",
+            "key": "@_user_1",
+            "name": "InoAI"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_79af426fe8f195f1099fb204333f7285\u0026position=4585",
+        "message_id": "om_x100b63f23fa694a0c4a11f2f553b839",
+        "message_position": "4585",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_f2e6d8f9b003de9c7ebac891cb29b4ce",
+          "id_type": "open_id",
+          "name": "胡迪",
+          "sender_i18n_names": {
+            "en_us": "hudi"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-12 04:50",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_79af426fe8f195f1099fb204333f7285",
+        "content": "\u003ccard\u003e\nI notice your message seems quite brief. Let me try to understand what you need. It looks like you're saying \"@_user_1 我发送给INOCLAW\" which might be incomplete or the beginning of a question about sending something to INOCLAW.\n\nLet me search the knowledge base for relevant information.\n\n我理解你的问题是关于\"发送给INOCLAW\"的相关内容。根据我查询到的知识库信息，我来帮你整理一下关于**如何向 InoClaw 发送消息 / 使用消息推送功能**的完整说明。---## 🎯 如何发送消息给 InoClaw（通过飞书）### 一、与飞书机器人直接对话（最常用）1. **确保 InoClaw 客户端已开启**（关闭状态无法接收消息）\n2. **首次使用时**：在飞书上找到你的机器人，输入 `/feishu auth`，点击确认授权\n3. **开始对话**：在飞书机器人会话框中直接聊天，即可实现 InoClaw 和飞书机器人的消息互通\u003e ⚠️ 提醒：\n\u003e - 飞书消息接收**会稍慢一点**，看到\"敲键盘\"动作代表已收到消息正在处理\n\u003e - 长时间无反应时，输入 `/new` 开启新会话，或重启 InoClaw 客户端\n\u003e - 对话时间过长会造成**上下文臃肿**，无关问题时建议用 `/new` 开新会话---### 二、如何发送消息（推送到群聊/指定目标）#### 方式 1：群聊 Webhook 推送（自定义机器人）- 在提问时指定群聊的 webhook 地址，例如：#### 方式 2：群内 @ 个人助手（机器人）- 确保机器人在目标群组，开通相关权限后，在群聊中直接 **@机器人** 提问#### 方式 3：定时任务推送- 在 InoClaw 的**定时任务**中配置，支持三种模式：\n  - **无推送**：任务完成后不通知\n  - **机器人私聊推送**：任务状态私发给你\n  - **群聊 Webhook 推送**：配置 Webhook 地址单向推送到群---### 三、常见问题排查| 问题 | 解决方法 |\n|------|------|\n| 机器人没反应 | 输入 /new 或重启 InoClaw 客户端 |\n| 权限未开通 | 发送 /feishu auth 重新授权 |\n| 定时任务失败 | 查看飞书推送的消息 → 去定时任务会话看失败原因 |\n| 其他用户使用 | 群里 @ 机器人可纯文本提问（不能传文件），文件功能仅所有者可用 |---请问你具体是想了解**如何向 InoClaw 发送消息**，还是想通过 **InoClaw 向飞书群/某人推送消息**？我可以根据你的具体需求给出更精准的操作说明。\n\u003c/card\u003e",
+        "create_time": "2026-10-12 04:50",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_79af426fe8f195f1099fb204333f7285\u0026position=4586",
+        "message_id": "om_x100b63f23f4a6cacdfa9dda080f252c",
+        "message_position": "4586",
+        "msg_type": "interactive",
+        "reply_to": "om_x100b63f23fa694a0c4a11f2f553b839",
+        "sender": {
+          "id": "cli_a6923266569a900b",
+          "id_type": "app_id",
+          "name": "InoAI",
+          "open_bot_id": "ou_c07ea47f247dd9910ace099eb9725088",
+          "sender_i18n_names": {
+            "en_us": "InoAI",
+            "zh_cn": "InoAI"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-12 04:51",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_79af426fe8f195f1099fb204333f7285",
+        "content": "@InoAI 我向inoclaw发送消息，但是并没有回应，应该怎么绊",
+        "create_time": "2026-10-12 04:57",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_c07ea47f247dd9910ace099eb9725088",
+            "key": "@_user_1",
+            "name": "InoAI"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_79af426fe8f195f1099fb204333f7285\u0026position=4587",
+        "message_id": "om_x100b63f2c25e6cb0c428571e8fe97d9",
+        "message_position": "4587",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_f2e6d8f9b003de9c7ebac891cb29b4ce",
+          "id_type": "open_id",
+          "name": "胡迪",
+          "sender_i18n_names": {
+            "en_us": "hudi"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-12 04:57",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_79af426fe8f195f1099fb204333f7285",
+        "content": "\u003ccard\u003e\n我来帮您查询关于向 Inclaw 发送消息没有回应的问题。让我先在知识库中搜索相关资料。根据知识库中的信息，我整理出你向 InoClaw（Inclaw）发送消息没有回应的排查和解决方法：---## 向 InoClaw 发送消息无响应的排查步骤### 1️⃣ 确认 InoClaw 客户端是否开启\u003e **InoClaw 客户端需要确保是在开启状态**，飞书上的消息才能被接收和处理。如果客户端没开，消息就不会有回应。### 2️⃣ 观察消息是否有\"正在处理\"的提示飞书上的消息接收会**稍微响应慢一点**，如果消息发出后出现**敲键盘（打字）的动作**，说明已接收到消息、正在处理，请耐心等待。### 3️⃣ 如果长时间没有反应建议尝试以下两种方法：\n- **输入 **`/new` 新建空白对话后重试\n- **重启 InoClaw 客户端**### 4️⃣ 检查是否完成授权如果是首次使用或重新发布过应用，需要在飞书上与机器人会话中输入：```plain_text\n/feishu auth```点击确认授权后才能正常使用。### 5️⃣ 检查权限申请是否通过如果之前提示过「无客户端访问权限」，需在 OA 中提交 **InoClaw 权限申请**。若确认权限已通过但仍异常，可以：\n- 进入数据安装目录 `.inoclaw/credentials`\n- 删除 `inoai-jwt.enc` 文件\n- 重启 InoClaw 客户端### 6️⃣ 飞书机器人回复开关确认在 InoAI 智能体配置中，检查 **「启用飞书机器人回复」** 开关是否为 `true`。如果被关闭，所有消息都会被消费但**不会发送回复**。---**最快捷的排查路径**：先看客户端是否开着 → 确认是否 `/feishu auth` 授权过 → 输入 `/new` 开新会话重试 → 还是不行就重启客户端。若问题依旧，可联系相关技术人员（如雷嘉勋，10094972）反馈。\n\u003c/card\u003e",
+        "create_time": "2026-10-12 04:57",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_79af426fe8f195f1099fb204333f7285\u0026position=4588",
+        "message_id": "om_x100b63f2c261c0acde785456dfa1d40",
+        "message_position": "4588",
+        "msg_type": "interactive",
+        "reply_to": "om_x100b63f2c25e6cb0c428571e8fe97d9",
+        "sender": {
+          "id": "cli_a6923266569a900b",
+          "id_type": "app_id",
+          "name": "InoAI",
+          "open_bot_id": "ou_c07ea47f247dd9910ace099eb9725088",
+          "sender_i18n_names": {
+            "en_us": "InoAI",
+            "zh_cn": "InoAI"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-12 04:57",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_79af426fe8f195f1099fb204333f7285",
+        "content": "@胡迪 胡工，单找你排查下哈",
+        "create_time": "2026-10-12 05:03",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_f2e6d8f9b003de9c7ebac891cb29b4ce",
+            "key": "@_user_1",
+            "name": "胡迪"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_79af426fe8f195f1099fb204333f7285\u0026position=4589",
+        "message_id": "om_x100b63f2ed05c0b8b165551c3d014c0",
+        "message_position": "4589",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_9b33b8bbe9a3b2dcf0ea2a1e580c2c8d",
+          "id_type": "open_id",
+          "name": "孙浩",
+          "sender_i18n_names": {
+            "en_us": "sunhao"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-12 05:03",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_79af426fe8f195f1099fb204333f7285",
+        "content": "@胡迪 私你",
+        "create_time": "2026-10-12 05:08",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_f2e6d8f9b003de9c7ebac891cb29b4ce",
+            "key": "@_user_1",
+            "name": "胡迪"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_79af426fe8f195f1099fb204333f7285\u0026position=4590",
+        "message_id": "om_x100b63f2fa2f28a4b11e4a201b5b799",
+        "message_position": "4590",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_c51d86aefe40fde4ef84abd495bf5c48",
+          "id_type": "open_id",
+          "name": "单呈祥",
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-12 05:08",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_79af426fe8f195f1099fb204333f7285",
+        "content": "@InoAI 请给我最新的inoclaw安转包文件",
+        "create_time": "2026-10-12 06:02",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_c07ea47f247dd9910ace099eb9725088",
+            "key": "@_user_1",
+            "name": "InoAI"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_79af426fe8f195f1099fb204333f7285\u0026position=4591",
+        "message_id": "om_x100b63f3308858bcb4c6d37f941e483",
+        "message_position": "4591",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_ff18100e7e38562138ccc6715abcfee7",
+          "id_type": "open_id",
+          "name": "刁健涛",
+          "sender_i18n_names": {
+            "en_us": "diaojiantao"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-12 06:02",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_79af426fe8f195f1099fb204333f7285",
+        "content": "\u003ccard\u003e\n我来帮你查找最新的 Inoclaw 安装包文件。首先让我搜索一下相关知识库和网络信息。根据知识库中的信息，我为您找到了 **InoClaw** 的最新安装包相关信息：---### 📦 最新版本信息**当前最新版本：V2.0.0**（发布时间：2026/10/10）### 📥 下载地址**官方下载地址：** [https://inoai.inovance.com/inoclaw](https://inoai.inovance.com/inoclaw)\n\n打开该页面后：\n- **Windows 版本**：点击下载 Windows 客户端安装包，选择保存路径后即可下载\n- **MacOS 版本**：具体安装步骤参考文档 [InoClaw Mac版安装](https://inovance.feishu.cn/wiki/WV18w2TeeimC5xkKVIQceSpDnUf)### 💡 安装提示1. 下载完成后，**双击安装包**按向导提示完成安装\n2. 建议安装到 **D 盘等非系统盘**\n3. 安装完成后从开始菜单或桌面快捷方式启动\n4. 使用**汇川SSO统一域账号**登录即可---### 📋 V2.0.0 主要更新内容- 创建对话任务时可快速添加技能、专家、MCP和知识库\n- 支持创建工作目录，区分管理不同任务\n- 通过对话直接创建技能/专家并调用\n- 定时任务管理增强，可查看运行状态和执行记录\n- 任务置顶功能等优化**注意：** 如果您是无外网环境，需要在有网电脑下载后拷贝安装包，同时如果遇到 WebView 报错，可以参考 [离线WebView2安装包](https://inoai-s3.inovance.com/inoai-prod-public/desktop/webview/0/S3/e40e36f22f8f446395f50dba10d7d78f@MicrosoftEdgeWebView2RuntimeInstallerX64.exe) 进行修复。\n\u003c/card\u003e",
+        "create_time": "2026-10-12 06:02",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_79af426fe8f195f1099fb204333f7285\u0026position=4592",
+        "message_id": "om_x100b63f330a87880c4bd3aecdc08ff6",
+        "message_position": "4592",
+        "msg_type": "interactive",
+        "reply_to": "om_x100b63f3308858bcb4c6d37f941e483",
+        "sender": {
+          "id": "cli_a6923266569a900b",
+          "id_type": "app_id",
+          "name": "InoAI",
+          "open_bot_id": "ou_c07ea47f247dd9910ace099eb9725088",
+          "sender_i18n_names": {
+            "en_us": "InoAI",
+            "zh_cn": "InoAI"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-12 06:02",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_79af426fe8f195f1099fb204333f7285",
+        "content": "@InoAI 新版inoclaw在哪看token消耗量",
+        "create_time": "2026-10-12 07:57",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_c07ea47f247dd9910ace099eb9725088",
+            "key": "@_user_1",
+            "name": "InoAI"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_79af426fe8f195f1099fb204333f7285\u0026position=4593",
+        "message_id": "om_x100b63fd616a0ca4c4bcafb2a61a34b",
+        "message_position": "4593",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_0db2f32caf16282348e84b5620209b59",
+          "id_type": "open_id",
+          "name": "余梦圆",
+          "sender_i18n_names": {
+            "en_us": "yumengyuan"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-12 07:57",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_79af426fe8f195f1099fb204333f7285",
+        "content": "\u003ccard\u003e\n我来帮你查找关于 InoAI/Inclaw 查看 token 消耗量的相关信息。\n\n让我先从知识库中搜索相关资料。根据知识库中的信息，我可以回答这个问题。\n\n在新版 InoClaw 中查看 Token 消耗量的方法如下：---## 查看 Token 消耗量在 InoClaw 客户端中，通过 **「更多」→「使用情况」** 菜单查看 Token 消耗明细。### 具体步骤1. **找到「更多」菜单**：在左侧栏功能菜单中找到「更多」，将鼠标悬停其上，会弹出子菜单。\n2. **点击「使用情况」**：进入使用情况页面，即可查看 Token 消耗统计。### 使用情况页面包含的内容| 模块 | 说明 |\n|------|------|\n| 用量小账本 | 4个核心指标卡片：会话总数、提问总数、定时任务总数、消耗 Tokens 总数（拆分输入和输出） |\n| Tokens 活跃热区 | 折线图展示所选日期范围内每日 Token 消耗变化 |\n| 按时间段分布 | 基于 Token 消耗，展示使用集中在哪些时段（星期、小时热力图） |### 时间范围筛选页面右上方可以调整统计区间：\n- **快捷选项**：近 7 天、近 14 天、近 30 天（默认多为近 14 天）\n- **自定义日期范围**：可选择任意起止日期### 补充说明- 每个会话卡片中也会显示**Token 用量**信息，可以快速查看单个会话的消耗情况。\n- 目前 **InoClaw 暂无收费计划**，无计费标准。\n- 现有版本**暂不支持活跃用户数据查询**。\n\u003c/card\u003e",
+        "create_time": "2026-10-12 07:57",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_79af426fe8f195f1099fb204333f7285\u0026position=4594",
+        "message_id": "om_x100b63fd610ed8b4c3f36fec67f3845",
+        "message_position": "4594",
+        "msg_type": "interactive",
+        "reply_to": "om_x100b63fd616a0ca4c4bcafb2a61a34b",
+        "sender": {
+          "id": "cli_a6923266569a900b",
+          "id_type": "app_id",
+          "name": "InoAI",
+          "open_bot_id": "ou_c07ea47f247dd9910ace099eb9725088",
+          "sender_i18n_names": {
+            "en_us": "InoAI",
+            "zh_cn": "InoAI"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-12 07:58",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_79af426fe8f195f1099fb204333f7285",
+        "content": "@余梦圆 2.0版本的token使用量，会优化显示并换个位置展示，在设置中，目前版本还没有更新，后期迭代会有",
+        "create_time": "2026-10-12 08:00",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_0db2f32caf16282348e84b5620209b59",
+            "key": "@_user_1",
+            "name": "余梦圆"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_79af426fe8f195f1099fb204333f7285\u0026position=4596",
+        "message_id": "om_x100b63fd7753b514b04fe1fc62a6e7a",
+        "message_position": "4596",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_692aaa0a6c9c7fa178d04b4b942483cf",
+          "id_type": "open_id",
+          "name": "雷嘉勋",
+          "sender_i18n_names": {
+            "en_us": "lei"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-12 08:00",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_79af426fe8f195f1099fb204333f7285",
+        "content": "\u003cfile key=\"file_v3_0016d_78f02c73-2364-497e-8733-6a566b85110g\" name=\"阿里巴巴AI Native研发范式实践手册2026.pdf\"/\u003e",
+        "create_time": "2026-10-12 09:09",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_79af426fe8f195f1099fb204333f7285\u0026position=4597",
+        "message_id": "om_x100b63fe72ecb480b24643f32e12755",
+        "message_position": "4597",
+        "msg_type": "file",
+        "sender": {
+          "id": "ou_509e6c0dd49deec5ebea6f705f881e81",
+          "id_type": "open_id",
+          "name": "李炎杰",
+          "sender_i18n_names": {
+            "en_us": "liyanjie"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      }
+    ],
+    "page_token": "",
+    "total": 31
+  },
+  "meta": {
+    "pagination": {
+      "complete": true,
+      "pages": 1,
+      "items": 31
+    }
+  }
+}

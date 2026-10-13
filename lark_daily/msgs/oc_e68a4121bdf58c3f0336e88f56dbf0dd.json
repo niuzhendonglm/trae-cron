@@ -1,0 +1,91 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "has_more": false,
+    "messages": [
+      {
+        "chat_id": "oc_e68a4121bdf58c3f0336e88f56dbf0dd",
+        "content": "\u003ccalendar_invite\u003e\n济南工单异常AI项目每日例会\n2026-10-12 08:30:00 ~ 2026-10-12 09:00:00\n\u003c/calendar_invite\u003e",
+        "create_time": "2026-10-12 00:37",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_e68a4121bdf58c3f0336e88f56dbf0dd\u0026position=1120",
+        "message_id": "om_x100b63f6f3a97cb0b155baf3ebfe142",
+        "message_position": "1120",
+        "msg_type": "calendar",
+        "sender": {
+          "id": "cli_a0d9fec6ffb8d00e",
+          "id_type": "app_id",
+          "name": "日历助手",
+          "open_bot_id": "ou_0bd5f93ae8b81a948b4ec6aeab287924",
+          "sender_i18n_names": {
+            "en_us": "Calendar Assistant",
+            "ja_jp": "カレンダーアシスタント",
+            "zh_cn": "日历助手"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-12 01:55",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_e68a4121bdf58c3f0336e88f56dbf0dd",
+        "content": "\u003ccalendar_invite\u003e\n济南工单异常AI项目每日例会\n2026-10-12 01:00:00 ~ 2026-10-12 01:30:00\n\u003c/calendar_invite\u003e",
+        "create_time": "2026-10-12 01:55",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_e68a4121bdf58c3f0336e88f56dbf0dd\u0026position=1121",
+        "message_id": "om_x100b63f7af40ecacb4b48667d3e00b8",
+        "message_position": "1121",
+        "msg_type": "calendar",
+        "sender": {
+          "id": "cli_a0d9fec6ffb8d00e",
+          "id_type": "app_id",
+          "name": "日历助手",
+          "open_bot_id": "ou_0bd5f93ae8b81a948b4ec6aeab287924",
+          "sender_i18n_names": {
+            "en_us": "Calendar Assistant",
+            "ja_jp": "カレンダーアシスタント",
+            "zh_cn": "日历助手"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_e68a4121bdf58c3f0336e88f56dbf0dd",
+        "content": "\u003ccalendar_invite\u003e\n质量AI智能体初版验证对齐\n2026-10-13 02:00:00 ~ 2026-10-13 03:00:00\n\u003c/calendar_invite\u003e",
+        "create_time": "2026-10-12 05:57",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_e68a4121bdf58c3f0336e88f56dbf0dd\u0026position=1122",
+        "message_id": "om_x100b63f322bff0acc3fd2bdb6329c49",
+        "message_position": "1122",
+        "msg_type": "calendar",
+        "sender": {
+          "id": "cli_a0d9fec6ffb8d00e",
+          "id_type": "app_id",
+          "name": "日历助手",
+          "open_bot_id": "ou_0bd5f93ae8b81a948b4ec6aeab287924",
+          "sender_i18n_names": {
+            "en_us": "Calendar Assistant",
+            "ja_jp": "カレンダーアシスタント",
+            "zh_cn": "日历助手"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      }
+    ],
+    "page_token": "",
+    "total": 3
+  },
+  "meta": {
+    "pagination": {
+      "complete": true,
+      "pages": 1,
+      "items": 3
+    }
+  }
+}

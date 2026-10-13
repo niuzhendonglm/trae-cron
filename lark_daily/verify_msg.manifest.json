@@ -1,0 +1,129 @@
+{
+  "manifest_version": "v1",
+  "format": "ndjson",
+  "base_token": "KezfbQ2fDaNBonskSTZcM3YVnWf",
+  "table_id": "tblmbeQPFVKFR2Tb",
+  "rev": 36,
+  "timezone": "Asia/Shanghai",
+  "query_context": {
+    "field_scope": "all_fields",
+    "record_scope": "filtered_records"
+  },
+  "requested_limit": 2000,
+  "records_count": 695,
+  "page_count": 2,
+  "has_more": false,
+  "record_file": "/workspace/lark_daily/verify_msg.ndjson",
+  "record_file_size_bytes": 339797,
+  "manifest_file": "/workspace/lark_daily/verify_msg.manifest.json",
+  "columns": {
+    "record_id": {
+      "physical_type": "string",
+      "stats": {
+        "max_length": 14
+      },
+      "example": "recvxWcU8sZcxJ"
+    },
+    "会话ID": {
+      "field_id": "fldSIPaBuS",
+      "field_type": "text",
+      "physical_type": "string|null",
+      "stats": {
+        "null_count": 0,
+        "max_length": 35
+      },
+      "example": "oc_01d94e985e43e2734799e1f167343933"
+    },
+    "会话名称": {
+      "field_id": "fldJmdIXFN",
+      "field_type": "text",
+      "physical_type": "string|null",
+      "stats": {
+        "null_count": 0,
+        "max_length": 64
+      },
+      "example": "金星"
+    },
+    "会话类型": {
+      "field_id": "fld4yEnM3S",
+      "field_type": "text",
+      "physical_type": "string|null",
+      "stats": {
+        "null_count": 0,
+        "max_length": 5
+      },
+      "example": "p2p"
+    },
+    "发送人": {
+      "field_id": "fld8wx5td9",
+      "field_type": "text",
+      "physical_type": "string|null",
+      "stats": {
+        "null_count": 0,
+        "max_length": 15
+      },
+      "example": "hhh"
+    },
+    "发送人ID": {
+      "field_id": "fldgZzxWbm",
+      "field_type": "text",
+      "physical_type": "string|null",
+      "stats": {
+        "null_count": 0,
+        "max_length": 35
+      },
+      "example": "ou_e7fccc3af163cd1e5b59c4241cb9b574"
+    },
+    "发送时间": {
+      "field_id": "fldXHvmm4n",
+      "field_type": "datetime",
+      "physical_type": "string|null",
+      "stats": {
+        "null_count": 0,
+        "min": "2026-10-12T00:17:00.000+08:00",
+        "max": "2026-10-12T15:37:00.000+08:00"
+      },
+      "example": "2026-10-12T08:14:00.000+08:00"
+    },
+    "消息ID": {
+      "field_id": "fld4pWFTiC",
+      "field_type": "text",
+      "physical_type": "string|null",
+      "stats": {
+        "null_count": 0,
+        "max_length": 35
+      },
+      "example": "om_x100b63fd23dd0ca4c2f4f48c0737dd9"
+    },
+    "消息内容": {
+      "field_id": "fldWkNP9nu",
+      "field_type": "text",
+      "physical_type": "string|null",
+      "stats": {
+        "null_count": 0,
+        "max_length": 4012
+      },
+      "example": "66"
+    },
+    "消息类型": {
+      "field_id": "fldVDUJsMZ",
+      "field_type": "text",
+      "physical_type": "string|null",
+      "stats": {
+        "null_count": 0,
+        "max_length": 11
+      },
+      "example": "text"
+    },
+    "话题ID": {
+      "field_id": "fldhzVM8Ri",
+      "field_type": "text",
+      "physical_type": "string|null",
+      "stats": {
+        "null_count": 467,
+        "max_length": 20
+      },
+      "example": "omt_19a9ba39cd4e5ce5"
+    }
+  }
+}

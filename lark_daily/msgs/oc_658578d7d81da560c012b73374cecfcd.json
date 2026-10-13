@@ -1,0 +1,77 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "has_more": false,
+    "messages": [
+      {
+        "chat_id": "oc_658578d7d81da560c012b73374cecfcd",
+        "content": "![Image](img_v3_0216d_cb23fe25-16a3-414f-a17b-65d9a10f7b5g)\n@沈霜 霜霜，帮忙确认下这个是不是因为上了新系统，所以10月都没有数据啊",
+        "create_time": "2026-10-12 02:06",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_9968b54f07671b7485ed328120d481e7",
+            "key": "@_user_1",
+            "name": "沈霜"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_658578d7d81da560c012b73374cecfcd\u0026position=310",
+        "message_id": "om_x100b63f045a50904b18464f4c05b9d1",
+        "message_position": "310",
+        "msg_type": "post",
+        "sender": {
+          "id": "ou_c56489eb59865650b63b569a08d20d6a",
+          "id_type": "open_id",
+          "name": "蒋静芳",
+          "sender_i18n_names": {
+            "en_us": "jiangjingfang"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-12 02:06",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_658578d7d81da560c012b73374cecfcd",
+        "content": "@蒋静芳 \n![Image](img_v3_0216d_01dd66a5-9947-4beb-88a3-eb7911323dag)",
+        "create_time": "2026-10-12 02:19",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_c56489eb59865650b63b569a08d20d6a",
+            "key": "@_user_1",
+            "name": "蒋静芳"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_658578d7d81da560c012b73374cecfcd\u0026position=311",
+        "message_id": "om_x100b63f0752f8c84b256103a912f2d7",
+        "message_position": "311",
+        "msg_type": "post",
+        "reply_to": "om_x100b63f045a50904b18464f4c05b9d1",
+        "sender": {
+          "id": "ou_9968b54f07671b7485ed328120d481e7",
+          "id_type": "open_id",
+          "name": "沈霜",
+          "sender_i18n_names": {
+            "en_us": "shenshuang"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-12 02:19",
+        "updated": true
+      }
+    ],
+    "page_token": "",
+    "total": 2
+  },
+  "meta": {
+    "pagination": {
+      "complete": true,
+      "pages": 1,
+      "items": 2
+    }
+  }
+}

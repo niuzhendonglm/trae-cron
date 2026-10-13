@@ -1,0 +1,1128 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "has_more": false,
+    "messages": [
+      {
+        "chat_id": "oc_afdd960e5b5f39cd89d6b9946a78cd78",
+        "content": "请求专家建议是啥功能",
+        "create_time": "2026-10-12 03:41",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/thread/open?open_chat_id=oc_afdd960e5b5f39cd89d6b9946a78cd78\u0026open_thread_id=omt_19a9de30310f9c92\u0026openchatid=oc_afdd960e5b5f39cd89d6b9946a78cd78\u0026openthreadid=omt_19a9de30310f9c92\u0026thread_position=-1",
+        "message_id": "om_x100b63f1215cfca8b3e77b7fa8de899",
+        "message_position": "16461",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_da33047d0a5612eed7e180ec5c9f0cf3",
+          "id_type": "open_id",
+          "name": "陈子康",
+          "sender_type": "user",
+          "tenant_key": "133a463d7dcf1747"
+        },
+        "thread_id": "omt_19a9de30310f9c92",
+        "thread_message_position": "-1",
+        "thread_replies": [
+          {
+            "chat_id": "oc_afdd960e5b5f39cd89d6b9946a78cd78",
+            "content": "\u003ccard\u003e\n你问的「请求专家建议」这个功能，建议去 TRAE 论坛「帮助与支持」板块发帖：🔗 [https://forum.trae.cn/c/7-category/7](https://forum.trae.cn/c/7-category/7)\n\n那边更多同学和官方同学会帮你看，问题也方便后面别人搜到~---如果是想正式提产品建议，也可以去「产品建议」板块：🔗 [https://forum.trae.cn/c/8-category/8](https://forum.trae.cn/c/8-category/8)\n---\n💡 更多使用问题请转移至 [TRAE 官方社区「帮助与支持」板块](https://forum.trae.cn/c/7-category/7) 发帖询问 \n · 021791776506243fdbddc02001405304b59cb53af0000e99e3aea · \n[已解决]\n[更多问题请到「官方社区」提问](https://forum.trae.cn/c/7-category/7)\n\u003c/card\u003e",
+            "create_time": "2026-10-12 03:41",
+            "deleted": false,
+            "message_app_link": "https://applink.feishu.cn/client/thread/open?open_chat_id=oc_afdd960e5b5f39cd89d6b9946a78cd78\u0026open_thread_id=omt_19a9de30310f9c92\u0026openchatid=oc_afdd960e5b5f39cd89d6b9946a78cd78\u0026openthreadid=omt_19a9de30310f9c92\u0026thread_position=0",
+            "message_id": "om_x100b63f1217954bcb223789e115ea4a",
+            "message_position": "-3",
+            "msg_type": "interactive",
+            "sender": {
+              "id": "cli_a9c7f80599f8dbc4",
+              "id_type": "app_id",
+              "name": "TRAE 宝",
+              "open_bot_id": "ou_dfae499a31a17e270c3cc86c7275f2bd",
+              "sender_i18n_names": {
+                "en_us": "TRAE 宝",
+                "zh_cn": "TRAE 宝"
+              },
+              "sender_type": "app",
+              "tenant_key": "15d6d1e6e508d75e"
+            },
+            "thread_id": "omt_19a9de30310f9c92",
+            "thread_message_position": "0",
+            "update_time": "2026-10-12 03:41",
+            "updated": true
+          },
+          {
+            "chat_id": "oc_afdd960e5b5f39cd89d6b9946a78cd78",
+            "content": "@陈子康 这是 TRAE 新上线的一个功能哈：当 Agent 面对复杂任务、需要进行多步推理、方案规划或自我校验时，会进入 \"请求专家建议\" 的深度分析过程。",
+            "create_time": "2026-10-12 11:23",
+            "deleted": false,
+            "mentions": [
+              {
+                "id": "ou_da33047d0a5612eed7e180ec5c9f0cf3",
+                "key": "@_user_1",
+                "name": "陈子康"
+              }
+            ],
+            "message_app_link": "https://applink.feishu.cn/client/thread/open?open_chat_id=oc_afdd960e5b5f39cd89d6b9946a78cd78\u0026open_thread_id=omt_19a9de30310f9c92\u0026openchatid=oc_afdd960e5b5f39cd89d6b9946a78cd78\u0026openthreadid=omt_19a9de30310f9c92\u0026thread_position=1",
+            "message_id": "om_x100b63f87dc000a4b486ebca8ea4f41",
+            "message_position": "-3",
+            "msg_type": "text",
+            "sender": {
+              "id": "ou_f66233ee586f17ab9817ff3c41de6505",
+              "id_type": "open_id",
+              "name": "高旋",
+              "sender_i18n_names": {
+                "en_us": "Xuan Gao",
+                "zh_cn": "高旋"
+              },
+              "sender_type": "user",
+              "tenant_key": "736588c9260f175d"
+            },
+            "thread_id": "omt_19a9de30310f9c92",
+            "thread_message_position": "1",
+            "update_time": "2026-10-12 11:23",
+            "updated": true
+          }
+        ],
+        "updated": false
+      },
+      {
+        "chat_id": "oc_afdd960e5b5f39cd89d6b9946a78cd78",
+        "content": "我感觉trae的dsv4.1f 有点蠢",
+        "create_time": "2026-10-12 03:44",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/thread/open?open_chat_id=oc_afdd960e5b5f39cd89d6b9946a78cd78\u0026open_thread_id=omt_19a9df4e05cc9c95\u0026openchatid=oc_afdd960e5b5f39cd89d6b9946a78cd78\u0026openthreadid=omt_19a9df4e05cc9c95\u0026thread_position=-1",
+        "message_id": "om_x100b63f136bfb098b39d7689fdaf83e",
+        "message_position": "16462",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_da33047d0a5612eed7e180ec5c9f0cf3",
+          "id_type": "open_id",
+          "name": "陈子康",
+          "sender_type": "user",
+          "tenant_key": "133a463d7dcf1747"
+        },
+        "thread_id": "omt_19a9df4e05cc9c95",
+        "thread_message_position": "-1",
+        "thread_replies": [
+          {
+            "chat_id": "oc_afdd960e5b5f39cd89d6b9946a78cd78",
+            "content": "\u003ccard\u003e\n你说的 dsv4.1f 用起来不太聪明的感受，我在 TRAE 论坛翻了一圈，暂时没找到对得上的现有讨论。建议去「帮助与支持」板块发个帖：🔗 [https://forum.trae.cn/c/7-category/7](https://forum.trae.cn/c/7-category/7)\n\n发帖时把产品（IDE / 插件 / Work）、系统版本、具体是哪个任务或哪段输出让你觉得效果不对写进去，会有更多同学和官方同学帮你看，后面遇到类似情况的同学也能搜到~\n---\n💡 更多使用问题请转移至 [TRAE 官方社区「帮助与支持」板块](https://forum.trae.cn/c/7-category/7) 发帖询问 \n · 021791776648397fdbddc0200190532c659cb53af00005df3a0ac · \n[已解决]\n[更多问题请到「官方社区」提问](https://forum.trae.cn/c/7-category/7)\n\u003c/card\u003e",
+            "create_time": "2026-10-12 03:44",
+            "deleted": false,
+            "message_app_link": "https://applink.feishu.cn/client/thread/open?open_chat_id=oc_afdd960e5b5f39cd89d6b9946a78cd78\u0026open_thread_id=omt_19a9df4e05cc9c95\u0026openchatid=oc_afdd960e5b5f39cd89d6b9946a78cd78\u0026openthreadid=omt_19a9df4e05cc9c95\u0026thread_position=0",
+            "message_id": "om_x100b63f13655fc80b309e347fa65764",
+            "message_position": "-3",
+            "msg_type": "interactive",
+            "sender": {
+              "id": "cli_a9c7f80599f8dbc4",
+              "id_type": "app_id",
+              "name": "TRAE 宝",
+              "open_bot_id": "ou_dfae499a31a17e270c3cc86c7275f2bd",
+              "sender_i18n_names": {
+                "en_us": "TRAE 宝",
+                "zh_cn": "TRAE 宝"
+              },
+              "sender_type": "app",
+              "tenant_key": "15d6d1e6e508d75e"
+            },
+            "thread_id": "omt_19a9df4e05cc9c95",
+            "thread_message_position": "0",
+            "update_time": "2026-10-12 03:44",
+            "updated": true
+          },
+          {
+            "chat_id": "oc_afdd960e5b5f39cd89d6b9946a78cd78",
+            "content": "@陈子康 具体什么表现呢，辛苦描述一下具体case",
+            "create_time": "2026-10-12 11:22",
+            "deleted": false,
+            "mentions": [
+              {
+                "id": "ou_da33047d0a5612eed7e180ec5c9f0cf3",
+                "key": "@_user_1",
+                "name": "陈子康"
+              }
+            ],
+            "message_app_link": "https://applink.feishu.cn/client/thread/open?open_chat_id=oc_afdd960e5b5f39cd89d6b9946a78cd78\u0026open_thread_id=omt_19a9df4e05cc9c95\u0026openchatid=oc_afdd960e5b5f39cd89d6b9946a78cd78\u0026openthreadid=omt_19a9df4e05cc9c95\u0026thread_position=1",
+            "message_id": "om_x100b63f87e27ccb4b1731db7ac18a99",
+            "message_position": "-3",
+            "msg_type": "text",
+            "sender": {
+              "id": "ou_f66233ee586f17ab9817ff3c41de6505",
+              "id_type": "open_id",
+              "name": "高旋",
+              "sender_i18n_names": {
+                "en_us": "Xuan Gao",
+                "zh_cn": "高旋"
+              },
+              "sender_type": "user",
+              "tenant_key": "736588c9260f175d"
+            },
+            "thread_id": "omt_19a9df4e05cc9c95",
+            "thread_message_position": "1",
+            "update_time": "2026-10-12 11:22",
+            "updated": true
+          }
+        ],
+        "updated": false
+      },
+      {
+        "chat_id": "oc_afdd960e5b5f39cd89d6b9946a78cd78",
+        "content": "叮咚～新的一周开始啦！午间别忘了顺手签个到，100积分等你领，点一下就到手，祝本周元气满满！🎯 （由豆包发送）",
+        "create_time": "2026-10-12 04:09",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/thread/open?open_chat_id=oc_afdd960e5b5f39cd89d6b9946a78cd78\u0026open_thread_id=omt_19a9d54c204e9c95\u0026openchatid=oc_afdd960e5b5f39cd89d6b9946a78cd78\u0026openthreadid=omt_19a9d54c204e9c95\u0026thread_position=-1",
+        "message_id": "om_x100b63f1969de8b8b3968e58dd8d753",
+        "message_position": "16463",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_be6596d0943e67e9c82918b84b0af18c",
+          "id_type": "open_id",
+          "name": "吴于飞",
+          "sender_i18n_names": {
+            "en_us": "Yufei Wu",
+            "zh_cn": "吴于飞"
+          },
+          "sender_type": "user",
+          "tenant_key": "736588c9260f175d"
+        },
+        "thread_id": "omt_19a9d54c204e9c95",
+        "thread_message_position": "-1",
+        "thread_replies": [
+          {
+            "chat_id": "oc_afdd960e5b5f39cd89d6b9946a78cd78",
+            "content": "\u003ccard\u003e\n收到啦，这周的签到提醒记下了 🎯 大家有 TRAE 使用上的问题随时在群里说～\n---\n💡 更多使用问题请转移至 [TRAE 官方社区「帮助与支持」板块](https://forum.trae.cn/c/7-category/7) 发帖询问 \n · 021791778181743fdbddc02001405304b59cb53af0000e91cdfac · \n[已解决]\n[更多问题请到「官方社区」提问](https://forum.trae.cn/c/7-category/7)\n\u003c/card\u003e",
+            "create_time": "2026-10-12 04:09",
+            "deleted": false,
+            "message_app_link": "https://applink.feishu.cn/client/thread/open?open_chat_id=oc_afdd960e5b5f39cd89d6b9946a78cd78\u0026open_thread_id=omt_19a9d54c204e9c95\u0026openchatid=oc_afdd960e5b5f39cd89d6b9946a78cd78\u0026openthreadid=omt_19a9d54c204e9c95\u0026thread_position=0",
+            "message_id": "om_x100b63f196a72ca4de742080b0a2712",
+            "message_position": "-3",
+            "msg_type": "interactive",
+            "sender": {
+              "id": "cli_a9c7f80599f8dbc4",
+              "id_type": "app_id",
+              "name": "TRAE 宝",
+              "open_bot_id": "ou_dfae499a31a17e270c3cc86c7275f2bd",
+              "sender_i18n_names": {
+                "en_us": "TRAE 宝",
+                "zh_cn": "TRAE 宝"
+              },
+              "sender_type": "app",
+              "tenant_key": "15d6d1e6e508d75e"
+            },
+            "thread_id": "omt_19a9d54c204e9c95",
+            "thread_message_position": "0",
+            "update_time": "2026-10-12 04:09",
+            "updated": true
+          }
+        ],
+        "updated": false
+      },
+      {
+        "chat_id": "oc_afdd960e5b5f39cd89d6b9946a78cd78",
+        "content": "![Image](img_v3_0216d_a76e14af-9722-47c8-8b73-a6d31e575f7g)\n果然work被弃了",
+        "create_time": "2026-10-12 04:25",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/thread/open?open_chat_id=oc_afdd960e5b5f39cd89d6b9946a78cd78\u0026open_thread_id=omt_19a9e9fbfbcf1ce6\u0026openchatid=oc_afdd960e5b5f39cd89d6b9946a78cd78\u0026openthreadid=omt_19a9e9fbfbcf1ce6\u0026thread_position=-1",
+        "message_id": "om_x100b63f25de050a0b4a095f0356b4ed",
+        "message_position": "16464",
+        "msg_type": "post",
+        "sender": {
+          "id": "ou_2f37201597567e0500ef72df8d9d748f",
+          "id_type": "open_id",
+          "name": "苏明阳",
+          "sender_i18n_names": {
+            "zh_cn": "安迪很好"
+          },
+          "sender_type": "user",
+          "tenant_key": "2d5e5ae33e4f575e"
+        },
+        "thread_id": "omt_19a9e9fbfbcf1ce6",
+        "thread_message_position": "-1",
+        "thread_replies": [
+          {
+            "chat_id": "oc_afdd960e5b5f39cd89d6b9946a78cd78",
+            "content": "\u003ccard\u003e\n你说的 Work 升级、正在下载并安装全新 TRAE 这个情况，论坛上暂时没翻到现成讨论。建议去「帮助与支持」板块发个帖：🔗 [https://forum.trae.cn/c/7-category/7](https://forum.trae.cn/c/7-category/7)，把客户端形态、系统版本和升级时的具体提示写进去会更快得到解答，后面遇到同样情况的同学也能搜到~\n---\n💡 更多使用问题请转移至 [TRAE 官方社区「帮助与支持」板块](https://forum.trae.cn/c/7-category/7) 发帖询问 \n · 021791779124470fdbddc02001405304b59cb53af0000e9e3fdcc · \n[已解决]\n[更多问题请到「官方社区」提问](https://forum.trae.cn/c/7-category/7)\n\u003c/card\u003e",
+            "create_time": "2026-10-12 04:25",
+            "deleted": false,
+            "message_app_link": "https://applink.feishu.cn/client/thread/open?open_chat_id=oc_afdd960e5b5f39cd89d6b9946a78cd78\u0026open_thread_id=omt_19a9e9fbfbcf1ce6\u0026openchatid=oc_afdd960e5b5f39cd89d6b9946a78cd78\u0026openthreadid=omt_19a9e9fbfbcf1ce6\u0026thread_position=0",
+            "message_id": "om_x100b63f25d9a40a8b3d7136194bde96",
+            "message_position": "-3",
+            "msg_type": "interactive",
+            "sender": {
+              "id": "cli_a9c7f80599f8dbc4",
+              "id_type": "app_id",
+              "name": "TRAE 宝",
+              "open_bot_id": "ou_dfae499a31a17e270c3cc86c7275f2bd",
+              "sender_i18n_names": {
+                "en_us": "TRAE 宝",
+                "zh_cn": "TRAE 宝"
+              },
+              "sender_type": "app",
+              "tenant_key": "15d6d1e6e508d75e"
+            },
+            "thread_id": "omt_19a9e9fbfbcf1ce6",
+            "thread_message_position": "0",
+            "update_time": "2026-10-12 04:25",
+            "updated": true
+          },
+          {
+            "chat_id": "oc_afdd960e5b5f39cd89d6b9946a78cd78",
+            "content": "只是合并了",
+            "create_time": "2026-10-12 04:28",
+            "deleted": false,
+            "message_app_link": "https://applink.feishu.cn/client/thread/open?open_chat_id=oc_afdd960e5b5f39cd89d6b9946a78cd78\u0026open_thread_id=omt_19a9e9fbfbcf1ce6\u0026openchatid=oc_afdd960e5b5f39cd89d6b9946a78cd78\u0026openthreadid=omt_19a9e9fbfbcf1ce6\u0026thread_position=1",
+            "message_id": "om_x100b63f2535d00a0b313788fb693ede",
+            "message_position": "-3",
+            "msg_type": "text",
+            "sender": {
+              "id": "ou_201c617c8180e3a801c22a702d94700a",
+              "id_type": "open_id",
+              "name": "漫川",
+              "sender_i18n_names": {
+                "zh_cn": "汤圆"
+              },
+              "sender_type": "user",
+              "tenant_key": "11f46eabf147175e"
+            },
+            "thread_id": "omt_19a9e9fbfbcf1ce6",
+            "thread_message_position": "1",
+            "updated": false
+          },
+          {
+            "chat_id": "oc_afdd960e5b5f39cd89d6b9946a78cd78",
+            "content": "[Invalid text JSON]",
+            "create_time": "2026-10-12 04:32",
+            "deleted": true,
+            "message_app_link": "https://applink.feishu.cn/client/thread/open?open_chat_id=oc_afdd960e5b5f39cd89d6b9946a78cd78\u0026open_thread_id=omt_19a9e9fbfbcf1ce6\u0026openchatid=oc_afdd960e5b5f39cd89d6b9946a78cd78\u0026openthreadid=omt_19a9e9fbfbcf1ce6\u0026thread_position=2",
+            "message_id": "om_x100b63f262f85ca4b1f2938c359a723",
+            "message_position": "-3",
+            "msg_type": "text",
+            "sender": {
+              "id": "ou_2f37201597567e0500ef72df8d9d748f",
+              "id_type": "open_id",
+              "name": "苏明阳",
+              "sender_i18n_names": {
+                "zh_cn": "安迪很好"
+              },
+              "sender_type": "user",
+              "tenant_key": "2d5e5ae33e4f575e"
+            },
+            "thread_id": "omt_19a9e9fbfbcf1ce6",
+            "thread_message_position": "2",
+            "update_time": "2026-10-12 04:33",
+            "updated": true
+          },
+          {
+            "chat_id": "oc_afdd960e5b5f39cd89d6b9946a78cd78",
+            "content": "@漫川 怎么感觉被弃的是trae code了",
+            "create_time": "2026-10-12 04:33",
+            "deleted": false,
+            "mentions": [
+              {
+                "id": "ou_201c617c8180e3a801c22a702d94700a",
+                "key": "@_user_1",
+                "name": "漫川"
+              }
+            ],
+            "message_app_link": "https://applink.feishu.cn/client/thread/open?open_chat_id=oc_afdd960e5b5f39cd89d6b9946a78cd78\u0026open_thread_id=omt_19a9e9fbfbcf1ce6\u0026openchatid=oc_afdd960e5b5f39cd89d6b9946a78cd78\u0026openthreadid=omt_19a9e9fbfbcf1ce6\u0026thread_position=3",
+            "message_id": "om_x100b63f27c5848a8b4c3612c6bb0bda",
+            "message_position": "-3",
+            "msg_type": "text",
+            "sender": {
+              "id": "ou_2f37201597567e0500ef72df8d9d748f",
+              "id_type": "open_id",
+              "name": "苏明阳",
+              "sender_i18n_names": {
+                "zh_cn": "安迪很好"
+              },
+              "sender_type": "user",
+              "tenant_key": "2d5e5ae33e4f575e"
+            },
+            "thread_id": "omt_19a9e9fbfbcf1ce6",
+            "thread_message_position": "3",
+            "update_time": "2026-10-12 04:33",
+            "updated": true
+          },
+          {
+            "chat_id": "oc_afdd960e5b5f39cd89d6b9946a78cd78",
+            "content": "code一直都在用 都没有被遗弃",
+            "create_time": "2026-10-12 04:34",
+            "deleted": false,
+            "message_app_link": "https://applink.feishu.cn/client/thread/open?open_chat_id=oc_afdd960e5b5f39cd89d6b9946a78cd78\u0026open_thread_id=omt_19a9e9fbfbcf1ce6\u0026openchatid=oc_afdd960e5b5f39cd89d6b9946a78cd78\u0026openthreadid=omt_19a9e9fbfbcf1ce6\u0026thread_position=4",
+            "message_id": "om_x100b63f27d300488b3d3dd7a168c420",
+            "message_position": "-3",
+            "msg_type": "text",
+            "sender": {
+              "id": "ou_201c617c8180e3a801c22a702d94700a",
+              "id_type": "open_id",
+              "name": "漫川",
+              "sender_i18n_names": {
+                "zh_cn": "汤圆"
+              },
+              "sender_type": "user",
+              "tenant_key": "11f46eabf147175e"
+            },
+            "thread_id": "omt_19a9e9fbfbcf1ce6",
+            "thread_message_position": "4",
+            "updated": false
+          },
+          {
+            "chat_id": "oc_afdd960e5b5f39cd89d6b9946a78cd78",
+            "content": "Traework我还在用呀，还没感觉有变化。",
+            "create_time": "2026-10-12 04:50",
+            "deleted": false,
+            "message_app_link": "https://applink.feishu.cn/client/thread/open?open_chat_id=oc_afdd960e5b5f39cd89d6b9946a78cd78\u0026open_thread_id=omt_19a9e9fbfbcf1ce6\u0026openchatid=oc_afdd960e5b5f39cd89d6b9946a78cd78\u0026openthreadid=omt_19a9e9fbfbcf1ce6\u0026thread_position=5",
+            "message_id": "om_x100b63f23e69b0a0c2f4d28a356e187",
+            "message_position": "-3",
+            "msg_type": "text",
+            "sender": {
+              "id": "ou_364cf42726d491df42e471b0601b3db1",
+              "id_type": "open_id",
+              "name": "用户427395",
+              "sender_i18n_names": {
+                "zh_cn": "Mr.Horfen"
+              },
+              "sender_type": "user",
+              "tenant_key": "1ac9296fe4011b82"
+            },
+            "thread_id": "omt_19a9e9fbfbcf1ce6",
+            "thread_message_position": "5",
+            "updated": false
+          },
+          {
+            "chat_id": "oc_afdd960e5b5f39cd89d6b9946a78cd78",
+            "content": "work团队都合并到豆包工作了",
+            "create_time": "2026-10-12 05:47",
+            "deleted": false,
+            "message_app_link": "https://applink.feishu.cn/client/thread/open?open_chat_id=oc_afdd960e5b5f39cd89d6b9946a78cd78\u0026open_thread_id=omt_19a9e9fbfbcf1ce6\u0026openchatid=oc_afdd960e5b5f39cd89d6b9946a78cd78\u0026openthreadid=omt_19a9e9fbfbcf1ce6\u0026thread_position=6",
+            "message_id": "om_x100b63f30b4544a8c332515fbe98134",
+            "message_position": "-3",
+            "msg_type": "text",
+            "sender": {
+              "id": "ou_480f8118cc3a5c32b1c802471d97bcda",
+              "id_type": "open_id",
+              "name": "谢承旭",
+              "sender_i18n_names": {
+                "en_us": "谢承旭",
+                "zh_cn": "谢承旭"
+              },
+              "sender_type": "user",
+              "tenant_key": "1b87d16f541ad758"
+            },
+            "thread_id": "omt_19a9e9fbfbcf1ce6",
+            "thread_message_position": "6",
+            "updated": false
+          },
+          {
+            "chat_id": "oc_afdd960e5b5f39cd89d6b9946a78cd78",
+            "content": "@谢承旭 也并没有哈",
+            "create_time": "2026-10-12 06:00",
+            "deleted": false,
+            "mentions": [
+              {
+                "id": "ou_480f8118cc3a5c32b1c802471d97bcda",
+                "key": "@_user_1",
+                "name": "谢承旭"
+              }
+            ],
+            "message_app_link": "https://applink.feishu.cn/client/thread/open?open_chat_id=oc_afdd960e5b5f39cd89d6b9946a78cd78\u0026open_thread_id=omt_19a9e9fbfbcf1ce6\u0026openchatid=oc_afdd960e5b5f39cd89d6b9946a78cd78\u0026openthreadid=omt_19a9e9fbfbcf1ce6\u0026thread_position=7",
+            "message_id": "om_x100b63f337d378bcb3df32de0c181bd",
+            "message_position": "-3",
+            "msg_type": "text",
+            "sender": {
+              "id": "ou_0396a5c6b4782df5bc1693e5486da1f7",
+              "id_type": "open_id",
+              "name": "李东阳",
+              "sender_i18n_names": {
+                "en_us": "Dongyang Li",
+                "zh_cn": "李东阳"
+              },
+              "sender_type": "user",
+              "tenant_key": "736588c9260f175d"
+            },
+            "thread_id": "omt_19a9e9fbfbcf1ce6",
+            "thread_message_position": "7",
+            "update_time": "2026-10-12 06:00",
+            "updated": true
+          },
+          {
+            "chat_id": "oc_afdd960e5b5f39cd89d6b9946a78cd78",
+            "content": "就是两个合并了，没有哪一个被放弃",
+            "create_time": "2026-10-12 06:01",
+            "deleted": false,
+            "message_app_link": "https://applink.feishu.cn/client/thread/open?open_chat_id=oc_afdd960e5b5f39cd89d6b9946a78cd78\u0026open_thread_id=omt_19a9e9fbfbcf1ce6\u0026openchatid=oc_afdd960e5b5f39cd89d6b9946a78cd78\u0026openthreadid=omt_19a9e9fbfbcf1ce6\u0026thread_position=8",
+            "message_id": "om_x100b63f33725d0acb36d639c9d3ce46",
+            "message_position": "-3",
+            "msg_type": "text",
+            "sender": {
+              "id": "ou_0396a5c6b4782df5bc1693e5486da1f7",
+              "id_type": "open_id",
+              "name": "李东阳",
+              "sender_i18n_names": {
+                "en_us": "Dongyang Li",
+                "zh_cn": "李东阳"
+              },
+              "sender_type": "user",
+              "tenant_key": "736588c9260f175d"
+            },
+            "thread_id": "omt_19a9e9fbfbcf1ce6",
+            "thread_message_position": "8",
+            "updated": false
+          },
+          {
+            "chat_id": "oc_afdd960e5b5f39cd89d6b9946a78cd78",
+            "content": "新领导对你好么",
+            "create_time": "2026-10-12 06:01",
+            "deleted": false,
+            "message_app_link": "https://applink.feishu.cn/client/thread/open?open_chat_id=oc_afdd960e5b5f39cd89d6b9946a78cd78\u0026open_thread_id=omt_19a9e9fbfbcf1ce6\u0026openchatid=oc_afdd960e5b5f39cd89d6b9946a78cd78\u0026openthreadid=omt_19a9e9fbfbcf1ce6\u0026thread_position=9",
+            "message_id": "om_x100b63f332cb116cc38bf287d99fa66",
+            "message_position": "-3",
+            "msg_type": "text",
+            "sender": {
+              "id": "ou_364cf42726d491df42e471b0601b3db1",
+              "id_type": "open_id",
+              "name": "用户427395",
+              "sender_i18n_names": {
+                "zh_cn": "Mr.Horfen"
+              },
+              "sender_type": "user",
+              "tenant_key": "1ac9296fe4011b82"
+            },
+            "thread_id": "omt_19a9e9fbfbcf1ce6",
+            "thread_message_position": "9",
+            "updated": false
+          },
+          {
+            "chat_id": "oc_afdd960e5b5f39cd89d6b9946a78cd78",
+            "content": "solo 模式会不会被放弃[看]，感觉和 AGENT 窗口功能重叠挺多的，连消息记录都是共享的@李东阳",
+            "create_time": "2026-10-12 06:02",
+            "deleted": false,
+            "mentions": [
+              {
+                "id": "ou_0396a5c6b4782df5bc1693e5486da1f7",
+                "key": "@_user_1",
+                "name": "李东阳"
+              }
+            ],
+            "message_app_link": "https://applink.feishu.cn/client/thread/open?open_chat_id=oc_afdd960e5b5f39cd89d6b9946a78cd78\u0026open_thread_id=omt_19a9e9fbfbcf1ce6\u0026openchatid=oc_afdd960e5b5f39cd89d6b9946a78cd78\u0026openthreadid=omt_19a9e9fbfbcf1ce6\u0026thread_position=10",
+            "message_id": "om_x100b63f3ceec50a0c1504111b375bbd",
+            "message_position": "-3",
+            "msg_type": "text",
+            "sender": {
+              "id": "ou_480f8118cc3a5c32b1c802471d97bcda",
+              "id_type": "open_id",
+              "name": "谢承旭",
+              "sender_i18n_names": {
+                "en_us": "谢承旭",
+                "zh_cn": "谢承旭"
+              },
+              "sender_type": "user",
+              "tenant_key": "1b87d16f541ad758"
+            },
+            "thread_id": "omt_19a9e9fbfbcf1ce6",
+            "thread_message_position": "10",
+            "update_time": "2026-10-12 06:02",
+            "updated": true
+          },
+          {
+            "chat_id": "oc_afdd960e5b5f39cd89d6b9946a78cd78",
+            "content": "大概率不会，国内IDE没有明显可替代的竞品",
+            "create_time": "2026-10-12 06:03",
+            "deleted": false,
+            "message_app_link": "https://applink.feishu.cn/client/thread/open?open_chat_id=oc_afdd960e5b5f39cd89d6b9946a78cd78\u0026open_thread_id=omt_19a9e9fbfbcf1ce6\u0026openchatid=oc_afdd960e5b5f39cd89d6b9946a78cd78\u0026openthreadid=omt_19a9e9fbfbcf1ce6\u0026thread_position=11",
+            "message_id": "om_x100b63f3ccf664b8c37b6247204339b",
+            "message_position": "-3",
+            "msg_type": "text",
+            "sender": {
+              "id": "ou_364cf42726d491df42e471b0601b3db1",
+              "id_type": "open_id",
+              "name": "用户427395",
+              "sender_i18n_names": {
+                "zh_cn": "Mr.Horfen"
+              },
+              "sender_type": "user",
+              "tenant_key": "1ac9296fe4011b82"
+            },
+            "thread_id": "omt_19a9e9fbfbcf1ce6",
+            "thread_message_position": "11",
+            "updated": false
+          },
+          {
+            "chat_id": "oc_afdd960e5b5f39cd89d6b9946a78cd78",
+            "content": "自动档普及了 手动档也没被淘汰呀，两者并不冲突。",
+            "create_time": "2026-10-12 06:04",
+            "deleted": false,
+            "message_app_link": "https://applink.feishu.cn/client/thread/open?open_chat_id=oc_afdd960e5b5f39cd89d6b9946a78cd78\u0026open_thread_id=omt_19a9e9fbfbcf1ce6\u0026openchatid=oc_afdd960e5b5f39cd89d6b9946a78cd78\u0026openthreadid=omt_19a9e9fbfbcf1ce6\u0026thread_position=12",
+            "message_id": "om_x100b63f3c655cca8deecce3db07bb8c",
+            "message_position": "-3",
+            "msg_type": "text",
+            "sender": {
+              "id": "ou_364cf42726d491df42e471b0601b3db1",
+              "id_type": "open_id",
+              "name": "用户427395",
+              "sender_i18n_names": {
+                "zh_cn": "Mr.Horfen"
+              },
+              "sender_type": "user",
+              "tenant_key": "1ac9296fe4011b82"
+            },
+            "thread_id": "omt_19a9e9fbfbcf1ce6",
+            "thread_message_position": "12",
+            "updated": false
+          },
+          {
+            "chat_id": "oc_afdd960e5b5f39cd89d6b9946a78cd78",
+            "content": "我就喜欢自己踩离合的感觉[无辜笑]",
+            "create_time": "2026-10-12 06:05",
+            "deleted": false,
+            "message_app_link": "https://applink.feishu.cn/client/thread/open?open_chat_id=oc_afdd960e5b5f39cd89d6b9946a78cd78\u0026open_thread_id=omt_19a9e9fbfbcf1ce6\u0026openchatid=oc_afdd960e5b5f39cd89d6b9946a78cd78\u0026openthreadid=omt_19a9e9fbfbcf1ce6\u0026thread_position=13",
+            "message_id": "om_x100b63f3c2910cacc11f42bd279737d",
+            "message_position": "-3",
+            "msg_type": "text",
+            "sender": {
+              "id": "ou_364cf42726d491df42e471b0601b3db1",
+              "id_type": "open_id",
+              "name": "用户427395",
+              "sender_i18n_names": {
+                "zh_cn": "Mr.Horfen"
+              },
+              "sender_type": "user",
+              "tenant_key": "1ac9296fe4011b82"
+            },
+            "thread_id": "omt_19a9e9fbfbcf1ce6",
+            "thread_message_position": "13",
+            "updated": false
+          },
+          {
+            "chat_id": "oc_afdd960e5b5f39cd89d6b9946a78cd78",
+            "content": "要是能和小米合作下用A2A协议打通小爱和Trae就好了，这样我就能用我的小爱智能AI眼镜去控制Trae了，就和乐奇和WorkBuddy合作那样",
+            "create_time": "2026-10-12 06:09",
+            "deleted": false,
+            "message_app_link": "https://applink.feishu.cn/client/thread/open?open_chat_id=oc_afdd960e5b5f39cd89d6b9946a78cd78\u0026open_thread_id=omt_19a9e9fbfbcf1ce6\u0026openchatid=oc_afdd960e5b5f39cd89d6b9946a78cd78\u0026openthreadid=omt_19a9e9fbfbcf1ce6\u0026thread_position=14",
+            "message_id": "om_x100b63f3d5cc90acc102c58f6c5e17d",
+            "message_position": "-3",
+            "msg_type": "text",
+            "sender": {
+              "id": "ou_480f8118cc3a5c32b1c802471d97bcda",
+              "id_type": "open_id",
+              "name": "谢承旭",
+              "sender_i18n_names": {
+                "en_us": "谢承旭",
+                "zh_cn": "谢承旭"
+              },
+              "sender_type": "user",
+              "tenant_key": "1b87d16f541ad758"
+            },
+            "thread_id": "omt_19a9e9fbfbcf1ce6",
+            "thread_message_position": "14",
+            "updated": false
+          },
+          {
+            "chat_id": "oc_afdd960e5b5f39cd89d6b9946a78cd78",
+            "content": "不能在近视群体普及的AI眼镜都是伪需求。",
+            "create_time": "2026-10-12 06:11",
+            "deleted": false,
+            "message_app_link": "https://applink.feishu.cn/client/thread/open?open_chat_id=oc_afdd960e5b5f39cd89d6b9946a78cd78\u0026open_thread_id=omt_19a9e9fbfbcf1ce6\u0026openchatid=oc_afdd960e5b5f39cd89d6b9946a78cd78\u0026openthreadid=omt_19a9e9fbfbcf1ce6\u0026thread_position=15",
+            "message_id": "om_x100b63f3eedbb8a8c442d6116cbbbb3",
+            "message_position": "-3",
+            "msg_type": "text",
+            "sender": {
+              "id": "ou_364cf42726d491df42e471b0601b3db1",
+              "id_type": "open_id",
+              "name": "用户427395",
+              "sender_i18n_names": {
+                "zh_cn": "Mr.Horfen"
+              },
+              "sender_type": "user",
+              "tenant_key": "1ac9296fe4011b82"
+            },
+            "thread_id": "omt_19a9e9fbfbcf1ce6",
+            "thread_message_position": "15",
+            "updated": false
+          },
+          {
+            "chat_id": "oc_afdd960e5b5f39cd89d6b9946a78cd78",
+            "content": "我就是近视，至于普及，经校园调研主要两方面原因：一是在于身边大部分人都不知道有这个产品，二是AI Glasses极其依赖于具有生态圈习惯的用户，很多校园用户的生态圈是散装生态圈。个人估计在1~2年内会成为新的品类产品，毕竟Rokid今年卖爆了。在传统消费电子增速缓慢的大背景下，硬件厂商很难不跟进开辟这个赛道。",
+            "create_time": "2026-10-12 06:14",
+            "deleted": false,
+            "message_app_link": "https://applink.feishu.cn/client/thread/open?open_chat_id=oc_afdd960e5b5f39cd89d6b9946a78cd78\u0026open_thread_id=omt_19a9e9fbfbcf1ce6\u0026openchatid=oc_afdd960e5b5f39cd89d6b9946a78cd78\u0026openthreadid=omt_19a9e9fbfbcf1ce6\u0026thread_position=16",
+            "message_id": "om_x100b63f3e0cad0bcc1100430bde3cb7",
+            "message_position": "-3",
+            "msg_type": "text",
+            "sender": {
+              "id": "ou_480f8118cc3a5c32b1c802471d97bcda",
+              "id_type": "open_id",
+              "name": "谢承旭",
+              "sender_i18n_names": {
+                "en_us": "谢承旭",
+                "zh_cn": "谢承旭"
+              },
+              "sender_type": "user",
+              "tenant_key": "1b87d16f541ad758"
+            },
+            "thread_id": "omt_19a9e9fbfbcf1ce6",
+            "thread_message_position": "16",
+            "updated": false
+          }
+        ],
+        "updated": false
+      },
+      {
+        "chat_id": "oc_afdd960e5b5f39cd89d6b9946a78cd78",
+        "content": "国际版 Pro 自动续费退款咋搞？才发现有默认扣款，好几个月了，今天的扣款尚未使用权益。\n![Image](img_v3_0216d_559d7225-56f0-4c00-9a9b-d5685780731g)",
+        "create_time": "2026-10-12 06:04",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/thread/open?open_chat_id=oc_afdd960e5b5f39cd89d6b9946a78cd78\u0026open_thread_id=omt_19a9f095770f1b88\u0026openchatid=oc_afdd960e5b5f39cd89d6b9946a78cd78\u0026openthreadid=omt_19a9f095770f1b88\u0026thread_position=-1",
+        "message_id": "om_x100b63f3cb089ca0c2453a4d50f886a",
+        "message_position": "16466",
+        "msg_type": "post",
+        "sender": {
+          "id": "ou_04ca21f7863fd53099e3d3c54b7ab669",
+          "id_type": "open_id",
+          "name": "袁久达",
+          "sender_i18n_names": {
+            "en_us": "Jiuda Yuan",
+            "zh_cn": "袁久达"
+          },
+          "sender_type": "user",
+          "tenant_key": "736588c9260f175d"
+        },
+        "thread_id": "omt_19a9f095770f1b88",
+        "thread_message_position": "-1",
+        "thread_replies": [
+          {
+            "chat_id": "oc_afdd960e5b5f39cd89d6b9946a78cd78",
+            "content": "\u003ccard\u003e\n退款这类涉及你个人账号和订单的事，我这边没法直接查询或处理，得走官方邮件渠道。\n\n你是国际版（trae.ai），请把产品名称、扣费时间、金额和上面的扣费凭证一起发到 **feedback@mail.trae.ai**，说明是 Pro 自动续费、今天这笔尚未使用权益，请他们帮你处理。\n\n另外微信自动续费可以自己先关掉，避免下个月继续扣：微信 →「我」→「服务」→「钱包」→「支付分/自动续费」（或直接搜「自动续费」），找到 Trae Pro 那条关闭即可。\n---\n💡 更多使用问题请转移至 [TRAE 官方社区「帮助与支持」板块](https://forum.trae.cn/c/7-category/7) 发帖询问 \n · 021791785053146fdbddc0200190532c659cb53af00005d970590 · \n[已解决]\n[更多问题请到「官方社区」提问](https://forum.trae.cn/c/7-category/7)\n\u003c/card\u003e",
+            "create_time": "2026-10-12 06:04",
+            "deleted": false,
+            "message_app_link": "https://applink.feishu.cn/client/thread/open?open_chat_id=oc_afdd960e5b5f39cd89d6b9946a78cd78\u0026open_thread_id=omt_19a9f095770f1b88\u0026openchatid=oc_afdd960e5b5f39cd89d6b9946a78cd78\u0026openthreadid=omt_19a9f095770f1b88\u0026thread_position=0",
+            "message_id": "om_x100b63f3cb2904a4b2c0b8c5f031495",
+            "message_position": "-3",
+            "msg_type": "interactive",
+            "sender": {
+              "id": "cli_a9c7f80599f8dbc4",
+              "id_type": "app_id",
+              "name": "TRAE 宝",
+              "open_bot_id": "ou_dfae499a31a17e270c3cc86c7275f2bd",
+              "sender_i18n_names": {
+                "en_us": "TRAE 宝",
+                "zh_cn": "TRAE 宝"
+              },
+              "sender_type": "app",
+              "tenant_key": "15d6d1e6e508d75e"
+            },
+            "thread_id": "omt_19a9f095770f1b88",
+            "thread_message_position": "0",
+            "update_time": "2026-10-12 06:04",
+            "updated": true
+          },
+          {
+            "chat_id": "oc_afdd960e5b5f39cd89d6b9946a78cd78",
+            "content": "产品名称、扣费时间、金额和上面的扣费凭证一起发到 feedback@mail.trae.ai",
+            "create_time": "2026-10-12 06:05",
+            "deleted": false,
+            "message_app_link": "https://applink.feishu.cn/client/thread/open?open_chat_id=oc_afdd960e5b5f39cd89d6b9946a78cd78\u0026open_thread_id=omt_19a9f095770f1b88\u0026openchatid=oc_afdd960e5b5f39cd89d6b9946a78cd78\u0026openthreadid=omt_19a9f095770f1b88\u0026thread_position=1",
+            "message_id": "om_x100b63f3c5b414bcb2ed7199a2893ee",
+            "message_position": "-3",
+            "msg_type": "text",
+            "sender": {
+              "id": "ou_201c617c8180e3a801c22a702d94700a",
+              "id_type": "open_id",
+              "name": "漫川",
+              "sender_i18n_names": {
+                "zh_cn": "汤圆"
+              },
+              "sender_type": "user",
+              "tenant_key": "11f46eabf147175e"
+            },
+            "thread_id": "omt_19a9f095770f1b88",
+            "thread_message_position": "1",
+            "updated": false
+          },
+          {
+            "chat_id": "oc_afdd960e5b5f39cd89d6b9946a78cd78",
+            "content": "另外微信自动续费可以自己先关掉，避免下个月继续扣：微信 →「我」→「服务」→「钱包」→「支付分/自动续费」（或直接搜「自动续费」），找到 Trae Pro 那条关闭即可。",
+            "create_time": "2026-10-12 06:05",
+            "deleted": false,
+            "message_app_link": "https://applink.feishu.cn/client/thread/open?open_chat_id=oc_afdd960e5b5f39cd89d6b9946a78cd78\u0026open_thread_id=omt_19a9f095770f1b88\u0026openchatid=oc_afdd960e5b5f39cd89d6b9946a78cd78\u0026openthreadid=omt_19a9f095770f1b88\u0026thread_position=2",
+            "message_id": "om_x100b63f3c576b0b4b3207246c55726c",
+            "message_position": "-3",
+            "msg_type": "text",
+            "sender": {
+              "id": "ou_201c617c8180e3a801c22a702d94700a",
+              "id_type": "open_id",
+              "name": "漫川",
+              "sender_i18n_names": {
+                "zh_cn": "汤圆"
+              },
+              "sender_type": "user",
+              "tenant_key": "11f46eabf147175e"
+            },
+            "thread_id": "omt_19a9f095770f1b88",
+            "thread_message_position": "2",
+            "updated": false
+          },
+          {
+            "chat_id": "oc_afdd960e5b5f39cd89d6b9946a78cd78",
+            "content": "@袁久达 申请退款处理发送邮件到**[feedback@mail.trae.ai](mailto:feedback@mail.trae.ai)**，在邮件里写清楚您的诉求、账号信息（UID）和付款信息，相关负责同学会按正式流程处理\n![Image](img_v3_0216d_3d30967e-62e7-4d7f-96cb-663e6eaaa9ag)",
+            "create_time": "2026-10-12 11:25",
+            "deleted": false,
+            "mentions": [
+              {
+                "id": "ou_04ca21f7863fd53099e3d3c54b7ab669",
+                "key": "@_user_1",
+                "name": "袁久达"
+              }
+            ],
+            "message_app_link": "https://applink.feishu.cn/client/thread/open?open_chat_id=oc_afdd960e5b5f39cd89d6b9946a78cd78\u0026open_thread_id=omt_19a9f095770f1b88\u0026openchatid=oc_afdd960e5b5f39cd89d6b9946a78cd78\u0026openthreadid=omt_19a9f095770f1b88\u0026thread_position=3",
+            "message_id": "om_x100b63f877c4a8a4b3bfc54c397f03d",
+            "message_position": "-3",
+            "msg_type": "post",
+            "sender": {
+              "id": "ou_f66233ee586f17ab9817ff3c41de6505",
+              "id_type": "open_id",
+              "name": "高旋",
+              "sender_i18n_names": {
+                "en_us": "Xuan Gao",
+                "zh_cn": "高旋"
+              },
+              "sender_type": "user",
+              "tenant_key": "736588c9260f175d"
+            },
+            "thread_id": "omt_19a9f095770f1b88",
+            "thread_message_position": "3",
+            "update_time": "2026-10-12 11:25",
+            "updated": true
+          }
+        ],
+        "updated": false
+      },
+      {
+        "chat_id": "oc_afdd960e5b5f39cd89d6b9946a78cd78",
+        "content": "@_all 🎁 TRAE 全面升级，双端融合，社区双重活动同步开启\nTraeWork 和 TraeCode 已正式合并为全新 TRAE：一个入口连接 Agent 模式与 IDE 模式，桌面端、Web 端和移动端也能同步协作。\n1️⃣欢迎大家前往论坛活动帖聊聊升级后的第一感受、最想体验的功能，或者对新版的建议。有效评论有机会获得 500 积分，被官方精选还能再得 1000 积分。\n活动时间：10 月 9 日 - 10 月 13 日（明天）\n 参与入口：\n https://forum.trae.cn/t/topic/183224\n2️⃣带一个真实任务完整体验新版 TRAE，分享功能测评、使用技巧或实战案例。正文满 100 字，并附上截图、录屏或最终产物，即有机会赢取 Ultra 会员和积分奖励。\n活动时间：10 月 9 日—10 月 18 日\n 参与入口：\n https://forum.trae.cn/t/topic/183245\n两个活动都可以参加，已经升级的同学欢迎来社区分享体验。",
+        "create_time": "2026-10-12 07:41",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/thread/open?open_chat_id=oc_afdd960e5b5f39cd89d6b9946a78cd78\u0026open_thread_id=omt_19a907c672cd1c9c\u0026openchatid=oc_afdd960e5b5f39cd89d6b9946a78cd78\u0026openthreadid=omt_19a907c672cd1c9c\u0026thread_position=-1",
+        "message_id": "om_x100b63fcbe38c080b30679049ab1d9f",
+        "message_position": "16467",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_be6596d0943e67e9c82918b84b0af18c",
+          "id_type": "open_id",
+          "name": "吴于飞",
+          "sender_i18n_names": {
+            "en_us": "Yufei Wu",
+            "zh_cn": "吴于飞"
+          },
+          "sender_type": "user",
+          "tenant_key": "736588c9260f175d"
+        },
+        "thread_id": "omt_19a907c672cd1c9c",
+        "thread_message_position": "-1",
+        "thread_replies": [
+          {
+            "chat_id": "oc_afdd960e5b5f39cd89d6b9946a78cd78",
+            "content": "\u003ccard\u003e\n收到~ 双端融合升级和两个社区活动都看到了，已经升级的同学可以去活动帖聊聊体验或分享实战案例。祝大家都能抱回积分和 Ultra 会员 🎉\n---\n💡 更多使用问题请转移至 [TRAE 官方社区「帮助与支持」板块](https://forum.trae.cn/c/7-category/7) 发帖询问 \n · 021791790864390fdbddc02000a02664559cb53af0000a67c8d33 · \n[已解决]\n[更多问题请到「官方社区」提问](https://forum.trae.cn/c/7-category/7)\n\u003c/card\u003e",
+            "create_time": "2026-10-12 07:41",
+            "deleted": false,
+            "message_app_link": "https://applink.feishu.cn/client/thread/open?open_chat_id=oc_afdd960e5b5f39cd89d6b9946a78cd78\u0026open_thread_id=omt_19a907c672cd1c9c\u0026openchatid=oc_afdd960e5b5f39cd89d6b9946a78cd78\u0026openthreadid=omt_19a907c672cd1c9c\u0026thread_position=0",
+            "message_id": "om_x100b63fcbfdb1ca4b1062664188467a",
+            "message_position": "-3",
+            "msg_type": "interactive",
+            "sender": {
+              "id": "cli_a9c7f80599f8dbc4",
+              "id_type": "app_id",
+              "name": "TRAE 宝",
+              "open_bot_id": "ou_dfae499a31a17e270c3cc86c7275f2bd",
+              "sender_i18n_names": {
+                "en_us": "TRAE 宝",
+                "zh_cn": "TRAE 宝"
+              },
+              "sender_type": "app",
+              "tenant_key": "15d6d1e6e508d75e"
+            },
+            "thread_id": "omt_19a907c672cd1c9c",
+            "thread_message_position": "0",
+            "update_time": "2026-10-12 07:41",
+            "updated": true
+          }
+        ],
+        "updated": false
+      },
+      {
+        "chat_id": "oc_afdd960e5b5f39cd89d6b9946a78cd78",
+        "content": "为什么办公助理里面的聊天记录还是无法删除呢 这个问题已经几个月没有解决了吧，什么效率啊，这么影响使用体验的功能",
+        "create_time": "2026-10-12 10:38",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/thread/open?open_chat_id=oc_afdd960e5b5f39cd89d6b9946a78cd78\u0026open_thread_id=omt_19a9305e074f5be7\u0026openchatid=oc_afdd960e5b5f39cd89d6b9946a78cd78\u0026openthreadid=omt_19a9305e074f5be7\u0026thread_position=-1",
+        "message_id": "om_x100b63ffc7bf98a4c4b2ae2e00ba63d",
+        "message_position": "16473",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_7f8877ffffa04c7534cfa70f2d3b843e",
+          "id_type": "open_id",
+          "name": "浩瀚",
+          "sender_i18n_names": {
+            "zh_cn": "Vast"
+          },
+          "sender_type": "user",
+          "tenant_key": "1a2173fa4c439b89"
+        },
+        "thread_id": "omt_19a9305e074f5be7",
+        "thread_message_position": "-1",
+        "thread_replies": [
+          {
+            "chat_id": "oc_afdd960e5b5f39cd89d6b9946a78cd78",
+            "content": "\u003ccard\u003e\n你说的办公助理聊天记录删不掉，论坛上暂时没翻到现成讨论。建议去「帮助与支持」板块发个帖：🔗 [https://forum.trae.cn/c/7-category/7](https://forum.trae.cn/c/7-category/7)，把产品（IDE / 插件 / Work）、系统版本和具体表现写进去会更快得到解答，后面遇到同样问题的同学也能搜到~\n---\n💡 更多使用问题请转移至 [TRAE 官方社区「帮助与支持」板块](https://forum.trae.cn/c/7-category/7) 发帖询问 \n · 021791801496082fdbddc02001405304b59cb53af0000e954f442 · \n[已解决]\n[更多问题请到「官方社区」提问](https://forum.trae.cn/c/7-category/7)\n\u003c/card\u003e",
+            "create_time": "2026-10-12 10:38",
+            "deleted": false,
+            "message_app_link": "https://applink.feishu.cn/client/thread/open?open_chat_id=oc_afdd960e5b5f39cd89d6b9946a78cd78\u0026open_thread_id=omt_19a9305e074f5be7\u0026openchatid=oc_afdd960e5b5f39cd89d6b9946a78cd78\u0026openthreadid=omt_19a9305e074f5be7\u0026thread_position=0",
+            "message_id": "om_x100b63ffc75d38a0dd428050d9e8d46",
+            "message_position": "-3",
+            "msg_type": "interactive",
+            "sender": {
+              "id": "cli_a9c7f80599f8dbc4",
+              "id_type": "app_id",
+              "name": "TRAE 宝",
+              "open_bot_id": "ou_dfae499a31a17e270c3cc86c7275f2bd",
+              "sender_i18n_names": {
+                "en_us": "TRAE 宝",
+                "zh_cn": "TRAE 宝"
+              },
+              "sender_type": "app",
+              "tenant_key": "15d6d1e6e508d75e"
+            },
+            "thread_id": "omt_19a9305e074f5be7",
+            "thread_message_position": "0",
+            "update_time": "2026-10-12 10:38",
+            "updated": true
+          },
+          {
+            "chat_id": "oc_afdd960e5b5f39cd89d6b9946a78cd78",
+            "content": "@浩瀚 这边记录反馈一下，目前无预期时间哈",
+            "create_time": "2026-10-12 11:25",
+            "deleted": false,
+            "mentions": [
+              {
+                "id": "ou_7f8877ffffa04c7534cfa70f2d3b843e",
+                "key": "@_user_1",
+                "name": "浩瀚"
+              }
+            ],
+            "message_app_link": "https://applink.feishu.cn/client/thread/open?open_chat_id=oc_afdd960e5b5f39cd89d6b9946a78cd78\u0026open_thread_id=omt_19a9305e074f5be7\u0026openchatid=oc_afdd960e5b5f39cd89d6b9946a78cd78\u0026openthreadid=omt_19a9305e074f5be7\u0026thread_position=1",
+            "message_id": "om_x100b63f8742dd0a0b1a24ad441b0987",
+            "message_position": "-3",
+            "msg_type": "text",
+            "sender": {
+              "id": "ou_f66233ee586f17ab9817ff3c41de6505",
+              "id_type": "open_id",
+              "name": "高旋",
+              "sender_i18n_names": {
+                "en_us": "Xuan Gao",
+                "zh_cn": "高旋"
+              },
+              "sender_type": "user",
+              "tenant_key": "736588c9260f175d"
+            },
+            "thread_id": "omt_19a9305e074f5be7",
+            "thread_message_position": "1",
+            "update_time": "2026-10-12 11:25",
+            "updated": true
+          }
+        ],
+        "updated": false
+      },
+      {
+        "chat_id": "oc_afdd960e5b5f39cd89d6b9946a78cd78",
+        "content": "trea work改成trea，有什么变化吗，为什么要卸载重装？",
+        "create_time": "2026-10-12 10:38",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/thread/open?open_chat_id=oc_afdd960e5b5f39cd89d6b9946a78cd78\u0026open_thread_id=omt_19a9300a064e5c8e\u0026openchatid=oc_afdd960e5b5f39cd89d6b9946a78cd78\u0026openthreadid=omt_19a9300a064e5c8e\u0026thread_position=-1",
+        "message_id": "om_x100b63ffc2ff88b4b224ce0b08f975f",
+        "message_position": "16474",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_e244db590a234ff03c462399fe6c84c8",
+          "id_type": "open_id",
+          "name": "高卫强",
+          "sender_type": "user",
+          "tenant_key": "116ec703790d175d"
+        },
+        "thread_id": "omt_19a9300a064e5c8e",
+        "thread_message_position": "-1",
+        "thread_replies": [
+          {
+            "chat_id": "oc_afdd960e5b5f39cd89d6b9946a78cd78",
+            "content": "\u003ccard\u003e\n你说的「TRAE Work 改成 TRAE、还要卸载重装」这块的变动和原因，建议去 TRAE 论坛「帮助与支持」板块发个帖问问：🔗 [https://forum.trae.cn/c/7-category/7](https://forum.trae.cn/c/7-category/7)\n\n那边更多同学和官方同学会帮你看，也方便后面遇到同样疑问的人搜到~ 发帖时把产品（IDE / 插件 / Work）、系统版本和具体提示写进去会更快得到解答。\n---\n💡 更多使用问题请转移至 [TRAE 官方社区「帮助与支持」板块](https://forum.trae.cn/c/7-category/7) 发帖询问 \n · 021791801540349fdbddc02001405304b59cb53af0000e9a1db4d · \n[已解决]\n[更多问题请到「官方社区」提问](https://forum.trae.cn/c/7-category/7)\n\u003c/card\u003e",
+            "create_time": "2026-10-12 10:39",
+            "deleted": false,
+            "message_app_link": "https://applink.feishu.cn/client/thread/open?open_chat_id=oc_afdd960e5b5f39cd89d6b9946a78cd78\u0026open_thread_id=omt_19a9300a064e5c8e\u0026openchatid=oc_afdd960e5b5f39cd89d6b9946a78cd78\u0026openthreadid=omt_19a9300a064e5c8e\u0026thread_position=0",
+            "message_id": "om_x100b63ffc29c60a8b1b2088a9dd5dae",
+            "message_position": "-3",
+            "msg_type": "interactive",
+            "sender": {
+              "id": "cli_a9c7f80599f8dbc4",
+              "id_type": "app_id",
+              "name": "TRAE 宝",
+              "open_bot_id": "ou_dfae499a31a17e270c3cc86c7275f2bd",
+              "sender_i18n_names": {
+                "en_us": "TRAE 宝",
+                "zh_cn": "TRAE 宝"
+              },
+              "sender_type": "app",
+              "tenant_key": "15d6d1e6e508d75e"
+            },
+            "thread_id": "omt_19a9300a064e5c8e",
+            "thread_message_position": "0",
+            "update_time": "2026-10-12 10:39",
+            "updated": true
+          },
+          {
+            "chat_id": "oc_afdd960e5b5f39cd89d6b9946a78cd78",
+            "content": "后续TRAE Work/Code两个产品可能会下架，TRAE 是一款深度融合 AI 能力的开发工具，提供从代码编写、项目理解、调试运行到变更管理的完整开发体验。你可以像使用传统 IDE 一样掌控每一步，也可以把复杂任务交给 AI 智能体规划和执行。（TRAE是TRAE Work TRAE Code 双端融合的AI工具）",
+            "create_time": "2026-10-12 10:42",
+            "deleted": false,
+            "message_app_link": "https://applink.feishu.cn/client/thread/open?open_chat_id=oc_afdd960e5b5f39cd89d6b9946a78cd78\u0026open_thread_id=omt_19a9300a064e5c8e\u0026openchatid=oc_afdd960e5b5f39cd89d6b9946a78cd78\u0026openthreadid=omt_19a9300a064e5c8e\u0026thread_position=1",
+            "message_id": "om_x100b63ffd5cff8a4b4b5725bf327a84",
+            "message_position": "-3",
+            "msg_type": "text",
+            "sender": {
+              "id": "ou_f7c1d047112bcada3ec1fbbf6c98a9c3",
+              "id_type": "open_id",
+              "name": "哈基宸",
+              "sender_type": "user",
+              "tenant_key": "1a055c8d6c1cdbbc"
+            },
+            "thread_id": "omt_19a9300a064e5c8e",
+            "thread_message_position": "1",
+            "updated": false
+          },
+          {
+            "chat_id": "oc_afdd960e5b5f39cd89d6b9946a78cd78",
+            "content": "红豆泥，这个合并可不简单",
+            "create_time": "2026-10-12 10:43",
+            "deleted": false,
+            "message_app_link": "https://applink.feishu.cn/client/thread/open?open_chat_id=oc_afdd960e5b5f39cd89d6b9946a78cd78\u0026open_thread_id=omt_19a9300a064e5c8e\u0026openchatid=oc_afdd960e5b5f39cd89d6b9946a78cd78\u0026openthreadid=omt_19a9300a064e5c8e\u0026thread_position=2",
+            "message_id": "om_x100b63ffd30f30a0b1b7eb7cda314a2",
+            "message_position": "-3",
+            "msg_type": "text",
+            "sender": {
+              "id": "ou_e244db590a234ff03c462399fe6c84c8",
+              "id_type": "open_id",
+              "name": "高卫强",
+              "sender_type": "user",
+              "tenant_key": "116ec703790d175d"
+            },
+            "thread_id": "omt_19a9300a064e5c8e",
+            "thread_message_position": "2",
+            "updated": false
+          },
+          {
+            "chat_id": "oc_afdd960e5b5f39cd89d6b9946a78cd78",
+            "content": "产品策略调整",
+            "create_time": "2026-10-12 10:44",
+            "deleted": false,
+            "message_app_link": "https://applink.feishu.cn/client/thread/open?open_chat_id=oc_afdd960e5b5f39cd89d6b9946a78cd78\u0026open_thread_id=omt_19a9300a064e5c8e\u0026openchatid=oc_afdd960e5b5f39cd89d6b9946a78cd78\u0026openthreadid=omt_19a9300a064e5c8e\u0026thread_position=3",
+            "message_id": "om_x100b63ffd1c8d8a0b328b399ef709b7",
+            "message_position": "-3",
+            "msg_type": "text",
+            "sender": {
+              "id": "ou_f7c1d047112bcada3ec1fbbf6c98a9c3",
+              "id_type": "open_id",
+              "name": "哈基宸",
+              "sender_type": "user",
+              "tenant_key": "1a055c8d6c1cdbbc"
+            },
+            "thread_id": "omt_19a9300a064e5c8e",
+            "thread_message_position": "3",
+            "updated": false
+          },
+          {
+            "chat_id": "oc_afdd960e5b5f39cd89d6b9946a78cd78",
+            "content": "IDE还有那么多vscode插件",
+            "create_time": "2026-10-12 10:44",
+            "deleted": false,
+            "message_app_link": "https://applink.feishu.cn/client/thread/open?open_chat_id=oc_afdd960e5b5f39cd89d6b9946a78cd78\u0026open_thread_id=omt_19a9300a064e5c8e\u0026openchatid=oc_afdd960e5b5f39cd89d6b9946a78cd78\u0026openthreadid=omt_19a9300a064e5c8e\u0026thread_position=4",
+            "message_id": "om_x100b63ffd140d4b0b265aeadf2abb7f",
+            "message_position": "-3",
+            "msg_type": "text",
+            "sender": {
+              "id": "ou_e244db590a234ff03c462399fe6c84c8",
+              "id_type": "open_id",
+              "name": "高卫强",
+              "sender_type": "user",
+              "tenant_key": "116ec703790d175d"
+            },
+            "thread_id": "omt_19a9300a064e5c8e",
+            "thread_message_position": "4",
+            "updated": false
+          },
+          {
+            "chat_id": "oc_afdd960e5b5f39cd89d6b9946a78cd78",
+            "content": "@高卫强 \n1. 以前 Work（办公）和 Code（开发）是两个独立产品、数据不相通，现在统一为一个 TRAE—— 一个入口同时包含 **Agent 模式**（承接原 Work 的办公 / Design 能力）和 **IDE 模式**（原 Code 的深度编码能力），一键切换、数据互通；\n2. **数据自动合并**：升级时系统会自动把聊天记录、账号登录态、个人资料和积分迁移合并到全新 TRAE，原 Work 的 Work / Code / Design 历史任务会自动合并到 Agent 模式的统一任务列表，不会丢失；\n3. **能力不缺失**：办公、开发、设计能力都整合在新版本中，原 TraeWork 独立程序不再单独更新。\n**为什么 \"卸载重装\"？** 不是要求您手动卸载重装哈。升级流程是这样的：TraeCode 会自动更新为全新 TRAE，而旧的 TraeWork 在完成数据迁移后会被系统引导卸载 —— 因为它的功能已全部并入新应用、旧程序不再单独维护。您按升级提示操作即可，不需要自己手动删东西，数据迁移由系统自动完成～",
+            "create_time": "2026-10-12 11:28",
+            "deleted": false,
+            "mentions": [
+              {
+                "id": "ou_e244db590a234ff03c462399fe6c84c8",
+                "key": "@_user_1",
+                "name": "高卫强"
+              }
+            ],
+            "message_app_link": "https://applink.feishu.cn/client/thread/open?open_chat_id=oc_afdd960e5b5f39cd89d6b9946a78cd78\u0026open_thread_id=omt_19a9300a064e5c8e\u0026openchatid=oc_afdd960e5b5f39cd89d6b9946a78cd78\u0026openthreadid=omt_19a9300a064e5c8e\u0026thread_position=5",
+            "message_id": "om_x100b63f80a3488acb107a117ac5c7c5",
+            "message_position": "-3",
+            "msg_type": "post",
+            "sender": {
+              "id": "ou_f66233ee586f17ab9817ff3c41de6505",
+              "id_type": "open_id",
+              "name": "高旋",
+              "sender_i18n_names": {
+                "en_us": "Xuan Gao",
+                "zh_cn": "高旋"
+              },
+              "sender_type": "user",
+              "tenant_key": "736588c9260f175d"
+            },
+            "thread_id": "omt_19a9300a064e5c8e",
+            "thread_message_position": "5",
+            "update_time": "2026-10-12 11:28",
+            "updated": true
+          },
+          {
+            "chat_id": "oc_afdd960e5b5f39cd89d6b9946a78cd78",
+            "content": "两个产品的沙箱设计模式有些不同，TRAE Work默认可以在沙箱内写入和删除，而IDE和Agent不行。",
+            "create_time": "2026-10-12 15:30",
+            "deleted": false,
+            "message_app_link": "https://applink.feishu.cn/client/thread/open?open_chat_id=oc_afdd960e5b5f39cd89d6b9946a78cd78\u0026open_thread_id=omt_19a9300a064e5c8e\u0026openchatid=oc_afdd960e5b5f39cd89d6b9946a78cd78\u0026openthreadid=omt_19a9300a064e5c8e\u0026thread_position=6",
+            "message_id": "om_x100b63fb812ea4a0c4301a5421ce378",
+            "message_position": "-3",
+            "msg_type": "text",
+            "sender": {
+              "id": "ou_bcd8c1c388f86f07028fed0c067c2760",
+              "id_type": "open_id",
+              "name": "Jason Liu",
+              "sender_i18n_names": {
+                "zh_cn": "刘湧"
+              },
+              "sender_type": "user",
+              "tenant_key": "1462edee1ca9975f"
+            },
+            "thread_id": "omt_19a9300a064e5c8e",
+            "thread_message_position": "6",
+            "updated": false
+          }
+        ],
+        "updated": false
+      }
+    ],
+    "page_token": "",
+    "total": 8
+  },
+  "meta": {
+    "pagination": {
+      "complete": true,
+      "pages": 1,
+      "items": 8
+    }
+  }
+}

@@ -1,0 +1,350 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "has_more": false,
+    "messages": [
+      {
+        "chat_id": "oc_3ba3e99f232b5cd81e24e95bd274de02",
+        "content": "@金星 金少，你之前驱控那面doris的执行前语句都有问题",
+        "create_time": "2026-10-12 02:36",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_9a014b8b8c8ac89789d87895edaee4c4",
+            "key": "@_user_1",
+            "name": "金星"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_3ba3e99f232b5cd81e24e95bd274de02\u0026position=1921",
+        "message_id": "om_x100b63f032b12080b2297687adbecfd",
+        "message_position": "1921",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_271c27ad206c31bf2b533474db2d9ef5",
+          "id_type": "open_id",
+          "name": "蔺雨桐",
+          "sender_i18n_names": {
+            "en_us": "linyutong"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-12 02:36",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_3ba3e99f232b5cd81e24e95bd274de02",
+        "content": "```PLAIN_TEXT\n2026-10-12 10:21:36.203 [job-0] INFO  DorisWriter$Job - prepare execute postSqls:[delete from isc_ads.ads_isc_szmes_sys_pd_exec_node_a_min  where lm_time \u003c to_date('$(g_cur_datetime:2day)');]. doris jdbc url为:jdbc:mysql://10.32.223.168:6030.\n\n```\n\n\n里面的参数，都没解析到。。",
+        "create_time": "2026-10-12 02:37",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_3ba3e99f232b5cd81e24e95bd274de02\u0026position=1922",
+        "message_id": "om_x100b63f033a19d0cb4831e0eeb8f8ab",
+        "message_position": "1922",
+        "msg_type": "post",
+        "sender": {
+          "id": "ou_271c27ad206c31bf2b533474db2d9ef5",
+          "id_type": "open_id",
+          "name": "蔺雨桐",
+          "sender_i18n_names": {
+            "en_us": "linyutong"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_3ba3e99f232b5cd81e24e95bd274de02",
+        "content": "这个之前杜老师改的[捂脸]",
+        "create_time": "2026-10-12 02:38",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_3ba3e99f232b5cd81e24e95bd274de02\u0026position=1923",
+        "message_id": "om_x100b63f0ccaa58b8c3d84e757fddb68",
+        "message_position": "1923",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_9a014b8b8c8ac89789d87895edaee4c4",
+          "id_type": "open_id",
+          "name": "金星",
+          "sender_i18n_names": {
+            "en_us": "Henry"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_3ba3e99f232b5cd81e24e95bd274de02",
+        "content": "[Sticker]",
+        "create_time": "2026-10-12 02:38",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_3ba3e99f232b5cd81e24e95bd274de02\u0026position=1924",
+        "message_id": "om_x100b63f0cc03fca8b4c5e154d746118",
+        "message_position": "1924",
+        "msg_type": "sticker",
+        "sender": {
+          "id": "ou_271c27ad206c31bf2b533474db2d9ef5",
+          "id_type": "open_id",
+          "name": "蔺雨桐",
+          "sender_i18n_names": {
+            "en_us": "linyutong"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_3ba3e99f232b5cd81e24e95bd274de02",
+        "content": "@金星 按这个改吧\ndelete from isc_ads.ads_isc_szmes_sys_pd_exec_node_a_min  where lm_time \u003c date_sub(curdate(), interval 2 day);，别用参数，改完看下日志，一直没生效[看]",
+        "create_time": "2026-10-12 02:46",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_9a014b8b8c8ac89789d87895edaee4c4",
+            "key": "@_user_1",
+            "name": "金星"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_3ba3e99f232b5cd81e24e95bd274de02\u0026position=1925",
+        "message_id": "om_x100b63f0efd614b0b2435b217609284",
+        "message_position": "1925",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_271c27ad206c31bf2b533474db2d9ef5",
+          "id_type": "open_id",
+          "name": "蔺雨桐",
+          "sender_i18n_names": {
+            "en_us": "linyutong"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-12 02:46",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_3ba3e99f232b5cd81e24e95bd274de02",
+        "content": "8个e数据了都。。",
+        "create_time": "2026-10-12 02:47",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_3ba3e99f232b5cd81e24e95bd274de02\u0026position=1926",
+        "message_id": "om_x100b63f0ead30cb0b390437800aa051",
+        "message_position": "1926",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_271c27ad206c31bf2b533474db2d9ef5",
+          "id_type": "open_id",
+          "name": "蔺雨桐",
+          "sender_i18n_names": {
+            "en_us": "linyutong"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-12 02:47",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_3ba3e99f232b5cd81e24e95bd274de02",
+        "content": "@邱治钧 邱工，改完我看数据量降到187w左右了，这次应该没问题了",
+        "create_time": "2026-10-12 02:49",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_ce3b309a1adb865c60cf7c112da25d62",
+            "key": "@_user_1",
+            "name": "邱治钧"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_3ba3e99f232b5cd81e24e95bd274de02\u0026position=1927",
+        "message_id": "om_x100b63f0e39d2cacb484565c28bb38f",
+        "message_position": "1927",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_271c27ad206c31bf2b533474db2d9ef5",
+          "id_type": "open_id",
+          "name": "蔺雨桐",
+          "sender_i18n_names": {
+            "en_us": "linyutong"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-12 02:49",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_3ba3e99f232b5cd81e24e95bd274de02",
+        "content": "好 先跑着下午我让黄工再查一下",
+        "create_time": "2026-10-12 02:50",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_3ba3e99f232b5cd81e24e95bd274de02\u0026position=1928",
+        "message_id": "om_x100b63f0e196b0a4b302d89d53ac7da",
+        "message_position": "1928",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_ce3b309a1adb865c60cf7c112da25d62",
+          "id_type": "open_id",
+          "name": "邱治钧",
+          "sender_i18n_names": {
+            "en_us": "qiuzhijun"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_3ba3e99f232b5cd81e24e95bd274de02",
+        "content": "@蔺雨桐$(g_cur_datetime:2day，这语句应该是少了:",
+        "create_time": "2026-10-12 07:27",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_271c27ad206c31bf2b533474db2d9ef5",
+            "key": "@_user_1",
+            "name": "蔺雨桐"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_3ba3e99f232b5cd81e24e95bd274de02\u0026position=1929",
+        "message_id": "om_x100b63fcf0d050b8b1a5b4227d1ca15",
+        "message_position": "1929",
+        "msg_type": "text",
+        "reply_to": "om_x100b63f033a19d0cb4831e0eeb8f8ab",
+        "sender": {
+          "id": "ou_635008cc2affc45d23de666f2e7e7446",
+          "id_type": "open_id",
+          "name": "牛振东",
+          "sender_i18n_names": {
+            "en_us": "niuzhendong"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-12 07:27",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_3ba3e99f232b5cd81e24e95bd274de02",
+        "content": "![Image](img_v3_0216d_9a3b6efc-bb33-4052-a1cf-86ee3d4b157g)\n之前好像一直都是这样写的，日志太远了没去看哈",
+        "create_time": "2026-10-12 07:30",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_3ba3e99f232b5cd81e24e95bd274de02\u0026position=1930",
+        "message_id": "om_x100b63fc86c8e880b4adecaa4314504",
+        "message_position": "1930",
+        "msg_type": "post",
+        "sender": {
+          "id": "ou_271c27ad206c31bf2b533474db2d9ef5",
+          "id_type": "open_id",
+          "name": "蔺雨桐",
+          "sender_i18n_names": {
+            "en_us": "linyutong"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_3ba3e99f232b5cd81e24e95bd274de02",
+        "content": "@蔺雨桐 肯定当时搞错了，**调度定时时间前N天或后N天：${g_cur_datetime:N:day}**\n\n\n```PLAIN_TEXT\n任务参数使用说明\n\n数据开发平台支持在代码中定义参数。支持两种参数\n\n用户自定义参数：在代码中可通过 ${参数名} 的方式声明参数，在右侧任务配置中可使用常量或调度时间表达式给参数赋值。\n内置参数：直接在代码中通过 ${参数名} 的方式声明参数。支持的内置参数如下：\n当前任务作用参数\n\n当前时间：${_p_current_date_time:yyyy-MM-dd HH:mm:ss}\n当天:${_p_current_date_time:yyyy-MM-dd}\n当月:${_p_current_date_time:yyyy-MM}\n当年:${_p_current_date_time:yyyy}\n单位有：year，month，week，day，hour，min，sec, N为整数\n前N天或后N天：${_p_current_date_time:N:day}\n前N小时或后N小时：${_p_current_date_time:N:hour}\n前N分钟或后N分钟：${_p_current_date_time:N:min}\n前N秒或后N秒：${_p_current_date_time:N:sec}\n上次执行时间：${_p_last_date_time:yyyy-MM-dd HH:mm:ss}\n当前最大id：${_p_current_max_id}\n上次最大id：${_p_last_max_id}\n\n\n当前任务流全局参数\n\n当前时间：${_g_current_date_time:yyyy-MM-dd HH:mm:ss}\n当天:${_g_current_date_time:yyyy-MM-dd}\n当月:${_g_current_date_time:yyyy-MM}\n当年:${_g_current_date_time:yyyy}\n单位有：year，month，week，day，hour，min，sec, N为整数，前N为负数，后N为正数\n前N天或后N天：${_g_current_date_time:N:day}\n前N小时或后N小时：${_g_current_date_time:N:hour}\n前N分钟或后N分钟：${_g_current_date_time:N:min}\n前N秒或后N秒：${_g_current_date_time:N:sec}\n上次执行时间：${_g_last_date_time:yyyy-MM-dd HH:mm:ss}\n当前最大id：${_g_current_max_id}\n上次最大id：${_g_last_max_id}\n\n\n系统参数\n\n当前用户ID：${p_user_id}\n当前角色ID：${g_role_id}\n当前租户ID：${g_tenant_id}\n当前项目ID：${g_project_id}\n当前项目编码：${g_project_code}\n原始项目ID：${g_source_project_id}\n\n\n业务时间参数\n\n业务日期\t${g_biz_date}\t\n正常调度取调度定时时间点前一天，格式为yyyy-mm-dd；\n\n补数据时取补数据选择范围的日期。\n\n调度定时时间\t${g_cur_datetime}\t\n正常调度时候取调度定时时间，格式为yyyy-mm-dd hh:mm:ss;\n\n补数据时取补数据选择范围内日期的后一天+定时时分秒。\n\n业务时间参数相关衍生用法格式同时间戳参数，例如： \n\n业务日期当年:${g_biz_date:yyyy}\n业务日期当月:${g_biz_date:yyyy-MM}\n业务日期前N天或后N天：${g_biz_date:N:day}\n业务日期前N月或后N月：${g_biz_date:N:month}\n调度定时时间当天:${g_cur_datetime:yyyy-MM-dd}\n调度定时时间当月:${g_cur_datetime:yyyy-MM}\n调度定时时间当年:${g_cur_datetime:yyyy}\n调度定时时间前N天或后N天：${g_cur_datetime:N:day}\n调度定时时间前N小时或后N小时：${g_cur_datetime:N:hour}\n调度定时时间前N分钟或后N分钟：${g_cur_datetime:N:min}\n调度定时时间前N秒或后N秒：${g_cur_datetime:N:sec}\n\n```",
+        "create_time": "2026-10-12 07:37",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_271c27ad206c31bf2b533474db2d9ef5",
+            "key": "@_user_1",
+            "name": "蔺雨桐"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_3ba3e99f232b5cd81e24e95bd274de02\u0026position=1931",
+        "message_id": "om_x100b63fcad3a6908dd8afd50af32192",
+        "message_position": "1931",
+        "msg_type": "post",
+        "reply_to": "om_x100b63fc86c8e880b4adecaa4314504",
+        "sender": {
+          "id": "ou_635008cc2affc45d23de666f2e7e7446",
+          "id_type": "open_id",
+          "name": "牛振东",
+          "sender_i18n_names": {
+            "en_us": "niuzhendong"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-12 07:37",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_3ba3e99f232b5cd81e24e95bd274de02",
+        "content": "[笑哭] 看似应该是的，我没注意 @金星 ，金少杜老师有点不靠谱啊",
+        "create_time": "2026-10-12 07:39",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_9a014b8b8c8ac89789d87895edaee4c4",
+            "key": "@_user_1",
+            "name": "金星"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_3ba3e99f232b5cd81e24e95bd274de02\u0026position=1932",
+        "message_id": "om_x100b63fca4a818acb3e0d0b57fcd86e",
+        "message_position": "1932",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_271c27ad206c31bf2b533474db2d9ef5",
+          "id_type": "open_id",
+          "name": "蔺雨桐",
+          "sender_i18n_names": {
+            "en_us": "linyutong"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-12 07:39",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_3ba3e99f232b5cd81e24e95bd274de02",
+        "content": "@金星 这几个数据集都建哪去了:FullMoonFace:得管管\n![Image](img_v3_0216d_63a4487a-c8cf-496d-be9a-666cc633226g)",
+        "create_time": "2026-10-12 10:16",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_9a014b8b8c8ac89789d87895edaee4c4",
+            "key": "@_user_1",
+            "name": "金星"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_3ba3e99f232b5cd81e24e95bd274de02\u0026position=1933",
+        "message_id": "om_x100b63ff78c49494b225f5045f548e4",
+        "message_position": "1933",
+        "msg_type": "post",
+        "sender": {
+          "id": "ou_635008cc2affc45d23de666f2e7e7446",
+          "id_type": "open_id",
+          "name": "牛振东",
+          "sender_i18n_names": {
+            "en_us": "niuzhendong"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-12 10:16",
+        "updated": true
+      }
+    ],
+    "page_token": "",
+    "total": 13
+  },
+  "meta": {
+    "pagination": {
+      "complete": true,
+      "pages": 1,
+      "items": 13
+    }
+  }
+}

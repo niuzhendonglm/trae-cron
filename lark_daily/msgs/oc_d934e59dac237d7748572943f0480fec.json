@@ -1,0 +1,64 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "has_more": false,
+    "messages": [
+      {
+        "chat_id": "oc_d934e59dac237d7748572943f0480fec",
+        "content": "\u003ccard title=\"汇川数字能源〔2026〕32号 数字能源事业部关于零碳产品及解决方案中心下三层组织设立及人员任命的公示 Inovance Digital Energy〔2026〕32 Pub­lic An­nounce­ment by the Dig­i­tal En­er­gy Division Con­cern­ing the Es­tab­lish­ment of Three-Lev­el Or­ga­ni­za­tions Un­der the Zero-Car­bon Prod­ucts and So­lu­tions Cen­ter and Per­son­nel Ap­point­ments\"\u003e\n📝 创建时间：2026-10-12 09:15 \n创建人：柴燕芳\n---\n[查看详情](https://oa.inovance.com/sys/notify/sys_notify_todo/sysNotifyTodo.do?method=view\u0026fdId=1a12dadea29431c3962d00e4ac9b19ef\u0026oauth=fs2ekp)\n\u003c/card\u003e",
+        "create_time": "2026-10-12 01:17",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_d934e59dac237d7748572943f0480fec\u0026position=1049",
+        "message_id": "om_x100b63f71d4d38a0de2df7871f5e6e3",
+        "message_position": "1049",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a3e1ef0cc0b8500d",
+          "id_type": "app_id",
+          "name": "集团公告栏",
+          "open_bot_id": "ou_3144a28e071592d19cd07d67ad905f1d",
+          "sender_i18n_names": {
+            "en_us": "Group Announcement Board",
+            "zh_cn": "集团公告栏"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_d934e59dac237d7748572943f0480fec",
+        "content": "\u003ccard title=\"汇川供应链〔2026〕71号 关于ISC工装切换及规范着装标准的通知\"\u003e\n📝 创建时间：2026-10-12 09:54 \n创建人：徐会\n---\n[查看详情](https://oa.inovance.com/sys/notify/sys_notify_todo/sysNotifyTodo.do?method=view\u0026fdId=1a12dd13be00b2e59ceb0a845028416a\u0026oauth=fs2ekp)\n\u003c/card\u003e",
+        "create_time": "2026-10-12 01:54",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_d934e59dac237d7748572943f0480fec\u0026position=1050",
+        "message_id": "om_x100b63f7931b80acc3843b32366efcf",
+        "message_position": "1050",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a3e1ef0cc0b8500d",
+          "id_type": "app_id",
+          "name": "集团公告栏",
+          "open_bot_id": "ou_3144a28e071592d19cd07d67ad905f1d",
+          "sender_i18n_names": {
+            "en_us": "Group Announcement Board",
+            "zh_cn": "集团公告栏"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      }
+    ],
+    "page_token": "",
+    "total": 2
+  },
+  "meta": {
+    "pagination": {
+      "complete": true,
+      "pages": 1,
+      "items": 2
+    }
+  }
+}

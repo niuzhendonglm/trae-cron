@@ -1,0 +1,178 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "has_more": false,
+    "messages": [
+      {
+        "chat_id": "oc_37e71878162e6d5b1124133179b2b0c4",
+        "content": "刘宇 invited 王敬宇 to the group. New members can view all chat history.",
+        "create_time": "2026-10-12 02:06",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_37e71878162e6d5b1124133179b2b0c4\u0026position=252",
+        "message_id": "om_x100b63f047604cb4dda5ad13f2ec155",
+        "message_position": "252",
+        "msg_type": "system",
+        "sender": {
+          "id": "",
+          "id_type": "",
+          "sender_type": "",
+          "tenant_key": ""
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_37e71878162e6d5b1124133179b2b0c4",
+        "content": "葛士祺 invited 刘擎 to the group. New members can view all chat history.",
+        "create_time": "2026-10-12 06:06",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_37e71878162e6d5b1124133179b2b0c4\u0026position=253",
+        "message_id": "om_x100b63f3c02e88b4b271c0b431e5698",
+        "message_position": "253",
+        "msg_type": "system",
+        "sender": {
+          "id": "",
+          "id_type": "",
+          "sender_type": "",
+          "tenant_key": ""
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_37e71878162e6d5b1124133179b2b0c4",
+        "content": "请aicoding 接口人督促各模块内资产沉淀进展。@傅涵 @刘擎 @郭文斌 @范浩 @卢振 @沈长江",
+        "create_time": "2026-10-12 06:09",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_37425dd940b911f093ca8f99c19bcbff",
+            "key": "@_user_1",
+            "name": "傅涵"
+          },
+          {
+            "id": "ou_bd6e6ff7ea3e86c81a69f279e4263979",
+            "key": "@_user_2",
+            "name": "刘擎"
+          },
+          {
+            "id": "ou_e30833444ba08fd811f7cc727a100a00",
+            "key": "@_user_3",
+            "name": "郭文斌"
+          },
+          {
+            "id": "ou_26bf2efeafbba4de260b6d8b0b5aa7d2",
+            "key": "@_user_4",
+            "name": "范浩"
+          },
+          {
+            "id": "ou_6eac1195b29faa21aae0b460fbb09c87",
+            "key": "@_user_5",
+            "name": "卢振"
+          },
+          {
+            "id": "ou_7529cd1338142b52dfb4edf5cac74ad1",
+            "key": "@_user_6",
+            "name": "沈长江"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_37e71878162e6d5b1124133179b2b0c4\u0026position=254",
+        "message_id": "om_x100b63f3d91e9ca8ddc6362bab21591",
+        "message_position": "254",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_62b3403b1621ef0525dec364987c271f",
+          "id_type": "open_id",
+          "name": "葛士祺",
+          "sender_i18n_names": {
+            "en_us": "geshiqi"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-12 06:09",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_37e71878162e6d5b1124133179b2b0c4",
+        "content": "[Image: img_v3_0216d_e9fd9be3-90f0-4f80-b30c-c1e2785acb2g]",
+        "create_time": "2026-10-12 06:09",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_37e71878162e6d5b1124133179b2b0c4\u0026position=255",
+        "message_id": "om_x100b63f3d6dd58b4dfa3be6edc83172",
+        "message_position": "255",
+        "msg_type": "image",
+        "sender": {
+          "id": "ou_62b3403b1621ef0525dec364987c271f",
+          "id_type": "open_id",
+          "name": "葛士祺",
+          "sender_i18n_names": {
+            "en_us": "geshiqi"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_37e71878162e6d5b1124133179b2b0c4",
+        "content": "葛士祺 invited 郭芹兵 to the group. New members can view all chat history.",
+        "create_time": "2026-10-12 06:09",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_37e71878162e6d5b1124133179b2b0c4\u0026position=256",
+        "message_id": "om_x100b63f3d48390a8b2e47d9069f6c6a",
+        "message_position": "256",
+        "msg_type": "system",
+        "sender": {
+          "id": "",
+          "id_type": "",
+          "sender_type": "",
+          "tenant_key": ""
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_37e71878162e6d5b1124133179b2b0c4",
+        "content": "葛士祺 invited 范其楼 to the group. New members can view all chat history.",
+        "create_time": "2026-10-12 06:12",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_37e71878162e6d5b1124133179b2b0c4\u0026position=257",
+        "message_id": "om_x100b63f3ed8f40b0b4c2d9003b58847",
+        "message_position": "257",
+        "msg_type": "system",
+        "sender": {
+          "id": "",
+          "id_type": "",
+          "sender_type": "",
+          "tenant_key": ""
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_37e71878162e6d5b1124133179b2b0c4",
+        "content": "朱天浩 invited 水鹏 to the group. New members can view all chat history.",
+        "create_time": "2026-10-12 07:36",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_37e71878162e6d5b1124133179b2b0c4\u0026position=258",
+        "message_id": "om_x100b63fcaee6d4acc3871dd43145cdf",
+        "message_position": "258",
+        "msg_type": "system",
+        "sender": {
+          "id": "",
+          "id_type": "",
+          "sender_type": "",
+          "tenant_key": ""
+        },
+        "updated": false
+      }
+    ],
+    "page_token": "",
+    "total": 7
+  },
+  "meta": {
+    "pagination": {
+      "complete": true,
+      "pages": 1,
+      "items": 7
+    }
+  }
+}

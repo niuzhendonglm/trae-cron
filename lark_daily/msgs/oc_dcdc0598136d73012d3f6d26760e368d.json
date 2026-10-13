@@ -1,0 +1,245 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "has_more": false,
+    "messages": [
+      {
+        "chat_id": "oc_dcdc0598136d73012d3f6d26760e368d",
+        "content": "牛振东 updated the group name from \"{old_group_name}\" to \"{group_name}\".",
+        "create_time": "2026-10-12 07:53",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_dcdc0598136d73012d3f6d26760e368d\u0026position=9",
+        "message_id": "om_x100b63fd501844a0c1284291cd90893",
+        "message_position": "9",
+        "msg_type": "system",
+        "sender": {
+          "id": "",
+          "id_type": "",
+          "sender_type": "",
+          "tenant_key": ""
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_dcdc0598136d73012d3f6d26760e368d",
+        "content": "牛振东 invited 熊暾 to the group. New members can view all chat history.",
+        "create_time": "2026-10-12 07:53",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_dcdc0598136d73012d3f6d26760e368d\u0026position=10",
+        "message_id": "om_x100b63fd51ab34b4c25d09e68bc6940",
+        "message_position": "10",
+        "msg_type": "system",
+        "sender": {
+          "id": "",
+          "id_type": "",
+          "sender_type": "",
+          "tenant_key": ""
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_dcdc0598136d73012d3f6d26760e368d",
+        "content": "@熊暾 熊工，OA需求单已提，\n![Image](img_v3_0216d_fc4e72b3-1fa5-4da6-ab6c-efe197105b0g)",
+        "create_time": "2026-10-12 07:54",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_f5a38dc4a8d763f82a27ba972852e242",
+            "key": "@_user_1",
+            "name": "熊暾"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_dcdc0598136d73012d3f6d26760e368d\u0026position=11",
+        "message_id": "om_x100b63fd6dc34888b17dd6c0dac9d30",
+        "message_position": "11",
+        "msg_type": "post",
+        "sender": {
+          "id": "ou_635008cc2affc45d23de666f2e7e7446",
+          "id_type": "open_id",
+          "name": "牛振东",
+          "sender_i18n_names": {
+            "en_us": "niuzhendong"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-12 07:54",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_dcdc0598136d73012d3f6d26760e368d",
+        "content": "@熊暾 熊工，这个需求，是不是零信任那边做",
+        "create_time": "2026-10-12 07:54",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_f5a38dc4a8d763f82a27ba972852e242",
+            "key": "@_user_1",
+            "name": "熊暾"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_dcdc0598136d73012d3f6d26760e368d\u0026position=12",
+        "message_id": "om_x100b63fd6db13c94b1f586d3bb4d320",
+        "message_position": "12",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_a12ec7ae8f40955dab018799940c38da",
+          "id_type": "open_id",
+          "name": "董曹鹏",
+          "sender_i18n_names": {
+            "en_us": "dongcaopeng"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-12 07:54",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_dcdc0598136d73012d3f6d26760e368d",
+        "content": "是的，分一个任务给我，分一个给梁超， 我这边发布应用，梁超那边，加公网dns解析到cname.inovance.com",
+        "create_time": "2026-10-12 07:55",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_dcdc0598136d73012d3f6d26760e368d\u0026position=13",
+        "message_id": "om_x100b63fd69fe70acb2a47e270b3750b",
+        "message_position": "13",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_f5a38dc4a8d763f82a27ba972852e242",
+          "id_type": "open_id",
+          "name": "熊暾",
+          "sender_i18n_names": {
+            "en_us": "xiongtun"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_dcdc0598136d73012d3f6d26760e368d",
+        "content": "好的",
+        "create_time": "2026-10-12 07:56",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_dcdc0598136d73012d3f6d26760e368d\u0026position=14",
+        "message_id": "om_x100b63fd65df2cbcb04098e290d3055",
+        "message_position": "14",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_a12ec7ae8f40955dab018799940c38da",
+          "id_type": "open_id",
+          "name": "董曹鹏",
+          "sender_i18n_names": {
+            "en_us": "dongcaopeng"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_dcdc0598136d73012d3f6d26760e368d",
+        "content": "@熊暾 那内网还需要做什么吗？",
+        "create_time": "2026-10-12 07:56",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_f5a38dc4a8d763f82a27ba972852e242",
+            "key": "@_user_1",
+            "name": "熊暾"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_dcdc0598136d73012d3f6d26760e368d\u0026position=15",
+        "message_id": "om_x100b63fd62aa48a4b30ff5c104a81d9",
+        "message_position": "15",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_a12ec7ae8f40955dab018799940c38da",
+          "id_type": "open_id",
+          "name": "董曹鹏",
+          "sender_i18n_names": {
+            "en_us": "dongcaopeng"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-12 07:56",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_dcdc0598136d73012d3f6d26760e368d",
+        "content": "正常零信任的服务器，是正常可以访问所有服务器的",
+        "create_time": "2026-10-12 07:57",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_dcdc0598136d73012d3f6d26760e368d\u0026position=16",
+        "message_id": "om_x100b63fd63d07884b1d1aab0d65ab42",
+        "message_position": "16",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_a12ec7ae8f40955dab018799940c38da",
+          "id_type": "open_id",
+          "name": "董曹鹏",
+          "sender_i18n_names": {
+            "en_us": "dongcaopeng"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-12 07:57",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_dcdc0598136d73012d3f6d26760e368d",
+        "content": "内网不用了吧，内网都正常吧",
+        "create_time": "2026-10-12 07:57",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_dcdc0598136d73012d3f6d26760e368d\u0026position=17",
+        "message_id": "om_x100b63fd638314a4b31b68ef43a8891",
+        "message_position": "17",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_f5a38dc4a8d763f82a27ba972852e242",
+          "id_type": "open_id",
+          "name": "熊暾",
+          "sender_i18n_names": {
+            "en_us": "xiongtun"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_dcdc0598136d73012d3f6d26760e368d",
+        "content": "OK",
+        "create_time": "2026-10-12 07:57",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_dcdc0598136d73012d3f6d26760e368d\u0026position=18",
+        "message_id": "om_x100b63fd634b80acb2a26d6657911ee",
+        "message_position": "18",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_a12ec7ae8f40955dab018799940c38da",
+          "id_type": "open_id",
+          "name": "董曹鹏",
+          "sender_i18n_names": {
+            "en_us": "dongcaopeng"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      }
+    ],
+    "page_token": "",
+    "total": 10
+  },
+  "meta": {
+    "pagination": {
+      "complete": true,
+      "pages": 1,
+      "items": 10
+    }
+  }
+}

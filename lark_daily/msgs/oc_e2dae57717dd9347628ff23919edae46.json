@@ -1,0 +1,40 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "has_more": false,
+    "messages": [
+      {
+        "chat_id": "oc_e2dae57717dd9347628ff23919edae46",
+        "content": "老师，同步下这里修复的进展哈，目前研发这边在本地自测，预计下周三完成，后续发版后我这边再同步您时间[双手合十]",
+        "create_time": "2026-10-12 10:23",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_e2dae57717dd9347628ff23919edae46\u0026position=39",
+        "message_id": "om_x100b63ff1cf730a8de72920e3fbcc16",
+        "message_position": "39",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_739b2e02ba11cef30846a7ffe998ff69",
+          "id_type": "open_id",
+          "name": "代威",
+          "sender_i18n_names": {
+            "en_us": "Wei Dai",
+            "zh_cn": "代威"
+          },
+          "sender_type": "user",
+          "tenant_key": "736588c9260f175d"
+        },
+        "updated": false
+      }
+    ],
+    "page_token": "",
+    "total": 1
+  },
+  "meta": {
+    "pagination": {
+      "complete": true,
+      "pages": 1,
+      "items": 1
+    }
+  }
+}

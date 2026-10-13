@@ -1,0 +1,61 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "has_more": false,
+    "messages": [
+      {
+        "chat_id": "oc_7563c348230c34c6678fb7791778b82c",
+        "content": "/bi#/databot/alarmSetting\n\n提供解决方案的公司：埃森哲、聚思鸿、麦肯锡、IBM，再找生态\n德塔精要、赛意：产品+实施\n\n\n什么是AI大模型\nAI大模型算法岗：研究基座大模型（ChatGPT，Deepseek）[一般偏向大厂，数量较少，要求高：92起步]：月薪：20K-50K\nAI大模型应用开发岗：基于大模型做二次开发（RAG知识库问答，微调，做Agent），岗位多，要求：大专及其以上学历：15K-35K\nAI大模型数据分析岗：主要职责：给大模型训练之前，进行数据的清洗、格式转换、打标签等工作，要求：大专及其以上学历：10K-20K",
+        "create_time": "2026-10-12 10:57",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_7563c348230c34c6678fb7791778b82c\u0026position=165",
+        "message_id": "om_x100b63ff9dc0f8a8b3e325bbe9d2008",
+        "message_position": "165",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_635008cc2affc45d23de666f2e7e7446",
+          "id_type": "open_id",
+          "name": "牛振东",
+          "sender_i18n_names": {
+            "en_us": "niuzhendong"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-12 10:57",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_7563c348230c34c6678fb7791778b82c",
+        "content": "组织、方法、规范、数据、应用\n知识管理 → 本体建模 → 本体 → 知识图谱 → 语义层\n\n[https://mp.weixin.qq.com/s/66ylCg072Bs08Q8hvjZR8A](https://mp.weixin.qq.com/s/66ylCg072Bs08Q8hvjZR8A)\n![Image](img_v3_0216d_7c701235-49fa-4e9a-9bc4-fe64316eca0g)",
+        "create_time": "2026-10-12 12:39",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_7563c348230c34c6678fb7791778b82c\u0026position=166",
+        "message_id": "om_x100b63f91fa608a4c37816320d3efb4",
+        "message_position": "166",
+        "msg_type": "post",
+        "sender": {
+          "id": "ou_635008cc2affc45d23de666f2e7e7446",
+          "id_type": "open_id",
+          "name": "牛振东",
+          "sender_i18n_names": {
+            "en_us": "niuzhendong"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      }
+    ],
+    "page_token": "",
+    "total": 2
+  },
+  "meta": {
+    "pagination": {
+      "complete": true,
+      "pages": 1,
+      "items": 2
+    }
+  }
+}

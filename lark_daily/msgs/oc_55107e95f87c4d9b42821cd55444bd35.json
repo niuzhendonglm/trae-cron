@@ -1,0 +1,115 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "has_more": false,
+    "messages": [
+      {
+        "chat_id": "oc_55107e95f87c4d9b42821cd55444bd35",
+        "content": "\u003cvote\u003e\n10/13晚19:30 运营使能VS供应链（MNK）\n• 参战\n• 有事请假\n• 待定\n\u003c/vote\u003e",
+        "create_time": "2026-10-12 02:53",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_55107e95f87c4d9b42821cd55444bd35\u0026position=178",
+        "message_id": "om_x100b63f0f72210a8c37f3cc6905cf56",
+        "message_position": "178",
+        "msg_type": "vote",
+        "sender": {
+          "id": "ou_f852937a43fc399bf815fb2c8bd9005d",
+          "id_type": "open_id",
+          "name": "王凯",
+          "sender_i18n_names": {
+            "en_us": "wangkai"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_55107e95f87c4d9b42821cd55444bd35",
+        "content": "![Image](img_v3_0216d_4af168b4-a6a6-47ad-92a9-b5dfc9528d8g)\n\u003cat user_id=\"all\"\u003e\u003c/at\u003e 节后第一场，明晚对战MNK，很有希望拿下一场，主力队员都参加，大家投下票，搞起:Basketball:",
+        "create_time": "2026-10-12 02:55",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_55107e95f87c4d9b42821cd55444bd35\u0026position=179",
+        "message_id": "om_x100b63f08d6becbcb287057d7402b0f",
+        "message_position": "179",
+        "msg_type": "post",
+        "sender": {
+          "id": "ou_f852937a43fc399bf815fb2c8bd9005d",
+          "id_type": "open_id",
+          "name": "王凯",
+          "sender_i18n_names": {
+            "en_us": "wangkai"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_55107e95f87c4d9b42821cd55444bd35",
+        "content": "@_all 明天记得带装备，@蔡子豪 @孙齐飞 都来哈",
+        "create_time": "2026-10-12 12:25",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_12d36172c94397f71f66c3b898d74833",
+            "key": "@_user_1",
+            "name": "蔡子豪"
+          },
+          {
+            "id": "ou_ea2c4806d2a4acfed30a43803a7c1aaa",
+            "key": "@_user_2",
+            "name": "孙齐飞"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_55107e95f87c4d9b42821cd55444bd35\u0026position=180",
+        "message_id": "om_x100b63f9553994a8ddc3f05e503c95d",
+        "message_position": "180",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_f852937a43fc399bf815fb2c8bd9005d",
+          "id_type": "open_id",
+          "name": "王凯",
+          "sender_i18n_names": {
+            "en_us": "wangkai"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-12 12:25",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_55107e95f87c4d9b42821cd55444bd35",
+        "content": "王哥，我这两天身体不舒服 感冒了，明天打不了哦，抱歉抱歉",
+        "create_time": "2026-10-12 12:26",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_55107e95f87c4d9b42821cd55444bd35\u0026position=181",
+        "message_id": "om_x100b63f9514d68a0c447578d08a4461",
+        "message_position": "181",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_12d36172c94397f71f66c3b898d74833",
+          "id_type": "open_id",
+          "name": "蔡子豪",
+          "sender_i18n_names": {
+            "en_us": "Ethan"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      }
+    ],
+    "page_token": "",
+    "total": 4
+  },
+  "meta": {
+    "pagination": {
+      "complete": true,
+      "pages": 1,
+      "items": 4
+    }
+  }
+}

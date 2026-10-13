@@ -1,0 +1,35 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "has_more": false,
+    "messages": [
+      {
+        "chat_id": "oc_0dc904b2d40f9ddf9966b734763fb2eb",
+        "content": "郑雄 joined the group via a QR Code shared by 高晨. New members can view all chat history.",
+        "create_time": "2026-10-12 03:29",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_0dc904b2d40f9ddf9966b734763fb2eb\u0026position=914",
+        "message_id": "om_x100b63f10d9c7c90c4bef1410126fd0",
+        "message_position": "914",
+        "msg_type": "system",
+        "sender": {
+          "id": "",
+          "id_type": "",
+          "sender_type": "",
+          "tenant_key": ""
+        },
+        "updated": false
+      }
+    ],
+    "page_token": "",
+    "total": 1
+  },
+  "meta": {
+    "pagination": {
+      "complete": true,
+      "pages": 1,
+      "items": 1
+    }
+  }
+}

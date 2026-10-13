@@ -1,0 +1,62 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "has_more": false,
+    "messages": [
+      {
+        "chat_id": "oc_01d94e985e43e2734799e1f167343933",
+        "content": "@万向阳 @方智 @沈其磊 @冀小伟 这是上午会议会议纪要，请大家看下是否还有要补充的\nhttps://inovance.feishu.cn/docx/U0hIdAUptoQ3yYx0rLTcsgM4nBf",
+        "create_time": "2026-10-12 08:14",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_4e63341423c72c5725811bb7d839dc1e",
+            "key": "@_user_1",
+            "name": "万向阳"
+          },
+          {
+            "id": "ou_a61165efe52b2aa30b25b21441a35aef",
+            "key": "@_user_2",
+            "name": "方智"
+          },
+          {
+            "id": "ou_0c917d294aed39334d1a80318155ea4a",
+            "key": "@_user_3",
+            "name": "沈其磊"
+          },
+          {
+            "id": "ou_d6f9e166acf0183c073ab7885726486d",
+            "key": "@_user_4",
+            "name": "冀小伟"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_01d94e985e43e2734799e1f167343933\u0026position=53",
+        "message_id": "om_x100b63fd23dd0ca4c2f4f48c0737dd9",
+        "message_position": "53",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_e7fccc3af163cd1e5b59c4241cb9b574",
+          "id_type": "open_id",
+          "name": "杨润东",
+          "sender_i18n_names": {
+            "en_us": "yangrundong"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-12 08:14",
+        "updated": true
+      }
+    ],
+    "page_token": "",
+    "total": 1
+  },
+  "meta": {
+    "pagination": {
+      "complete": true,
+      "pages": 1,
+      "items": 1
+    }
+  }
+}

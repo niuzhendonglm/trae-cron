@@ -1,0 +1,205 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "has_more": false,
+    "messages": [
+      {
+        "chat_id": "oc_7d6d8e8b7f10fb41d251a222b1a7af90",
+        "content": "@火山引擎-技术支持 不同指标在同一张底表中切换是否支持",
+        "create_time": "2026-10-12 02:49",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_d7070b8d05bcfe68ddb985cebc0c9016",
+            "key": "@_user_1",
+            "name": "火山引擎-技术支持"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_7d6d8e8b7f10fb41d251a222b1a7af90\u0026position=3437",
+        "message_id": "om_x100b63f0e505f8acddc67169bdc90e7",
+        "message_position": "3437",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_4e25958baa70fbb743111f1d251f5056",
+          "id_type": "open_id",
+          "name": "周明明",
+          "sender_i18n_names": {
+            "en_us": "zhoumingming"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-12 02:49",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_7d6d8e8b7f10fb41d251a222b1a7af90",
+        "content": "@火山引擎-售后智能助手 不同指标在同一张底表中切换是否支持",
+        "create_time": "2026-10-12 02:50",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_48cf9468e076e9838fcd93efbe775657",
+            "key": "@_user_1",
+            "name": "火山引擎-售后智能助手"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_7d6d8e8b7f10fb41d251a222b1a7af90\u0026position=3438",
+        "message_id": "om_x100b63f0fee610b0c115f257ba9dc1a",
+        "message_position": "3438",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_d7070b8d05bcfe68ddb985cebc0c9016",
+          "id_type": "open_id",
+          "name": "火山引擎-技术支持",
+          "sender_i18n_names": {
+            "zh_cn": "火山引擎-技术支持"
+          },
+          "sender_type": "user",
+          "tenant_key": "128fd18215cd575e"
+        },
+        "update_time": "2026-10-12 02:50",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_7d6d8e8b7f10fb41d251a222b1a7af90",
+        "content": "\u003ccard title=\"问题进展【处理中】\"\u003e\n【问题描述】：\n\n不同指标在同一张底表中切换是否支持\n问题群聊已创建，可点击进群关注问题解决进展\n[点击进群](https://applink.larkoffice.com/client/chat/chatter/add_by_link?link_token=834v6dd3-5241-45d1-bd0b-758498cbff24)\n\u003c/card\u003e",
+        "create_time": "2026-10-12 02:50",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_7d6d8e8b7f10fb41d251a222b1a7af90\u0026position=3439",
+        "message_id": "om_x100b63f0fef6dd78b25d0167cd34f6f",
+        "message_position": "3439",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a472c8e8c5f9d00d",
+          "id_type": "app_id",
+          "name": "火山引擎-售后智能助手",
+          "open_bot_id": "ou_48cf9468e076e9838fcd93efbe775657",
+          "sender_i18n_names": {
+            "en_us": "BytePlus Support Bot",
+            "zh_cn": "火山引擎-售后智能助手"
+          },
+          "sender_type": "app",
+          "tenant_key": "736588c9260f175d"
+        },
+        "update_time": "2026-10-12 09:10",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_7d6d8e8b7f10fb41d251a222b1a7af90",
+        "content": "@周明明 老师，进群后可以先看下知识卡片的回答，不满足可以反馈下，点击手势即可，还需要我们排查可以点击 接入业务专家 哈。",
+        "create_time": "2026-10-12 02:51",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_4e25958baa70fbb743111f1d251f5056",
+            "key": "@_user_1",
+            "name": "周明明"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_7d6d8e8b7f10fb41d251a222b1a7af90\u0026position=3440",
+        "message_id": "om_x100b63f0ff0710a4c00538fe0c5ccd3",
+        "message_position": "3440",
+        "msg_type": "text",
+        "reply_to": "om_x100b63f0fef6dd78b25d0167cd34f6f",
+        "sender": {
+          "id": "ou_d7070b8d05bcfe68ddb985cebc0c9016",
+          "id_type": "open_id",
+          "name": "火山引擎-技术支持",
+          "sender_i18n_names": {
+            "zh_cn": "火山引擎-技术支持"
+          },
+          "sender_type": "user",
+          "tenant_key": "128fd18215cd575e"
+        },
+        "update_time": "2026-10-12 02:51",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_7d6d8e8b7f10fb41d251a222b1a7af90",
+        "content": "[Invalid text JSON]",
+        "create_time": "2026-10-12 07:14",
+        "deleted": true,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_7d6d8e8b7f10fb41d251a222b1a7af90\u0026position=3441",
+        "message_id": "om_x100b63fcc04c3480c4e2c0659ae84c9",
+        "message_position": "3441",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_9e11bda108a45a8f2631ebf2a0e5a531",
+          "id_type": "open_id",
+          "name": "赵秦雨",
+          "sender_i18n_names": {
+            "en_us": "Cherry"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-12 07:15",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_7d6d8e8b7f10fb41d251a222b1a7af90",
+        "content": "@火山引擎-售后智能助手 智能体问题",
+        "create_time": "2026-10-12 07:15",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_48cf9468e076e9838fcd93efbe775657",
+            "key": "@_user_1",
+            "name": "火山引擎-售后智能助手"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_7d6d8e8b7f10fb41d251a222b1a7af90\u0026position=3442",
+        "message_id": "om_x100b63fcdc00eca4c4eb6b1ae142b83",
+        "message_position": "3442",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_9e11bda108a45a8f2631ebf2a0e5a531",
+          "id_type": "open_id",
+          "name": "赵秦雨",
+          "sender_i18n_names": {
+            "en_us": "Cherry"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-12 07:15",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_7d6d8e8b7f10fb41d251a222b1a7af90",
+        "content": "\u003ccard title=\"问题进展【已完成】\"\u003e\n【问题描述】：\n\n智能体问题\n【解决方案】：\n\n系统凭证根据proxyuser的值分配权限，若proxyuser是admin，则该令牌可以访问其他空间的agent；且系统的凭证仅admin能创建，其他帐号不能创建，客户确认无其他问题。\n\u003c/card\u003e",
+        "create_time": "2026-10-12 07:15",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_7d6d8e8b7f10fb41d251a222b1a7af90\u0026position=3443",
+        "message_id": "om_x100b63fcdc11d8a4c42f5a1389d72ff",
+        "message_position": "3443",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a472c8e8c5f9d00d",
+          "id_type": "app_id",
+          "name": "火山引擎-售后智能助手",
+          "open_bot_id": "ou_48cf9468e076e9838fcd93efbe775657",
+          "sender_i18n_names": {
+            "en_us": "BytePlus Support Bot",
+            "zh_cn": "火山引擎-售后智能助手"
+          },
+          "sender_type": "app",
+          "tenant_key": "736588c9260f175d"
+        },
+        "update_time": "2026-10-13 06:42",
+        "updated": true
+      }
+    ],
+    "page_token": "",
+    "total": 7
+  },
+  "meta": {
+    "pagination": {
+      "complete": true,
+      "pages": 1,
+      "items": 7
+    }
+  }
+}

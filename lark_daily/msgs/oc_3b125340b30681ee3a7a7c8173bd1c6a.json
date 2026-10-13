@@ -1,0 +1,89 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "has_more": false,
+    "messages": [
+      {
+        "chat_id": "oc_3b125340b30681ee3a7a7c8173bd1c6a",
+        "content": "@李炎 炎哥，两条线的 线体看板，最近观察有没有问题呢？",
+        "create_time": "2026-10-12 07:50",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_d09d218a31c85632e3d93cf83c798d37",
+            "key": "@_user_1",
+            "name": "李炎"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_3b125340b30681ee3a7a7c8173bd1c6a\u0026position=115",
+        "message_id": "om_x100b63fd5bba60e0b25167aa285d234",
+        "message_position": "115",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_635008cc2affc45d23de666f2e7e7446",
+          "id_type": "open_id",
+          "name": "牛振东",
+          "sender_i18n_names": {
+            "en_us": "niuzhendong"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-12 07:50",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_3b125340b30681ee3a7a7c8173bd1c6a",
+        "content": "暂时没有问题",
+        "create_time": "2026-10-12 07:58",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_3b125340b30681ee3a7a7c8173bd1c6a\u0026position=116",
+        "message_id": "om_x100b63fd7c73b8b4c2fe51b4530268f",
+        "message_position": "116",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_d09d218a31c85632e3d93cf83c798d37",
+          "id_type": "open_id",
+          "name": "李炎",
+          "sender_i18n_names": {
+            "en_us": "liyan"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_3b125340b30681ee3a7a7c8173bd1c6a",
+        "content": "OK，那就成功告一段落。\n\n感谢大家各自为了【济南实时线体看板】的付出 ！！！\n[烟花][烟花][烟花]",
+        "create_time": "2026-10-12 08:02",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_3b125340b30681ee3a7a7c8173bd1c6a\u0026position=117",
+        "message_id": "om_x100b63fd0cc4f8bcb3f268bd0495300",
+        "message_position": "117",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_635008cc2affc45d23de666f2e7e7446",
+          "id_type": "open_id",
+          "name": "牛振东",
+          "sender_i18n_names": {
+            "en_us": "niuzhendong"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      }
+    ],
+    "page_token": "",
+    "total": 3
+  },
+  "meta": {
+    "pagination": {
+      "complete": true,
+      "pages": 1,
+      "items": 3
+    }
+  }
+}

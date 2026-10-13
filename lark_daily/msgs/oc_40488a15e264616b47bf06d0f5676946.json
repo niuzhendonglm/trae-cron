@@ -1,0 +1,105 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "has_more": false,
+    "messages": [
+      {
+        "chat_id": "oc_40488a15e264616b47bf06d0f5676946",
+        "content": "Hi 志俊，济南线体看板服务器资源申请的OA流程，你传阅我看下，",
+        "create_time": "2026-10-12 06:05",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_40488a15e264616b47bf06d0f5676946\u0026position=78",
+        "message_id": "om_x100b63f3c4bc30a0b4bd3f394a10fe1",
+        "message_position": "78",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_635008cc2affc45d23de666f2e7e7446",
+          "id_type": "open_id",
+          "name": "牛振东",
+          "sender_i18n_names": {
+            "en_us": "niuzhendong"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_40488a15e264616b47bf06d0f5676946",
+        "content": "好，晚点发你哈",
+        "create_time": "2026-10-12 06:06",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_40488a15e264616b47bf06d0f5676946\u0026position=79",
+        "message_id": "om_x100b63f3c26c54a0b3df00950ed1847",
+        "message_position": "79",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_a8410907440955367250fddce5341266",
+          "id_type": "open_id",
+          "name": "姜志俊",
+          "sender_i18n_names": {
+            "en_us": "jiangzhijun"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_40488a15e264616b47bf06d0f5676946",
+        "content": "**济南重大异常影响分析**的项目，也帮忙申请两台服务器吧，\n\n\n```MARKDOWN\n1. 服务器资源申请，包括应用服务器1台，数据库服务器1台；\n申请信息：\n制造产线上生产工单执行过程中可能出现各类异常（设备故障、物料短缺、质量异常、人员缺勤等），前缺乏自动化的异常监控与影响推演能力，依赖人工经验判断，响应滞后、分析不全面。现需开发智能Agent系统，实现弹弓异常监控、订单影响分析、定向通知推送等目标\n\n服务器需求如下：\n应用服务器1台\n- CPU：16核，2.5GHz及以上；\n- 内存：64 G\n- 磁盘：500G及以上；\n- 操作系统：linux系统（Rocky8.10内核kernel-4.18.0-553.120.1.el8_10.x86_64）；\n数据库服务器1台：\n- CPU：16核，2.5GHz及以上；\n- 内存：64 G\n- 磁盘：1TB；\n- 操作系统：linux系统（Rocky8.10内核kernel-4.18.0-553.120.1.el8_10.x86_64）；\n\n\n2. 申请网络访问\n顶层 应用服务器，【源，IP待开通】\n1.访问 数据库服务器【目标，IP待开通，端口3306】\n2.访问 MES备库、Andon数据库、人岗数据库【目标，如下】\nMES/MESDC：10.76.248.33 端口1578\nAndon/人岗：10.32.223.236 端口8891\n3.访问DaaS服务管理，https://api.inovance.com/\n\n```",
+        "create_time": "2026-10-12 06:22",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_40488a15e264616b47bf06d0f5676946\u0026position=80",
+        "message_id": "om_x100b63f385d2b0b4b3f3a26c1965a2d",
+        "message_position": "80",
+        "msg_type": "post",
+        "sender": {
+          "id": "ou_635008cc2affc45d23de666f2e7e7446",
+          "id_type": "open_id",
+          "name": "牛振东",
+          "sender_i18n_names": {
+            "en_us": "niuzhendong"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-12 06:22",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_40488a15e264616b47bf06d0f5676946",
+        "content": "这个要尽快提[笑哭]",
+        "create_time": "2026-10-12 06:27",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_40488a15e264616b47bf06d0f5676946\u0026position=81",
+        "message_id": "om_x100b63f393c8b8b4b328f5646e9da3e",
+        "message_position": "81",
+        "msg_type": "text",
+        "reply_to": "om_x100b63f385d2b0b4b3f3a26c1965a2d",
+        "sender": {
+          "id": "ou_635008cc2affc45d23de666f2e7e7446",
+          "id_type": "open_id",
+          "name": "牛振东",
+          "sender_i18n_names": {
+            "en_us": "niuzhendong"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-12 06:27",
+        "updated": true
+      }
+    ],
+    "page_token": "",
+    "total": 4
+  },
+  "meta": {
+    "pagination": {
+      "complete": true,
+      "pages": 1,
+      "items": 4
+    }
+  }
+}

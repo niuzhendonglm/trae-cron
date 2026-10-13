@@ -1,0 +1,78 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "has_more": false,
+    "messages": [
+      {
+        "chat_id": "oc_574411836c87942cd157f4cad609497d",
+        "content": "@李家伟 李工 你们预计啥时间来苏州呀 除了OEE根因分析还有一些上次那个设备管理智能体的交流",
+        "create_time": "2026-10-12 02:33",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_6e83d7770d6715848033736090bba3ce",
+            "key": "@_user_1",
+            "name": "李家伟"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_574411836c87942cd157f4cad609497d\u0026position=89",
+        "message_id": "om_x100b63f03ff970a8b258bcaa7f06bba",
+        "message_position": "89",
+        "msg_type": "text",
+        "reply_to": "om_x100b643a2ac994b8b2e30a344f58f7e",
+        "sender": {
+          "id": "ou_b1a90d1912f916b4ef287e3d3948c31f",
+          "id_type": "open_id",
+          "name": "周刚",
+          "sender_i18n_names": {
+            "en_us": "zhougang"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-12 02:33",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_574411836c87942cd157f4cad609497d",
+        "content": "@周刚 周工，我们预计工博会后约个时间",
+        "create_time": "2026-10-12 02:34",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_b1a90d1912f916b4ef287e3d3948c31f",
+            "key": "@_user_1",
+            "name": "周刚"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_574411836c87942cd157f4cad609497d\u0026position=90",
+        "message_id": "om_x100b63f03d9c30a0b12bf9ee5e02e12",
+        "message_position": "90",
+        "msg_type": "text",
+        "reply_to": "om_x100b63f03ff970a8b258bcaa7f06bba",
+        "sender": {
+          "id": "ou_6e83d7770d6715848033736090bba3ce",
+          "id_type": "open_id",
+          "name": "李家伟",
+          "sender_i18n_names": {
+            "en_us": "lijiawei"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-12 02:34",
+        "updated": true
+      }
+    ],
+    "page_token": "",
+    "total": 2
+  },
+  "meta": {
+    "pagination": {
+      "complete": true,
+      "pages": 1,
+      "items": 2
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "has_more": false,
+    "messages": [
+      {
+        "chat_id": "oc_55af2558e29a16663a68b45fd8b98bf1",
+        "content": "\u003ccard title=\"您提交的流程已被审批通过，请查阅：系统上线，申请安全测试\"\u003e\n📝 申请时间：2026-10-12 17:21 \n申请人：牛振东\n---\n[查看详情](https://oa.inovance.com/sys/notify/sys_notify_todo/sysNotifyTodo.do?method=view\u0026fdId=1a12f6b02958326328dd6124ddfae8fe\u0026oauth=fs2ekp)\n\u003c/card\u003e",
+        "create_time": "2026-10-12 09:21",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_55af2558e29a16663a68b45fd8b98bf1\u0026position=103",
+        "message_id": "om_x100b63fe245bc4f8c32fc9e6b926498",
+        "message_position": "103",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a2a3d4cab4bb100e",
+          "id_type": "app_id",
+          "name": "OA待阅中心",
+          "open_bot_id": "ou_77027805ad07dfa8bb111ad00c1ffd93",
+          "sender_i18n_names": {
+            "en_us": "OA toView",
+            "zh_cn": "OA待阅中心"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      }
+    ],
+    "page_token": "",
+    "total": 1
+  },
+  "meta": {
+    "pagination": {
+      "complete": true,
+      "pages": 1,
+      "items": 1
+    }
+  }
+}

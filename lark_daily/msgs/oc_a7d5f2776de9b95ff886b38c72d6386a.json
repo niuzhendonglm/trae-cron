@@ -1,0 +1,41 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "has_more": false,
+    "messages": [
+      {
+        "chat_id": "oc_a7d5f2776de9b95ff886b38c72d6386a",
+        "content": "\u003ccard title=\"智能会议纪要\"\u003e\n**Conference theme**：计划与AI数字化深度融合项目启动会\n**Conference organizers**： 葛徐\n**Meeting time**：2026-10-12 13:56:48\n**Recorded files (Minutes)**：[计划与AI数字化深度融合项目启动会](https://meetings.feishu.cn/minutes/obcnkrbh6f7326mmkxl51qxc)---\n[查看会议纪要](https://inovance.feishu.cn/docx/UyWwdBTlqogfJbxmhb4cKSSYn2b)\n\u003c/card\u003e",
+        "create_time": "2026-10-12 06:52",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_a7d5f2776de9b95ff886b38c72d6386a\u0026position=4",
+        "message_id": "om_x100b63fc745080a8b283c63c2a4b8e6",
+        "message_position": "4",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_aa9cdf1b99f61cc7",
+          "id_type": "app_id",
+          "name": "智能会议纪要",
+          "open_bot_id": "ou_4a9f230dd28ed9c322830217ddbdb52f",
+          "sender_i18n_names": {
+            "en_us": " AI Meeting Notes",
+            "zh_cn": "智能会议纪要"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      }
+    ],
+    "page_token": "",
+    "total": 1
+  },
+  "meta": {
+    "pagination": {
+      "complete": true,
+      "pages": 1,
+      "items": 1
+    }
+  }
+}

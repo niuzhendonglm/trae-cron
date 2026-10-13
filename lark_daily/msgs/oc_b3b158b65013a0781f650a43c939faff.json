@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "has_more": false,
+    "messages": [
+      {
+        "chat_id": "oc_b3b158b65013a0781f650a43c939faff",
+        "content": "1. 合同及时齐套发货率：isc_dws.dws_isc_ltc_sales_order_details_a_h\n2. 订单及时到货率：isc_ads.ads_isc_lgs_fulfillment_cycle_a_d",
+        "create_time": "2026-10-12 10:51",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_b3b158b65013a0781f650a43c939faff\u0026position=0",
+        "message_id": "om_x100b63fff431ccb4b1bdd5a2f7873d9",
+        "message_position": "0",
+        "msg_type": "post",
+        "sender": {
+          "id": "ou_635008cc2affc45d23de666f2e7e7446",
+          "id_type": "open_id",
+          "name": "牛振东",
+          "sender_i18n_names": {
+            "en_us": "niuzhendong"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-12 10:51",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_b3b158b65013a0781f650a43c939faff",
+        "content": "\u003cfile key=\"file_v3_0016d_ce720c0e-a4cc-4d0e-8814-4555375592bg\" name=\"合同及时齐套发货率.xlsx\"/\u003e",
+        "create_time": "2026-10-12 10:51",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_b3b158b65013a0781f650a43c939faff\u0026position=1",
+        "message_id": "om_x100b63fff54c08a4b1fb0b28763396f",
+        "message_position": "1",
+        "msg_type": "file",
+        "sender": {
+          "id": "ou_635008cc2affc45d23de666f2e7e7446",
+          "id_type": "open_id",
+          "name": "牛振东",
+          "sender_i18n_names": {
+            "en_us": "niuzhendong"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_b3b158b65013a0781f650a43c939faff",
+        "content": "\u003cfile key=\"file_v3_0016d_5201bcfb-9fdb-4c79-a159-546d242546eg\" name=\"订单及时到货率.xlsx\"/\u003e",
+        "create_time": "2026-10-12 10:51",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_b3b158b65013a0781f650a43c939faff\u0026position=2",
+        "message_id": "om_x100b63fff54efcb0b2551f158022703",
+        "message_position": "2",
+        "msg_type": "file",
+        "sender": {
+          "id": "ou_635008cc2affc45d23de666f2e7e7446",
+          "id_type": "open_id",
+          "name": "牛振东",
+          "sender_i18n_names": {
+            "en_us": "niuzhendong"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      }
+    ],
+    "page_token": "",
+    "total": 3
+  },
+  "meta": {
+    "pagination": {
+      "complete": true,
+      "pages": 1,
+      "items": 3
+    }
+  }
+}

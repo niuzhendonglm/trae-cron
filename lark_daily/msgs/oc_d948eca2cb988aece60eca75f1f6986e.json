@@ -1,0 +1,42 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "has_more": false,
+    "messages": [
+      {
+        "chat_id": "oc_d948eca2cb988aece60eca75f1f6986e",
+        "content": "\u003ccard title=\"近期待处理任务\"\u003e\n\u003cclickable url=\"https://applink.feishu.cn/client/todo/detail?guid=15ae8f64-53f1-462e-a520-87fb8a16d660\"\u003e\n【团队】开发看板数据更新\n📝 Today 10:00\n\u003c/clickable\u003e\n---\n[查看更多](https://applink.feishu.cn/client/todo/view?tab=assign_to_me)\n\u003c/card\u003e",
+        "create_time": "2026-10-12 04:35",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_d948eca2cb988aece60eca75f1f6986e\u0026position=265",
+        "message_id": "om_x100b63f27651b8a0b14e7165fb3c276",
+        "message_position": "265",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a0d9f947f538d00d",
+          "id_type": "app_id",
+          "name": "任务助手",
+          "open_bot_id": "ou_26825639e25059bba897e5bc7807b63d",
+          "sender_i18n_names": {
+            "en_us": "Tasks Assistant",
+            "ja_jp": "タスクアシスタント",
+            "zh_cn": "任务助手"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      }
+    ],
+    "page_token": "",
+    "total": 1
+  },
+  "meta": {
+    "pagination": {
+      "complete": true,
+      "pages": 1,
+      "items": 1
+    }
+  }
+}
