@@ -1,0 +1,631 @@
+====================================================================================================
+CHAT: 大传动高压测试上电前接线自互检群 | group | oc_3a5089c00ab83c544f8b8cfeb6f4ec3e | 71 msgs
+  [2026-10-14 01:43] (user/普龙杰) <text> del=False :: 济南工厂大传动高压测试上电前自检通报10月14日 ⏎ 一、项目名称: 新疆奥特美森 ⏎ 二、SN:01283197PUA10021（第1台） ⏎ 三、自检内容 ⏎  1、变压器接地线，高压线输入、输出已接好 ⏎  2、线缆相序正确且紧固正常 ⏎ 以上内容已自检完成请复检确认无误批准上电
+  [2026-10-14 01:44] (user/普龙杰) <image> del=False :: [Image: img_v3_0216f_f50b8148-d32c-4713-bcf7-93a76e48771g]
+  [2026-10-14 01:44] (user/普龙杰) <image> del=False :: [Image: img_v3_0216f_03e6732f-96c9-458a-a40c-6479bd37f50g]
+  [2026-10-14 01:44] (user/普龙杰) <image> del=False :: [Image: img_v3_0216f_39bc5d8c-3c8a-460a-b285-dc105d53602g]
+  [2026-10-14 01:45] (user/普龙杰) <text> del=False :: 济南工厂大传动高压测试上电前自检通报10月14日 ⏎ 一、项目名称: 广东东然 ⏎ 二、SN:01283197PUA10022（第2台） ⏎ 三、自检内容 ⏎  1、变压器接地线，高压线输入、输出已接好 ⏎  2、线缆相序正确且紧固正常 ⏎ 以上内容已自检完成请复检确认无误批准上电
+  [2026-10-14 01:45] (user/普龙杰) <image> del=True :: [Invalid image JSON]
+  [2026-10-14 01:45] (user/普龙杰) <image> del=False :: [Image: img_v3_0216f_9fbeb00f-1cdd-4577-814b-4ef74c949c9g]
+  [2026-10-14 01:45] (user/普龙杰) <image> del=False :: [Image: img_v3_0216f_841a2745-e487-41c3-91bc-29f24cb8b19g]
+  [2026-10-14 01:45] (user/普龙杰) <image> del=False :: [Image: img_v3_0216f_bc3fbdac-d23b-459d-a917-794aeccebbdg]
+  [2026-10-14 01:50] (user/李双云) <text> del=False :: 济南工厂大传动高压测试上电前自检通报10月14日 ⏎ 一、项目名称: 万华化学 ⏎ 二、SN:01283592PUA10006（第3台） ⏎ 三、自检内容 ⏎  1、变压器接地线，高压线输入、输出已接好 ⏎  2、线缆相序正确且紧固正常 ⏎ 以上内容已自检完成请复检确认无误批准上电
+  [2026-10-14 02:04] (user/赵力) <image> del=False :: [Image: img_v3_0216f_d25ad2b6-f6e0-48f8-821d-2ac09d8bebeg]
+  [2026-10-14 02:04] (user/赵力) <image> del=False :: [Image: img_v3_0216f_399ed4fb-8310-4084-990d-ce6c2268bc7g]
+  [2026-10-14 02:04] (user/赵力) <image> del=False :: [Image: img_v3_0216f_27973e6b-4b42-4708-a866-fdba7b97e8cg]
+  [2026-10-14 02:04] (user/赵力) <image> del=False :: [Image: img_v3_0216f_01b6ea69-7a32-4dad-adaf-2801c20f462g]
+  [2026-10-14 02:12] (user/文亚鑫) <text> del=False :: 济南工厂大传动高压测试上电前自检通报10月14日 ⏎ 一、项目名称: 济南汇川 ⏎ 二、SN:01283117PUA10003（第4台） ⏎ 三、自检内容 ⏎  1、变压器接地线，高压线输入、输出已接好 ⏎  2、线缆相序正确且紧固正常 ⏎ 以上内容已自检完成请复检确认无误批准上电
+  [2026-10-14 02:12] (user/文亚鑫) <image> del=False :: [Image: img_v3_0216f_fbb8eb7e-86d0-48b5-a03e-7706c59124cg]
+  [2026-10-14 02:12] (user/文亚鑫) <image> del=False :: [Image: img_v3_0216f_2d21f5b1-8682-4311-a471-8c1f53eae8eg]
+  [2026-10-14 02:12] (user/文亚鑫) <image> del=False :: [Image: img_v3_0216f_1d509f67-6a0c-412f-9fe9-03c69cae650g]
+  [2026-10-14 02:13] (user/文亚鑫) <text> del=False :: 济南工厂大传动高压测试上电前自检通报10月14日 ⏎ 一、项目名称: 郑州迅联 ⏎ 二、SN:01283116PUA10008（第5台） ⏎ 三、自检内容 ⏎  1、变压器接地线，高压线输入、输出已接好 ⏎  2、线缆相序正确且紧固正常 ⏎ 以上内容已自检完成请复检确认无误批准上电
+  [2026-10-14 02:13] (user/文亚鑫) <image> del=False :: [Image: img_v3_0216f_18ee908b-9a86-4b71-9928-d2fa18aa6a5g]
+  [2026-10-14 02:13] (user/文亚鑫) <image> del=False :: [Image: img_v3_0216f_5c8d0bb5-c64d-41c2-9d2e-266e416bfdcg]
+  [2026-10-14 02:13] (user/文亚鑫) <image> del=False :: [Image: img_v3_0216f_7ff8e458-79c7-4005-9641-d3a11b2246cg]
+  [2026-10-14 02:45] (user/陈秀迪) <text> del=False :: 以上上电照片中标签确认无误
+  [2026-10-14 05:08] (user/赵力) <text> del=False :: 济南工厂大传动高压测试上电前自检通报10月14日 ⏎ 一、项目名称: 万华化学 ⏎ 二、SN:01283592PUA10004（第6台） ⏎ 三、自检内容 ⏎  1、变压器接地线，高压线输入、输出已接好 ⏎  2、线缆相序正确且紧固正常 ⏎ 以上内容已自检完成请复检确认无误批准上电
+  [2026-10-14 05:08] (user/赵力) <image> del=False :: [Image: img_v3_0216f_dc6a8dca-584d-4bb3-91a9-abe6354ce0bg]
+  [2026-10-14 05:08] (user/赵力) <image> del=False :: [Image: img_v3_0216f_51332449-aad6-4431-bfa2-a69f7441074g]
+  [2026-10-14 05:08] (user/赵力) <image> del=False :: [Image: img_v3_0216f_e5b7417c-e6fa-41a9-9ad7-c6c6b204a77g]
+  [2026-10-14 05:08] (user/赵力) <image> del=False :: [Image: img_v3_0216f_1a77ad49-bc63-4cd1-bfc1-f373a5746b8g]
+  [2026-10-14 05:53] (user/普龙杰) <text> del=False :: 济南工厂大传动高压测试上电前自检通报10月14日 ⏎ 一、项目名称: 江苏盛宏 ⏎ 二、SN:01283197PUA10025（第7台） ⏎ 三、自检内容 ⏎  1、变压器接地线，高压线输入、输出已接好 ⏎  2、线缆相序正确且紧固正常 ⏎ 以上内容已自检完成请复检确认无误批准上电
+  [2026-10-14 05:53] (user/普龙杰) <image> del=False :: [Image: img_v3_0216f_d02f4a62-35e8-4f6e-9cc6-957e20096d2g]
+  [2026-10-14 05:53] (user/普龙杰) <image> del=False :: [Image: img_v3_0216f_af26f262-1e02-48b3-822d-4f7834e7663g]
+  [2026-10-14 05:53] (user/普龙杰) <image> del=False :: [Image: img_v3_0216f_c599e59e-a58e-4352-98c3-a56c87afa21g]
+  [2026-10-14 05:53] (user/普龙杰) <text> del=False :: 济南工厂大传动高压测试上电前自检通报10月14日 ⏎ 一、项目名称: 广东东然 ⏎ 二、SN:01283197PUA10023（第8台） ⏎ 三、自检内容 ⏎  1、变压器接地线，高压线输入、输出已接好 ⏎  2、线缆相序正确且紧固正常 ⏎ 以上内容已自检完成请复检确认无误批准上电
+  [2026-10-14 05:53] (user/普龙杰) <image> del=True :: [Invalid image JSON]
+  [2026-10-14 05:53] (user/普龙杰) <image> del=True :: [Invalid image JSON]
+  [2026-10-14 05:54] (user/普龙杰) <image> del=False :: [Image: img_v3_0216f_0bb24a08-5ead-41b9-829f-d0d1b65a61cg]
+  [2026-10-14 05:54] (user/普龙杰) <image> del=False :: [Image: img_v3_0216f_b5a8da11-18a4-4bec-8029-8d1a9f282f1g]
+  [2026-10-14 05:54] (user/普龙杰) <image> del=False :: [Image: img_v3_0216f_61a57182-c387-4ab9-a60f-de7f19cc77dg]
+  [2026-10-14 06:15] (user/文亚鑫) <text> del=False :: 济南工厂大传动高压测试上电前自检通报10月14日 ⏎ 一、项目名称: 约克 ⏎ 二、SN:01283227PUA10002（第9台） ⏎ 三、自检内容 ⏎  1、变压器接地线，高压线输入、输出已接好 ⏎  2、线缆相序正确且紧固正常 ⏎ 以上内容已自检完成请复检确认无误批准上电
+  [2026-10-14 06:15] (user/文亚鑫) <image> del=False :: [Image: img_v3_0216f_db736e01-6228-45cf-a979-970fea22e1dg]
+  [2026-10-14 06:15] (user/文亚鑫) <image> del=False :: [Image: img_v3_0216f_2ce234c7-76d3-4268-b53e-c767a4f3666g]
+  [2026-10-14 06:15] (user/文亚鑫) <image> del=False :: [Image: img_v3_0216f_99c65c64-ff95-45a1-a3d8-827544fb296g]
+  [2026-10-14 06:16] (user/文亚鑫) <text> del=False :: 济南工厂大传动高压测试上电前自检通报10月14日 ⏎ 一、项目名称: 苏州科驱 ⏎ 二、SN:01283598PUA10002（第10台） ⏎ 三、自检内容 ⏎  1、变压器接地线，高压线输入、输出已接好 ⏎  2、线缆相序正确且紧固正常 ⏎ 以上内容已自检完成请复检确认无误批准上电
+  [2026-10-14 06:16] (user/文亚鑫) <image> del=False :: [Image: img_v3_0216f_837895d6-c7f4-40e3-8971-a911b4ee7f5g]
+  [2026-10-14 06:16] (user/文亚鑫) <image> del=False :: [Image: img_v3_0216f_024d3de0-d282-4f2f-b13e-49506213e7dg]
+  [2026-10-14 06:16] (user/文亚鑫) <image> del=False :: [Image: img_v3_0216f_cc547439-44cb-4f16-afd0-96472f3367ag]
+  [2026-10-14 06:27] (user/李双云) <text> del=False :: 济南工厂大传动高压测试上电前自检通报10月14日 ⏎ 一、项目名称: 苏州科驱 ⏎ 二、SN:01283598PUA10001（第11台） ⏎ 三、自检内容 ⏎  1、变压器接地线，高压线输入、输出已接好 ⏎  2、线缆相序正确且紧固正常 ⏎ 以上内容已自检完成请复检确认无误批准上电
+  [2026-10-14 06:27] (user/李双云) <image> del=False :: [Image: img_v3_0216f_ea5e56f1-821e-446e-9caf-7de6e9190e5g]
+  [2026-10-14 06:28] (user/李双云) <image> del=False :: [Image: img_v3_0216f_12b01aa4-8fda-4e9e-8bb7-0e8c1cba74bg]
+  [2026-10-14 06:46] (user/李双云) <image> del=False :: [Image: img_v3_0216f_3cbb0317-63c5-44db-859b-a4db7e0bfe7g]
+  [2026-10-14 06:53] (user/陈秀迪) <text> del=False :: 以上上电照片中标签确认无误
+  [2026-10-14 09:00] (user/普龙杰) <text> del=False :: 济南工厂大传动高压测试上电前自检通报10月14日 ⏎ 一、项目名称: 南京库法特 ⏎ 二、SN:01283116PU910002（第12台） ⏎ 三、自检内容 ⏎  1、变压器接地线，高压线输入、输出已接好 ⏎  2、线缆相序正确且紧固正常 ⏎ 以上内容已自检完成请复检确认无误批准上电
+  [2026-10-14 09:00] (user/普龙杰) <image> del=False :: [Image: img_v3_0216f_2be0e4d4-bb54-4c64-9523-67514865cc2g]
+  [2026-10-14 09:01] (user/普龙杰) <image> del=False :: [Image: img_v3_0216f_f8ffcafd-f83d-45d1-9867-9cf39b98f67g]
+  [2026-10-14 09:01] (user/普龙杰) <text> del=False :: 济南工厂大传动高压测试上电前自检通报10月14日 ⏎ 一、项目名称: 南京库法特 ⏎ 二、SN:01283116PU910005（第13台） ⏎ 三、自检内容 ⏎  1、变压器接地线，高压线输入、输出已接好 ⏎  2、线缆相序正确且紧固正常 ⏎ 以上内容已自检完成请复检确认无误批准上电
+  [2026-10-14 09:01] (user/普龙杰) <image> del=False :: [Image: img_v3_0216f_111ec207-a908-4f57-abc0-94488d35f3bg]
+  [2026-10-14 09:01] (user/普龙杰) <image> del=False :: [Image: img_v3_0216f_c238a3dd-8355-4141-93e3-7bbffcd0539g]
+  [2026-10-14 10:12] (user/赵力) <text> del=False :: 济南工厂大传动高压测试上电前自检通报10月14日 ⏎ 一、项目名称: 约克 ⏎ 二、SN:01283227PUA10001（第14台） ⏎ 三、自检内容 ⏎  1、变压器接地线，高压线输入、输出已接好 ⏎  2、线缆相序正确且紧固正常 ⏎ 以上内容已自检完成请复检确认无误批准上电
+  [2026-10-14 10:12] (user/赵力) <image> del=False :: [Image: img_v3_0216f_2926d499-02a1-4e21-8f17-2c6e57cefdag]
+  [2026-10-14 10:12] (user/赵力) <image> del=False :: [Image: img_v3_0216f_21f11358-430f-4994-b799-d85f3b78aa6g]
+  [2026-10-14 10:12] (user/赵力) <image> del=False :: [Image: img_v3_0216f_95e871da-171c-4563-acbd-08afd26278bg]
+  [2026-10-14 10:12] (user/赵力) <image> del=False :: [Image: img_v3_0216f_e1b2b499-4900-4b85-ab5d-cd62002a950g]
+  [2026-10-14 11:36] (user/文亚鑫) <text> del=False :: 济南工厂大传动高压测试上电前自检通报10月14日 ⏎ 一、项目名称: 陕西汇安 ⏎ 二、SN:01283117PUA10005（第15台） ⏎ 三、自检内容 ⏎  1、变压器接地线，高压线输入、输出已接好 ⏎  2、线缆相序正确且紧固正常 ⏎ 以上内容已自检完成请复检确认无误批准上电
+  [2026-10-14 11:36] (user/文亚鑫) <image> del=False :: [Image: img_v3_0216f_af1cabb4-ab1f-40f1-8896-bfb1af64b14g]
+  [2026-10-14 11:36] (user/文亚鑫) <image> del=False :: [Image: img_v3_0216f_f5cf5a55-c21b-4378-a1dd-feec0948b37g]
+  [2026-10-14 11:36] (user/文亚鑫) <image> del=False :: [Image: img_v3_0216f_948a77e5-f514-4840-a2c1-02cf31ece85g]
+  [2026-10-14 11:37] (user/文亚鑫) <text> del=False :: 济南工厂大传动高压测试上电前自检通报10月14日 ⏎ 一、项目名称: 陕西汇安 ⏎ 二、SN:01283117PUA10004（第16台） ⏎ 三、自检内容 ⏎  1、变压器接地线，高压线输入、输出已接好 ⏎  2、线缆相序正确且紧固正常 ⏎ 以上内容已自检完成请复检确认无误批准上电
+  [2026-10-14 11:37] (user/文亚鑫) <image> del=False :: [Image: img_v3_0216f_9525cb53-6d44-4436-bb4a-26e34905681g]
+  [2026-10-14 11:37] (user/文亚鑫) <image> del=False :: [Image: img_v3_0216f_c85003c4-2a05-470d-8f81-3d206c38d12g]
+  [2026-10-14 11:37] (user/文亚鑫) <image> del=False :: [Image: img_v3_0216f_ed5ee678-86ef-4af0-8b0c-7be5a0d6616g]
+  [2026-10-14 12:19] (user/陈秀迪) <text> del=False :: 以上上电照片中标签确认无误
+====================================================================================================
+CHAT: DaaS任务无异常🀄 | group | oc_505cf9b6d65b295064ba4993368cdcec | 70 msgs
+  [2026-10-13 16:51] (app/小D) <interactive> del=False :: <card> ⏎ **总共有 68 个任务等待时间超过20分钟(数据来源：10.32.223.141)** ⏎  ⏎ **任务名** | **提交时间** | **项目空间** | **负责人** | **等待时间** ⏎ dwd_isc_suzhou_output_last_production_records_a_h | 2026-10-08 11:18:47 | ISC数据消费 | **金星** | 5天13小时32分钟17秒 ⏎ dws_isc_wip_shortage_order_pass_match_a_h | 2026-10-13 11:45:10 | ISC数据消费 | **蔺雨桐** | 0天13小时5分钟54秒 ⏎ ads_isc_wip_shortage_order_current_op_a_h | 2026-10-13 11:48:01 | ISC数据消费 | **
+  [2026-10-13 16:51] (app/小D) <interactive> del=False :: <card> ⏎ @金星(ou_9a014b8b8c8ac89789d87895edaee4c4)  @蔺雨桐(ou_271c27ad206c31bf2b533474db2d9ef5)  @杨润东(ou_e7fccc3af163cd1e5b59c4241cb9b574) ⏎  ⏎ 请大家关注一下等待时间哈，如已处理请忽略~ ⏎ </card>
+  [2026-10-13 16:51] (app/小D) <interactive> del=False :: <card> ⏎ ### 🚨 任务失败告警 ⏎ 总共有 **20** 个任务失败(数据来源: 10.32.223.141) ⏎ **任务名** | **结束时间** | **项目空间** | **负责人** | **已过去时长** ⏎  ⏎ ODS_WMS_WMS_STOCK2_DETAIL_I_D | 2026-10-14 00:03:51 | 默认项目 | 姚远 | 0天0小时47分钟 ⏎ 西安工厂_定线清单_完整性调度 | 2026-10-14 00:12:33 | ISC数据治理 | 王帅飞 | 0天0小时38分钟 ⏎ ods_it_daas_qrtz_job_details_a_d | 2026-10-14 00:13:00 | ODS项目空间 | 杜彦永 | 0天0小时38分钟 ⏎ 西安工厂_定线清单_唯一性调度 | 2026-10-14 00:15:09 | ISC数据治理 
+  [2026-10-13 16:51] (app/小D) <interactive> del=False :: <card> ⏎ @杜彦永(ou_e8afce6057f334dd46762f0047b88c03)  @陈义鹏(ou_f8ef88c5327a4e0063b4157201c2e9af) ⏎  ⏎ 有任务最终失败，请大家关注一下~ ⏎ </card>
+  [2026-10-13 17:53] (app/小D) <interactive> del=False :: <card> ⏎ **总共有 188 个任务等待时间超过20分钟(数据来源：10.32.223.141)** ⏎  ⏎ **任务名** | **提交时间** | **项目空间** | **负责人** | **等待时间** ⏎ dwd_isc_suzhou_output_last_production_records_a_h | 2026-10-08 11:18:47 | ISC数据消费 | **金星** | 5天14小时34分钟13秒 ⏎ dws_isc_wip_shortage_order_pass_match_a_h | 2026-10-13 11:45:10 | ISC数据消费 | **蔺雨桐** | 0天14小时7分钟50秒 ⏎ ads_isc_wip_shortage_order_current_op_a_h | 2026-10-13 11:48:01 | ISC数据消费 | *
+  [2026-10-13 17:53] (app/小D) <interactive> del=False :: <card> ⏎ @金星(ou_9a014b8b8c8ac89789d87895edaee4c4)  @蔺雨桐(ou_271c27ad206c31bf2b533474db2d9ef5)  @杨润东(ou_e7fccc3af163cd1e5b59c4241cb9b574) ⏎  ⏎ 请大家关注一下等待时间哈，如已处理请忽略~ ⏎ </card>
+  [2026-10-13 17:53] (app/小D) <interactive> del=False :: <card> ⏎ ### 🚨 任务失败告警 ⏎ 总共有 **26** 个任务失败(数据来源: 10.32.223.141) ⏎ **任务名** | **结束时间** | **项目空间** | **负责人** | **已过去时长** ⏎  ⏎ ods_ltc_drp_service_back_confirm_a_d | 2026-10-14 00:52:45 | ODS项目空间 | 陈义鹏 | 0天1小时0分钟 ⏎ ODS_MES_MES_SYS_BOMITEM_I_D | 2026-10-14 01:03:27 | 默认项目 | 刘金松 | 0天0小时49分钟 ⏎ ODS_MES_MES_SYS_BOM_I_D | 2026-10-14 01:03:27 | 默认项目 | 刘金松 | 0天0小时49分钟 ⏎ ODS_MES_MES_SYS_STATUS_CURRENT_I_D | 2026
+  [2026-10-13 17:53] (app/小D) <interactive> del=False :: <card> ⏎ @陈义鹏(ou_f8ef88c5327a4e0063b4157201c2e9af)  @朱琳(ou_933d168416bb279699598537731de235) ⏎  ⏎ 有任务最终失败，请大家关注一下~ ⏎ </card>
+  [2026-10-13 18:51] (app/小D) <interactive> del=False :: <card> ⏎ **总共有 278 个任务等待时间超过20分钟(数据来源：10.32.223.141)** ⏎  ⏎ **任务名** | **提交时间** | **项目空间** | **负责人** | **等待时间** ⏎ dwd_isc_suzhou_output_last_production_records_a_h | 2026-10-08 11:18:47 | ISC数据消费 | **金星** | 5天15小时32分钟18秒 ⏎ dws_isc_wip_shortage_order_pass_match_a_h | 2026-10-13 11:45:10 | ISC数据消费 | **蔺雨桐** | 0天15小时5分钟55秒 ⏎ ads_isc_wip_shortage_order_current_op_a_h | 2026-10-13 11:48:01 | ISC数据消费 | *
+  [2026-10-13 18:51] (app/小D) <interactive> del=False :: <card> ⏎ @金星(ou_9a014b8b8c8ac89789d87895edaee4c4)  @蔺雨桐(ou_271c27ad206c31bf2b533474db2d9ef5)  @杨润东(ou_e7fccc3af163cd1e5b59c4241cb9b574)  @周明明(ou_fabee16453b36ecd887bf1d49e8c87d6)  @孙奥迪(ou_6d7296505aad11152c1fa679a46346d1)  @陈朝熙(ou_c00b96cffbc138e61d0810dc431d3592) ⏎  ⏎ 请大家关注一下等待时间哈，如已处理请忽略~ ⏎ </card>
+  [2026-10-13 18:51] (app/小D) <interactive> del=False :: <card> ⏎ ### 🚨 任务失败告警 ⏎ 总共有 **9** 个任务失败(数据来源: 10.32.223.141) ⏎ **任务名** | **结束时间** | **项目空间** | **负责人** | **已过去时长** ⏎  ⏎ ODS_WMS_WMS_BOM_LOG_I_D | 2026-10-14 01:55:31 | 默认项目 | 姚远 | 0天0小时55分钟 ⏎ test1 | 2026-10-14 02:03:01 | 测试项目 | zpp_test | 0天0小时48分钟 ⏎ 来料检验单_生产质量中心 | 2026-10-14 02:06:42 | ISC数据治理 | 钱中景 | 0天0小时44分钟 ⏎ 物料管理属性报表 | 2026-10-14 02:13:32 | ISC数据治理 | 曾凡荣 | 0天0小时37分钟 ⏎ 渠道客户产品注册 | 2026-10-14 
+  [2026-10-13 18:51] (app/小D) <interactive> del=False :: <card> ⏎ @龙时雨(ou_01d3fb53f7331392a2b23c2a9c927ea3) ⏎  ⏎ 有任务最终失败，请大家关注一下~ ⏎ </card>
+  [2026-10-13 19:51] (app/小D) <interactive> del=False :: <card> ⏎ **总共有 130 个任务等待时间超过20分钟(数据来源：10.32.223.141)** ⏎  ⏎ **任务名** | **提交时间** | **项目空间** | **负责人** | **等待时间** ⏎ dwd_isc_suzhou_output_last_production_records_a_h | 2026-10-08 11:18:47 | ISC数据消费 | **金星** | 5天16小时32分钟18秒 ⏎ dws_isc_wip_shortage_order_pass_match_a_h | 2026-10-13 11:45:10 | ISC数据消费 | **蔺雨桐** | 0天16小时5分钟55秒 ⏎ ads_isc_wip_shortage_order_current_op_a_h | 2026-10-13 11:48:01 | ISC数据消费 | *
+  [2026-10-13 19:51] (app/小D) <interactive> del=False :: <card> ⏎ @金星(ou_9a014b8b8c8ac89789d87895edaee4c4)  @蔺雨桐(ou_271c27ad206c31bf2b533474db2d9ef5)  @杨润东(ou_e7fccc3af163cd1e5b59c4241cb9b574) ⏎  ⏎ 请大家关注一下等待时间哈，如已处理请忽略~ ⏎ </card>
+  [2026-10-13 19:51] (app/小D) <interactive> del=False :: <card> ⏎ ### 🚨 任务失败告警 ⏎ 总共有 **13** 个任务失败(数据来源: 10.32.223.141) ⏎ **任务名** | **结束时间** | **项目空间** | **负责人** | **已过去时长** ⏎  ⏎ 测试过程数据_济南工厂 | 2026-10-14 03:02:14 | ISC数据治理 | 李佳丽 | 0天0小时48分钟 ⏎ 采购执行_ITEM计划属性 | 2026-10-14 03:04:10 | ISC数据治理 | 黄新明 | 0天0小时47分钟 ⏎ 返工单 | 2026-10-14 03:04:46 | ISC数据治理 | 陶荣辉 | 0天0小时46分钟 ⏎ 物料主数据 | 2026-10-14 03:04:48 | ISC数据治理 | 汪显辉 | 0天0小时46分钟 ⏎ PART主数据 | 2026-10-14 03:06:23 | IPD
+  [2026-10-13 19:51] (app/小D) <interactive> del=False :: <card> ⏎ @汪显辉(ou_bf15538efcb56bb8499349bf74e843bd)  @朱琳(ou_933d168416bb279699598537731de235) ⏎  ⏎ 有任务最终失败，请大家关注一下~ ⏎ </card>
+  [2026-10-13 20:51] (app/小D) <interactive> del=False :: <card> ⏎ **总共有 80 个任务等待时间超过20分钟(数据来源：10.32.223.141)** ⏎  ⏎ **任务名** | **提交时间** | **项目空间** | **负责人** | **等待时间** ⏎ dwd_isc_suzhou_output_last_production_records_a_h | 2026-10-08 11:18:47 | ISC数据消费 | **金星** | 5天17小时32分钟18秒 ⏎ dws_isc_wip_shortage_order_pass_match_a_h | 2026-10-13 11:45:10 | ISC数据消费 | **蔺雨桐** | 0天17小时5分钟55秒 ⏎ ads_isc_wip_shortage_order_current_op_a_h | 2026-10-13 11:48:01 | ISC数据消费 | **
+  [2026-10-13 20:51] (app/小D) <interactive> del=False :: <card> ⏎ @金星(ou_9a014b8b8c8ac89789d87895edaee4c4)  @蔺雨桐(ou_271c27ad206c31bf2b533474db2d9ef5)  @杨润东(ou_e7fccc3af163cd1e5b59c4241cb9b574) ⏎  ⏎ 请大家关注一下等待时间哈，如已处理请忽略~ ⏎ </card>
+  [2026-10-13 20:51] (app/小D) <interactive> del=False :: <card> ⏎ ### 🚨 任务失败告警 ⏎ 总共有 **7** 个任务失败(数据来源: 10.32.223.141) ⏎ **任务名** | **结束时间** | **项目空间** | **负责人** | **已过去时长** ⏎  ⏎ 驱控中心_标准工时_排产完整性调度 | 2026-10-14 04:00:46 | ISC数据治理 | 李佳丽 | 0天0小时50分钟 ⏎ 岳阳工厂_标准工时_过站完整性调度 | 2026-10-14 04:01:17 | ISC数据治理 | 李佳丽 | 0天0小时49分钟 ⏎ 岳阳工厂_标准工时_唯一性调度 | 2026-10-14 04:08:26 | ISC数据治理 | 钱中景 | 0天0小时42分钟 ⏎ 苏州工厂_库存产品重量_调度 | 2026-10-14 04:10:10 | ISC数据治理 | 位雅 | 0天0小时41分钟 ⏎ hive2d
+  [2026-10-13 20:51] (app/小D) <interactive> del=False :: <card> ⏎ @位雅(ou_5978ee71e9a58149b496dc9d967296f2)  @刘宇(ou_129e012b6734bb46ae7502a3be32018a) ⏎  ⏎ 有任务最终失败，请大家关注一下~ ⏎ </card>
+  [2026-10-13 21:51] (app/小D) <interactive> del=False :: <card> ⏎ **总共有 58 个任务等待时间超过20分钟(数据来源：10.32.223.141)** ⏎  ⏎ **任务名** | **提交时间** | **项目空间** | **负责人** | **等待时间** ⏎ dwd_isc_suzhou_output_last_production_records_a_h | 2026-10-08 11:18:47 | ISC数据消费 | **金星** | 5天18小时32分钟18秒 ⏎ dws_isc_wip_shortage_order_pass_match_a_h | 2026-10-13 11:45:10 | ISC数据消费 | **蔺雨桐** | 0天18小时5分钟55秒 ⏎ ads_isc_wip_shortage_order_current_op_a_h | 2026-10-13 11:48:01 | ISC数据消费 | **
+  [2026-10-13 21:51] (app/小D) <interactive> del=False :: <card> ⏎ @金星(ou_9a014b8b8c8ac89789d87895edaee4c4)  @蔺雨桐(ou_271c27ad206c31bf2b533474db2d9ef5)  @杨润东(ou_e7fccc3af163cd1e5b59c4241cb9b574) ⏎  ⏎ 请大家关注一下等待时间哈，如已处理请忽略~ ⏎ </card>
+  [2026-10-13 21:51] (app/小D) <interactive> del=False :: <card> ⏎ ### 🚨 任务失败告警 ⏎ 总共有 **21** 个任务失败(数据来源: 10.32.223.141) ⏎ **任务名** | **结束时间** | **项目空间** | **负责人** | **已过去时长** ⏎  ⏎ 驱控中心_定线清单_排产一致性调度 | 2026-10-14 05:00:44 | ISC数据治理 | 钱中景 | 0天0小时50分钟 ⏎ 济南工厂_标准工时_完整性一致性调度 | 2026-10-14 05:01:22 | ISC数据治理 | 李佳丽 | 0天0小时49分钟 ⏎ 西安物料责任人 | 2026-10-14 05:01:33 | ISC数据治理 | 黄新明 | 0天0小时49分钟 ⏎ 任务令数据 | 2026-10-14 05:01:41 | ISC数据治理 | 黄新明 | 0天0小时49分钟 ⏎ PART属性校验 | 2026-10-1
+  [2026-10-13 21:51] (app/小D) <interactive> del=False :: <card> ⏎ @刘宇(ou_129e012b6734bb46ae7502a3be32018a) ⏎  ⏎ 有任务最终失败，请大家关注一下~ ⏎ </card>
+  [2026-10-13 22:51] (app/小D) <interactive> del=False :: <card> ⏎ **总共有 62 个任务等待时间超过20分钟(数据来源：10.32.223.141)** ⏎  ⏎ **任务名** | **提交时间** | **项目空间** | **负责人** | **等待时间** ⏎ dwd_isc_suzhou_output_last_production_records_a_h | 2026-10-08 11:18:47 | ISC数据消费 | **金星** | 5天19小时32分钟18秒 ⏎ dws_isc_wip_shortage_order_pass_match_a_h | 2026-10-13 11:45:10 | ISC数据消费 | **蔺雨桐** | 0天19小时5分钟55秒 ⏎ ads_isc_wip_shortage_order_current_op_a_h | 2026-10-13 11:48:01 | ISC数据消费 | **
+  [2026-10-13 22:51] (app/小D) <interactive> del=False :: <card> ⏎ @金星(ou_9a014b8b8c8ac89789d87895edaee4c4)  @蔺雨桐(ou_271c27ad206c31bf2b533474db2d9ef5)  @杨润东(ou_e7fccc3af163cd1e5b59c4241cb9b574) ⏎  ⏎ 请大家关注一下等待时间哈，如已处理请忽略~ ⏎ </card>
+  [2026-10-13 22:51] (app/小D) <interactive> del=False :: <card> ⏎ ### 🚨 任务失败告警 ⏎ 总共有 **2** 个任务失败(数据来源: 10.32.223.141) ⏎ **任务名** | **结束时间** | **项目空间** | **负责人** | **已过去时长** ⏎  ⏎ 苏州物料责任人 | 2026-10-14 06:03:45 | ISC数据治理 | 黄新明 | 0天0小时47分钟 ⏎ 驱控中心_定线清单_完整性调度_test | 2026-10-14 06:09:26 | ISC数据治理 | 李佳丽 | 0天0小时41分钟 ⏎ </card>
+  [2026-10-13 22:51] (app/小D) <interactive> del=False :: <card> ⏎  ⏎ 有任务最终失败，请大家关注一下~ ⏎ </card>
+  [2026-10-13 23:51] (app/小D) <interactive> del=False :: <card> ⏎ **总共有 28 个任务等待时间超过20分钟(数据来源：10.32.223.141)** ⏎  ⏎ **任务名** | **提交时间** | **项目空间** | **负责人** | **等待时间** ⏎ dwd_isc_suzhou_output_last_production_records_a_h | 2026-10-08 11:18:47 | ISC数据消费 | **金星** | 5天20小时32分钟18秒 ⏎ dws_isc_wip_shortage_order_pass_match_a_h | 2026-10-13 11:45:10 | ISC数据消费 | **蔺雨桐** | 0天20小时5分钟55秒 ⏎ ads_isc_wip_shortage_order_current_op_a_h | 2026-10-13 11:48:01 | ISC数据消费 | **
+  [2026-10-13 23:51] (app/小D) <interactive> del=False :: <card> ⏎ @金星(ou_9a014b8b8c8ac89789d87895edaee4c4)  @蔺雨桐(ou_271c27ad206c31bf2b533474db2d9ef5)  @杨润东(ou_e7fccc3af163cd1e5b59c4241cb9b574) ⏎  ⏎ 请大家关注一下等待时间哈，如已处理请忽略~ ⏎ </card>
+  [2026-10-14 00:51] (app/小D) <interactive> del=False :: <card> ⏎ **总共有 15 个任务等待时间超过20分钟(数据来源：10.32.223.141)** ⏎  ⏎ **任务名** | **提交时间** | **项目空间** | **负责人** | **等待时间** ⏎ dwd_isc_suzhou_output_last_production_records_a_h | 2026-10-08 11:18:47 | ISC数据消费 | **金星** | 5天21小时32分钟19秒 ⏎ dws_isc_wip_shortage_order_pass_match_a_h | 2026-10-13 11:45:10 | ISC数据消费 | **蔺雨桐** | 0天21小时5分钟56秒 ⏎ ads_isc_wip_shortage_order_current_op_a_h | 2026-10-13 11:48:01 | ISC数据消费 | **
+  [2026-10-14 00:51] (app/小D) <interactive> del=False :: <card> ⏎ @金星(ou_9a014b8b8c8ac89789d87895edaee4c4)  @蔺雨桐(ou_271c27ad206c31bf2b533474db2d9ef5) ⏎  ⏎ 请大家关注一下等待时间哈，如已处理请忽略~ ⏎ </card>
+  [2026-10-14 01:51] (app/小D) <interactive> del=False :: <card> ⏎ **总共有 18 个任务等待时间超过20分钟(数据来源：10.32.223.141)** ⏎  ⏎ **任务名** | **提交时间** | **项目空间** | **负责人** | **等待时间** ⏎ dws_isc_wip_shortage_order_pass_match_a_h | 2026-10-13 11:45:10 | ISC数据消费 | **蔺雨桐** | 0天22小时5分钟55秒 ⏎ ads_isc_wip_shortage_order_current_op_a_h | 2026-10-13 11:48:01 | ISC数据消费 | **蔺雨桐** | 0天22小时3分钟4秒 ⏎ hive2doris_ads_isc_wip_shortage_order_current_op_a_h | 2026-10-13 11:50:11 | ISC数据消费 | 
+  [2026-10-14 01:51] (app/小D) <interactive> del=False :: <card> ⏎ @蔺雨桐(ou_271c27ad206c31bf2b533474db2d9ef5)  @石峰(ou_b65f0fe76c977aeb934b207a067ac8d5) ⏎  ⏎ 请大家关注一下等待时间哈，如已处理请忽略~ ⏎ </card>
+  [2026-10-14 02:51] (app/小D) <interactive> del=False :: <card> ⏎ **总共有 30 个任务等待时间超过20分钟(数据来源：10.32.223.141)** ⏎  ⏎ **任务名** | **提交时间** | **项目空间** | **负责人** | **等待时间** ⏎ dws_isc_wip_shortage_order_pass_match_a_h | 2026-10-13 11:45:10 | ISC数据消费 | **蔺雨桐** | 0天23小时5分钟55秒 ⏎ ads_isc_wip_shortage_order_current_op_a_h | 2026-10-13 11:48:01 | ISC数据消费 | **蔺雨桐** | 0天23小时3分钟4秒 ⏎ hive2doris_ads_isc_wip_shortage_order_current_op_a_h | 2026-10-13 11:50:11 | ISC数据消费 | 
+  [2026-10-14 02:51] (app/小D) <interactive> del=False :: <card> ⏎ @蔺雨桐(ou_271c27ad206c31bf2b533474db2d9ef5) ⏎  ⏎ 请大家关注一下等待时间哈，如已处理请忽略~ ⏎ </card>
+  [2026-10-14 03:51] (app/小D) <interactive> del=False :: <card> ⏎ **总共有 22 个任务等待时间超过20分钟(数据来源：10.32.223.141)** ⏎  ⏎ **任务名** | **提交时间** | **项目空间** | **负责人** | **等待时间** ⏎ dws_isc_wip_shortage_order_pass_match_a_h | 2026-10-13 11:45:10 | ISC数据消费 | **蔺雨桐** | 1天0小时5分钟55秒 ⏎ ads_isc_wip_shortage_order_current_op_a_h | 2026-10-13 11:48:01 | ISC数据消费 | **蔺雨桐** | 1天0小时3分钟4秒 ⏎ hive2doris_ads_isc_wip_shortage_order_current_op_a_h | 2026-10-13 11:50:11 | ISC数据消费 | **
+  [2026-10-14 03:51] (app/小D) <interactive> del=False :: <card> ⏎ @蔺雨桐(ou_271c27ad206c31bf2b533474db2d9ef5) ⏎  ⏎ 请大家关注一下等待时间哈，如已处理请忽略~ ⏎ </card>
+  [2026-10-14 04:51] (app/小D) <interactive> del=False :: <card> ⏎ **总共有 51 个任务等待时间超过20分钟(数据来源：10.32.223.141)** ⏎  ⏎ **任务名** | **提交时间** | **项目空间** | **负责人** | **等待时间** ⏎ dws_isc_wip_shortage_order_pass_match_a_h | 2026-10-13 11:45:10 | ISC数据消费 | **蔺雨桐** | 1天1小时5分钟55秒 ⏎ ads_isc_wip_shortage_order_current_op_a_h | 2026-10-13 11:48:01 | ISC数据消费 | **蔺雨桐** | 1天1小时3分钟4秒 ⏎ hive2doris_ads_isc_wip_shortage_order_current_op_a_h | 2026-10-13 11:50:11 | ISC数据消费 | **
+  [2026-10-14 04:51] (app/小D) <interactive> del=False :: <card> ⏎ @蔺雨桐(ou_271c27ad206c31bf2b533474db2d9ef5) ⏎  ⏎ 请大家关注一下等待时间哈，如已处理请忽略~ ⏎ </card>
+  [2026-10-14 04:51] (app/小D) <interactive> del=False :: <card> ⏎ ### 🚨 任务失败告警 ⏎ 总共有 **1** 个任务失败(数据来源: 10.32.223.141) ⏎ **任务名** | **结束时间** | **项目空间** | **负责人** | **已过去时长** ⏎  ⏎ ODS_WMS_WMS_STOCK2_DETAIL_I_D | 2026-10-14 12:01:09 | 默认项目 | 姚远 | 0天0小时50分钟 ⏎ </card>
+  [2026-10-14 04:51] (app/小D) <interactive> del=False :: <card> ⏎  ⏎ 有任务最终失败，请大家关注一下~ ⏎ </card>
+  [2026-10-14 05:51] (app/小D) <interactive> del=False :: <card> ⏎ **总共有 79 个任务等待时间超过20分钟(数据来源：10.32.223.141)** ⏎  ⏎ **任务名** | **提交时间** | **项目空间** | **负责人** | **等待时间** ⏎ dws_isc_wip_shortage_order_pass_match_a_h | 2026-10-13 11:45:10 | ISC数据消费 | **蔺雨桐** | 1天2小时5分钟55秒 ⏎ ads_isc_wip_shortage_order_current_op_a_h | 2026-10-13 11:48:01 | ISC数据消费 | **蔺雨桐** | 1天2小时3分钟4秒 ⏎ hive2doris_ads_isc_wip_shortage_order_current_op_a_h | 2026-10-13 11:50:11 | ISC数据消费 | **
+  [2026-10-14 05:51] (app/小D) <interactive> del=False :: <card> ⏎ @蔺雨桐(ou_271c27ad206c31bf2b533474db2d9ef5)  @孙奥迪(ou_6d7296505aad11152c1fa679a46346d1)  @石峰(ou_b65f0fe76c977aeb934b207a067ac8d5) ⏎  ⏎ 请大家关注一下等待时间哈，如已处理请忽略~ ⏎ </card>
+  [2026-10-14 05:51] (app/小D) <interactive> del=False :: <card> ⏎ ### 🚨 任务失败告警 ⏎ 总共有 **1** 个任务失败(数据来源: 10.32.223.141) ⏎ **任务名** | **结束时间** | **项目空间** | **负责人** | **已过去时长** ⏎  ⏎ ods_ltc_eu_t_biddoc_decision_result_a_h | 2026-10-14 13:03:45 | ODS项目空间 | 陈义鹏 | 0天0小时47分钟 ⏎ </card>
+  [2026-10-14 05:51] (app/小D) <interactive> del=False :: <card> ⏎ @陈义鹏(ou_f8ef88c5327a4e0063b4157201c2e9af) ⏎  ⏎ 有任务最终失败，请大家关注一下~ ⏎ </card>
+  [2026-10-14 06:51] (app/小D) <interactive> del=False :: <card> ⏎ **总共有 85 个任务等待时间超过20分钟(数据来源：10.32.223.141)** ⏎  ⏎ **任务名** | **提交时间** | **项目空间** | **负责人** | **等待时间** ⏎ dws_isc_wip_shortage_order_pass_match_a_h | 2026-10-13 11:45:10 | ISC数据消费 | **蔺雨桐** | 1天3小时5分钟55秒 ⏎ ads_isc_wip_shortage_order_current_op_a_h | 2026-10-13 11:48:01 | ISC数据消费 | **蔺雨桐** | 1天3小时3分钟4秒 ⏎ hive2doris_ads_isc_wip_shortage_order_current_op_a_h | 2026-10-13 11:50:11 | ISC数据消费 | **
+  [2026-10-14 06:51] (app/小D) <interactive> del=False :: <card> ⏎ @蔺雨桐(ou_271c27ad206c31bf2b533474db2d9ef5) ⏎  ⏎ 请大家关注一下等待时间哈，如已处理请忽略~ ⏎ </card>
+  [2026-10-14 07:51] (app/小D) <interactive> del=False :: <card> ⏎ **总共有 102 个任务等待时间超过20分钟(数据来源：10.32.223.141)** ⏎  ⏎ **任务名** | **提交时间** | **项目空间** | **负责人** | **等待时间** ⏎ dws_isc_wip_shortage_order_pass_match_a_h | 2026-10-13 11:45:10 | ISC数据消费 | **蔺雨桐** | 1天4小时5分钟55秒 ⏎ ads_isc_wip_shortage_order_current_op_a_h | 2026-10-13 11:48:01 | ISC数据消费 | **蔺雨桐** | 1天4小时3分钟4秒 ⏎ hive2doris_ads_isc_wip_shortage_order_current_op_a_h | 2026-10-13 11:50:11 | ISC数据消费 | *
+  [2026-10-14 07:51] (app/小D) <interactive> del=False :: <card> ⏎ @蔺雨桐(ou_271c27ad206c31bf2b533474db2d9ef5)  @杨润东(ou_e7fccc3af163cd1e5b59c4241cb9b574) ⏎  ⏎ 请大家关注一下等待时间哈，如已处理请忽略~ ⏎ </card>
+  [2026-10-14 08:51] (app/小D) <interactive> del=False :: <card> ⏎ **总共有 74 个任务等待时间超过20分钟(数据来源：10.32.223.141)** ⏎  ⏎ **任务名** | **提交时间** | **项目空间** | **负责人** | **等待时间** ⏎ dws_isc_wip_shortage_order_pass_match_a_h | 2026-10-13 11:45:10 | ISC数据消费 | **蔺雨桐** | 1天5小时5分钟55秒 ⏎ ads_isc_wip_shortage_order_current_op_a_h | 2026-10-13 11:48:01 | ISC数据消费 | **蔺雨桐** | 1天5小时3分钟4秒 ⏎ hive2doris_ads_isc_wip_shortage_order_current_op_a_h | 2026-10-13 11:50:11 | ISC数据消费 | **
+  [2026-10-14 08:51] (app/小D) <interactive> del=False :: <card> ⏎ @蔺雨桐(ou_271c27ad206c31bf2b533474db2d9ef5)  @魏子昂(ou_b4a1f0e97abe80442e2bbec3f8df021e)  @孙奥迪(ou_6d7296505aad11152c1fa679a46346d1)  @穆潇(ou_c1a8a63bf361f1163e28cdf9dc77b49e) ⏎  ⏎ 请大家关注一下等待时间哈，如已处理请忽略~ ⏎ </card>
+  [2026-10-14 09:51] (app/小D) <interactive> del=False :: <card> ⏎ **总共有 87 个任务等待时间超过20分钟(数据来源：10.32.223.141)** ⏎  ⏎ **任务名** | **提交时间** | **项目空间** | **负责人** | **等待时间** ⏎ dws_isc_wip_shortage_order_pass_match_a_h | 2026-10-13 11:45:10 | ISC数据消费 | **蔺雨桐** | 1天6小时5分钟55秒 ⏎ ads_isc_wip_shortage_order_current_op_a_h | 2026-10-13 11:48:01 | ISC数据消费 | **蔺雨桐** | 1天6小时3分钟4秒 ⏎ hive2doris_ads_isc_wip_shortage_order_current_op_a_h | 2026-10-13 11:50:11 | ISC数据消费 | **
+  [2026-10-14 09:51] (app/小D) <interactive> del=False :: <card> ⏎ @蔺雨桐(ou_271c27ad206c31bf2b533474db2d9ef5)  @石峰(ou_b65f0fe76c977aeb934b207a067ac8d5)  @杨润东(ou_e7fccc3af163cd1e5b59c4241cb9b574) ⏎  ⏎ 请大家关注一下等待时间哈，如已处理请忽略~ ⏎ </card>
+  [2026-10-14 10:51] (app/小D) <interactive> del=False :: <card> ⏎ **总共有 26 个任务等待时间超过20分钟(数据来源：10.32.223.141)** ⏎  ⏎ **任务名** | **提交时间** | **项目空间** | **负责人** | **等待时间** ⏎ dws_isc_wip_shortage_order_pass_match_a_h | 2026-10-13 11:45:10 | ISC数据消费 | **蔺雨桐** | 1天7小时5分钟54秒 ⏎ ads_isc_wip_shortage_order_current_op_a_h | 2026-10-13 11:48:01 | ISC数据消费 | **蔺雨桐** | 1天7小时3分钟3秒 ⏎ hive2doris_ads_isc_wip_shortage_order_current_op_a_h | 2026-10-13 11:50:11 | ISC数据消费 | **
+  [2026-10-14 10:51] (app/小D) <interactive> del=False :: <card> ⏎ @蔺雨桐(ou_271c27ad206c31bf2b533474db2d9ef5)  @石峰(ou_b65f0fe76c977aeb934b207a067ac8d5)  @蒋龙宁(ou_cb766662eb7e3337e81425c121d8b990)  @杨润东(ou_e7fccc3af163cd1e5b59c4241cb9b574) ⏎  ⏎ 请大家关注一下等待时间哈，如已处理请忽略~ ⏎ </card>
+  [2026-10-14 11:51] (app/小D) <interactive> del=False :: <card> ⏎ **总共有 106 个任务等待时间超过20分钟(数据来源：10.32.223.141)** ⏎  ⏎ **任务名** | **提交时间** | **项目空间** | **负责人** | **等待时间** ⏎ dws_isc_wip_shortage_order_pass_match_a_h | 2026-10-13 11:45:10 | ISC数据消费 | **蔺雨桐** | 1天8小时5分钟55秒 ⏎ ads_isc_wip_shortage_order_current_op_a_h | 2026-10-13 11:48:01 | ISC数据消费 | **蔺雨桐** | 1天8小时3分钟4秒 ⏎ hive2doris_ads_isc_wip_shortage_order_current_op_a_h | 2026-10-13 11:50:11 | ISC数据消费 | *
+  [2026-10-14 11:51] (app/小D) <interactive> del=False :: <card> ⏎ @蔺雨桐(ou_271c27ad206c31bf2b533474db2d9ef5)  @石峰(ou_b65f0fe76c977aeb934b207a067ac8d5)  @蒋龙宁(ou_cb766662eb7e3337e81425c121d8b990) ⏎  ⏎ 请大家关注一下等待时间哈，如已处理请忽略~ ⏎ </card>
+  [2026-10-14 11:51] (app/小D) <interactive> del=False :: <card> ⏎ ### 🚨 任务失败告警 ⏎ 总共有 **1** 个任务失败(数据来源: 10.32.223.141) ⏎ **任务名** | **结束时间** | **项目空间** | **负责人** | **已过去时长** ⏎  ⏎ ods_erp_msc_exception_details_v_a_h | 2026-10-14 19:12:03 | ISC_ODS项目空间 | 袁清华 | 0天0小时39分钟 ⏎ </card>
+  [2026-10-14 11:51] (app/小D) <interactive> del=False :: <card> ⏎  ⏎ 有任务最终失败，请大家关注一下~ ⏎ </card>
+  [2026-10-14 12:51] (app/小D) <interactive> del=False :: <card> ⏎ **总共有 28 个任务等待时间超过20分钟(数据来源：10.32.223.141)** ⏎  ⏎ **任务名** | **提交时间** | **项目空间** | **负责人** | **等待时间** ⏎ dws_isc_wip_shortage_order_pass_match_a_h | 2026-10-13 11:45:10 | ISC数据消费 | **蔺雨桐** | 1天9小时5分钟54秒 ⏎ ads_isc_wip_shortage_order_current_op_a_h | 2026-10-13 11:48:01 | ISC数据消费 | **蔺雨桐** | 1天9小时3分钟3秒 ⏎ hive2doris_ads_isc_wip_shortage_order_current_op_a_h | 2026-10-13 11:50:11 | ISC数据消费 | **
+  [2026-10-14 12:51] (app/小D) <interactive> del=False :: <card> ⏎ @蔺雨桐(ou_271c27ad206c31bf2b533474db2d9ef5)  @石峰(ou_b65f0fe76c977aeb934b207a067ac8d5)  @蒋龙宁(ou_cb766662eb7e3337e81425c121d8b990)  @杨润东(ou_e7fccc3af163cd1e5b59c4241cb9b574) ⏎  ⏎ 请大家关注一下等待时间哈，如已处理请忽略~ ⏎ </card>
+  [2026-10-14 12:51] (app/小D) <interactive> del=False :: <card> ⏎ ### 🚨 任务失败告警 ⏎ 总共有 **2** 个任务失败(数据来源: 10.32.223.141) ⏎ **任务名** | **结束时间** | **项目空间** | **负责人** | **已过去时长** ⏎  ⏎ 产品状态为空 | 2026-10-14 20:02:30 | ISC数据治理 | 黄新明 | 0天0小时48分钟 ⏎ 采购件计划属性 | 2026-10-14 20:02:30 | ISC数据治理 | 黄新明 | 0天0小时48分钟 ⏎ </card>
+  [2026-10-14 12:51] (app/小D) <interactive> del=False :: <card> ⏎  ⏎ 有任务最终失败，请大家关注一下~ ⏎ </card>
+  [2026-10-14 13:51] (app/小D) <interactive> del=False :: <card> ⏎ **总共有 20 个任务等待时间超过20分钟(数据来源：10.32.223.141)** ⏎  ⏎ **任务名** | **提交时间** | **项目空间** | **负责人** | **等待时间** ⏎ dws_isc_wip_shortage_order_pass_match_a_h | 2026-10-13 11:45:10 | ISC数据消费 | **蔺雨桐** | 1天10小时5分钟55秒 ⏎ ads_isc_wip_shortage_order_current_op_a_h | 2026-10-13 11:48:01 | ISC数据消费 | **蔺雨桐** | 1天10小时3分钟4秒 ⏎ hive2doris_ads_isc_wip_shortage_order_current_op_a_h | 2026-10-13 11:50:11 | ISC数据消费 | 
+  [2026-10-14 13:51] (app/小D) <interactive> del=False :: <card> ⏎ @蔺雨桐(ou_271c27ad206c31bf2b533474db2d9ef5)  @石峰(ou_b65f0fe76c977aeb934b207a067ac8d5)  @蒋龙宁(ou_cb766662eb7e3337e81425c121d8b990)  @杨润东(ou_e7fccc3af163cd1e5b59c4241cb9b574) ⏎  ⏎ 请大家关注一下等待时间哈，如已处理请忽略~ ⏎ </card>
+  [2026-10-14 14:51] (app/小D) <interactive> del=False :: <card> ⏎ **总共有 30 个任务等待时间超过20分钟(数据来源：10.32.223.141)** ⏎  ⏎ **任务名** | **提交时间** | **项目空间** | **负责人** | **等待时间** ⏎ dws_isc_wip_shortage_order_pass_match_a_h | 2026-10-13 11:45:10 | ISC数据消费 | **蔺雨桐** | 1天11小时5分钟54秒 ⏎ ads_isc_wip_shortage_order_current_op_a_h | 2026-10-13 11:48:01 | ISC数据消费 | **蔺雨桐** | 1天11小时3分钟3秒 ⏎ hive2doris_ads_isc_wip_shortage_order_current_op_a_h | 2026-10-13 11:50:11 | ISC数据消费 | 
+  [2026-10-14 14:51] (app/小D) <interactive> del=False :: <card> ⏎ @蔺雨桐(ou_271c27ad206c31bf2b533474db2d9ef5)  @石峰(ou_b65f0fe76c977aeb934b207a067ac8d5)  @蒋龙宁(ou_cb766662eb7e3337e81425c121d8b990)  @杨润东(ou_e7fccc3af163cd1e5b59c4241cb9b574) ⏎  ⏎ 请大家关注一下等待时间哈，如已处理请忽略~ ⏎ </card>
+  [2026-10-14 15:51] (app/小D) <interactive> del=False :: <card> ⏎ **总共有 27 个任务等待时间超过20分钟(数据来源：10.32.223.141)** ⏎  ⏎ **任务名** | **提交时间** | **项目空间** | **负责人** | **等待时间** ⏎ dws_isc_wip_shortage_order_pass_match_a_h | 2026-10-13 11:45:10 | ISC数据消费 | **蔺雨桐** | 1天12小时5分钟55秒 ⏎ ads_isc_wip_shortage_order_current_op_a_h | 2026-10-13 11:48:01 | ISC数据消费 | **蔺雨桐** | 1天12小时3分钟4秒 ⏎ hive2doris_ads_isc_wip_shortage_order_current_op_a_h | 2026-10-13 11:50:11 | ISC数据消费 | 
+  [2026-10-14 15:51] (app/小D) <interactive> del=False :: <card> ⏎ @蔺雨桐(ou_271c27ad206c31bf2b533474db2d9ef5)  @石峰(ou_b65f0fe76c977aeb934b207a067ac8d5)  @蒋龙宁(ou_cb766662eb7e3337e81425c121d8b990)  @杨润东(ou_e7fccc3af163cd1e5b59c4241cb9b574) ⏎  ⏎ 请大家关注一下等待时间哈，如已处理请忽略~ ⏎ </card>
+====================================================================================================
+CHAT: 熊暾 | p2p | oc_63b1c8a4b6e577ab7f035076cbd6b420 | 54 msgs
+  [2026-10-14 02:26] (user/牛振东) <text> del=False :: 熊工，这个ERR_TIMED_OUT，啥原因[捂脸]
+  [2026-10-14 02:27] (user/熊暾) <text> del=False :: 我这边防火墙问题，稍等
+  [2026-10-14 02:27] (user/牛振东) <text> del=False :: 好嘞[赞]
+  [2026-10-14 02:37] (user/熊暾) <text> del=False :: lkweb://local/errorpage?errorCode=-7&errorDesc=ERR_TIMED_OUT&showDetectBtn=0&businessType=larkweb&failedUrl=http%3A%2F%2Fhvrd.inovance.com%3A5173%2Flogin
+  [2026-10-14 02:37] (user/熊暾) <text> del=False :: 我在外网用浏览器试了，可以了，我是外网做了https
+  [2026-10-14 02:37] (user/熊暾) <text> del=False :: 你飞书打开，是不是有做固定的http而不是https
+  [2026-10-14 02:38] (user/牛振东) <text> del=False :: http://hvrd.inovance.com/
+  [2026-10-14 02:38] (user/牛振东) <text> del=False :: 改成https吗
+  [2026-10-14 02:39] (user/熊暾) <text> del=False :: 对，你程序不用做更改，但是外网，你飞书开发者中心，首页要改为https
+  [2026-10-14 02:40] (user/熊暾) <text> del=False :: 你外网用浏览器试试
+  [2026-10-14 02:41] (user/牛振东) <text> del=False :: 浏览器可以，https
+  [2026-10-14 02:43] (user/熊暾) <text> del=False :: 那你先不改，我来改一下看看
+  [2026-10-14 02:43] (user/牛振东) <text> del=False :: 那太好了，你那能重定向也行
+  [2026-10-14 02:43] (user/熊暾) <text> del=False :: 你再试试
+  [2026-10-14 02:43] (user/牛振东) <text> del=False :: 我这改飞书应用，要请覃老师审批
+  [2026-10-14 02:44] (user/熊暾) <text> del=False :: 我改了，你再试试，我看还是不行
+  [2026-10-14 02:45] (user/熊暾) <text> del=False :: 估计得覃群批
+  [2026-10-14 02:45] (user/牛振东) <text> del=False :: 是的，飞书里不行
+  [2026-10-14 02:45] (user/牛振东) <text> del=False :: 我提交个版本吧
+  [2026-10-14 02:52] (user/牛振东) <text> del=False :: 可以了，感谢熊工
+  [2026-10-14 02:53] (user/熊暾) <text> del=False :: 那稍等下，我还有个配置要修改
+  [2026-10-14 02:53] (user/熊暾) <text> del=False :: 我咋还打不开
+  [2026-10-14 02:54] (user/牛振东) <post> del=False :: PC端打不开了， ⏎ ![Image](img_v3_0216f_19d82879-d229-48c6-a6b1-117f4ae6720g)
+  [2026-10-14 02:55] (user/熊暾) <text> del=False :: pc端首页改了吗
+  [2026-10-14 02:55] (user/牛振东) <post> del=False :: 改了， ⏎ ![Image](img_v3_0216f_baa668be-4fba-4869-96f6-ef0dd090039g)
+  [2026-10-14 02:55] (user/熊暾) <text> del=False :: 我知道了，你内网 没有https
+  [2026-10-14 02:55] (user/熊暾) <text> del=False :: 等下
+  [2026-10-14 02:56] (user/牛振东) <text> del=False :: 啊，PC端改成http吗
+  [2026-10-14 02:58] (user/熊暾) <text> del=False :: pc端改为http吧
+  [2026-10-14 02:58] (user/熊暾) <text> del=False :: 不用改
+  [2026-10-14 02:58] (user/熊暾) <text> del=False :: 等下
+  [2026-10-14 02:58] (user/熊暾) <text> del=False :: 我给你改
+  [2026-10-14 02:58] (user/熊暾) <text> del=False :: 你再试试
+  [2026-10-14 03:00] (user/牛振东) <text> del=False :: 不行，访问不了
+  [2026-10-14 03:00] (user/熊暾) <text> del=False :: 我这边可以了，等几分钟吧
+  [2026-10-14 03:00] (user/牛振东) <image> del=False :: [Image: img_v3_0216f_4fd8c1ed-1929-485a-9454-e8a9b9dffe5g]
+  [2026-10-14 03:01] (user/熊暾) <text> del=False :: 这个先等等，实在不行再改pc端首页
+  [2026-10-14 03:02] (user/牛振东) <text> del=False :: 改PC端首页会带来，在内网没问题，在外网访问不了
+  [2026-10-14 03:03] (user/熊暾) <text> del=False :: 外网带公司电脑也没问题
+  [2026-10-14 03:03] (user/熊暾) <text> del=False :: 安全助手会引导过去
+  [2026-10-14 03:03] (user/牛振东) <text> del=False :: 也对，有安全助手
+  [2026-10-14 03:05] (user/牛振东) <text> del=False :: PC还是打不开，我去改下吧
+  [2026-10-14 03:06] (user/熊暾) <text> del=False :: 你pc端用浏览器  https看看
+  [2026-10-14 03:06] (user/熊暾) <text> del=False :: 能否打开
+  [2026-10-14 03:07] (user/熊暾) <text> del=False :: 不用飞书工作台
+  [2026-10-14 03:07] (user/牛振东) <text> del=False :: 打不开
+  [2026-10-14 03:07] (user/熊暾) <text> del=False :: 安全助手，点诊断修复，一键重置看看
+  [2026-10-14 03:13] (user/牛振东) <text> del=False :: 可以了，看来网络缓存问题
+  [2026-10-14 03:13] (user/牛振东) <sticker> del=False :: [Sticker]
+  [2026-10-14 03:14] (user/熊暾) <text> del=False :: 外网内网都测试下，跑一跑，我还有一个配置没改，等你测试无异常我再改
+  [2026-10-14 03:17] (user/牛振东) <text> del=False :: 手机内外网，电脑内外网，都没问题
+  [2026-10-14 03:18] (user/熊暾) <text> del=False :: 好，下午我再改一下，在和你说，验证下
+  [2026-10-14 03:19] (user/牛振东) <text> del=False :: 好嘞 [啤酒]
+  [2026-10-14 05:34] (user/熊暾) <text> del=False :: 下午再验证下手机端
+====================================================================================================
+CHAT: 任务令异常订单影响分析Agent沟通群 | group | oc_81d4242ac0d1f01115a616d1be0bf5c1 | 44 msgs
+  [2026-10-14 01:22] (user/马海峰) <merge_forward> del=False :: <forwarded_messages> ⏎ [2026-10-14T01:10:30Z] 马海峰: ⏎     小岸，有个事情，我们部门在搞一个基于任务令制造异常联合oms进行异常预警给订单统筹一个ai小项目 ⏎ [2026-10-14T01:11:21Z] 马海峰: ⏎     涉及到了oms数据库部分表查询或者视图的连接和查询 ⏎ [2026-10-14T01:11:38Z] 马海峰: ⏎     这个权限it维度允许吗 ⏎ [2026-10-14T01:20:21Z] 胡小岸: ⏎     允许 ⏎ [2026-10-14T01:20:37Z] 胡小岸: ⏎     这个我们现状也有一个 ⏎ [2026-10-14T01:20:42Z] 胡小岸: ⏎     组起来就好了 ⏎ [2026-10-14T01:21:07Z] 马海峰: ⏎     <p>那就是可以开个视图或者几个表查询
+  [2026-10-14 01:23] (user/马海峰) <text> del=False :: 初步沟通it侧没问题，等他来了当面再确认下
+  [2026-10-14 01:26] (user/牛振东) <text> del=False :: @姜志俊 Hi 志俊，看看济南ETO模式有哪些线体？
+  [2026-10-14 01:28] (user/姜志俊) <text> del=False :: 没明白，什么意思？
+  [2026-10-14 01:35] (user/牛振东) <text> del=False :: Andon异常对订单的影响，一期只做ETO的，我们要看看这些数据情况
+  [2026-10-14 01:44] (user/姜志俊) <text> del=False :: 没明白这个ETO跟线体的关系，你是想知道ETO模式是固定了哪些线体生产了？
+  [2026-10-14 01:46] (user/姜志俊) <text> del=False :: 只是针对整机是吧？大传动的整机？@牛振东
+  [2026-10-14 01:49] (user/牛振东) <text> del=False :: @姜志俊 是的，哪些线体是ETO模式？
+  [2026-10-14 01:51] (user/姜志俊) <text> del=False :: 工程传动还不管是吗？只是大传动的整机线体？
+  [2026-10-14 01:57] (user/何荣福) <text> del=False :: @沈霜 烦请把需要我做的事情列表，发给我一下，我来take action
+  [2026-10-14 01:57] (user/何荣福) <text> del=False :: 谢谢！
+  [2026-10-14 02:04] (user/沈霜) <text> del=False :: @何荣福 正在整理，稍后把待办发群里
+  [2026-10-14 02:07] (user/刘宏宇) <text> del=False :: @姜志俊 志俊都包含吧，就是ETO模式的订单会涉及到哪些线体，这些统计一下
+  [2026-10-14 02:07] (user/姜志俊) <post> del=False :: @刘宏宇 我看了之前的文档，济南的整机只有ETO的模式，你筛选一下整机线体就行了。 ⏎ ![Image](img_v3_0216f_6c6dddbc-fe52-41df-b8a1-70e774a32bag)
+  [2026-10-14 02:28] (user/马海峰) <text> del=False :: @刘宏宇 刚刚找小岸确定了，连数据库可以的
+  [2026-10-14 02:35] (user/牛振东) <text> del=False :: @马海峰 感谢马老师推动，看是直接授权需要的表，还是建视图？
+  [2026-10-14 02:37] (user/马海峰) <text> del=False :: 这个得等晚点评估
+  [2026-10-14 02:38] (user/马海峰) <merge_forward> del=False :: <forwarded_messages> ⏎ [2026-10-14T02:21:59Z] 马海峰: ⏎     <p>@雷旭 </p><p>一、履行订单 </p><p>1、履行订单头信息： </p><p>履行订单编号、履行订单类型、履行订单节点、订单统筹、产品统筹、履行中心名称、交易主体、客户名称 </p><p>2、履行订单行信息： </p><p>2.1、履行订单行号、物料编码 </p><p>2.2、履行订单行信息-三线信息： </p><p>需求线（非必须）：自制上线日期、入库日期、发货日期、到货日期 </p><p>承诺线：自制上线日期、入库日期、发货日期、到货日期 </p><p>二、到货需求信息 ：</p><p>到货需求单号、到货需求类型、项目编码、项目名称、商务人员信息、销售员姓名</p><p>三、供需日志</p><p>履行订单行号、任务令号、创建时间</p><p></p><p>查询
+  [2026-10-14 02:44] (user/沈霜) <post> del=False :: <at user_id="all"></at> 以下是今日项目站会待办事项，请各位按时推进完成，@马海峰 @何荣福 @刘宏宇 @沈霜  ⏎ ![Image](img_v3_0216f_215d97b6-286d-4cdd-862b-435108d4906g) ⏎ [https://inovance.feishu.cn/wiki/Gz7IwFefriI6oRk17qEcg0tinyf?table=tblOXVbqUAk33uPB&view=vewuxmopxb](https://inovance.feishu.cn/wiki/Gz7IwFefriI6oRk17qEcg0tinyf?table=tblOXVbqUAk33uPB&view=vewuxmopxb)
+  [2026-10-14 02:59] (user/何荣福) <text> del=False :: 收到
+  [2026-10-14 06:22] (user/何荣福) <post> del=False :: 大家好！关于上午说的3点需要澄清的内容，杨威的回答如下： ⏎ ![Image](img_v3_0216f_8d4c1256-5b35-4317-8663-043c10cbb99g) ⏎ 杨威说： ⏎ 1、按产品线隔离和控制即可，人员按照各产品线对应的订单统筹配置即可，且订单统筹的处长和经理也需要有查询的功能，届时配置时我可以提供一份配置人员清单 ⏎ 2、一般主要且大部分场景是供应链内部的，且原则上异常优先是要在供应链内部解决，达成客户订单需求。人员有订单统筹、生产计划、制造、质量、设计、采购，有些是固定的，有些是变化的（部分人员是跟随工单上的编码、机型变化），这些也是可以做人员配置的，同时可以结合第3点的异常等级确认是否需要拉以上人员的主管及外部供应链的销售、商务 ⏎ 3、首先需要定义异常的分层分类并且归纳，如果是从订单统筹的视角来看，第一要素就是RSD&CSD，如果单纯从上面2个异常的字
+  [2026-10-14 06:25] (user/何荣福) <text> del=False :: @刘宏宇 @牛振东 看看这个回答是否清晰？如果需要，可以直接问杨工...开完会我再更新一下业务方案...
+  [2026-10-14 08:57] (user/沈霜) <text> del=False :: @何荣福 @刘宏宇 @牛振东 何老师，宏宇、振东，业务解决方案你们先内部对齐一下吧，我跟何工还在海外数字化项目组，暂时抽不开
+  [2026-10-14 09:16] (user/何荣福) <text> del=False :: @沈霜 振东已经看过了3.1版 - 除了一些小的topo错误等，没有啥问题。然后我已经修改了那些错误，形成3.2版。但是我没有权限发在这个群里
+  [2026-10-14 09:17] (user/何荣福) <text> del=False :: 关于杨威提出的澄清的问题。我会继续补充到业务方案中
+  [2026-10-14 09:24] (user/何荣福) <text> del=False :: @马海峰 海峰，那个今天要给出的E-R图，你给宏宇和振东了么？
+  [2026-10-14 11:04] (user/马海峰) <text> del=False :: 还在加班搞哦 一堆事情
+  [2026-10-14 11:04] (user/马海峰) <text> del=False :: <p>请给我些时间 好不，各位老板</p>
+  [2026-10-14 11:04] (user/刘宏宇) <text> del=False :: 马老师加油
+  [2026-10-14 11:04] (user/刘宏宇) <text> del=False :: [看]
+  [2026-10-14 11:05] (user/马海峰) <text> del=False :: 牛马的人生
+  [2026-10-14 11:05] (user/何荣福) <text> del=False :: 辛苦辛苦！明天请你咖啡！[呲牙]
+  [2026-10-14 11:05] (user/马海峰) <text> del=False :: 我看不到数据库，在等老师空了
+  [2026-10-14 11:06] (user/马海峰) <text> del=False :: 等下搞好发你，明天早上站会我不去了，九点约了老金又点事情
+  [2026-10-14 11:41] (user/马海峰) <text> del=False :: @刘宏宇 ER图画不出来 搞不懂关联关系 后面要入湖再说吧，几个表知道了 sql啥意思也摸清楚了
+  [2026-10-14 11:41] (user/马海峰) <text> del=False :: 不卷了
+  [2026-10-14 11:41] (user/马海峰) <text> del=True :: [Invalid text JSON]
+  [2026-10-14 11:55] (user/马海峰) <text> del=False :: SELECT * FROM ( ⏎ SELECT  ⏎ h.orm_no AS '履行订单号', ⏎ m.dict_item_name AS '履行订单类型', ⏎ h.orm_status AS '履行订单节点', ⏎ me.employee_name AS '订单统筹', ⏎ me2.employee_name AS '产品统筹', ⏎ mo.org_name AS '履行中心', ⏎ mo2.org_name AS '交易主体', ⏎ mc.customer_name AS '客户名称', ⏎ e.orm_line_no AS '履行订单行号', ⏎ mi.item_code AS '物料编码', ⏎ om.demand_date AS '需求自制上线日期', ⏎ e.rsd AS '需求发货日期', ⏎ e.crd AS '需求到货日期', ⏎ e.rpd AS '需求入库日期',
+  [2026-10-14 11:58] (user/马海峰) <image> del=True :: [Invalid image JSON]
+  [2026-10-14 11:58] (user/马海峰) <post> del=False :: ![Image](img_v3_0216f_dadcd1f7-6e40-468f-bb3f-515a192b8c9g) ⏎ 主要业务表是这几张 其他都是关联拿一些信息的
+  [2026-10-14 12:11] (user/刘宏宇) <text> del=False :: @牛振东 振东看下，需要的字段我看都有了
+  [2026-10-14 12:53] (user/马海峰) <text> del=False :: <p>具体拿表或视图兜可以，it侧对接人李波，可以找他，跟他打过招呼了</p>
+  [2026-10-14 12:59] (user/牛振东) <text> del=False :: @马海峰 明天我来拉通
+  [2026-10-14 13:00] (user/牛振东) <text> del=False :: 马老师，威武雄壮[得意]
+====================================================================================================
+CHAT: 刘宏宇 | p2p | oc_2010527f6676123b421de47f30d26bc4 | 40 msgs
+  [2026-10-14 02:08] (user/刘宏宇) <image> del=False :: [Image: img_v3_0216f_130e5145-ad13-4bda-b8d5-9aba0890f5cg]
+  [2026-10-14 02:08] (user/刘宏宇) <text> del=False :: [新月脸]
+  [2026-10-14 02:11] (user/刘宏宇) <image> del=False :: [Image: img_v3_0216f_a118cdfe-52cf-404f-8ff3-9cf194e7093g]
+  [2026-10-14 02:15] (user/牛振东) <text> del=False :: 他这范围大，采购、制造、质量检验、出库运输都会对订单交付有影响
+  [2026-10-14 02:15] (user/牛振东) <text> del=False :: 咱们只是制造异常
+  [2026-10-14 02:29] (user/刘宏宇) <text> del=False :: 我去趟医院
+  [2026-10-14 02:29] (user/牛振东) <text> del=False :: 嗯嗯
+  [2026-10-14 06:28] (user/刘宏宇) <text> del=False :: 我真是无语了，还有两周，非要整这么多功能
+  [2026-10-14 06:28] (user/牛振东) <text> del=False :: 讲不通
+  [2026-10-14 06:29] (user/刘宏宇) <text> del=False :: 都特么说了做简单点，让业务先有个感知就行
+  [2026-10-14 06:30] (user/牛振东) <text> del=False :: 业务方案剩下23页我看了，就是 ⏎ 消息推送、应用架构、项目迭代 ⏎  ⏎ 没其他问题，就一个数据库sqllite要改成mysql
+  [2026-10-14 06:30] (user/牛振东) <text> del=False :: 对，问清楚也行，放在后面吧
+  [2026-10-14 08:04] (user/牛振东) <text> del=False :: 报告解读，IFG就准备用本体实现
+  [2026-10-14 08:04] (user/牛振东) <text> del=False :: 这个AI我重点参与，学习下
+  [2026-10-14 08:11] (user/刘宏宇) <text> del=False :: 他们根因分析还有chatBI都要用本体来实现
+  [2026-10-14 08:13] (user/牛振东) <text> del=False :: 正好，可以多跟他们学习下
+  [2026-10-14 08:13] (user/牛振东) <text> del=False :: 我已经拉拢了一位女生[满月脸]
+  [2026-10-14 08:14] (user/刘宏宇) <text> del=False :: 啥
+  [2026-10-14 08:18] (user/牛振东) <text> del=False :: 套近乎[笑哭]找几个老师
+  [2026-10-14 08:18] (user/刘宏宇) <text> del=False :: 你在哪呢，找啥老师
+  [2026-10-14 08:19] (user/牛振东) <text> del=False :: AI方面的老师，不然我们都不知道咋学，藉这几个实际案例就懂了
+  [2026-10-14 08:19] (user/刘宏宇) <text> del=False :: 你不大保养去了吗
+  [2026-10-14 08:20] (user/刘宏宇) <text> del=False :: 还能找到AI的老师?
+  [2026-10-14 08:20] (user/牛振东) <text> del=False :: 嗯嗯，不是，南京的IFG的
+  [2026-10-14 09:02] (user/刘宏宇) <text> del=False :: 你人呢
+  [2026-10-14 09:02] (user/牛振东) <text> del=False :: 还没好[满月脸]
+  [2026-10-14 09:02] (user/牛振东) <text> del=False :: 不看了，我没有问题了
+  [2026-10-14 09:02] (user/牛振东) <text> del=False :: 数据库到时候代码换一下
+  [2026-10-14 09:06] (user/刘宏宇) <text> del=False :: 我也不想看
+  [2026-10-14 09:57] (user/刘宏宇) <text> del=False :: 你今天还来吗
+  [2026-10-14 09:58] (user/牛振东) <text> del=False :: 不去了，晚上有约吗[满月脸]
+  [2026-10-14 09:59] (user/刘宏宇) <text> del=False :: 约你干活你干不干
+  [2026-10-14 10:01] (user/牛振东) <text> del=False :: 干活不去
+  [2026-10-14 10:01] (user/牛振东) <text> del=False :: 其他可以考虑[思考]
+  [2026-10-14 10:01] (user/刘宏宇) <text> del=False :: 来大保健
+  [2026-10-14 10:02] (user/牛振东) <text> del=False :: [得意][得意]有什么内容
+  [2026-10-14 10:02] (user/刘宏宇) <text> del=False :: 车保养了，人也别拉下
+  [2026-10-14 10:03] (user/牛振东) <text> del=False :: 有道理，晚上去保养下[灵光一闪]
+  [2026-10-14 10:03] (user/刘宏宇) <text> del=False :: [看]
+  [2026-10-14 10:04] (user/牛振东) <sticker> del=False :: [Sticker]
+====================================================================================================
+CHAT: 数据应用高能小分队 | group | oc_9d84fb68e7e27bd3944a15327ab7cd19 | 25 msgs
+  [2026-10-14 03:35] (user/何洁) <text> del=False :: 南京工厂的SFM 穆潇和伟宇搞得定吗？
+  [2026-10-14 03:35] (user/何洁) <text> del=False :: @_all
+  [2026-10-14 03:35] (user/刘宏宇) <text> del=False :: 怎么又让我们这边做了
+  [2026-10-14 03:36] (user/何洁) <text> del=False :: 现在还没有让我们这边做
+  [2026-10-14 03:36] (user/何洁) <text> del=False :: 但是老万那边一直是渣男模式
+  [2026-10-14 03:36] (user/何洁) <text> del=False :: 很可能老板会让我们侧救火
+  [2026-10-14 03:37] (user/何洁) <text> del=False :: 所以想想，如果SFM过来了，这俩人能够搞得定吗？
+  [2026-10-14 03:37] (user/刘宏宇) <text> del=False :: 哎，他们在业务侧推不掉，就非得逼着我们承接
+  [2026-10-14 03:37] (user/刘宏宇) <text> del=False :: @何洁 难度应该不大
+  [2026-10-14 03:37] (user/刘宏宇) <text> del=False :: 前提是页面不改
+  [2026-10-14 03:37] (user/牛振东) <text> del=False :: @刘宏宇 新一版的格式，业务认可吗？
+  [2026-10-14 03:38] (user/刘宏宇) <text> del=False :: 不用新一版的
+  [2026-10-14 03:38] (user/何洁) <text> del=False :: @刘宏宇  这个问题先不用思考
+  [2026-10-14 03:38] (user/何洁) <text> del=False :: 就单从开发的角度看看，这俩人具备这个能力不？
+  [2026-10-14 03:38] (user/牛振东) <text> del=False :: 开发可以的
+  [2026-10-14 03:39] (user/何洁) <text> del=False :: 南京的SFM ，是老段提出来了，肯定是搞成最初帆软的那一版
+  [2026-10-14 03:39] (user/牛振东) <text> del=False :: 先找业务看看，别说我们整的啥也不是
+  [2026-10-14 03:39] (user/何洁) <text> del=False :: @刘宏宇
+  [2026-10-14 03:39] (user/何洁) <text> del=False :: 如果是整成最初帆软的那一版，我们这边搞得定吗？
+  [2026-10-14 03:39] (user/刘宏宇) <text> del=False :: 不行
+  [2026-10-14 03:39] (user/牛振东) <text> del=False :: 帆软那一版，有格式做不出来
+  [2026-10-14 03:40] (user/何洁) <text> del=False :: 帆软那一版，我感觉像个系统了
+  [2026-10-14 03:40] (user/何洁) <text> del=False :: 又交互
+  [2026-10-14 03:42] (user/何洁) <merge_forward> del=False :: <forwarded_messages> ⏎ [2026-10-14T02:49:25Z] 何洁: ⏎     @许聪 他手上就是些运维的工作 ⏎ [2026-10-14T02:49:52Z] 许聪: ⏎     @何洁 工作量饱和吗？他会datawing开发吗？ ⏎ [2026-10-14T02:49:57Z] 何洁: ⏎     顶开发顶不了，他和金星 ⏎ [2026-10-14T02:50:13Z] 许聪: ⏎     一点开发的工作都不会啊？ ⏎ [2026-10-14T02:50:28Z] 何洁: ⏎     @许聪 就只是前端吗？datawind 的前端？ ⏎ [2026-10-14T02:50:42Z] 许聪: ⏎     陶伟宇都在干。。。 ⏎ [2026-10-14T02:51:14Z] 何洁: ⏎     陶伟宇，我觉得后面的开发能力会比金星和穆潇强 ⏎ [2026-1
+  [2026-10-14 03:45] (user/刘宏宇) <text> del=False :: 之前雷工说就用datawind里那个把数据接上就行
+====================================================================================================
+CHAT: TRAE 用户交流群 1️⃣2️⃣｜官方 | group | oc_116045b976a58256400df3e6c4a57c1b | 17 msgs
+  [2026-10-14 01:18] (user/用户852152) <post> del=False :: ![Image](img_v3_0216f_7ffe1cc0-27fc-450a-907a-993edda6c3dg) ⏎ 这个办公助力，连接微信的使用场景是什么呀
+  [2026-10-14 02:17] (user/电商用户3025) <post> del=False :: [https://forum.trae.cn/t/topic/183859](https://forum.trae.cn/t/topic/183859)  ⏎ ![Image](img_v3_0216f_93f33b7b-e638-4e13-9ce5-c5ab369faa4g) ⏎ 看我如何一步步搭建出固件表盘
+  [2026-10-14 03:31] (user/冯梦龙) <post> del=False :: [🎉「本周社区之星」获奖公示——10月第二周 10.5-10.11](https://forum.trae.cn/t/topic/183977) ⏎ ![Image](img_v3_0216f_a4c245f8-a1f6-46dd-90da-225c870f2e2g)
+  [2026-10-14 03:36] (user/用户456741) <post> del=False :: 注意注意，这两个一折模型明天就不打折了 ⏎ ![Image](img_v3_0216f_4f0e1667-a14f-49bc-beeb-20cc33e1450g)
+  [2026-10-14 04:10] (user/吴于飞) <text> del=False :: 叮咚～周三午间好！签到入口已备好，100积分轻轻松松到手，点一下今日任务就完成啦，祝下午高效顺利！🎯 （由豆包发送）
+  [2026-10-14 05:00] (user/哈基宸) <text> del=False :: https://mp.weixin.qq.com/s/Bbz3rm9Bp9lDeWiU0lzJtA
+  [2026-10-14 06:12] (user/吴于飞) <text> del=False :: @_all 各位 TRAE 友好，想占用大家 3-5 分钟，帮我们填一份 TRAE 官方社区调研问卷。 ⏎ 这次主要想听听大家作为社区用户的真实反馈：平时会关注哪些社区内容？参与过哪些活动或交流？哪些服务对你有帮助？目前体验是否满意？愿不愿意推荐给朋友加入社区？以及最希望社区优先改进什么？ ⏎ 问卷里也会简单了解大家的 TRAE 使用场景，方便我们后续把社区内容、活动和服务做得更有针对性。 ⏎ 问卷截止至 10 月 19 日：https://bytedance.larkoffice.com/share/base/form/shrcnY1KpUpqOcOq5xX5TQzVtpf ⏎ 反馈仅用于产品和社区服务优化，个人信息会被妥善保护。感谢大家支持，也欢迎把真实想法写详细一点。
+  [2026-10-14 06:14] (-/-) <system> del=False :: {name} clipped content to top.
+  [2026-10-14 07:33] (user/王可) <post> del=False :: Trae怎么抽风了。。。。退出重开还是这样。 ⏎ [Media: file_v3_0016f_877304f6-ff61-416d-b5a7-f5a95cfe39ag]
+  [2026-10-14 07:38] (user/陈科帆 CHEN Kefan) <post> del=True :: [Invalid rich text JSON]
+  [2026-10-14 08:20] (user/用户257712) <text> del=False :: 积分的折扣优惠没有了吗？
+  [2026-10-14 08:21] (user/吴于飞) <text> del=False :: <p>@_all 各位小伙伴，TRAE 社区创作者计划正式招募啦！</p><p></p><p>如果你用 TRAE 做过项目、整理过实用教程，或愿意分享真实的使用经验，欢迎报名加入首批社区优质创作者。入选后可获得官方社区创作者身份、官方流量扶持及月度创作奖励等等，期待你的加入！</p><p></p><p>详情请见： https://forum.trae.cn/t/topic/184139</p><p>报名方式：https://bytedance.larkoffice.com/share/base/form/shrcnCceRp049fjKsNIXyfVw4kd</p>
+  [2026-10-14 08:21] (-/-) <system> del=False :: {name} clipped content to top.
+  [2026-10-14 08:53] (user/陆益彬) <text> del=False :: trae没有连续包年的购买方式？这样企业购买报销会比较麻烦。。。
+  [2026-10-14 10:33] (user/漫川) <post> del=False :: [https://mp.weixin.qq.com/s/GGsuxI6zw7yPqwPwPUQd6A](https://mp.weixin.qq.com/s/GGsuxI6zw7yPqwPwPUQd6A)  ⏎ TRAE 插件市场近期上线了 10 个新插件，覆盖开发工具、界面设计和效率提升三大类别。 ⏎ ![Image](img_v3_0216f_1f6858b0-4638-400d-a755-4c8eec46f54g)
+  [2026-10-14 14:27] (user/用户383617) <post> del=False :: ![Image](img_v3_0216f_651edbf8-f02b-45a2-9648-88e9f8022e4g) ⏎ 莫名其妙自动停止
+  [2026-10-14 14:54] (user/用户852152) <image> del=False :: [Image: img_v3_0216f_1241d498-b7c7-4822-9762-7e20339ab88g]
+====================================================================================================
+CHAT: InoAI知识社区 | group | oc_79af426fe8f195f1099fb204333f7285 | 16 msgs
+  [2026-10-14 00:50] (user/余梦圆) <post> del=False :: ![Image](img_v3_0216f_7d27b6cc-7a20-470c-8bbc-e2d4e4565c5g) ⏎ @InoAI 你的可用模型怎么刷成Qwen3.5了？之后Qwen3.7不可用了吗？
+  [2026-10-14 00:50] (app/InoAI) <interactive> del=False :: <card> ⏎ Let me first look at the uploaded image to understand what the user is asking about. ⏎  ⏎ 根据图片内容，你看到的是模型列表中显示为 `qwen3.5-122b-a10b`，你问为什么模型变成了 Qwen3.5，以及 Qwen3.7 是否不可用了。 ⏎  ⏎ 让我先搜索一下相关知识和资料来确认情况。根据我的搜索结果和知识库信息，我来为你解答这个问题。---## 关于模型版本更新的问题从你的截图可以看到，当前 InoClaw/InoAI 的可用模型列表中，已经换成了 **qwen3.5-122b-a10b**、**qwen3.5-27b** 等 Qwen3.5 系列模型，未再看到 Qwen3.7。### 为什么会变成 Qwen3.5？根据知识库中 InoClaw 的**更新日志**，在 
+  [2026-10-14 00:54] (user/李炎杰) <text> del=False :: @余梦圆 你这个有点问题 ⏎ @郭文庆 协助看下呢
+  [2026-10-14 00:56] (user/余梦圆) <text> del=False :: 好的，我去私聊郭工沟通
+  [2026-10-14 02:22] (user/刁健涛) <text> del=False :: @InoAI 外包账号可以申请使用inoclaw吗
+  [2026-10-14 02:22] (app/InoAI) <interactive> del=False :: <card> ⏎ 我先来查询一下知识库中关于外包账号使用InoClaw的相关信息。我在知识库中搜索了关于外包账号使用 InoClaw 的相关信息，但没有找到直接针对"外包账号"的明确说明。让我再搜索一下更具体的内容。我搜索了知识库中关于"外包账号能否申请使用InoClaw"的相关信息。根据目前已有的知识库内容，我需要进一步确认。 ⏎  ⏎ 让我再看看知识库中是否有更多关于账号申请资格的信息。 ⏎  ⏎ 根据我从知识库中检索到的信息，**知识库中没有明确找到关于"外包账号能否申请使用InoClaw"的直接说明文档**。不过，我可以根据现有信息给你一些参考：---### 关于外包账号使用 InoClaw 的建议目前从 InoClaw 的相关文档中，**没有明确限定只有正式员工才能使用**，但也没有明确说明外包账号是否被允许。基于以下几点建议： ⏎ 1. **账号登录方式**：InoClaw 支
+  [2026-10-14 05:57] (user/朱萸) <interactive> del=False :: <card title="Agentic RL：从“做题”到“跑环境、拿反馈、自我修正” "> ⏎ 🖼️ Image(img_key:img_v3_0216f_d45f598d-39cc-42d0-a51e-3c8d249d300g) ⏎ 💡Agentic RL 让模型在真实环境里试错、拿反馈、自我修正，不再只是生成标准答案。 ⏎ 🚀它的核心是把 LLM 从"猜下一个词"变成"在动态环境中做决策、最大化长期收益的策略"。 ⏎ [阅读全文](https://inovance.feishu.cn/wiki/Z73jwinQSiApoykFXNBcIkounJg) ⏎ </card>
+  [2026-10-14 06:49] (user/戈波) <image> del=False :: [Image: img_v3_0216f_c49a3169-dabb-4ccb-ae83-3e0f416e9b5g]
+  [2026-10-14 07:11] (user/雷嘉勋) <text> del=False :: @戈波 我给你看看
+  [2026-10-14 07:26] (user/孙涛) <post> del=True :: [Invalid rich text JSON]
+  [2026-10-14 07:26] (user/孙涛) <text> del=True :: [Invalid text JSON]
+  [2026-10-14 07:37] (user/杨晨晨) <post> del=False :: ![Image](img_v3_0216f_b9b80bd3-ec12-409a-9b7c-d0f4317c433g) ⏎ 卡着不动了，可以帮我看下是啥情况吗？
+  [2026-10-14 07:38] (user/雷嘉勋) <text> del=False :: 哪块卡住了
+  [2026-10-14 07:39] (user/杨晨晨) <text> del=False :: 左边页面无法输入内容也无法点击
+  [2026-10-14 11:47] (user/曹振林) <text> del=False :: 今天的智能会议纪要没有收到  [衰]
+  [2026-10-14 12:01] (user/范其楼) <text> del=False :: @徐翼 看一下
+====================================================================================================
+CHAT: 【生活】牛振东的生活助手群聊 | group | oc_1cae5a433f522ffc6bb4c5e74f388edf | 14 msgs
+  [2026-10-13 16:56] (app/牛振东的智能助手) <interactive> del=False :: <card title="🟠 橙色预警 · 10-14 00:56"> ⏎ **2026-10-14 00:56 触发 8 条预警** ⏎  ⏎ 🟠 **[sector]** 行业板块 元件 +4.77%（领涨：超声电子） ⏎ 🟠 **[sector]** 行业板块 其他数字媒体 +11.94%（领涨：风语筑） ⏎ 🟠 **[sector]** 行业板块 印制电路板 +6.08%（领涨：超声电子） ⏎ 🟠 **[sector]** 行业板块 地面兵装Ⅲ +4.54%（领涨：国科军工） ⏎ 🟠 **[sector]** 行业板块 电商服务 +4.22%（领涨：丽人丽妆） ⏎ 🟠 **[sector]** 行业板块 纺织化学制品 +5.43%（领涨：亚邦股份） ⏎ 🟠 **[sector]** 行业板块 航海装备Ⅲ +4.36%（领涨：江龙船艇） ⏎ 🟠 **[sector]** 行业板块 防
+  [2026-10-13 17:26] (app/牛振东的智能助手) <interactive> del=False :: <card title="🔴 红色预警 · 10-14 01:26"> ⏎ **2026-10-14 01:26 触发 1 条预警** ⏎  ⏎ 🔴 **[index]** 韩国KOSPI -5.46% 触发红色预警（±5%） ⏎  ⏎ **⚠️ 风险提示**：以上为规则触发的客观数据预警，请结合盘面独立判断。> 以上为公开行情数据的客观整理，不构成投资建议。股市有风险，投资需谨慎。数据来源：东方财富/新浪/CNBC/腾讯公开接口，延迟约3-5分钟。 ⏎ </card>
+  [2026-10-13 18:26] (app/牛振东的智能助手) <interactive> del=False :: <card title="🔴 红色预警 · 10-14 02:26"> ⏎ **2026-10-14 02:26 触发 1 条预警** ⏎  ⏎ 🔴 **[index]** 韩国KOSPI -5.46% 触发红色预警（±5%） ⏎  ⏎ **⚠️ 风险提示**：以上为规则触发的客观数据预警，请结合盘面独立判断。> 以上为公开行情数据的客观整理，不构成投资建议。股市有风险，投资需谨慎。数据来源：东方财富/新浪/CNBC/腾讯公开接口，延迟约3-5分钟。 ⏎ </card>
+  [2026-10-13 19:26] (app/牛振东的智能助手) <interactive> del=False :: <card title="🟠 橙色预警 · 10-14 03:26"> ⏎ **2026-10-14 03:26 触发 8 条预警** ⏎  ⏎ 🟠 **[sector]** 行业板块 元件 +4.77%（领涨：超声电子） ⏎ 🟠 **[sector]** 行业板块 其他数字媒体 +11.94%（领涨：风语筑） ⏎ 🟠 **[sector]** 行业板块 印制电路板 +6.08%（领涨：超声电子） ⏎ 🟠 **[sector]** 行业板块 地面兵装Ⅲ +4.54%（领涨：国科军工） ⏎ 🟠 **[sector]** 行业板块 电商服务 +4.22%（领涨：丽人丽妆） ⏎ 🟠 **[sector]** 行业板块 纺织化学制品 +5.43%（领涨：亚邦股份） ⏎ 🟠 **[sector]** 行业板块 航海装备Ⅲ +4.36%（领涨：江龙船艇） ⏎ 🟠 **[sector]** 行业板块 防
+  [2026-10-13 19:56] (app/牛振东的智能助手) <interactive> del=False :: <card title="🔴 红色预警 · 10-14 03:56"> ⏎ **2026-10-14 03:56 触发 1 条预警** ⏎  ⏎ 🔴 **[index]** 韩国KOSPI -5.46% 触发红色预警（±5%） ⏎  ⏎ **⚠️ 风险提示**：以上为规则触发的客观数据预警，请结合盘面独立判断。> 以上为公开行情数据的客观整理，不构成投资建议。股市有风险，投资需谨慎。数据来源：东方财富/新浪/CNBC/腾讯公开接口，延迟约3-5分钟。 ⏎ </card>
+  [2026-10-13 20:00] (app/牛振东的智能助手) <interactive> del=False :: <card title="🌃 美股收盘早报 · 10-14"> ⏎ **2026-10-14 04:00 美股收盘早报（上一交易日）** ⏎  ⏎ **🇺🇸 美股指数** ⏎ - 🟢 **道琼斯** 51,685.75（-0.32%） ⏎ - 🟢 **纳斯达克100** 27,203.74（-0.15%） ⏎ - ⚪ **标普500** 7,807.58（+0.00%） ⏎ - **VIX 恐慌指数** 15.26（+0.06%）**💻 科技龙头** ⏎ - 🔴 **苹果** 341.27（+0.09%） ⏎ - 🔴 **微软** 543.54（+0.44%） ⏎ - 🔴 **英伟达** 228.49（+0.96%） ⏎ - 🔴 **谷歌** 353.63（+0.26%） ⏎ - 🟢 **亚马逊** 258.67（-0.33%） ⏎ - 🔴 **Meta** 762.25（+2.60%） 
+  [2026-10-14 00:50] (app/牛振东的智能助手) <interactive> del=False :: <card title="🌏 全球早盘前瞻 · 10-14"> ⏎ **2026-10-14 08:50 全球早盘前瞻** ⏎  ⏎ **🇺🇸 隔夜美股** ⏎ - 🟢 **道琼斯** 51,670.10（-0.35%） ⏎ - 🟢 **纳斯达克100** 27,204.38（-0.15%） ⏎ - 🟢 **标普500** 7,805.45（-0.02%） ⏎ - **VIX 恐慌指数** 15.28（+0.08%） ⏎ - **中概互联ETF(KWEB)** 24.72（-0.12%）**🇪🇺 隔夜欧股** ⏎ - 🟢 **英国富时100** 10,650.33（-0.06%） ⏎ - 🟢 **德国DAX30** 25,259.90（-0.07%） ⏎ - 🟢 **法国CAC40** 7,827.63（-0.07%）**🛢️ 大宗商品与汇率** ⏎ - 🔴 **NYMEX原油** 94.
+  [2026-10-14 01:56] (app/牛振东的智能助手) <interactive> del=False :: <card title="🟠 橙色预警 · 10-14 09:56"> ⏎ **2026-10-14 09:56 触发 1 条预警** ⏎  ⏎ 🟠 **[sector]** 行业板块 其他数字媒体 +4.28%（领涨：凡拓数创） ⏎  ⏎ **⚠️ 风险提示**：以上为规则触发的客观数据预警，请结合盘面独立判断。> 以上为公开行情数据的客观整理，不构成投资建议。股市有风险，投资需谨慎。数据来源：东方财富/新浪/CNBC/腾讯公开接口，延迟约3-5分钟。 ⏎ </card>
+  [2026-10-14 01:56] (app/牛振东的智能助手) <interactive> del=False :: <card title="🟡 黄色预警汇总 · 10-14 09:56"> ⏎ **2026-10-14 09:56 触发 2 条预警** ⏎  ⏎ 🟡 **[油气及炼化工程]** 行业板块 油气及炼化工程 +3.19% ⏎ 🟡 **[油气开采Ⅲ]** 行业板块 油气开采Ⅲ +3.26% ⏎  ⏎ **⚠️ 风险提示**：以上为规则触发的客观数据预警，请结合盘面独立判断。> 以上为公开行情数据的客观整理，不构成投资建议。股市有风险，投资需谨慎。数据来源：东方财富/新浪/CNBC/腾讯公开接口，延迟约3-5分钟。 ⏎ </card>
+  [2026-10-14 03:26] (app/牛振东的智能助手) <interactive> del=False :: <card title="🟠 橙色预警 · 10-14 11:26"> ⏎ **2026-10-14 11:26 触发 6 条预警** ⏎  ⏎ 🟠 **[sector]** 行业板块 出版 +4.13%（领涨：新经典） ⏎ 🟠 **[sector]** 行业板块 大众出版 +4.55%（领涨：新经典） ⏎ 🟠 **[sector]** 行业板块 文字媒体 +8.68%（领涨：掌阅科技） ⏎ 🟠 **[sector]** 行业板块 油气及炼化工程 +4.40%（领涨：博迈科） ⏎ 🟠 **[sector]** 行业板块 游戏Ⅲ +4.02%（领涨：电魂网络） ⏎ 🟠 **[sector]** 行业板块 视频媒体 +12.42%（领涨：芒果超媒） ⏎  ⏎ **⚠️ 风险提示**：以上为规则触发的客观数据预警，请结合盘面独立判断。> 以上为公开行情数据的客观整理，不构成投资建议。股市有风险，
+  [2026-10-14 03:26] (app/牛振东的智能助手) <interactive> del=False :: <card title="🟡 黄色预警汇总 · 10-14 11:26"> ⏎ **2026-10-14 11:26 触发 2 条预警** ⏎  ⏎ 🟡 **[数字媒体]** 行业板块 数字媒体 +3.53% ⏎ 🟡 **[油服工程]** 行业板块 油服工程 +3.55% ⏎  ⏎ **⚠️ 风险提示**：以上为规则触发的客观数据预警，请结合盘面独立判断。> 以上为公开行情数据的客观整理，不构成投资建议。股市有风险，投资需谨慎。数据来源：东方财富/新浪/CNBC/腾讯公开接口，延迟约3-5分钟。 ⏎ </card>
+  [2026-10-14 03:35] (app/牛振东的智能助手) <interactive> del=False :: <card title="🕛 A股午间复盘 · 10-14"> ⏎ **2026-10-14 11:35 A股午间复盘（上午盘面）** ⏎  ⏎ **📈 上午指数表现** ⏎ - 🔴 **上证指数** 3,802.24（+0.04%） ⏎ - 🟢 **深证成指** 12,289.54（-0.52%） ⏎ - 🟢 **创业板指** 2,922.86（-1.20%） ⏎ - 🟢 **科创50** 1,411.79（-1.08%） ⏎ - 🟢 **沪深300** 4,263.40（-0.29%） ⏎ - 🟢 **中证500** 7,079.00（-0.09%） ⏎ - 🟢 **中证1000** 7,003.98（-0.27%） ⏎ - 📊 沪市涨跌家数：837 涨 / 1437 跌 / 82 平💰 沪深两市成交额约 **8,429 亿元** ⏎  ⏎ **🏭 行业板块** ⏎ - 板块数据缺失>
+  [2026-10-14 03:56] (app/牛振东的智能助手) <interactive> del=False :: <card title="🟠 橙色预警 · 10-14 11:56"> ⏎ **2026-10-14 11:56 触发 1 条预警** ⏎  ⏎ 🟠 **[sector]** 行业板块 其他数字媒体 +4.76%（领涨：凡拓数创） ⏎  ⏎ **⚠️ 风险提示**：以上为规则触发的客观数据预警，请结合盘面独立判断。> 以上为公开行情数据的客观整理，不构成投资建议。股市有风险，投资需谨慎。数据来源：东方财富/新浪/CNBC/腾讯公开接口，延迟约3-5分钟。 ⏎ </card>
+  [2026-10-14 03:56] (app/牛振东的智能助手) <interactive> del=False :: <card title="🟡 黄色预警汇总 · 10-14 11:56"> ⏎ **2026-10-14 11:56 触发 3 条预警** ⏎  ⏎ 🟡 **[出版]** 行业板块 出版 +3.91% ⏎ 🟡 **[影视动漫制作]** 行业板块 影视动漫制作 +3.82% ⏎ 🟡 **[油服工程]** 行业板块 油服工程 +3.46% ⏎  ⏎ **⚠️ 风险提示**：以上为规则触发的客观数据预警，请结合盘面独立判断。> 以上为公开行情数据的客观整理，不构成投资建议。股市有风险，投资需谨慎。数据来源：东方财富/新浪/CNBC/腾讯公开接口，延迟约3-5分钟。 ⏎ </card>
+====================================================================================================
+CHAT: 何荣福 | p2p | oc_10ce303a97113687965196615c486c2b | 13 msgs
+  [2026-10-14 09:07] (user/何荣福) <text> del=False :: 那个业务方案，还一起看看么？
+  [2026-10-14 09:09] (user/牛振东) <text> del=False :: 何老师，看了后面23页，我没有问题了，数据库到时候sqllite换成mysql，我代码里换一下。
+  [2026-10-14 09:09] (user/牛振东) <text> del=False :: 后面是讲 ⏎ 消息推送、应用架构、项目迭代
+  [2026-10-14 09:09] (user/牛振东) <text> del=False :: 没问题
+  [2026-10-14 09:13] (user/何荣福) <text> del=False :: 好嘞
+  [2026-10-14 09:14] (user/何荣福) <text> del=False :: 我按照上午的review
+  [2026-10-14 09:14] (user/何荣福) <text> del=False :: 改了一版新的
+  [2026-10-14 09:14] (user/何荣福) <text> del=False :: 但是发不出来
+  [2026-10-14 09:14] (user/何荣福) <text> del=False :: 说我没有权限
+  [2026-10-14 09:14] (user/何荣福) <image> del=False :: [Image: img_v3_0216f_f93bb6c2-2fc8-46eb-b84b-ca4f66cd181g]
+  [2026-10-14 09:14] (user/牛振东) <text> del=False :: 嗯嗯，小改动
+  [2026-10-14 09:23] (user/何荣福) <text> del=False :: 振东，马工给了你那个E-R图了吗？
+  [2026-10-14 09:35] (user/牛振东) <text> del=False :: 没呢，我没收到
+====================================================================================================
+CHAT: 方智 | p2p | oc_4269b1021820521691206abefec4e381 | 13 msgs
+  [2026-10-14 08:08] (user/方智) <text> del=False :: 振东，现在有空吗，我们要迁移升级帆软BI，关于你们之前调用帆软BI报表的影响语音聊一下
+  [2026-10-14 08:09] (user/牛振东) <text> del=False :: 好的
+  [2026-10-14 08:12] (-/-) <system> del=False :: 
+  [2026-10-14 08:16] (user/牛振东) <post> del=False :: @方智(10067178) 帆软 派拉IAM 切换成 PaaS IAM ⏎ 平台登出地址：[https://w3-auth.inovance.com/logout?redirectBack=true&redirectUrl=http://10.32.211.65:8080/webroot/decision](https://w3-auth.inovance.com/logout?redirectBack=true&redirectUrl=http://10.32.211.65:8080/webroot/decision) ⏎ 认证接口地址：[https://w3-auth.inovance.com/oauth2/authorize?client_id=ADyfnzvK&response_type=code&redirect_uri=http://10.32.211.65:8080/webr
+  [2026-10-14 08:16] (user/牛振东) <text> del=False :: redirect_uri那个
+  [2026-10-14 08:23] (user/方智) <text> del=False :: 这个是测试环境的吧[http://10.32.211.65:8080/webroot/decision&scope=openid&state=test65](https://w3-auth.inovance.com/oauth2/authorize?client_id=ADyfnzvK&response_type=code&redirect_uri=http://10.32.211.65:8080/webroot/decision&scope=openid&state=test65)
+  [2026-10-14 08:23] (user/方智) <text> del=False :: 生产环境有上吗？
+  [2026-10-14 08:27] (user/牛振东) <text> del=False :: 这个就是生产环境，没有测试环境
+  [2026-10-14 08:29] (user/方智) <text> del=False :: 访问的帆软的大屏地址是哪一个？
+  [2026-10-14 08:31] (user/牛振东) <text> del=False :: https://bi.inovance.com/finereport/decision/v5/design/report/25fb56bc25a3491f9e8253754334f897/view
+  [2026-10-14 08:35] (user/牛振东) <share_chat> del=False :: [Chat card: oc_8c045b392cabaa44e89ee199259eb36c]
+  [2026-10-14 08:35] (user/牛振东) <text> del=False :: 找半天，在这群里
+  [2026-10-14 08:36] (user/牛振东) <text> del=False :: 一个帆软报表，一个帆软BI
+====================================================================================================
+CHAT: 内部AI技术交流 | group | oc_60f898c55e7b7b0a5c9c2f8f8dff9b3d | 12 msgs
+  [2026-10-14 00:48] (user/刘宏宇) <text> del=False :: @牛振东 我们把算力部署在本地，系统部署在服务器，系统怎么调这个算力
+  [2026-10-14 00:49] (user/刘宏宇) <text> del=False :: 本地部署后只有个地址，没有api key
+  [2026-10-14 00:53] (user/牛振东) <text> del=False :: @刘宏宇 有API，可以request/response
+  [2026-10-14 00:55] (user/刘宏宇) <text> del=False :: 直接连不用key？
+  [2026-10-14 00:55] (user/牛振东) <text> del=False :: 应该得套壳
+  [2026-10-14 00:57] (user/刘宏宇) <text> del=False :: 整个不关机的主机我们就本地吧，模型能用就行，慢就慢点
+  [2026-10-14 00:58] (user/刘宏宇) <text> del=False :: <p>只要文本能力，不需要多模态，支撑简单问答</p>
+  [2026-10-14 01:00] (user/牛振东) <text> del=False :: 怎么让 模型跟数据连接呢，@石峰 模型这块，石峰专业
+  [2026-10-14 01:00] (user/牛振东) <text> del=False :: 授权主要分两类： ⏎ 一类是套壳中转官方接口（灰色转售）， ⏎ 一类是兼容 OpenAI 格式的第三方模型服务（正规但和 OpenAI 无关）。
+  [2026-10-14 01:01] (user/蔺雨桐) <text> del=False :: @石峰@牛振东  峰少，东哥，是不是用 Ollama 装个本地模型[思考]，应该都支持openapi的调用吧
+  [2026-10-14 01:01] (user/牛振东) <text> del=False :: @蔺雨桐 对，ollama本地模型
+  [2026-10-14 01:01] (user/刘宏宇) <text> del=False :: 昨晚已经试过了
+====================================================================================================
+CHAT: DaaS平台内部用户问题沟通 | group | oc_a89f2cb3fd27cc8fc4aa80f37bc12185 | 12 msgs
+  [2026-10-14 01:36] (-/-) <system> del=False :: 武销南 invited 丁婷婷 to the group. New members can view all chat history.
+  [2026-10-14 01:44] (-/-) <system> del=False :: Meeting has started. New messages will be synced in the group chat and in-meeting chat.
+  [2026-10-14 01:44] (user/武销南) <video_chat> del=False :: [Video call]
+  [2026-10-14 01:58] (-/-) <system> del=False :: 
+  [2026-10-14 03:08] (user/杜彦永) <post> del=False :: ![Image](img_v3_0216f_a2a2202e-892d-43b3-8882-9dc932f6411g) ⏎ @武销南 武工，数据安全展开表清单报错，帮忙看下
+  [2026-10-14 03:09] (user/武销南) <text> del=False :: @杜彦永 @黄翔  ⏎ 黄工，看下，看着像hive的metastore有点问题
+  [2026-10-14 03:19] (user/黄翔) <text> del=False :: 好的我看下
+  [2026-10-14 03:22] (user/黄翔) <post> del=False :: @杜彦永 杜老师，我这都可以哎 ⏎ ![Image](img_v3_0216f_0b54ad46-5424-40ec-bb43-bdb34bc4ad5g)
+  [2026-10-14 03:23] (user/黄翔) <image> del=False :: [Image: img_v3_0216f_7f5f0758-4e11-40de-8330-b1856375d6eg]
+  [2026-10-14 03:36] (user/杜彦永) <text> del=False :: @黄翔 估计是性能问题，并不是每次都报错，整点附近繁忙的时候会报错。我刚才试了3次都报错
+  [2026-10-14 06:24] (user/武销南) <post> del=False :: @杜彦永  ⏎ ![Image](img_v3_0216f_255f0d23-4209-4597-94e8-b986ea4561cg) ⏎ 杜老师，数据源配置的时候初始化连接词的个数可以增加，因为我们有调度，生产环境建议：initialSize  100 maxActive  200，还有其他参数参考以下配置 ⏎ ![Image](img_v3_0216f_54f33cef-cc17-4f04-a1c7-15d961ba404g)
+  [2026-10-14 06:35] (user/杜彦永) <text> del=False :: @武销南 @周明明 明明，数据源的连接数调整一下，我这边没有权限。另外，管理员给武工、黄翔黄工和我都加一下
+====================================================================================================
+CHAT: 济南防接反检测项目内部进度沟通群 | group | oc_afd26ef974fbe6668f040c683cf752d0 | 10 msgs
+  [2026-10-14 03:02] (user/牛振东) <text> del=False :: @曹丽 手机端网络打通了，可以用手机测试，看下体验效果
+  [2026-10-14 06:22] (user/蔺雨桐) <post> del=False :: @刘宏宇 宇哥，昨天讨论之后我改了一下逻辑，大概业务流程如下图，帮看下还有问题吗 ⏎ 人工检测： ⏎ ![Image](img_v3_0216f_54150b58-db82-4302-8060-527aedb4641g) ⏎ ai检测： ⏎ ![Image](img_v3_0216f_b760d009-9326-474f-8218-47554adef47g)
+  [2026-10-14 06:43] (user/牛振东) <text> del=False :: 我看了，没啥问题[赞][赞]优秀
+  [2026-10-14 06:57] (user/牛振东) <text> del=False :: @蔺雨桐 雨桐，有个优化，token失效后，没有自动跳到登录页。还在首页，数据都是0。
+  [2026-10-14 06:59] (user/蔺雨桐) <text> del=False :: @牛振东 这个我也发现了
+  [2026-10-14 06:59] (user/蔺雨桐) <text> del=False :: @牛振东 这个我和宇哥在看，还有要改的[泪奔]
+  [2026-10-14 07:40] (user/蔺雨桐) <post> del=False :: 最新的业务流程图 ⏎ ai检测： ⏎ ![Image](img_v3_0216f_44bfa5e0-6e42-431f-98c6-63c79831050g) ⏎  ⏎ 人工检测： ⏎ ![Image](img_v3_0216f_3fa37735-f63f-4452-8f55-3e6802402a8g)
+  [2026-10-14 07:41] (user/蔺雨桐) <text> del=False :: @曹丽 曹工我先按这个改一下，改完再测。。。。。改的有点太多了得[我想静静]
+  [2026-10-14 07:43] (user/曹丽) <text> del=False :: 好的[赞]
+  [2026-10-14 09:54] (user/蔺雨桐) <text> del=False :: @牛振东 东哥，扫码的问题已经优化了，token失效的后面改，有点改蒙了[笑哭]
+====================================================================================================
+CHAT: 数据分析开发小组 | group | oc_3ba3e99f232b5cd81e24e95bd274de02 | 10 msgs
+  [2026-10-14 04:01] (user/刘宏宇) <text> del=False :: @陶伟宇 你在做南京的SFM？
+  [2026-10-14 04:02] (user/陶伟宇) <text> del=False :: 不在，在继续做RBS
+  [2026-10-14 04:04] (user/刘宏宇) <text> del=False :: 怎么BP那边说你可以做SFM，有人找你了？
+  [2026-10-14 04:05] (user/陶伟宇) <text> del=False :: 没人通知我
+  [2026-10-14 04:05] (user/刘宏宇) <text> del=False :: 雷工没找你说过这事对吧
+  [2026-10-14 04:05] (user/陶伟宇) <text> del=False :: 没有
+  [2026-10-14 09:04] (user/刘宏宇) <text> del=False :: @穆潇 @金星 济南的最新线体实时看板是谁配置的，把这个文件改一下，改成大明湖线专线的
+  [2026-10-14 09:05] (user/穆潇) <text> del=False :: @刘宏宇 宇哥 这个我给线体看板和人员技能矩阵都限定到大明湖1线去了
+  [2026-10-14 09:18] (user/牛振东) <text> del=False :: 延误信息如果没有数据，要把表头留下来。 ⏎  ⏎ 这个好实现吗？@金星
+  [2026-10-14 09:20] (user/刘宏宇) <text> del=False :: 复制出来一个表格，只保留表头，把两个表叠一起
+====================================================================================================
+CHAT: 【济南看板】实时线体看板推进 | group | oc_3b125340b30681ee3a7a7c8173bd1c6a | 9 msgs
+  [2026-10-14 01:07] (user/李炎) <image> del=False :: [Image: img_v3_0216f_99ecaf96-3186-4e87-8dfc-114aaa97edbg]
+  [2026-10-14 01:07] (user/李炎) <image> del=False :: [Image: img_v3_0216f_29575218-9126-4a05-921c-74d873070ffg]
+  [2026-10-14 01:21] (user/姜志俊) <text> del=True :: [Invalid text JSON]
+  [2026-10-14 01:25] (user/蔺雨桐) <text> del=False :: @李炎 已处理，但是我看现在已经关单了，又看不到了
+  [2026-10-14 02:46] (user/李炎) <text> del=False :: 把当天的都显示出来吧
+  [2026-10-14 02:47] (user/李炎) <image> del=False :: [Image: img_v3_0216f_b56cfaa9-d050-4c8c-8e11-4e2233bac94g]
+  [2026-10-14 02:48] (user/李炎) <text> del=False :: 这是上次开会时说的
+  [2026-10-14 02:48] (user/李炎) <file> del=False :: <file key="file_v3_0016f_7094608f-2890-4af9-8341-c5717bfe522g" name="看板优化说明.pptx"/>
+  [2026-10-14 09:10] (user/刘宏宇) <text> del=False :: @牛振东 延误信息展示改成当天的吧，未关闭的可以显示成橙色，如果没有数据要把表头留下来
+====================================================================================================
+CHAT: TRAE 用户交流群 1️⃣1️⃣｜官方 | group | oc_afdd960e5b5f39cd89d6b9946a78cd78 | 9 msgs
+  [2026-10-14 03:13] (user/大猫) <post> del=False :: 切换ultra套餐无法选择支付宝和微信支付 ⏎ ![Image](img_v3_0216f_ddec108f-7be7-4be6-93e0-f0d39c4889dg)
+  [2026-10-14 03:32] (user/用户456741) <post> del=False :: [🎉「本周社区之星」获奖公示——10月第二周 10.5-10.11](https://forum.trae.cn/t/topic/183977) ⏎ ![Image](img_v3_0216f_493ca5ec-e99d-4443-b670-ff1ac37a57ag)
+  [2026-10-14 04:10] (user/吴于飞) <text> del=False :: 叮咚～周三午间好！签到入口已备好，100积分轻轻松松到手，点一下今日任务就完成啦，祝下午高效顺利！🎯 （由豆包发送）
+  [2026-10-14 06:12] (user/吴于飞) <text> del=False :: @_all 各位 TRAE 友好，想占用大家 3-5 分钟，帮我们填一份 TRAE 官方社区调研问卷。 ⏎ 这次主要想听听大家作为社区用户的真实反馈：平时会关注哪些社区内容？参与过哪些活动或交流？哪些服务对你有帮助？目前体验是否满意？愿不愿意推荐给朋友加入社区？以及最希望社区优先改进什么？ ⏎ 问卷里也会简单了解大家的 TRAE 使用场景，方便我们后续把社区内容、活动和服务做得更有针对性。 ⏎ 问卷截止至 10 月 19 日：https://bytedance.larkoffice.com/share/base/form/shrcnY1KpUpqOcOq5xX5TQzVtpf ⏎ 反馈仅用于产品和社区服务优化，个人信息会被妥善保护。感谢大家支持，也欢迎把真实想法写详细一点。
+  [2026-10-14 06:14] (-/-) <system> del=False :: {name} clipped content to top.
+  [2026-10-14 08:13] (user/用户191392) <text> del=False :: 我有自定义的模型，升级traework和traecode的融合版后，不能切换到自定义的deepseek-flash模型了。请问如何解决？
+  [2026-10-14 08:21] (user/吴于飞) <text> del=False :: <p>@_all 各位小伙伴，TRAE 社区创作者计划正式招募啦！</p><p></p><p>如果你用 TRAE 做过项目、整理过实用教程，或愿意分享真实的使用经验，欢迎报名加入首批社区优质创作者。入选后可获得官方社区创作者身份、官方流量扶持及月度创作奖励等等，期待你的加入！</p><p></p><p>详情请见： https://forum.trae.cn/t/topic/184139</p><p>报名方式：https://bytedance.larkoffice.com/share/base/form/shrcnCceRp049fjKsNIXyfVw4kd</p>
+  [2026-10-14 08:21] (-/-) <system> del=False :: {name} clipped content to top.
+  [2026-10-14 10:26] (user/任彪) <post> del=False :: ![Image](img_v3_0216f_998749fe-10e8-4a97-8067-07806974d79g) ⏎ 点发送发不出去
+====================================================================================================
+CHAT: ISC-报告解读试点探索 | group | oc_e17e17d053cbdc8577f345dead569e33 | 9 msgs
+  [2026-10-14 03:40] (user/蒋静芳) <text> del=False :: @李家伟 李工，上次沟通的ST驾驶舱报告，这个后续有具体的计划吗？比如啥时候安排POC测试
+  [2026-10-14 03:41] (user/李家伟) <text> del=False :: @蒋静芳 蒋工，我们计划月底上线一版本。
+  [2026-10-14 03:42] (user/李家伟) <text> del=False :: 开发资源比较紧张
+  [2026-10-14 03:42] (user/蒋静芳) <text> del=False :: 好的，测试的时候记得拉上我啊
+  [2026-10-14 06:39] (user/孙桦君) <text> del=False :: https://inovance.feishu.cn/docx/QibudT7LnoIIUyx8CkXcN4JZnXS这个是我整理的一些表字段的中文翻译，对于指标计算公式的理解还需要麻烦蒋工@蒋静芳帮助一下，暂时我理解后觉得现在缺失的数据就是在文档里图片上用红框标出的
+  [2026-10-14 07:00] (user/蒋静芳) <text> del=False :: @孙桦君 好的孙工，我晚点看下，不清楚的话再找你确认哈
+  [2026-10-14 07:00] (user/孙桦君) <text> del=False :: 好的好的
+  [2026-10-14 09:48] (user/蒋静芳) <share_calendar_event> del=False :: <calendar_share open_calendar_id="feishu.cn_6Co7BZirAI7Mr2saBSiTpd@group.calendar.feishu.cn" open_event_id="0998e504-c6ef-4bfc-9359-f99217eabcff_0" share_token="cse__jrpb-_Afcp_3ftctv9rxA"> ⏎ ST驾驶舱报告解读数据对齐 ⏎ 2026-10-15 06:00:00 ~ 2026-10-15 07:00:00 ⏎ </calendar_share>
+  [2026-10-14 09:49] (user/蒋静芳) <text> del=False :: @孙桦君 @刘宏宇 孙工，宏宇，明天下午我们对齐下哈
+====================================================================================================
+CHAT: 【Claw】牛振东的智能助手群聊 | group | oc_5c11ab5f3bd43008d8e58cdd2d62199b | 8 msgs
+  [2026-10-14 01:00] (app/牛振东的智能助手) <post> del=False :: 我来整理今天的数据并输出摘要。当前时间 2026年10月14日 09:00。 ⏎  ⏎ **日历日程（今天）：** ⏎ - 09:00-09:30 济南工单异常AI项目每日例会（沈霜组织，苏州B5-2F） ⏎ - 10:00-11:00 开发（自建，视频会议） ⏎ - 10:00-12:00 AI应用交流-德勤（万向阳组织，B6 3F-4）- 与10:00的开发冲突 ⏎ - 14:00-16:00 开发（自建，视频会议） ⏎  ⏎ **待办任务（进行中/未完成）：** ⏎ - 【开发】开发看板数据更新（每周重复任务，待办） ⏎ - 数字化大讲堂-汇川自研AI工具-课程回顾 ⏎ - 来自会话：InoAI知识社区 ⏎ - 济南AI 68服务器飞书权限申请（陈腾） ⏎  ⏎ 今天是周三早上9点，正是每日例会时段。 ⏎  ⏎ 让我输出简洁摘要。 ⏎  ⏎ 🔔 **老板早上好呀~** 🌞 ⏎  ⏎ 
+  [2026-10-14 01:02] (app/牛振东的智能助手) <image> del=False :: [Image: img_v3_0216f_e536048d-23cc-4e3c-bf5c-24f675617bbg]
+  [2026-10-14 01:05] (user/牛振东) <text> del=False :: 📝 **群消息 QA 精选日报 - 2026-10-14** ⏎  ⏎ ✅ **今日新增 QA 数量：2 条** ⏎  ⏎ 📂 **新增分类**： ⏎ - 技术问答：2 条 ⏎  ⏎ 📌 **新增内容**： ⏎ 1. 本地部署的模型如何被服务器端系统调用？ ⏎ 2. InoClaw 可用模型从 Qwen3.7 变成 Qwen3.5 了，Qwen3.7 还能用吗？ ⏎  ⏎ 📄 **文档链接**：https://inovance.feishu.cn/docx/UZqRddDCxoKy0VxxqjjcX4XZnfg ⏎  ⏎ 🤖 由 Nomi 自动整理 | 下次更新：2026-10-15 09:00
+  [2026-10-14 02:43] (app/牛振东的智能助手) <post> del=False :: 📋 个人工作日报 · 今日条目已新增 ⏎ 日期：2026年10月14日（周三，中国法定工作日） ⏎ 执行结果：✅ 成功在文档最前面新增今日日期条目 ⏎ 新条目标题：10月14日 ⏎ 内容来源：复制自最近一天「10月13日」的日报表格，已在同一电子表格内生成独立子表，历史条目未受影响 ⏎ 文档链接：[个人工作日报（昨日进展+今日安排）](https://inovance.feishu.cn/wiki/CnNGwpz8CiA4vMkp01EcVIK3nzc)
+  [2026-10-14 03:01] (app/牛振东的智能助手) <post> del=False :: 好的老板，数据都拉到了，来给您做个整理~ 🐱 ⏎  ⏎ --- ⏎  ⏎ 🔔 **老板好呀~** 周三上午 11 点啦，来瞅瞅今天的情况~ ⏎  ⏎ **📋 今日已办** ⏎  ⏎ **【会议】** ⏎ - ⏰ 09:00-09:30 **济南工单异常AI项目每日例会**（沈霜组织，已结束） ⏎  ⏎ **【开发】** ⏎ - ⏰ 10:00-11:00 **开发**（已结束） ⏎  ⏎ **【会议】** ⏎ - 🔄 10:00-12:00 **AI应用交流 -德勤**【当前进行中！】（万向阳组织，B6 3F-4） ⏎  ⏎ --- ⏎  ⏎ **📌 下午安排** ⏎  ⏎ **【开发】** ⏎ - ⏰ 14:00-16:00 **开发**（待进行） ⏎  ⏎ --- ⏎  ⏎ **📌 待办任务（未完成）** ⏎  ⏎ **【沟通】【济南AI 68服务器飞书权限申请 陈腾】** — 待处理
+  [2026-10-14 03:10] (app/牛振东的智能助手) <interactive> del=False :: <card title="Inoclaw 精选消息 · 每日QA精选"> ⏎ **数据日期**：2026-10-12（周一） ⏎ **本次新增**：6 条QA（含回答要点） ⏎ --- ⏎ **一、操作指南** ⏎  ⏎ **3. 国际版 Pro 自动续费扣款了，怎么申请退款？** ⏎ **回答**： ⏎ ① 发送邮件到 feedback@mail.trae.ai，写清诉求、账号 UID 和付款信息，由负责同学按正式流程处理； ⏎ ② 邮件建议附上产品名称、扣费时间、金额及扣费凭证截图； ⏎ ③ 先到微信「支付分/自动续费」关闭 Trae Pro 自动续费，避免下月继续扣款 ⏎ --- ⏎ **二、产品动态** ⏎  ⏎ **3. TraeWork 改成 TRAE 了，有什么变化？为什么要卸载重装？** ⏎ **回答**： ⏎ ① 原 Work/Code 两个产品统一为全新 TRAE，含 
+  [2026-10-14 05:00] (app/牛振东的智能助手) <post> del=False :: 🔔 **老板下午好呀~** 现在是周三 13:00，来给你播报今天的安排~ ⏎  ⏎ **📋 今日已办** ⏎  ⏎ **📌 下午及未来日程** ⏎  ⏎ **【会议】** ⏎ 🔹 14:00-16:00 | **开发**（自己的时间块~） ⏎ 🔹 17:00-17:30 | **济南订单异常AI项目业务解决方案内部对齐** @B5-2F现场办公区（沈霜组织的，待确认参会） ⏎ 🔹 ~~09:00-09:30 | 济南工单异常AI项目每日例会~~ ✅ 上午已完成 ⏎ 🔹 ~~10:00-12:00 | AI应用交流-德勤~~ ✅ 上午已完成 ⏎ 🔹 ~~10:00-11:00 | 开发~~ ✅ 上午已完成 ⏎  ⏎ **【待办 - 未完成】** ⏎ 🔄 **【团队】开发看板数据更新** — 每周重复任务，提醒你30分钟前就该处理啦~ ⏎ 📌 **济南AI 68服务器飞书权限申请（陈腾）**
+  [2026-10-14 05:34] (user/牛振东) <post> del=False :: #### 运维日报 - 2026-10-13 ⏎  ⏎ ##### 📊 今日概览 ⏎ - **总问题数**: 63 ⏎ - **已回答**: 50 ⏎ - **待跟进**: 13 ⏎ - **AI 补充回复**: 13 ⏎  ⏎ ##### 📋 问题分类统计 ⏎ - 工具使用：17 条（27.0%） ⏎ - 运维问题：13 条（20.6%） ⏎ - 流程咨询：10 条（15.9%） ⏎ - 技术讨论：9 条（14.3%） ⏎ - 工作沟通：8 条（12.7%） ⏎ - 产品需求：6 条（9.5%） ⏎  ⏎ ##### 🔔 待办事项 ⏎ - **[中]** 用户852152 - 哦no， 我把原本的work也升级了。 两个…（AI 已给建议，待人工确认） ⏎ - **[中]** 徐晨 - trae如何授权秒搭啊（AI 已给建议，待人工确认） ⏎ - **[中]** 朱义和 - 可以装clu
+====================================================================================================
+CHAT: 牛振东的InoClaw_AI架构师 | p2p | oc_e95907928230ca46971a5ca78f878e10 | 7 msgs
+  [2026-10-13 17:08] (app/牛振东的InoClaw_AI架构师) <interactive> del=False :: <card title="📚 clawCast 学习报告【InoClaw】"> ⏎ **📅 学习时间**：2026-10-14 ⏎ **📰 内容来源**：🦞 虾报 | 2026-04-27（周一）三日完整版 | OpenClaw 从"文本工具"进化为"全场景 AI 协作者" ⏎ --- ⏎ **🎯 学习摘要** ⏎  ⏎ 本期虾报深度解读 OpenClaw 三日进化：AI Sandwich 认知革命 + Google Meet 形态升级 + GStack 效率跃迁 ⏎ 核心洞察：人类是三明治的面包（框架设定 + 质量把关），AI 是夹心（执行）；瓶颈不在模型，在脚手架 ⏎ --- ⏎ **📌 为您推荐以下内容** ⏎ 1️⃣ **🍞 AI Sandwich 理论——人类在 AI 时代的价值定位** ⏎  ⏎ 相关性：⭐⭐⭐⭐⭐ ⏎ 核心洞察：人类在 AI 工作流中的价值集中在两端——开始前
+  [2026-10-13 19:08] (app/牛振东的InoClaw_AI架构师) <interactive> del=False :: <card title="📚 clawCast 学习报告【InoClaw】"> ⏎ **📅 学习时间**：2026-10-14 ⏎ **📰 内容来源**：🦞 虾报 | 2026-04-27（周一）三日完整版 | OpenClaw 从"文本工具"进化为"全场景 AI 协作者" ⏎ --- ⏎ **🎯 学习摘要** ⏎  ⏎ 本期内容涵盖三大核心升级：(1) AI Sandwich 理论——人类负责框架设定和质量把关，AI 负责执行，实现角色升级而非取代；(2) 工程升级——OAuth 统一授权、零中断更新、记忆系统优化；(3) 形态升级——Google Meet 正式加入，AI 从后台工具走向前台协作者。行业验证：YC CEO Garry Tan 用类似工具实现 810 倍生产力提升。 ⏎ --- ⏎ **📌 为您推荐以下内容** ⏎ 1️⃣ **AI Sandwich 理论：AI 时代的人
+  [2026-10-13 21:08] (app/牛振东的InoClaw_AI架构师) <interactive> del=False :: <card title="📚 clawCast 学习报告【InoClaw】"> ⏎ **📅 学习时间**：2026-10-14 ⏎ **📰 内容来源**：🦞 虾报 | 2026-04-27（周一）三日完整版 | OpenClaw 从"文本工具"进化为"全场景 AI 协作者" ⏎ --- ⏎ **🎯 学习摘要** ⏎  ⏎ 本期虾报深度解读 OpenClaw 三日进化：AI Sandwich 认知革命 + Google Meet 形态升级 + GStack 效率跃迁。核心洞察：人类是三明治的面包（框架设定 + 质量把关），AI 是夹心（执行）；瓶颈不在模型，在脚手架；OpenClaw 从后台工具走向前台参与者。 ⏎ --- ⏎ **📌 为您推荐以下内容** ⏎ 1️⃣ **🎯 AI Sandwich 理论——人类在 AI 时代的价值定位** ⏎  ⏎ 相关性：⭐⭐⭐⭐⭐ ⏎ 核心洞察：人类在
+  [2026-10-13 23:08] (app/牛振东的InoClaw_AI架构师) <interactive> del=False :: <card title="📚 clawCast 学习报告【InoClaw】"> ⏎ **📅 学习时间**：2026-10-14 ⏎ **📰 内容来源**：🦞 虾报 | 2026-04-27（周一）三日完整版 | OpenClaw 从"文本工具"进化为"全场景 AI 协作者" ⏎ --- ⏎ **🎯 学习摘要** ⏎  ⏎ 本期虾报涵盖 OpenClaw 三日进化：AI Sandwich 认知理论 + Google Meet 形态升级 + GStack 效率跃迁。核心洞察：AI 不会取代人类，而是角色升级；瓶颈不在模型，在脚手架；OpenClaw 从后台工具走向前台参与者。 ⏎ --- ⏎ **📌 为您推荐以下内容** ⏎ 1️⃣ **AI Sandwich 理论——人类在 AI 时代的价值定位** ⏎  ⏎ 相关性：⭐⭐⭐⭐⭐ ⏎ 核心洞察：人类是三明治的面包（框架设定 + 质量把关），A
+  [2026-10-14 01:08] (app/牛振东的InoClaw_AI架构师) <interactive> del=False :: <card title="📚 clawCast 学习报告【InoClaw】"> ⏎ **📅 学习时间**：2026-10-14 ⏎ **📰 内容来源**：🦞 虾报 | 2026-04-27（周一）三日完整版 | OpenClaw 从"文本工具"进化为"全场景 AI 协作者" ⏎ --- ⏎ **🎯 学习摘要** ⏎  ⏎ 本期内容涵盖 OpenClaw 三日进化：AI Sandwich 认知理论、工程化升级（OAuth/Agent 模板）、Google Meet 视频协作形态跃迁。核心洞察：瓶颈不在模型，在脚手架；人类角色从"执行者"升级为"架构设计者"。 ⏎ --- ⏎ **📌 为您推荐以下内容** ⏎ 1️⃣ **AI Sandwich 理论——人类在 AI 时代的价值定位** ⏎  ⏎ 相关性：⭐⭐⭐⭐⭐ ⏎ 核心洞察：人类是三明治的面包（框架设定 + 质量把关），AI 是夹心（执行
+  [2026-10-14 03:09] (app/牛振东的InoClaw_AI架构师) <interactive> del=False :: <card title="📚 clawCast 学习报告【InoClaw】"> ⏎ **📅 学习时间**：2026-10-14 ⏎ **📰 内容来源**：🦞 虾报 | 2026-04-27（周一）三日完整版 | OpenClaw 从"文本工具"进化为"全场景 AI 协作者" ⏎ --- ⏎ **🎯 学习摘要** ⏎  ⏎ 本期虾报整合 4/24-4/26 三日内容，核心围绕 OpenClaw 三大进化维度：AI Sandwich 认知革命（人类角色从执行者升级为架构设计者）、Google Meet 形态升级（从后台工具到前台会议参与者）、GStack 效率跃迁（生产力 810 倍提升的工程纪律）。GitHub Stars 突破 364K，行业验证 AI 工程团队范式。 ⏎ --- ⏎ **📌 为您推荐以下内容** ⏎ 1️⃣ **1️⃣ AI Sandwich 理论——您在 AI 时代的价
+  [2026-10-14 05:08] (app/牛振东的InoClaw_AI架构师) <interactive> del=False :: <card title="📚 clawCast 学习报告【InoClaw】"> ⏎ **📅 学习时间**：2026-10-14 ⏎ **📰 内容来源**：🦞 虾报 | 2026-04-27（周一）三日完整版 ⏎ --- ⏎ **🎯 学习摘要** ⏎  ⏎ OpenClaw 从"文本工具"进化为"全场景 AI 协作者"——AI Sandwich 认知革命 + Google Meet 形态升级 + GStack 效率跃迁 ⏎ 本期覆盖 4/24-4/26 三日内容，核心包括：AI Sandwich 理论（人类角色升级）、v2026.4.23/24版本发布（OAuth/图像生成/Google Meet）、GitHub Stars 突破 364K、GStack 810 倍生产力实践 ⏎ --- ⏎ **📌 为您推荐以下内容** ⏎ 1️⃣ **🎯 AI Sandwich 理论：人类在 AI 时代的
+====================================================================================================
+CHAT: 订单IOC--运营层 | group | oc_cde3514e4eaab03ef35f5468939d645a | 7 msgs
+  [2026-10-14 09:21] (-/-) <system> del=False :: 滕菲 invited 杨润东 to the group. New members can view all chat history.
+  [2026-10-14 09:23] (user/滕菲) <file> del=False :: <file key="file_v3_0016f_72e4dd17-f14a-458a-847d-5e9823448feg" name="订单IOC--管理履约绩效用户之旅.pptx"/>
+  [2026-10-14 09:23] (-/-) <system> del=False :: 杨润东 invited 李守东 to the group. New members can view all chat history.
+  [2026-10-14 09:24] (user/滕菲) <text> del=False :: <p>@杨润东 杨工，请根据附件进行订单IOC应用架构和技术架构规划，其他场景的用户之旅与管理履约绩效场景的基本相似。</p>
+  [2026-10-14 09:38] (user/李守东) <text> del=False :: <p>不是理解具体要输出的内容，明天沟通一下吧</p>
+  [2026-10-14 09:43] (user/滕菲) <text> del=False :: 好的，会议约上万工哈。
+  [2026-10-14 09:46] (user/万向阳) <text> del=False :: @李守东 明天上午再讨论一下
+====================================================================================================
+CHAT: 孙桦君 | p2p | oc_b3b158b65013a0781f650a43c939faff | 6 msgs
+  [2026-10-14 07:35] (user/牛振东) <text> del=False :: 你好 孙工，请教下下，咱们报告解读，是准备用本体吗？还是有成熟的技术方案？[送你小红花]
+  [2026-10-14 07:48] (user/孙桦君) <text> del=False :: 是准备用本体的，具体的技术方案的话，这周会内部评审，现在正在写
+  [2026-10-14 07:48] (user/孙桦君) <text> del=False :: [碰拳]
+  [2026-10-14 08:03] (user/牛振东) <text> del=False :: 好的👌🏻到时候可以向你们学习下，本体的实际应用[赞][双手合十]
+  [2026-10-14 08:04] (user/孙桦君) <text> del=False :: 可以多交流，互相学习[送你小红花]
+  [2026-10-14 08:05] (user/牛振东) <text> del=False :: AI这块，你们都是老师[赞]
+====================================================================================================
+CHAT: 汇川×字节-DataWind沟通 | group | oc_7d6d8e8b7f10fb41d251a222b1a7af90 | 6 msgs
+  [2026-10-14 01:04] (user/朱东超) <text> del=False :: 仪表盘是否将两列维度数据，整合同一维度进行求和。@火山引擎-售后智能助手
+  [2026-10-14 01:04] (app/火山引擎-售后智能助手) <interactive> del=False :: <card title="问题进展【处理中】"> ⏎ 【问题描述】： ⏎  ⏎ 仪表盘是否将两列维度数据，整合同一维度进行求和。 ⏎ 问题群聊已创建，可点击进群关注问题解决进展 ⏎ [点击进群](https://applink.larkoffice.com/client/chat/chatter/add_by_link?link_token=fbfn1bdb-8f7c-4eb5-9e96-9aab816ad1f7) ⏎ </card>
+  [2026-10-14 01:20] (user/邱治钧) <text> del=False :: @火山引擎-售后智能助手 编辑仪表盘一段时间后页面内存增高，最终溢出
+  [2026-10-14 01:20] (app/火山引擎-售后智能助手) <interactive> del=False :: <card title="问题进展【处理中】"> ⏎ 【问题描述】： ⏎  ⏎ 编辑仪表盘一段时间后页面内存增高，最终溢出 ⏎ 问题群聊已创建，可点击进群关注问题解决进展 ⏎ [点击进群](https://applink.larkoffice.com/client/chat/chatter/add_by_link?link_token=992j74f4-85ad-4e77-8b6e-79f05f46c67f) ⏎ </card>
+  [2026-10-14 06:02] (user/邱治钧) <text> del=False :: @火山引擎-售后智能助手 网格线开关自动关闭
+  [2026-10-14 06:02] (app/火山引擎-售后智能助手) <interactive> del=False :: <card title="问题进展【处理中】"> ⏎ 【问题描述】： ⏎  ⏎ 仪表盘网格线开关自动关闭 ⏎ 问题群聊已创建，可点击进群关注问题解决进展 ⏎ [点击进群](https://applink.larkoffice.com/client/chat/chatter/add_by_link?link_token=0bep0fd2-c4d0-4994-9d8d-761233d21e62) ⏎ </card>
+====================================================================================================
+CHAT: 账号安全中心 | p2p | oc_482b4e04c88fd30c5e96011b890790af | 5 msgs
+  [2026-10-14 02:41] (app/账号安全中心) <interactive> del=False :: <card title="安全登录通知"> ⏎ **登录应用**：网页版 ⏎ **登录时间**：2026年10月14日 10:41:21 (CST) ⏎ **参考地点**：苏州(IP 地址：222.92.231.44) ⏎ **登录设备**：Chrome / Android ⏎  ⏎ 如非本人操作，请[退出该登录设备](https://applink.feishu.cn/client/passport/account_center?path=device_management)，或修改登录密码，以确保账号安全。 ⏎ </card>
+  [2026-10-14 02:41] (app/账号安全中心) <interactive> del=False :: <card title="授权操作通知"> ⏎ **授权应用**：零信任 ⏎ **授权时间**：2026年10月14日 10:41:25 (CST) ⏎ **授权设备**：Chrome / Android ⏎    **授权 IP**：222.92.231.44 ⏎  ⏎ 如非本人操作，请[撤销对该应用的历史授权](https://applink.feishu.cn/client/passport/account_center?path=apply_authorization)以确保数据安全。 ⏎ </card>
+  [2026-10-14 02:41] (app/账号安全中心) <interactive> del=False :: <card title="授权操作通知"> ⏎ **授权应用**：高压接线防反检测 ⏎ **授权时间**：2026年10月14日 10:41:32 (CST) ⏎ **授权设备**：Chrome / Android ⏎    **授权 IP**：222.92.231.44 ⏎  ⏎ 如非本人操作，请[撤销对该应用的历史授权](https://applink.feishu.cn/client/passport/account_center?path=apply_authorization)以确保数据安全。 ⏎ </card>
+  [2026-10-14 03:19] (app/账号安全中心) <interactive> del=False :: <card title="授权操作通知"> ⏎ **授权应用**：高压接线防反检测 ⏎ **授权时间**：2026年10月14日 11:19:54 (CST) ⏎ **授权设备**：Chrome / Windows ⏎    **授权 IP**：222.92.231.37 ⏎  ⏎ 如非本人操作，请[撤销对该应用的历史授权](https://applink.feishu.cn/client/passport/account_center?path=apply_authorization)以确保数据安全。 ⏎ </card>
+  [2026-10-14 04:54] (app/账号安全中心) <interactive> del=False :: <card title="安全登录通知"> ⏎ **登录应用**：云文档 ⏎ **登录时间**：2026年10月14日 12:54:14 (CST) ⏎ **参考地点**：苏州(IP 地址：222.92.231.37) ⏎ **登录设备**：Chrome / Windows ⏎  ⏎ 如非本人操作，请[退出该登录设备](https://applink.feishu.cn/client/passport/account_center?path=device_management)，或修改登录密码，以确保账号安全。 ⏎ </card>
+====================================================================================================
+CHAT: 103120-ISC数字化使能中心 | group | oc_d66a5da4c22743c4fd1b510ed02913d1 | 5 msgs
+  [2026-10-14 06:25] (user/商轩赫) <text> del=False :: https://inovance.feishu.cn/wiki/V3GTwzdXTizNnCkyvIxc8ahGnQe
+  [2026-10-14 06:26] (user/商轩赫) <text> del=False :: 各位伙伴，经各位主管与政委团队商议，计划11月6日（周五）举行数字化使能中心下半年团建，为期两天 ⏎ 1.11月6日下午1:45举行沙漠掘金拓展培训，中心全员参与，请各位预定会议时避开此时间段   ⏎ 2.11月7日为室外活动，大家可选参与，投票通道后续发出 ⏎ 详情请各位阅读团建方案哈[致敬]
+  [2026-10-14 07:05] (user/商轩赫) <text> del=False :: https://inovance.feishu.cn/share/base/form/shrcntmP0Sq8jnl4bWsYz4AQHQb
+  [2026-10-14 13:21] (user/万向阳) <text> del=False :: 秋意渐浓，万物丰盈，数字化建设正处于攻坚阶段。为在繁忙的工作之余丰富中心团队生活、增进伙伴交流，本次团建安排丰富：周五下午沙漠掘金，一场考验勇气、智慧与团队协作的极限挑战；周六户外出行，赏秋景、品美味。大家暂别忙碌，积极参与，沉浸式体验！
+  [2026-10-14 14:38] (user/张巍) <text> del=False :: 这个游戏还是非常有趣的，既有策略性，又体现团队协作，建议全员参与
+====================================================================================================
+CHAT: 【AI】济南服务器10.76.248.68网络权限开通沟通群 | group | oc_dcdc0598136d73012d3f6d26760e368d | 5 msgs
+  [2026-10-14 01:03] (user/程浩) <text> del=False :: @牛振东 做好解析了
+  [2026-10-14 01:03] (user/程浩) <text> del=False :: 你试试
+  [2026-10-14 01:45] (user/牛振东) <text> del=False :: 无法加载网页 ⏎ 网页加载过程中出现了错误，错误码：net::ERR_TIMED_OUT（-8）
+  [2026-10-14 01:47] (user/程浩) <post> del=False :: ![Image](img_v3_0216f_00976ecf-4a3e-405e-a504-91840cb90d6g) ⏎ @熊暾 熊总，我这边cname做好了
+  [2026-10-14 01:47] (user/程浩) <text> del=False :: 你帮排查下原因的
+====================================================================================================
+CHAT: 数据应用小组工作群 | group | oc_76af1498f71d7cc0460c263c84f1fa61 | 4 msgs
+  [2026-10-14 00:45] (app/数据开发项目) <interactive> del=False :: <card title="【需求】待处理清单，请关注"> ⏎ @everyone 待处理清单如下： ⏎ | 需求类型 | 所属看板/报表名称 | 所属模块/页面 | 现状描述 | 期望效果 | 期望完成时间 | 需求提出人 | 访问链接 | 开发负责人 | 计划开始时间 | 计划完成时间 | 需求状态 | 产品负责人 | ⏎ |------|------|------|------|------|------|------|------|------|------|------|------|------| ⏎ | 新增功能 | 供应链设备管理驾驶舱 | OEE | 当前设备驾驶舱缺少南京OEE数据 | 基于DAAS平台已开发完成的DWD表，开发ADS建模和UI开发，补充OEE南京工厂数据 | 2026/09/30 |  |  |  |  |  | 已提交 |  | ⏎ | 逻辑调整 | 
+  [2026-10-14 01:05] (app/数据开发项目) <interactive> del=False :: <card title="【问题清单】待处理清单，请关注"> ⏎ @everyone 待处理清单如下： ⏎ | 问题分类 | 业务域 | 问题描述 | 提出人 | 处理人 (人员 ) | ⏎ |------|------|------|------|------| ⏎ | 数据质量 | 采购 | 许多供应商在SRM系统上线前已开始合作，取自SRM的合作起止时间存在严重偏差 |  |   | ⏎ | 数据开发问题 | 采购 | 实体组织有重复，07040019 FPGA 就重复23次。具体重复原因需要确认 |  |  | ⏎ | 数据质量问题 | 采购 | 制造商名称数据质量差 |  |  | ⏎ [去处理](https://inovance.feishu.cn/base/AnH9bCdGKaLWa8silwccgTqLn8b?table=tbllkX353ZGArMhK&view=vewF
+  [2026-10-14 01:05] (app/数据开发项目) <interactive> del=False :: <card title="【平台问题】待处理清单，请关注"> ⏎ @everyone 待处理清单如下： ⏎ | 问题编号 | 问题分类 | 问题描述 | 提出人 | 处理人 | ⏎ |------|------|------|------|------| ⏎ | P-Datawind-2609-0003 | Datawind平台功能问题 | 在DataWind仪表盘的图表编辑页面点选择替换数据集，出现这个报错，导致无法替换数据集 |  |  | ⏎ | P-Datawind-2609-0001 | Datawind平台功能问题 | 大屏字体异动加载，进入大屏后指标卡字体会出现显示原始默认字体的情况，待10s左右后会恢复到预设的字体 |  |  | ⏎ [去处理](https://inovance.feishu.cn/base/AnH9bCdGKaLWa8silwccgTqLn8b?tabl
+  [2026-10-14 03:40] (app/数据应用需求收集表) <interactive> del=False :: <card title="【新增功能需求验收完成】——供应链设备管理驾驶舱"> ⏎ **  💝💝  合作愉快！期待下次相遇！💝💝** ⏎  ⏎ **所属看板**：供应链设备管理驾驶舱 ⏎ **期望效果**：在OEE数据穿透展示明细时，明细增加一列对应位置、班次、日期的OEE数据列 ⏎ **访问链接**：[https://ssda.inovance.com/bi/#/dashboard/36689?appId=3&sheetId=1209](https://ssda.inovance.com/bi/#/dashboard/36689?appId=3&sheetId=1209) ⏎ [查看效果](https://ssda.inovance.com/bi/#/dashboard/36689?appId=3&sheetId=1209) ⏎ [查看详情](https://inovance.feish
+====================================================================================================
+CHAT: 高压测试电缆接线防反检测专项沟通群 | group | oc_b049444c61ce7c925f82a99cb6ef20ec | 4 msgs
+  [2026-10-14 03:22] (user/牛振东) <post> del=False :: @谢石 Hi 谢工，大家可以 **工作台-添加应用**-“高压接线防反检测” 登录， ⏎ 1. <u>**需要提供一个名单，开通权限访问。**</u> ⏎ ![Image](img_v3_0216f_55cc488f-76ac-4e8d-aa07-951976b20bfg)
+  [2026-10-14 05:36] (user/谢石) <text> del=False :: <p>@周志毅 志毅，先提供你链板线1和2的测试人员姓名，加上你的</p>
+  [2026-10-14 05:38] (user/周志毅) <text> del=False :: 蒲旭东、文亚鑫、徐壮、普龙杰、李双云、赵力、张立龙、周志毅 ⏎ 多加几个，人员请假时会有顶岗
+  [2026-10-14 05:38] (user/谢石) <text> del=False :: @牛振东 牛工，如下： ⏎ 柜机制造工程：谢石，张金超，龚有铭 ⏎ 柜机制造部：周志毅，蒲旭东、文亚鑫、徐壮、普龙杰、李双云、赵力、张立龙
+====================================================================================================
+CHAT: DaaS平台使用问题沟通群 | group | oc_67e782171a8cc9945c405ac4555929fc | 4 msgs
+  [2026-10-14 01:23] (user/丁婷婷) <post> del=False :: ![Image](img_v3_0216f_68c6bbcc-efc5-4d8d-9ef5-1fdb9a40bf3g) ⏎ @方智 方工，这个逻辑模型这里建模的序号的顺序不对，是不是能修正一下自动按顺序填充
+  [2026-10-14 01:25] (user/方智) <text> del=False :: @丁婷婷 丁工，这个页面能截大一点吗，这个是哪个关系模型？
+  [2026-10-14 01:26] (user/丁婷婷) <image> del=False :: [Image: img_v3_0216f_57d87128-c537-4115-a50b-8bbf53d6db0g]
+  [2026-10-14 01:26] (user/丁婷婷) <text> del=False :: @方智 要不我和你通话，给你分享一下屏幕
+====================================================================================================
+CHAT: 汇川×字节-DataWind沟通-已完成-智能体分析内容有bug-业务专家服务中 | group | oc_855737964ff58b07270ca0a632fd40a0 | 4 msgs
+  [2026-10-14 04:10] (app/火山引擎-售后智能助手) <interactive> del=False :: <card title="客户确认问题是否解决" subtitle="已解决"> ⏎ **【问题描述】：** 智能体分析内容有bug ⏎ **【处理结果】：** 已解决 用户已确认，本次问题处理完成 ⏎ **【解决方案】：** <p>经排查是模型幻觉导致的问题，简单总结切V2后验证没问题，目前已解决。</p> ⏎ **【操作时间】：** 2026-10-14 12:11 ⏎ [✓ 已解决 ✗] [未解决 ✗] ⏎ </card>
+  [2026-10-14 04:10] (-/-) <system> del=False :: 火山引擎-售后智能助手 updated the group name from "{old_group_name}" to "{group_name}".
+  [2026-10-14 04:11] (app/火山引擎-售后智能助手) <interactive> del=False :: <card title="温馨提示"> ⏎ @赵秦雨(ou_9e11bda108a45a8f2631ebf2a0e5a531)确认问题已解决，如有新问题可在汇川×字节-DataWind沟通群中@ou_a681558363cb29ed14167282580ad571再次提问 ⏎ 本群将在30天后解散，解散后可在汇川×字节-DataWind沟通底部菜单中查看问题服务记录 ⏎ </card>
+  [2026-10-14 04:11] (-/-) <system> del=False :: 火山引擎-售后智能助手 updated the group name from "{old_group_name}" to "{group_name}".
+====================================================================================================
+CHAT: 开发者小助手 | p2p | oc_49bf15fba88f04ab44153d10be82d698 | 4 msgs
+  [2026-10-14 02:45] (app/开发者小助手) <interactive> del=False :: <card title="应用已提交审批"> ⏎ 你的应用“高压接线防反检测”已提交“汇川集团”企业管理员审批。审批进展将通过“开发者小助手”机器人推送给你，请及时关注。 ⏎ [审核流程说明](https://open.feishu.cn/document/home/intro-to-custom-app-review?lang=zh-CN) ⏎ </card>
+  [2026-10-14 02:49] (app/开发者小助手) <interactive> del=False :: <card title="应用审批通过，已发布成功"> ⏎ 你的应用“高压接线防反检测”已通过管理员审批并发布成功！ ⏎ [打开应用] ⏎ </card>
+  [2026-10-14 03:05] (app/开发者小助手) <interactive> del=False :: <card title="应用已提交审批"> ⏎ 你的应用“高压接线防反检测”已提交“汇川集团”企业管理员审批。审批进展将通过“开发者小助手”机器人推送给你，请及时关注。 ⏎ [审核流程说明](https://open.feishu.cn/document/home/intro-to-custom-app-review?lang=zh-CN) ⏎ </card>
+  [2026-10-14 03:11] (app/开发者小助手) <interactive> del=False :: <card title="应用审批通过，已发布成功"> ⏎ 你的应用“高压接线防反检测”已通过管理员审批并发布成功！ ⏎ [打开应用] ⏎ </card>
+====================================================================================================
+CHAT: 集团公告栏 | p2p | oc_d934e59dac237d7748572943f0480fec | 3 msgs
+  [2026-10-14 08:42] (app/集团公告栏) <interactive> del=False :: <card title="汇川ISC运营管理中心〔2026〕62号 关于2026年9月安全绩效考核结果的通报"> ⏎ 📝 创建时间：2026-10-14 16:42  ⏎ 创建人：徐会 ⏎ --- ⏎ [查看详情](https://oa.inovance.com/sys/notify/sys_notify_todo/sysNotifyTodo.do?method=view&fdId=1a139937768b0f60e75fc4d4e3086e48&oauth=fs2ekp) ⏎ </card>
+  [2026-10-14 08:57] (app/集团公告栏) <interactive> del=False :: <card title="汇川书院〔2026〕99号 关于直驱产品技术金种子训练营招生的通知"> ⏎ 📝 创建时间：2026-10-14 16:55  ⏎ 创建人：周含璐 ⏎ --- ⏎ [查看详情](https://oa.inovance.com/sys/notify/sys_notify_todo/sysNotifyTodo.do?method=view&fdId=1a1399fa11bcf55c1ae41244f488fa33&oauth=fs2ekp) ⏎ </card>
+  [2026-10-14 09:07] (app/集团公告栏) <nonsupport> del=True :: [nonsupport]
+====================================================================================================
+CHAT: ISC-岳阳预测性维护需求对接 | group | oc_78de37ce40d8666b0d80bc6e994a3fd9 | 3 msgs
+  [2026-10-14 08:35] (user/李岳林) <post> del=False :: @葛军 葛工，传感器好了、你这边空了可以远程试下，端口号改成8899 ⏎ ![Image](img_v3_0216f_8c0f3dbc-7423-41a4-8a24-9594e4019f4g)
+  [2026-10-14 08:44] (user/葛军) <text> del=False :: @李岳林  李工，远程软件好像关掉了
+  [2026-10-14 08:50] (user/李岳林) <text> del=False :: @葛军 葛工，打开了，密码是111111
+====================================================================================================
+CHAT: OA待阅中心 | p2p | oc_55af2558e29a16663a68b45fd8b98bf1 | 2 msgs
+  [2026-10-14 01:49] (app/OA待阅中心) <interactive> del=False :: <card title="您提交的流程已被审批通过，请查阅：牛振东-10068181提交的外出公干"> ⏎ 📝 申请时间：2026-10-14 09:49  ⏎ 申请人：牛振东 ⏎ --- ⏎ [查看详情](https://oa.inovance.com/sys/notify/sys_notify_todo/sysNotifyTodo.do?method=view&fdId=1a13819ecd9bcbc60d715fe47f69d111&oauth=fs2ekp) ⏎ </card>
+  [2026-10-14 02:53] (app/OA待阅中心) <interactive> del=False :: <card title="您提交的流程已被审批通过，请查阅：IT基础设施类资源需求（需求名称：申请济南接线防反检测系统对外发布，仅允许飞书端访问）"> ⏎ 📝 申请时间：2026-10-14 10:53  ⏎ 申请人：牛振东 ⏎ --- ⏎ [查看详情](https://oa.inovance.com/sys/notify/sys_notify_todo/sysNotifyTodo.do?method=view&fdId=1a13854a93f93ec788093c5463590066&oauth=fs2ekp) ⏎ </card>
+====================================================================================================
+CHAT: 日历助手 | p2p | oc_e68a4121bdf58c3f0336e88f56dbf0dd | 2 msgs
+  [2026-10-14 00:21] (app/日历助手) <calendar> del=False :: <calendar_invite> ⏎ AI应用交流 -德勤 ⏎ 2026-10-14 02:00:00 ~ 2026-10-14 04:00:00 ⏎ </calendar_invite>
+  [2026-10-14 03:40] (app/日历助手) <calendar> del=False :: <calendar_invite> ⏎ 济南订单异常AI项目业务解决方案内部对齐 ⏎ 2026-10-14 09:00:00 ~ 2026-10-14 09:30:00 ⏎ </calendar_invite>
+====================================================================================================
+CHAT: 【Claw】牛振东的AI架构师群聊 | group | oc_dd2901f34180808bc50b20d2493210f4 | 2 msgs
+  [2026-10-14 00:33] (app/牛振东的InoClaw_AI架构师) <interactive> del=False :: <card title="🤖 AI 科技早报 【InoClaw】"> ⏎ **🤖 AI 科技早报 【InoClaw】** ⏎ 📅 发布日期：2026-10-14 ⏎  ⏎ 📰 今日共 8 条 AI 要闻 ⏎ ━━━━━━━━━━━━━━━━ ⏎ **1. OpenAI GPT-6 全量上线，推出 Intelligent UI 可视化交互界面** ⏎ 📌 来源：OpenAI/微博/搜狐 | 🕐 2026-10-08 ⏎ OpenAI 向全球 ChatGPT 用户推送 GPT-6 及 Intelligent UI 功能，标志着 AI 交互从纯文本迈向可视化操作。模型可根据问题自主生成图表、按钮、计算器等可交互组件，实现'边思考边输出'，首字响应速度提升 44%。覆盖超 12 亿周活用户，付费版搭载 GPT-6 Sol，免费版使用 GPT-6 Luna。 ⏎ --- ⏎ **2. Anthrop
+  [2026-10-14 00:36] (app/牛振东的InoClaw_AI架构师) <interactive> del=False :: <card title="AI 科技早报 · 2026-10-14【Qoder】"> ⏎ > 过去 24 小时 AI 领域最重要的 5 条动态 · 由 Qoder 自动整理---## 1. Character.AI 申请破产保护：成立仅五年，迪士尼 2000 万美元接手部分资产**来源**：TechCrunch | **时间**：2026-10-13 ⏎  ⏎ 互动聊天机器人平台 Character.AI 于 10 月 13 日申请 Chapter 11 破产保护，并同意以 2000 万美元向迪士尼出售部分资产。据 TechCrunch，平台在破产程序期间仍将继续运营。这家成立仅五年的公司是 AI 陪伴/角色扮演聊天赛道的开创者之一，如今核心资产以 2000 万美元级别的价格出手，与其巅峰期的独角兽地位形成巨大落差。具体的债务与资产处置细节有待破产文件进一步披露，但「无自研模型护城河的明星
+====================================================================================================
+CHAT: 牛振东的智能助手 | p2p | oc_0d24d8023caef438d91aefedf77410b8 | 2 msgs
+  [2026-10-13 23:42] (app/牛振东的智能助手) <interactive> del=False :: <card title="Nomi 心跳检查报告 - 2026-10-14 07:40"> ⏎ ⏰ **今日日程** ⏎ | 时间 | 会议 | 组织者 | ⏎ |------|------|--------| ⏎ | 09:00-09:30 | 济南工单异常AI项目每日例会 | 沈霜 | ⏎ | 10:00-11:00 | 开发 | 牛振东 | ⏎ | 14:00-16:00 | 开发 | 牛振东 | ⏎  ⏎ 📋 **待办任务状态** ⏎ - ✅ 今日到期：无 ⏎ - ⚠️ 逾期任务：开发看板数据更新（10-12 逾期2天，另有多期） ⏎ - ⭐ 最近到期：10-19（5天后） ⏎ --- ⏎ 📝 Nomi 主动汇报 🤖 ⏎ </card>
+  [2026-10-14 05:12] (app/牛振东的智能助手) <interactive> del=False :: <card title="Nomi 心跳检查报告 - 2026-10-14 13:10"> ⏎ ⏰ **今日日程** ⏎ | 时间 | 会议 | 组织者 | ⏎ |------|------|--------| ⏎ | 14:00-16:00 | 开发 | 牛振东 | ⏎ | 17:00-17:30 | 济南订单异常AI项目业务解决方案内部对齐 | 沈霜 | ⏎  ⏎ 📋 **待办任务状态** ⏎ - ✅ 今日到期：无 ⏎ - ⚠️ 逾期任务：开发看板数据更新（10-12 逾期2天，另有多期） ⏎ - ⭐ 最近到期：10-19（5天后） ⏎ --- ⏎ 📝 Nomi 主动汇报 🤖 ⏎ </card>
+====================================================================================================
+CHAT: 驱控中心【SOP AI自动生成项目】沟通群 | group | oc_9ebf1608d5be3a0561147e4e68c65dca | 2 msgs
+  [2026-10-14 11:00] (user/彭广胜) <file> del=False :: <file key="file_v3_0016f_9cf226ac-1412-4d8d-b897-7c0bb17bdfeg" name="【内部公开】编码属性信息261013.xlsx"/>
+  [2026-10-14 11:03] (user/彭广胜) <post> del=False :: @金垠博 金老师 这是昨天答疑会上提到的，整机编码的物流属性与辨识属性（辨识属性只有 **功率**-**电压等级(V)**-**是否带制动(是/否**)-**外形规格）  **相关资料如上 （含大一车间所有编码）  请查收 ⏎ ![Image](img_v3_0216f_c1028862-1c4c-442b-8cae-616e978dbd3g)
+====================================================================================================
+CHAT: 我的HR自助 | p2p | oc_2c15b3e6ae2348dc175050cc587ab382 | 2 msgs
+  [2026-10-14 00:29] (app/我的HR自助) <interactive> del=False :: <card title="打卡记录"> ⏎ **账号** ⏎ 10068181 ⏎  ⏎ **时间** ⏎ 2026-10-14 08:29:18 ⏎  ⏎ **地点** ⏎ B5-1F-KQ04裙1F西侧考勤 ⏎ 📝 10分钟内的多次考勤不会重复提醒 ⏎ </card>
+  [2026-10-14 01:10] (app/我的HR自助) <text> del=False :: 您好：系统检测到您2026-10-12考勤存在旷工，请及时处理。
+====================================================================================================
+CHAT: 审批 | p2p | oc_8958ad726246ddadf242c96abf0e16aa | 1 msgs
+  [2026-10-14 02:47] (app/审批) <interactive> del=False :: <card title="⏰ 每日待办提醒：“IT基础设施类资源需求申请流程” 待处理"> ⏎ **申请人** ⏎ @牛振东(ou_635008cc2affc45d23de666f2e7e7446) ⏎ **审批事由** ⏎ [查看详情](https://applink.feishu.cn/client/approval/home?formType=other&mode=appCenter&appId=cli_9cb844403dbb9108&width=1136&height=750&path=pc%2Fpages%2Fin-process%2Findex%3FinstanceId%3D7695657754559958308%26detailClickType%3Dbutton) ⏎ </card>
+====================================================================================================
+CHAT: 待办中心 | p2p | oc_73c51870098eb8206066aa23e68ba10e | 1 msgs
+  [2026-10-14 01:26] (app/待办中心) <interactive> del=False :: <card title="温馨提示：您在OA系统中共有【1】条未处理的待办任务,请及时处理"> ⏎ 📝 提醒日期：2026-10-14  ⏎ 统计时间：9:00 ⏎ --- ⏎ [查看详情](https://oa.inovance.com/other/unify/todo/app/infoFs.jsp?&oauth=fs2ekp) ⏎ </card>
+====================================================================================================
+CHAT: 汇川学习平台 | p2p | oc_c8be723e7f371a1bff116b79aeace20b | 1 msgs
+  [2026-10-14 08:56] (app/汇川学习平台) <interactive> del=False :: <card title="【通用素质】善用逻辑思维，实现高效沟通-17 界定问题"> ⏎ 🖼️ Image(img_key:img_v3_0216f_c3893843-ab18-485f-8a02-d95d723020fg) ⏎ 尊敬的 牛振东，您好！ ⏎ 有新课程上传到平台上，您可以去学习哦！ ⏎ 课程名称：【通用素质】善用逻辑思维，实现高效沟通-17 界定问题— 找准差距，开启问题解决第一步 ⏎ 点击立即学习，快来提升职场竞争力吧！ ⏎ </card>
+====================================================================================================
+CHAT: 汇川×字节-DataWind沟通-处理中-caiyuchen.0520-大屏字体问题-业务专家服务中 | group | oc_5a2d300e30b51206740e243ac0562a05 | 1 msgs
+  [2026-10-14 03:52] (-/-) <system> del=False :: 火山引擎-售后智能助手 invited 殷磊 to the group. New members can view all chat history.
+====================================================================================================
+CHAT: AI IDE 用户群 | group | oc_37e71878162e6d5b1124133179b2b0c4 | 1 msgs
+  [2026-10-14 06:06] (user/张兴建) <post> del=False :: ![Image](img_v3_0216f_54c9db84-8c21-489a-84ad-db77f6cbf8eg) ⏎ @葛士祺 token用完了
+====================================================================================================
+CHAT: 问卷调查 | p2p | oc_e7b315fb63ed0255a3f284d54cc4af11 | 1 msgs
+  [2026-10-14 04:00] (app/问卷调查) <interactive> del=False :: <card title="未完成问卷：（选区1）职工代表选举选票"> ⏎ 您的问卷：“（选区1）职工代表选举选票”还未完成，请点击进入 ⏎ --- ⏎ [查看详情](https://applink.feishu.cn/client/web_app/open?appId=cli_a3d13b8d6eb8100b&lk_target_url=https%3A%2F%2Fwork.inovance.com%2Fapps%2Finoa%2Finvest%2Fhome%3Fid%3D26409) ⏎ </card>

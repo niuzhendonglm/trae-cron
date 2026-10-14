@@ -1,0 +1,110 @@
+{
+  "manifest_version": "v1",
+  "format": "ndjson",
+  "base_token": "KezfbQ2fDaNBonskSTZcM3YVnWf",
+  "table_id": "tblrHaPTUI8x71ot",
+  "rev": 396,
+  "timezone": "Asia/Shanghai",
+  "query_context": {
+    "field_scope": "all_fields",
+    "record_scope": "filtered_records"
+  },
+  "requested_limit": 2000,
+  "records_count": 66,
+  "page_count": 1,
+  "has_more": false,
+  "record_file": "/workspace/lark_ops/qa_yesterday.ndjson",
+  "record_file_size_bytes": 62984,
+  "manifest_file": "/workspace/lark_ops/qa_yesterday.manifest.json",
+  "columns": {
+    "AI回复": {
+      "field_id": "fldtSg9R3M",
+      "field_type": "text",
+      "physical_type": "string|null",
+      "stats": {
+        "null_count": 53,
+        "max_length": 550
+      },
+      "example": "建议按以下方式推动反馈落地：1) 明确反馈内容：将需要反馈的问题整理为「现象 + 复现步骤 + 期望结果 + 影响范围」四段式，避免多位同学重复描述；2) 指定单一责任人：@ 多位同学时容易出现责任分散，建议明确一位主责人（如产品/研发接口人），其余为协同",
+      "example_truncated": true
+    },
+    "Answer": {
+      "field_id": "fldGVRHmev",
+      "field_type": "text",
+      "physical_type": "string|null",
+      "stats": {
+        "null_count": 0,
+        "max_length": 677
+      },
+      "example": "[图片]"
+    },
+    "Question": {
+      "field_id": "flduTpz0TC",
+      "field_type": "text",
+      "physical_type": "string|null",
+      "stats": {
+        "null_count": 0,
+        "max_length": 231
+      },
+      "example": "[图片]"
+    },
+    "record_id": {
+      "physical_type": "string",
+      "stats": {
+        "max_length": 14
+      },
+      "example": "recvxYPoupEJ36"
+    },
+    "回复人": {
+      "field_id": "fldL8QOn5x",
+      "field_type": "text",
+      "physical_type": "string|null",
+      "stats": {
+        "null_count": 0,
+        "max_length": 13
+      },
+      "example": "高旋"
+    },
+    "提问人": {
+      "field_id": "fldY017GaS",
+      "field_type": "text",
+      "physical_type": "string|null",
+      "stats": {
+        "null_count": 0,
+        "max_length": 10
+      },
+      "example": "May"
+    },
+    "文本": {
+      "field_id": "fldyixshzh",
+      "field_type": "text",
+      "physical_type": "string|null",
+      "stats": {
+        "null_count": 0,
+        "max_length": 309
+      },
+      "example": "应用名称叫啥"
+    },
+    "问题日期": {
+      "field_id": "fldVyCiJ2m",
+      "field_type": "datetime",
+      "physical_type": "string|null",
+      "stats": {
+        "null_count": 0,
+        "min": "2026-10-13T00:33:00.000+08:00",
+        "max": "2026-10-14T08:00:00.000+08:00"
+      },
+      "example": "2026-10-14T08:00:00.000+08:00"
+    },
+    "问题类型": {
+      "field_id": "fldZ8OCMiW",
+      "field_type": "text",
+      "physical_type": "string|null",
+      "stats": {
+        "null_count": 0,
+        "max_length": 4
+      },
+      "example": "沟通"
+    }
+  }
+}

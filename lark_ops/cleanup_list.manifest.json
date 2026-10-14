@@ -1,0 +1,59 @@
+{
+  "manifest_version": "v1",
+  "format": "ndjson",
+  "base_token": "KezfbQ2fDaNBonskSTZcM3YVnWf",
+  "table_id": "tblmbeQPFVKFR2Tb",
+  "rev": 61,
+  "timezone": "Asia/Shanghai",
+  "query_context": {
+    "field_scope": "selected_fields",
+    "record_scope": "filtered_records"
+  },
+  "requested_limit": 2000,
+  "records_count": 15,
+  "page_count": 1,
+  "has_more": false,
+  "record_file": "/workspace/lark_ops/cleanup_list.ndjson",
+  "record_file_size_bytes": 2531,
+  "manifest_file": "/workspace/lark_ops/cleanup_list.manifest.json",
+  "columns": {
+    "record_id": {
+      "physical_type": "string",
+      "stats": {
+        "max_length": 16
+      },
+      "example": "reczz28NQ0bYU2oC"
+    },
+    "会话名称": {
+      "field_id": "fldJmdIXFN",
+      "field_type": "text",
+      "physical_type": "string|null",
+      "stats": {
+        "null_count": 0,
+        "max_length": 20
+      },
+      "example": "__TEST__"
+    },
+    "发送时间": {
+      "field_id": "fldXHvmm4n",
+      "field_type": "datetime",
+      "physical_type": "string|null",
+      "stats": {
+        "null_count": 2,
+        "min": "2026-10-14T08:48:00.000+08:00",
+        "max": "2026-10-14T13:00:00.000+08:00"
+      },
+      "example": "2026-10-14T08:48:00.000+08:00"
+    },
+    "消息ID": {
+      "field_id": "fld4pWFTiC",
+      "field_type": "text",
+      "physical_type": "string|null",
+      "stats": {
+        "null_count": 3,
+        "max_length": 35
+      },
+      "example": "om_x100b63d9c98094b4cf8d003086c44dd"
+    }
+  }
+}

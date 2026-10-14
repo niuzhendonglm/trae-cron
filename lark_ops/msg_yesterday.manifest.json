@@ -1,0 +1,38 @@
+{
+  "manifest_version": "v1",
+  "format": "ndjson",
+  "base_token": "KezfbQ2fDaNBonskSTZcM3YVnWf",
+  "table_id": "tblmbeQPFVKFR2Tb",
+  "rev": 56,
+  "timezone": "Asia/Shanghai",
+  "query_context": {
+    "field_scope": "selected_fields",
+    "record_scope": "filtered_records"
+  },
+  "requested_limit": 2000,
+  "records_count": 397,
+  "page_count": 1,
+  "has_more": false,
+  "record_file": "/workspace/lark_ops/msg_yesterday.ndjson",
+  "record_file_size_bytes": 31760,
+  "manifest_file": "/workspace/lark_ops/msg_yesterday.manifest.json",
+  "columns": {
+    "record_id": {
+      "physical_type": "string",
+      "stats": {
+        "max_length": 14
+      },
+      "example": "recvxZvabJaIe2"
+    },
+    "消息ID": {
+      "field_id": "fld4pWFTiC",
+      "field_type": "text",
+      "physical_type": "string|null",
+      "stats": {
+        "null_count": 0,
+        "max_length": 35
+      },
+      "example": "om_x100b63e83d3a0cb8b1235933d1beb90"
+    }
+  }
+}

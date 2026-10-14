@@ -1,0 +1,68 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "has_more": false,
+    "messages": [
+      {
+        "chat_id": "oc_9ebf1608d5be3a0561147e4e68c65dca",
+        "content": "\u003cfile key=\"file_v3_0016f_9cf226ac-1412-4d8d-b897-7c0bb17bdfeg\" name=\"【内部公开】编码属性信息261013.xlsx\"/\u003e",
+        "create_time": "2026-10-14 11:00",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_9ebf1608d5be3a0561147e4e68c65dca\u0026position=223",
+        "message_id": "om_x100b63c243b7eca0cfb98ee1423baca",
+        "message_position": "223",
+        "msg_type": "file",
+        "sender": {
+          "id": "ou_c25d1c60bb94507fc804db29af3f672a",
+          "id_type": "open_id",
+          "name": "彭广胜",
+          "sender_i18n_names": {
+            "en_us": "pengguangsheng"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_9ebf1608d5be3a0561147e4e68c65dca",
+        "content": "@金垠博 金老师 这是昨天答疑会上提到的，整机编码的物流属性与辨识属性（辨识属性只有 **功率**-**电压等级(V)**-**是否带制动(是/否**)-**外形规格）  **相关资料如上 （含大一车间所有编码）  请查收\n![Image](img_v3_0216f_c1028862-1c4c-442b-8cae-616e978dbd3g)",
+        "create_time": "2026-10-14 11:03",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_c6d4bbac2c2c99263c3df4d9d488a79a",
+            "key": "@_user_1",
+            "name": "金垠博"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_9ebf1608d5be3a0561147e4e68c65dca\u0026position=224",
+        "message_id": "om_x100b63c2593c70a4cd16a4251fe2718",
+        "message_position": "224",
+        "msg_type": "post",
+        "sender": {
+          "id": "ou_c25d1c60bb94507fc804db29af3f672a",
+          "id_type": "open_id",
+          "name": "彭广胜",
+          "sender_i18n_names": {
+            "en_us": "pengguangsheng"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-14 11:03",
+        "updated": true
+      }
+    ],
+    "page_token": "",
+    "total": 2
+  },
+  "meta": {
+    "pagination": {
+      "complete": true,
+      "pages": 1,
+      "items": 2
+    }
+  }
+}

@@ -1,0 +1,580 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "has_more": false,
+    "messages": [
+      {
+        "chat_id": "oc_9d84fb68e7e27bd3944a15327ab7cd19",
+        "content": "南京工厂的SFM 穆潇和伟宇搞得定吗？",
+        "create_time": "2026-10-14 03:35",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_9d84fb68e7e27bd3944a15327ab7cd19\u0026position=664",
+        "message_id": "om_x100b63dbc6cddcb8b073025c8314085",
+        "message_position": "664",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_12812c1a73cd277651c05fb1d2192e92",
+          "id_type": "open_id",
+          "name": "何洁",
+          "sender_i18n_names": {
+            "en_us": "hejie"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-14 03:35",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_9d84fb68e7e27bd3944a15327ab7cd19",
+        "content": "@_all",
+        "create_time": "2026-10-14 03:35",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_9d84fb68e7e27bd3944a15327ab7cd19\u0026position=665",
+        "message_id": "om_x100b63dbc6b03138ce7d7e4e5807ec4",
+        "message_position": "665",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_12812c1a73cd277651c05fb1d2192e92",
+          "id_type": "open_id",
+          "name": "何洁",
+          "sender_i18n_names": {
+            "en_us": "hejie"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_9d84fb68e7e27bd3944a15327ab7cd19",
+        "content": "怎么又让我们这边做了",
+        "create_time": "2026-10-14 03:35",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_9d84fb68e7e27bd3944a15327ab7cd19\u0026position=666",
+        "message_id": "om_x100b63dbc78c28b4c13274c66f28fd9",
+        "message_position": "666",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_c8afe8aab3f80a020c356c0ca46a12ce",
+          "id_type": "open_id",
+          "name": "刘宏宇",
+          "sender_i18n_names": {
+            "en_us": "liuhongyu"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_9d84fb68e7e27bd3944a15327ab7cd19",
+        "content": "现在还没有让我们这边做",
+        "create_time": "2026-10-14 03:36",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_9d84fb68e7e27bd3944a15327ab7cd19\u0026position=667",
+        "message_id": "om_x100b63dbc418a50cb0ddde560f10296",
+        "message_position": "667",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_12812c1a73cd277651c05fb1d2192e92",
+          "id_type": "open_id",
+          "name": "何洁",
+          "sender_i18n_names": {
+            "en_us": "hejie"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_9d84fb68e7e27bd3944a15327ab7cd19",
+        "content": "但是老万那边一直是渣男模式",
+        "create_time": "2026-10-14 03:36",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_9d84fb68e7e27bd3944a15327ab7cd19\u0026position=668",
+        "message_id": "om_x100b63dbc57d60bccef7a5f764f8987",
+        "message_position": "668",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_12812c1a73cd277651c05fb1d2192e92",
+          "id_type": "open_id",
+          "name": "何洁",
+          "sender_i18n_names": {
+            "en_us": "hejie"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_9d84fb68e7e27bd3944a15327ab7cd19",
+        "content": "很可能老板会让我们侧救火",
+        "create_time": "2026-10-14 03:36",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_9d84fb68e7e27bd3944a15327ab7cd19\u0026position=669",
+        "message_id": "om_x100b63dbc2be44a4b0b5f613a723c7d",
+        "message_position": "669",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_12812c1a73cd277651c05fb1d2192e92",
+          "id_type": "open_id",
+          "name": "何洁",
+          "sender_i18n_names": {
+            "en_us": "hejie"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_9d84fb68e7e27bd3944a15327ab7cd19",
+        "content": "所以想想，如果SFM过来了，这俩人能够搞得定吗？",
+        "create_time": "2026-10-14 03:37",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_9d84fb68e7e27bd3944a15327ab7cd19\u0026position=670",
+        "message_id": "om_x100b63dbc07bf4b0cfda937169b9178",
+        "message_position": "670",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_12812c1a73cd277651c05fb1d2192e92",
+          "id_type": "open_id",
+          "name": "何洁",
+          "sender_i18n_names": {
+            "en_us": "hejie"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-14 03:37",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_9d84fb68e7e27bd3944a15327ab7cd19",
+        "content": "哎，他们在业务侧推不掉，就非得逼着我们承接",
+        "create_time": "2026-10-14 03:37",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_9d84fb68e7e27bd3944a15327ab7cd19\u0026position=671",
+        "message_id": "om_x100b63dbc019cca4df2aefbd6a918c4",
+        "message_position": "671",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_c8afe8aab3f80a020c356c0ca46a12ce",
+          "id_type": "open_id",
+          "name": "刘宏宇",
+          "sender_i18n_names": {
+            "en_us": "liuhongyu"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_9d84fb68e7e27bd3944a15327ab7cd19",
+        "content": "@何洁 难度应该不大",
+        "create_time": "2026-10-14 03:37",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_12812c1a73cd277651c05fb1d2192e92",
+            "key": "@_user_1",
+            "name": "何洁"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_9d84fb68e7e27bd3944a15327ab7cd19\u0026position=672",
+        "message_id": "om_x100b63dbc1a938b4df6d9cc4f34fa97",
+        "message_position": "672",
+        "msg_type": "text",
+        "reply_to": "om_x100b63dbc07bf4b0cfda937169b9178",
+        "sender": {
+          "id": "ou_c8afe8aab3f80a020c356c0ca46a12ce",
+          "id_type": "open_id",
+          "name": "刘宏宇",
+          "sender_i18n_names": {
+            "en_us": "liuhongyu"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-14 03:37",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_9d84fb68e7e27bd3944a15327ab7cd19",
+        "content": "前提是页面不改",
+        "create_time": "2026-10-14 03:37",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_9d84fb68e7e27bd3944a15327ab7cd19\u0026position=673",
+        "message_id": "om_x100b63dbde67c8a0de92c094afea93e",
+        "message_position": "673",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_c8afe8aab3f80a020c356c0ca46a12ce",
+          "id_type": "open_id",
+          "name": "刘宏宇",
+          "sender_i18n_names": {
+            "en_us": "liuhongyu"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_9d84fb68e7e27bd3944a15327ab7cd19",
+        "content": "@刘宏宇 新一版的格式，业务认可吗？",
+        "create_time": "2026-10-14 03:37",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_c8afe8aab3f80a020c356c0ca46a12ce",
+            "key": "@_user_1",
+            "name": "刘宏宇"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_9d84fb68e7e27bd3944a15327ab7cd19\u0026position=674",
+        "message_id": "om_x100b63dbdff5f0bcce3f21d6eb36ae1",
+        "message_position": "674",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_635008cc2affc45d23de666f2e7e7446",
+          "id_type": "open_id",
+          "name": "牛振东",
+          "sender_i18n_names": {
+            "en_us": "niuzhendong"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-14 03:37",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_9d84fb68e7e27bd3944a15327ab7cd19",
+        "content": "不用新一版的",
+        "create_time": "2026-10-14 03:38",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_9d84fb68e7e27bd3944a15327ab7cd19\u0026position=675",
+        "message_id": "om_x100b63dbdf04b4b4c1c8b318862b758",
+        "message_position": "675",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_c8afe8aab3f80a020c356c0ca46a12ce",
+          "id_type": "open_id",
+          "name": "刘宏宇",
+          "sender_i18n_names": {
+            "en_us": "liuhongyu"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_9d84fb68e7e27bd3944a15327ab7cd19",
+        "content": "@刘宏宇  这个问题先不用思考",
+        "create_time": "2026-10-14 03:38",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_c8afe8aab3f80a020c356c0ca46a12ce",
+            "key": "@_user_1",
+            "name": "刘宏宇"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_9d84fb68e7e27bd3944a15327ab7cd19\u0026position=676",
+        "message_id": "om_x100b63dbdf17acaccf1efe4137a7598",
+        "message_position": "676",
+        "msg_type": "text",
+        "reply_to": "om_x100b63dbc019cca4df2aefbd6a918c4",
+        "sender": {
+          "id": "ou_12812c1a73cd277651c05fb1d2192e92",
+          "id_type": "open_id",
+          "name": "何洁",
+          "sender_i18n_names": {
+            "en_us": "hejie"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-14 03:38",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_9d84fb68e7e27bd3944a15327ab7cd19",
+        "content": "就单从开发的角度看看，这俩人具备这个能力不？",
+        "create_time": "2026-10-14 03:38",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_9d84fb68e7e27bd3944a15327ab7cd19\u0026position=677",
+        "message_id": "om_x100b63dbdd7d48b0cf1801a714b31c4",
+        "message_position": "677",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_12812c1a73cd277651c05fb1d2192e92",
+          "id_type": "open_id",
+          "name": "何洁",
+          "sender_i18n_names": {
+            "en_us": "hejie"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_9d84fb68e7e27bd3944a15327ab7cd19",
+        "content": "开发可以的",
+        "create_time": "2026-10-14 03:38",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_9d84fb68e7e27bd3944a15327ab7cd19\u0026position=678",
+        "message_id": "om_x100b63dbda452ca0cf62533d09be7c3",
+        "message_position": "678",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_635008cc2affc45d23de666f2e7e7446",
+          "id_type": "open_id",
+          "name": "牛振东",
+          "sender_i18n_names": {
+            "en_us": "niuzhendong"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_9d84fb68e7e27bd3944a15327ab7cd19",
+        "content": "南京的SFM ，是老段提出来了，肯定是搞成最初帆软的那一版",
+        "create_time": "2026-10-14 03:39",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_9d84fb68e7e27bd3944a15327ab7cd19\u0026position=679",
+        "message_id": "om_x100b63dbdb4484a4ce16f87924f565a",
+        "message_position": "679",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_12812c1a73cd277651c05fb1d2192e92",
+          "id_type": "open_id",
+          "name": "何洁",
+          "sender_i18n_names": {
+            "en_us": "hejie"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-14 03:39",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_9d84fb68e7e27bd3944a15327ab7cd19",
+        "content": "先找业务看看，别说我们整的啥也不是",
+        "create_time": "2026-10-14 03:39",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_9d84fb68e7e27bd3944a15327ab7cd19\u0026position=680",
+        "message_id": "om_x100b63dbdb40b8acb01c0639f846b53",
+        "message_position": "680",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_635008cc2affc45d23de666f2e7e7446",
+          "id_type": "open_id",
+          "name": "牛振东",
+          "sender_i18n_names": {
+            "en_us": "niuzhendong"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_9d84fb68e7e27bd3944a15327ab7cd19",
+        "content": "@刘宏宇",
+        "create_time": "2026-10-14 03:39",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_c8afe8aab3f80a020c356c0ca46a12ce",
+            "key": "@_user_1",
+            "name": "刘宏宇"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_9d84fb68e7e27bd3944a15327ab7cd19\u0026position=681",
+        "message_id": "om_x100b63dbdb37a0accfe55db030f0d63",
+        "message_position": "681",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_12812c1a73cd277651c05fb1d2192e92",
+          "id_type": "open_id",
+          "name": "何洁",
+          "sender_i18n_names": {
+            "en_us": "hejie"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-14 03:39",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_9d84fb68e7e27bd3944a15327ab7cd19",
+        "content": "如果是整成最初帆软的那一版，我们这边搞得定吗？",
+        "create_time": "2026-10-14 03:39",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_9d84fb68e7e27bd3944a15327ab7cd19\u0026position=682",
+        "message_id": "om_x100b63dbd9a79d08cfe6671f08143b6",
+        "message_position": "682",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_12812c1a73cd277651c05fb1d2192e92",
+          "id_type": "open_id",
+          "name": "何洁",
+          "sender_i18n_names": {
+            "en_us": "hejie"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_9d84fb68e7e27bd3944a15327ab7cd19",
+        "content": "不行",
+        "create_time": "2026-10-14 03:39",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_9d84fb68e7e27bd3944a15327ab7cd19\u0026position=683",
+        "message_id": "om_x100b63dbd91bbcb8c1fb57db05677a4",
+        "message_position": "683",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_c8afe8aab3f80a020c356c0ca46a12ce",
+          "id_type": "open_id",
+          "name": "刘宏宇",
+          "sender_i18n_names": {
+            "en_us": "liuhongyu"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_9d84fb68e7e27bd3944a15327ab7cd19",
+        "content": "帆软那一版，有格式做不出来",
+        "create_time": "2026-10-14 03:39",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_9d84fb68e7e27bd3944a15327ab7cd19\u0026position=684",
+        "message_id": "om_x100b63dbd6c1d4a0ceb43796e6b174f",
+        "message_position": "684",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_635008cc2affc45d23de666f2e7e7446",
+          "id_type": "open_id",
+          "name": "牛振东",
+          "sender_i18n_names": {
+            "en_us": "niuzhendong"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_9d84fb68e7e27bd3944a15327ab7cd19",
+        "content": "帆软那一版，我感觉像个系统了",
+        "create_time": "2026-10-14 03:40",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_9d84fb68e7e27bd3944a15327ab7cd19\u0026position=685",
+        "message_id": "om_x100b63dbd46204a4cebe5e583d9ca07",
+        "message_position": "685",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_12812c1a73cd277651c05fb1d2192e92",
+          "id_type": "open_id",
+          "name": "何洁",
+          "sender_i18n_names": {
+            "en_us": "hejie"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_9d84fb68e7e27bd3944a15327ab7cd19",
+        "content": "又交互",
+        "create_time": "2026-10-14 03:40",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_9d84fb68e7e27bd3944a15327ab7cd19\u0026position=686",
+        "message_id": "om_x100b63dbd434e0acce9adac4eb4de86",
+        "message_position": "686",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_12812c1a73cd277651c05fb1d2192e92",
+          "id_type": "open_id",
+          "name": "何洁",
+          "sender_i18n_names": {
+            "en_us": "hejie"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_9d84fb68e7e27bd3944a15327ab7cd19",
+        "content": "\u003cforwarded_messages\u003e\n[2026-10-14T02:49:25Z] 何洁:\n    @许聪 他手上就是些运维的工作\n[2026-10-14T02:49:52Z] 许聪:\n    @何洁 工作量饱和吗？他会datawing开发吗？\n[2026-10-14T02:49:57Z] 何洁:\n    顶开发顶不了，他和金星\n[2026-10-14T02:50:13Z] 许聪:\n    一点开发的工作都不会啊？\n[2026-10-14T02:50:28Z] 何洁:\n    @许聪 就只是前端吗？datawind 的前端？\n[2026-10-14T02:50:42Z] 许聪:\n    陶伟宇都在干。。。\n[2026-10-14T02:51:14Z] 何洁:\n    陶伟宇，我觉得后面的开发能力会比金星和穆潇强\n[2026-10-14T02:51:33Z] 许聪:\n    @何洁 应该不止吧，我想着让他们一起干志玲姐那边的SFM看板。。能做多少做多少。如果他们时间不饱和的话\n[2026-10-14T02:52:03Z] 何洁:\n    @许聪 SFM的开发更加复杂，他们几个是不行的\n[2026-10-14T02:52:05Z] 许聪:\n    @何洁 后面后面再说吧。。。谁知道呢。我感觉穆潇可以试试，总比没人用强\n[2026-10-14T02:52:25Z] 何洁:\n    万工不是接了吗？\n[2026-10-14T02:52:29Z] 许聪:\n    陶伟宇都在干SFM。。。一个刚毕业的都开始学了\n[2026-10-14T02:52:45Z] 许聪:\n    @何洁 接个锤子，发消息不回，见面推脱\n[2026-10-14T02:52:57Z] 许聪:\n    之前所要来的那个开发，也接了别的offer，不来了\n[2026-10-14T02:53:29Z] 何洁:\n    @许聪  陶伟伟没有开发SFM ，他只是做的丝杠的看板\n[2026-10-14T02:53:29Z] 许聪:\n    鬼知道他们在干啥，，BP任务都要挂了\n[2026-10-14T02:53:48Z] 许聪:\n    @何洁 有啥区别？我理解SFM不也是一个个报表组成的么\n[2026-10-14T02:53:58Z] 许聪:\n    看板不也是一个个报表？\n[2026-10-14T02:54:00Z] 何洁:\n    不是的，SFM 像个系统了\n[2026-10-14T02:54:07Z] 何洁:\n    不是个简单的报表\n[2026-10-14T02:54:12Z] 许聪:\n    有钻入？\n[2026-10-14T02:54:18Z] 何洁:\n    有\n[2026-10-14T02:54:28Z] 许聪:\n    我意思是，只有钻取，查询，还有啥？\n[2026-10-14T02:54:33Z] 许聪:\n    应该没有交互吧\n[2026-10-14T02:54:51Z] 何洁:\n    查询 ，钻取，还有交互都有\n[2026-10-14T02:55:27Z] 何洁:\n    如果只是个报表，为啥驱控那边一直要优化\n[2026-10-14T02:55:41Z] 何洁:\n    驱控就是简单做了个报表，一直不满意\n[2026-10-14T02:55:44Z] 许聪:\n    唉~~好难受。。datawing还能交互呢\n[2026-10-14T02:56:02Z] 何洁:\n    datawind 我的理解是做不了SFM\n[2026-10-14T02:56:36Z] 许聪:\n    主要不知道南京的SFM是什么样子\n[2026-10-14T02:56:51Z] 许聪:\n    之前我听志玲姐的意思是，只要做点优化就行了\n[2026-10-14T02:58:37Z] 何洁:\n    南京此前都没上过SFM\n[2026-10-14T02:58:43Z] 何洁:\n    咋只是优化？\n[2026-10-14T02:59:23Z] 何洁:\n    如果用穆潇和陶伟宇去做，是兜不住的，谁来兜？\n[2026-10-14T02:59:29Z] 许聪:\n    你先别急\n[2026-10-14T02:59:36Z] 何洁:\n    会让事情更麻烦\n[2026-10-14T02:59:40Z] 许聪:\n    算了\n[2026-10-14T02:59:43Z] 许聪:\n    当我没说吧\n[2026-10-14T02:59:46Z] 许聪:\n    不想解释了\n\u003c/forwarded_messages\u003e",
+        "create_time": "2026-10-14 03:42",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_9d84fb68e7e27bd3944a15327ab7cd19\u0026position=687",
+        "message_id": "om_x100b63dbed7534b4c1ffaef29ed31f7",
+        "message_position": "687",
+        "msg_type": "merge_forward",
+        "sender": {
+          "id": "ou_12812c1a73cd277651c05fb1d2192e92",
+          "id_type": "open_id",
+          "name": "何洁",
+          "sender_i18n_names": {
+            "en_us": "hejie"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_9d84fb68e7e27bd3944a15327ab7cd19",
+        "content": "之前雷工说就用datawind里那个把数据接上就行",
+        "create_time": "2026-10-14 03:45",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_9d84fb68e7e27bd3944a15327ab7cd19\u0026position=688",
+        "message_id": "om_x100b63dbe09b3ca0dd15c4df91a1b5e",
+        "message_position": "688",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_c8afe8aab3f80a020c356c0ca46a12ce",
+          "id_type": "open_id",
+          "name": "刘宏宇",
+          "sender_i18n_names": {
+            "en_us": "liuhongyu"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      }
+    ],
+    "page_token": "",
+    "total": 25
+  },
+  "meta": {
+    "pagination": {
+      "complete": true,
+      "pages": 1,
+      "items": 25
+    }
+  }
+}

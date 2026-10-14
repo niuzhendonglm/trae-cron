@@ -1,0 +1,87 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "has_more": false,
+    "messages": [
+      {
+        "chat_id": "oc_d934e59dac237d7748572943f0480fec",
+        "content": "\u003ccard title=\"汇川ISC运营管理中心〔2026〕62号 关于2026年9月安全绩效考核结果的通报\"\u003e\n📝 创建时间：2026-10-14 16:42 \n创建人：徐会\n---\n[查看详情](https://oa.inovance.com/sys/notify/sys_notify_todo/sysNotifyTodo.do?method=view\u0026fdId=1a139937768b0f60e75fc4d4e3086e48\u0026oauth=fs2ekp)\n\u003c/card\u003e",
+        "create_time": "2026-10-14 08:42",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_d934e59dac237d7748572943f0480fec\u0026position=1054",
+        "message_id": "om_x100b63c0497c38b0cef9fd8a28135af",
+        "message_position": "1054",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a3e1ef0cc0b8500d",
+          "id_type": "app_id",
+          "name": "集团公告栏",
+          "open_bot_id": "ou_3144a28e071592d19cd07d67ad905f1d",
+          "sender_i18n_names": {
+            "en_us": "Group Announcement Board",
+            "zh_cn": "集团公告栏"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_d934e59dac237d7748572943f0480fec",
+        "content": "\u003ccard title=\"汇川书院〔2026〕99号 关于直驱产品技术金种子训练营招生的通知\"\u003e\n📝 创建时间：2026-10-14 16:55 \n创建人：周含璐\n---\n[查看详情](https://oa.inovance.com/sys/notify/sys_notify_todo/sysNotifyTodo.do?method=view\u0026fdId=1a1399fa11bcf55c1ae41244f488fa33\u0026oauth=fs2ekp)\n\u003c/card\u003e",
+        "create_time": "2026-10-14 08:57",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_d934e59dac237d7748572943f0480fec\u0026position=1055",
+        "message_id": "om_x100b63c07156b488ceb0f2bcd29bcff",
+        "message_position": "1055",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a3e1ef0cc0b8500d",
+          "id_type": "app_id",
+          "name": "集团公告栏",
+          "open_bot_id": "ou_3144a28e071592d19cd07d67ad905f1d",
+          "sender_i18n_names": {
+            "en_us": "Group Announcement Board",
+            "zh_cn": "集团公告栏"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_d934e59dac237d7748572943f0480fec",
+        "content": "[nonsupport]",
+        "create_time": "2026-10-14 09:07",
+        "deleted": true,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_d934e59dac237d7748572943f0480fec\u0026position=1056",
+        "message_id": "om_x100b63c0289b8cb8cef904e99ee28ce",
+        "message_position": "1056",
+        "msg_type": "nonsupport",
+        "sender": {
+          "id": "cli_a3e1ef0cc0b8500d",
+          "id_type": "app_id",
+          "name": "集团公告栏",
+          "open_bot_id": "ou_3144a28e071592d19cd07d67ad905f1d",
+          "sender_i18n_names": {
+            "en_us": "Group Announcement Board",
+            "zh_cn": "集团公告栏"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      }
+    ],
+    "page_token": "",
+    "total": 3
+  },
+  "meta": {
+    "pagination": {
+      "complete": true,
+      "pages": 1,
+      "items": 3
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "has_more": false,
+    "messages": [
+      {
+        "chat_id": "oc_5a2d300e30b51206740e243ac0562a05",
+        "content": "火山引擎-售后智能助手 invited 殷磊 to the group. New members can view all chat history.",
+        "create_time": "2026-10-14 03:52",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_5a2d300e30b51206740e243ac0562a05\u0026position=68",
+        "message_id": "om_x100b63db89c6e8b4dc07f30b799e6cd",
+        "message_position": "68",
+        "msg_type": "system",
+        "sender": {
+          "id": "",
+          "id_type": "",
+          "sender_type": "",
+          "tenant_key": ""
+        },
+        "updated": false
+      }
+    ],
+    "page_token": "",
+    "total": 1
+  },
+  "meta": {
+    "pagination": {
+      "complete": true,
+      "pages": 1,
+      "items": 1
+    }
+  }
+}

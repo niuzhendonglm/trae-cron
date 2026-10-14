@@ -1,0 +1,294 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "has_more": false,
+    "messages": [
+      {
+        "chat_id": "oc_10ce303a97113687965196615c486c2b",
+        "content": "那个业务方案，还一起看看么？",
+        "create_time": "2026-10-14 09:07",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_10ce303a97113687965196615c486c2b\u0026position=42",
+        "message_id": "om_x100b63c02b9bccacc1d469e9ac461e9",
+        "message_position": "42",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_e41d7538c671ace94d83136352e71f91",
+          "id_type": "open_id",
+          "name": "何荣福",
+          "sender_i18n_names": {
+            "en_us": "herongfu"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_10ce303a97113687965196615c486c2b",
+        "content": "何老师，看了后面23页，我没有问题了，数据库到时候sqllite换成mysql，我代码里换一下。",
+        "create_time": "2026-10-14 09:09",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_10ce303a97113687965196615c486c2b\u0026position=43",
+        "message_id": "om_x100b63c025e860b0dfbe52edec088e3",
+        "message_position": "43",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_635008cc2affc45d23de666f2e7e7446",
+          "id_type": "open_id",
+          "name": "牛振东",
+          "sender_i18n_names": {
+            "en_us": "niuzhendong"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-14 09:09",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_10ce303a97113687965196615c486c2b",
+        "content": "后面是讲\n消息推送、应用架构、项目迭代",
+        "create_time": "2026-10-14 09:09",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_10ce303a97113687965196615c486c2b\u0026position=44",
+        "message_id": "om_x100b63c022558cbcc0b78d481035bbb",
+        "message_position": "44",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_635008cc2affc45d23de666f2e7e7446",
+          "id_type": "open_id",
+          "name": "牛振东",
+          "sender_i18n_names": {
+            "en_us": "niuzhendong"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-14 09:09",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_10ce303a97113687965196615c486c2b",
+        "content": "没问题",
+        "create_time": "2026-10-14 09:09",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_10ce303a97113687965196615c486c2b\u0026position=45",
+        "message_id": "om_x100b63c0222ac478de6791c447ac871",
+        "message_position": "45",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_635008cc2affc45d23de666f2e7e7446",
+          "id_type": "open_id",
+          "name": "牛振东",
+          "sender_i18n_names": {
+            "en_us": "niuzhendong"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_10ce303a97113687965196615c486c2b",
+        "content": "好嘞",
+        "create_time": "2026-10-14 09:13",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_10ce303a97113687965196615c486c2b\u0026position=46",
+        "message_id": "om_x100b63c0338c38acddd97e13e3e0912",
+        "message_position": "46",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_e41d7538c671ace94d83136352e71f91",
+          "id_type": "open_id",
+          "name": "何荣福",
+          "sender_i18n_names": {
+            "en_us": "herongfu"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_10ce303a97113687965196615c486c2b",
+        "content": "我按照上午的review",
+        "create_time": "2026-10-14 09:14",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_10ce303a97113687965196615c486c2b\u0026position=47",
+        "message_id": "om_x100b63c0305ba4a4c0f9dbd45fcbb28",
+        "message_position": "47",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_e41d7538c671ace94d83136352e71f91",
+          "id_type": "open_id",
+          "name": "何荣福",
+          "sender_i18n_names": {
+            "en_us": "herongfu"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-14 09:14",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_10ce303a97113687965196615c486c2b",
+        "content": "改了一版新的",
+        "create_time": "2026-10-14 09:14",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_10ce303a97113687965196615c486c2b\u0026position=48",
+        "message_id": "om_x100b63c031c6eca0df12e85b2c77506",
+        "message_position": "48",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_e41d7538c671ace94d83136352e71f91",
+          "id_type": "open_id",
+          "name": "何荣福",
+          "sender_i18n_names": {
+            "en_us": "herongfu"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_10ce303a97113687965196615c486c2b",
+        "content": "但是发不出来",
+        "create_time": "2026-10-14 09:14",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_10ce303a97113687965196615c486c2b\u0026position=49",
+        "message_id": "om_x100b63c031a740a4c06d3158380e718",
+        "message_position": "49",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_e41d7538c671ace94d83136352e71f91",
+          "id_type": "open_id",
+          "name": "何荣福",
+          "sender_i18n_names": {
+            "en_us": "herongfu"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_10ce303a97113687965196615c486c2b",
+        "content": "说我没有权限",
+        "create_time": "2026-10-14 09:14",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_10ce303a97113687965196615c486c2b\u0026position=50",
+        "message_id": "om_x100b63c031764ca0dd6edf13ecc52aa",
+        "message_position": "50",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_e41d7538c671ace94d83136352e71f91",
+          "id_type": "open_id",
+          "name": "何荣福",
+          "sender_i18n_names": {
+            "en_us": "herongfu"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_10ce303a97113687965196615c486c2b",
+        "content": "[Image: img_v3_0216f_f93bb6c2-2fc8-46eb-b84b-ca4f66cd181g]",
+        "create_time": "2026-10-14 09:14",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_10ce303a97113687965196615c486c2b\u0026position=51",
+        "message_id": "om_x100b63c0310404b4c3c2257869dc835",
+        "message_position": "51",
+        "msg_type": "image",
+        "sender": {
+          "id": "ou_e41d7538c671ace94d83136352e71f91",
+          "id_type": "open_id",
+          "name": "何荣福",
+          "sender_i18n_names": {
+            "en_us": "herongfu"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_10ce303a97113687965196615c486c2b",
+        "content": "嗯嗯，小改动",
+        "create_time": "2026-10-14 09:14",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_10ce303a97113687965196615c486c2b\u0026position=52",
+        "message_id": "om_x100b63c0313800bccee47ac22903abc",
+        "message_position": "52",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_635008cc2affc45d23de666f2e7e7446",
+          "id_type": "open_id",
+          "name": "牛振东",
+          "sender_i18n_names": {
+            "en_us": "niuzhendong"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_10ce303a97113687965196615c486c2b",
+        "content": "振东，马工给了你那个E-R图了吗？",
+        "create_time": "2026-10-14 09:23",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_10ce303a97113687965196615c486c2b\u0026position=53",
+        "message_id": "om_x100b63c0ee0f7d34df13cf2d9a5c18b",
+        "message_position": "53",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_e41d7538c671ace94d83136352e71f91",
+          "id_type": "open_id",
+          "name": "何荣福",
+          "sender_i18n_names": {
+            "en_us": "herongfu"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_10ce303a97113687965196615c486c2b",
+        "content": "没呢，我没收到",
+        "create_time": "2026-10-14 09:35",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_10ce303a97113687965196615c486c2b\u0026position=54",
+        "message_id": "om_x100b63c080b184b8df85153c5e9450f",
+        "message_position": "54",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_635008cc2affc45d23de666f2e7e7446",
+          "id_type": "open_id",
+          "name": "牛振东",
+          "sender_i18n_names": {
+            "en_us": "niuzhendong"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      }
+    ],
+    "page_token": "",
+    "total": 13
+  },
+  "meta": {
+    "pagination": {
+      "complete": true,
+      "pages": 1,
+      "items": 13
+    }
+  }
+}

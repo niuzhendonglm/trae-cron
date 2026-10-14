@@ -1,0 +1,111 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "has_more": false,
+    "messages": [
+      {
+        "chat_id": "oc_855737964ff58b07270ca0a632fd40a0",
+        "content": "\u003ccard title=\"客户确认问题是否解决\" subtitle=\"已解决\"\u003e\n**【问题描述】：** 智能体分析内容有bug\n**【处理结果】：** 已解决 用户已确认，本次问题处理完成\n**【解决方案】：** \u003cp\u003e经排查是模型幻觉导致的问题，简单总结切V2后验证没问题，目前已解决。\u003c/p\u003e\n**【操作时间】：** 2026-10-14 12:11\n[✓ 已解决 ✗] [未解决 ✗]\n\u003c/card\u003e",
+        "create_time": "2026-10-14 04:10",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_855737964ff58b07270ca0a632fd40a0\u0026position=56",
+        "message_id": "om_x100b63c443d4e8a0dd25645db2f4880",
+        "message_position": "56",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a472c8e8c5f9d00d",
+          "id_type": "app_id",
+          "name": "火山引擎-售后智能助手",
+          "open_bot_id": "ou_48cf9468e076e9838fcd93efbe775657",
+          "sender_i18n_names": {
+            "en_us": "BytePlus Support Bot",
+            "zh_cn": "火山引擎-售后智能助手"
+          },
+          "sender_type": "app",
+          "tenant_key": "736588c9260f175d"
+        },
+        "update_time": "2026-10-14 04:11",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_855737964ff58b07270ca0a632fd40a0",
+        "content": "火山引擎-售后智能助手 updated the group name from \"{old_group_name}\" to \"{group_name}\".",
+        "create_time": "2026-10-14 04:10",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_855737964ff58b07270ca0a632fd40a0\u0026position=57",
+        "message_id": "om_x100b63c443e4fca8b0e1c8768a40fce",
+        "message_position": "57",
+        "msg_type": "system",
+        "sender": {
+          "id": "",
+          "id_type": "",
+          "sender_type": "",
+          "tenant_key": ""
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_855737964ff58b07270ca0a632fd40a0",
+        "content": "\u003ccard title=\"温馨提示\"\u003e\n@赵秦雨(ou_9e11bda108a45a8f2631ebf2a0e5a531)确认问题已解决，如有新问题可在汇川×字节-DataWind沟通群中@ou_a681558363cb29ed14167282580ad571再次提问\n本群将在30天后解散，解散后可在汇川×字节-DataWind沟通底部菜单中查看问题服务记录\n\u003c/card\u003e",
+        "create_time": "2026-10-14 04:11",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_48cf9468e076e9838fcd93efbe775657",
+            "key": "@_user_1",
+            "name": ""
+          },
+          {
+            "id": "ou_9e11bda108a45a8f2631ebf2a0e5a531",
+            "key": "@_user_2",
+            "name": "赵秦雨"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_855737964ff58b07270ca0a632fd40a0\u0026position=58",
+        "message_id": "om_x100b63c4411ebca8c0feec5d4f6bc59",
+        "message_position": "58",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a472c8e8c5f9d00d",
+          "id_type": "app_id",
+          "name": "火山引擎-售后智能助手",
+          "open_bot_id": "ou_48cf9468e076e9838fcd93efbe775657",
+          "sender_i18n_names": {
+            "en_us": "BytePlus Support Bot",
+            "zh_cn": "火山引擎-售后智能助手"
+          },
+          "sender_type": "app",
+          "tenant_key": "736588c9260f175d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_855737964ff58b07270ca0a632fd40a0",
+        "content": "火山引擎-售后智能助手 updated the group name from \"{old_group_name}\" to \"{group_name}\".",
+        "create_time": "2026-10-14 04:11",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_855737964ff58b07270ca0a632fd40a0\u0026position=59",
+        "message_id": "om_x100b63c45ec548b4de337c2c480afe6",
+        "message_position": "59",
+        "msg_type": "system",
+        "sender": {
+          "id": "",
+          "id_type": "",
+          "sender_type": "",
+          "tenant_key": ""
+        },
+        "updated": false
+      }
+    ],
+    "page_token": "",
+    "total": 4
+  },
+  "meta": {
+    "pagination": {
+      "complete": true,
+      "pages": 1,
+      "items": 4
+    }
+  }
+}

@@ -1,0 +1,292 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "has_more": false,
+    "messages": [
+      {
+        "chat_id": "oc_4269b1021820521691206abefec4e381",
+        "content": "振东，现在有空吗，我们要迁移升级帆软BI，关于你们之前调用帆软BI报表的影响语音聊一下",
+        "create_time": "2026-10-14 08:08",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_4269b1021820521691206abefec4e381\u0026position=268",
+        "message_id": "om_x100b63c7c96fb084cf69c1d7f518c2f",
+        "message_position": "268",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_a61165efe52b2aa30b25b21441a35aef",
+          "id_type": "open_id",
+          "name": "方智",
+          "sender_i18n_names": {
+            "en_us": "fangzhi"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-14 08:08",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_4269b1021820521691206abefec4e381",
+        "content": "好的",
+        "create_time": "2026-10-14 08:09",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_4269b1021820521691206abefec4e381\u0026position=269",
+        "message_id": "om_x100b63c7c4bfd480b094ad4dcb3ab16",
+        "message_position": "269",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_635008cc2affc45d23de666f2e7e7446",
+          "id_type": "open_id",
+          "name": "牛振东",
+          "sender_i18n_names": {
+            "en_us": "niuzhendong"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_4269b1021820521691206abefec4e381",
+        "content": "",
+        "create_time": "2026-10-14 08:12",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_4269b1021820521691206abefec4e381\u0026position=270",
+        "message_id": "om_x100b63c7d8deb4b4cd1a1ce09657269",
+        "message_position": "270",
+        "msg_type": "system",
+        "sender": {
+          "id": "",
+          "id_type": "",
+          "sender_type": "",
+          "tenant_key": ""
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_4269b1021820521691206abefec4e381",
+        "content": "@方智(10067178) 帆软 派拉IAM 切换成 PaaS IAM\n平台登出地址：[https://w3-auth.inovance.com/logout?redirectBack=true\u0026redirectUrl=http://10.32.211.65:8080/webroot/decision](https://w3-auth.inovance.com/logout?redirectBack=true\u0026redirectUrl=http://10.32.211.65:8080/webroot/decision)\n认证接口地址：[https://w3-auth.inovance.com/oauth2/authorize?client_id=ADyfnzvK\u0026response_type=code\u0026redirect_uri=http://10.32.211.65:8080/webroot/decision\u0026scope=openid\u0026state=test65](https://w3-auth.inovance.com/oauth2/authorize?client_id=ADyfnzvK\u0026response_type=code\u0026redirect_uri=http://10.32.211.65:8080/webroot/decision\u0026scope=openid\u0026state=test65)\n令牌申请：[https://w3-auth.inovance.com/oauth2/token](https://w3-auth.inovance.com/oauth2/token)\n用户信息：${\"[https://w3-auth.inovance.com/userinfo?access_token=](https://w3-auth.inovance.com/userinfo?access_token=)\"+access_token}\n\n\n[https://inovance.feishu.cn/docx/IIOld2hgfoC3XvxiruycJmj1n5G](https://inovance.feishu.cn/docx/IIOld2hgfoC3XvxiruycJmj1n5G)\n![Image](img_v3_0216f_708bc9a7-cc5d-489b-a4ff-b97cc420cc2g)\n![Image](img_v3_0216f_8c9aba4c-7aa3-4ee4-b8ac-3d848da0e43g)",
+        "create_time": "2026-10-14 08:16",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_4269b1021820521691206abefec4e381\u0026position=271",
+        "message_id": "om_x100b63c7eabb1108ce33b7d668f5745",
+        "message_position": "271",
+        "msg_type": "post",
+        "sender": {
+          "id": "ou_635008cc2affc45d23de666f2e7e7446",
+          "id_type": "open_id",
+          "name": "牛振东",
+          "sender_i18n_names": {
+            "en_us": "niuzhendong"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-14 08:16",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_4269b1021820521691206abefec4e381",
+        "content": "redirect_uri那个",
+        "create_time": "2026-10-14 08:16",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_4269b1021820521691206abefec4e381\u0026position=272",
+        "message_id": "om_x100b63c7e98daca0cea8f4521e8cf9c",
+        "message_position": "272",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_635008cc2affc45d23de666f2e7e7446",
+          "id_type": "open_id",
+          "name": "牛振东",
+          "sender_i18n_names": {
+            "en_us": "niuzhendong"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_4269b1021820521691206abefec4e381",
+        "content": "这个是测试环境的吧[http://10.32.211.65:8080/webroot/decision\u0026scope=openid\u0026state=test65](https://w3-auth.inovance.com/oauth2/authorize?client_id=ADyfnzvK\u0026response_type=code\u0026redirect_uri=http://10.32.211.65:8080/webroot/decision\u0026scope=openid\u0026state=test65)",
+        "create_time": "2026-10-14 08:23",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_4269b1021820521691206abefec4e381\u0026position=273",
+        "message_id": "om_x100b63c78ed164b4ceaddab47cb4960",
+        "message_position": "273",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_a61165efe52b2aa30b25b21441a35aef",
+          "id_type": "open_id",
+          "name": "方智",
+          "sender_i18n_names": {
+            "en_us": "fangzhi"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_4269b1021820521691206abefec4e381",
+        "content": "生产环境有上吗？",
+        "create_time": "2026-10-14 08:23",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_4269b1021820521691206abefec4e381\u0026position=274",
+        "message_id": "om_x100b63c78e6e68b8b0eb136dec13682",
+        "message_position": "274",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_a61165efe52b2aa30b25b21441a35aef",
+          "id_type": "open_id",
+          "name": "方智",
+          "sender_i18n_names": {
+            "en_us": "fangzhi"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-14 08:23",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_4269b1021820521691206abefec4e381",
+        "content": "这个就是生产环境，没有测试环境",
+        "create_time": "2026-10-14 08:27",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_4269b1021820521691206abefec4e381\u0026position=275",
+        "message_id": "om_x100b63c781f394a8cfa38ef75013957",
+        "message_position": "275",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_635008cc2affc45d23de666f2e7e7446",
+          "id_type": "open_id",
+          "name": "牛振东",
+          "sender_i18n_names": {
+            "en_us": "niuzhendong"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_4269b1021820521691206abefec4e381",
+        "content": "访问的帆软的大屏地址是哪一个？",
+        "create_time": "2026-10-14 08:29",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_4269b1021820521691206abefec4e381\u0026position=276",
+        "message_id": "om_x100b63c798aec4b8b08619752e86aab",
+        "message_position": "276",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_a61165efe52b2aa30b25b21441a35aef",
+          "id_type": "open_id",
+          "name": "方智",
+          "sender_i18n_names": {
+            "en_us": "fangzhi"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_4269b1021820521691206abefec4e381",
+        "content": "https://bi.inovance.com/finereport/decision/v5/design/report/25fb56bc25a3491f9e8253754334f897/view",
+        "create_time": "2026-10-14 08:31",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_4269b1021820521691206abefec4e381\u0026position=277",
+        "message_id": "om_x100b63c793f53c80cf9304c27dd9cf3",
+        "message_position": "277",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_635008cc2affc45d23de666f2e7e7446",
+          "id_type": "open_id",
+          "name": "牛振东",
+          "sender_i18n_names": {
+            "en_us": "niuzhendong"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_4269b1021820521691206abefec4e381",
+        "content": "[Chat card: oc_8c045b392cabaa44e89ee199259eb36c]",
+        "create_time": "2026-10-14 08:35",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_4269b1021820521691206abefec4e381\u0026position=278",
+        "message_id": "om_x100b63c7a085eca0cef70d3d09cae44",
+        "message_position": "278",
+        "msg_type": "share_chat",
+        "sender": {
+          "id": "ou_635008cc2affc45d23de666f2e7e7446",
+          "id_type": "open_id",
+          "name": "牛振东",
+          "sender_i18n_names": {
+            "en_us": "niuzhendong"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_4269b1021820521691206abefec4e381",
+        "content": "找半天，在这群里",
+        "create_time": "2026-10-14 08:35",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_4269b1021820521691206abefec4e381\u0026position=279",
+        "message_id": "om_x100b63c7a08284acce7b4d1d9087e64",
+        "message_position": "279",
+        "msg_type": "text",
+        "reply_to": "om_x100b63c7a085eca0cef70d3d09cae44",
+        "sender": {
+          "id": "ou_635008cc2affc45d23de666f2e7e7446",
+          "id_type": "open_id",
+          "name": "牛振东",
+          "sender_i18n_names": {
+            "en_us": "niuzhendong"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_4269b1021820521691206abefec4e381",
+        "content": "一个帆软报表，一个帆软BI",
+        "create_time": "2026-10-14 08:36",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_4269b1021820521691206abefec4e381\u0026position=280",
+        "message_id": "om_x100b63c7a13508a8ce1de3fa90b68de",
+        "message_position": "280",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_635008cc2affc45d23de666f2e7e7446",
+          "id_type": "open_id",
+          "name": "牛振东",
+          "sender_i18n_names": {
+            "en_us": "niuzhendong"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-14 08:36",
+        "updated": true
+      }
+    ],
+    "page_token": "",
+    "total": 13
+  },
+  "meta": {
+    "pagination": {
+      "complete": true,
+      "pages": 1,
+      "items": 13
+    }
+  }
+}

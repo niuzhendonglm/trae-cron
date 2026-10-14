@@ -1,0 +1,44 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "has_more": false,
+    "messages": [
+      {
+        "chat_id": "oc_37e71878162e6d5b1124133179b2b0c4",
+        "content": "![Image](img_v3_0216f_54c9db84-8c21-489a-84ad-db77f6cbf8eg)\n@葛士祺 token用完了",
+        "create_time": "2026-10-14 06:06",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_62b3403b1621ef0525dec364987c271f",
+            "key": "@_user_1",
+            "name": "葛士祺"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_37e71878162e6d5b1124133179b2b0c4\u0026position=259",
+        "message_id": "om_x100b63c5f3262ca4de939bd9c3474da",
+        "message_position": "259",
+        "msg_type": "post",
+        "sender": {
+          "id": "ou_25cfc16d558eca6ff7f4113d60308efb",
+          "id_type": "open_id",
+          "name": "张兴建",
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-14 06:06",
+        "updated": true
+      }
+    ],
+    "page_token": "",
+    "total": 1
+  },
+  "meta": {
+    "pagination": {
+      "complete": true,
+      "pages": 1,
+      "items": 1
+    }
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "has_more": false,
+    "messages": [
+      {
+        "chat_id": "oc_d66a5da4c22743c4fd1b510ed02913d1",
+        "content": "https://inovance.feishu.cn/wiki/V3GTwzdXTizNnCkyvIxc8ahGnQe",
+        "create_time": "2026-10-14 06:25",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_d66a5da4c22743c4fd1b510ed02913d1\u0026position=1965",
+        "message_id": "om_x100b63c6485b7ca8b07c6822238efbe",
+        "message_position": "1965",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_47d191520c96d9714b7d16957539255f",
+          "id_type": "open_id",
+          "name": "商轩赫",
+          "sender_i18n_names": {
+            "en_us": "shangxuanhe"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_d66a5da4c22743c4fd1b510ed02913d1",
+        "content": "各位伙伴，经各位主管与政委团队商议，计划11月6日（周五）举行数字化使能中心下半年团建，为期两天\n1.11月6日下午1:45举行沙漠掘金拓展培训，中心全员参与，请各位预定会议时避开此时间段  \n2.11月7日为室外活动，大家可选参与，投票通道后续发出\n详情请各位阅读团建方案哈[致敬]",
+        "create_time": "2026-10-14 06:26",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_d66a5da4c22743c4fd1b510ed02913d1\u0026position=1966",
+        "message_id": "om_x100b63c6495378accebcbdcdba7c9dd",
+        "message_position": "1966",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_47d191520c96d9714b7d16957539255f",
+          "id_type": "open_id",
+          "name": "商轩赫",
+          "sender_i18n_names": {
+            "en_us": "shangxuanhe"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-14 06:26",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_d66a5da4c22743c4fd1b510ed02913d1",
+        "content": "https://inovance.feishu.cn/share/base/form/shrcntmP0Sq8jnl4bWsYz4AQHQb",
+        "create_time": "2026-10-14 07:05",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_d66a5da4c22743c4fd1b510ed02913d1\u0026position=1967",
+        "message_id": "om_x100b63c6d43a5508cf263864a64a267",
+        "message_position": "1967",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_47d191520c96d9714b7d16957539255f",
+          "id_type": "open_id",
+          "name": "商轩赫",
+          "sender_i18n_names": {
+            "en_us": "shangxuanhe"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_d66a5da4c22743c4fd1b510ed02913d1",
+        "content": "秋意渐浓，万物丰盈，数字化建设正处于攻坚阶段。为在繁忙的工作之余丰富中心团队生活、增进伙伴交流，本次团建安排丰富：周五下午沙漠掘金，一场考验勇气、智慧与团队协作的极限挑战；周六户外出行，赏秋景、品美味。大家暂别忙碌，积极参与，沉浸式体验！",
+        "create_time": "2026-10-14 13:21",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_d66a5da4c22743c4fd1b510ed02913d1\u0026position=1968",
+        "message_id": "om_x100b63cc5198d8acb07a4d27fa50197",
+        "message_position": "1968",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_4e63341423c72c5725811bb7d839dc1e",
+          "id_type": "open_id",
+          "name": "万向阳",
+          "sender_i18n_names": {
+            "en_us": "wanxiangyang"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-14 13:21",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_d66a5da4c22743c4fd1b510ed02913d1",
+        "content": "这个游戏还是非常有趣的，既有策略性，又体现团队协作，建议全员参与",
+        "create_time": "2026-10-14 14:38",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_d66a5da4c22743c4fd1b510ed02913d1\u0026position=1969",
+        "message_id": "om_x100b63cd722d8ca0dd63e67322273c7",
+        "message_position": "1969",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_fd1d785922f061efcbeeb97f62b07ce7",
+          "id_type": "open_id",
+          "name": "张巍",
+          "sender_i18n_names": {
+            "en_us": "Andy Zhang"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      }
+    ],
+    "page_token": "",
+    "total": 5
+  },
+  "meta": {
+    "pagination": {
+      "complete": true,
+      "pages": 1,
+      "items": 5
+    }
+  }
+}

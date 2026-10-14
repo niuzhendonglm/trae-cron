@@ -1,0 +1,177 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "has_more": false,
+    "messages": [
+      {
+        "chat_id": "oc_7d6d8e8b7f10fb41d251a222b1a7af90",
+        "content": "仪表盘是否将两列维度数据，整合同一维度进行求和。@火山引擎-售后智能助手",
+        "create_time": "2026-10-14 01:04",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_48cf9468e076e9838fcd93efbe775657",
+            "key": "@_user_1",
+            "name": "火山引擎-售后智能助手"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_7d6d8e8b7f10fb41d251a222b1a7af90\u0026position=3446",
+        "message_id": "om_x100b63d91dcd80b4de35857d64e5b9b",
+        "message_position": "3446",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_9cce953b6938762853246d0581be872e",
+          "id_type": "open_id",
+          "name": "朱东超",
+          "sender_i18n_names": {
+            "en_us": "Dongchao Zhu"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-14 01:04",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_7d6d8e8b7f10fb41d251a222b1a7af90",
+        "content": "\u003ccard title=\"问题进展【处理中】\"\u003e\n【问题描述】：\n\n仪表盘是否将两列维度数据，整合同一维度进行求和。\n问题群聊已创建，可点击进群关注问题解决进展\n[点击进群](https://applink.larkoffice.com/client/chat/chatter/add_by_link?link_token=fbfn1bdb-8f7c-4eb5-9e96-9aab816ad1f7)\n\u003c/card\u003e",
+        "create_time": "2026-10-14 01:04",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_7d6d8e8b7f10fb41d251a222b1a7af90\u0026position=3447",
+        "message_id": "om_x100b63d91ddd24a8c0febe900836154",
+        "message_position": "3447",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a472c8e8c5f9d00d",
+          "id_type": "app_id",
+          "name": "火山引擎-售后智能助手",
+          "open_bot_id": "ou_48cf9468e076e9838fcd93efbe775657",
+          "sender_i18n_names": {
+            "en_us": "BytePlus Support Bot",
+            "zh_cn": "火山引擎-售后智能助手"
+          },
+          "sender_type": "app",
+          "tenant_key": "736588c9260f175d"
+        },
+        "update_time": "2026-10-14 01:05",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_7d6d8e8b7f10fb41d251a222b1a7af90",
+        "content": "@火山引擎-售后智能助手 编辑仪表盘一段时间后页面内存增高，最终溢出",
+        "create_time": "2026-10-14 01:20",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_48cf9468e076e9838fcd93efbe775657",
+            "key": "@_user_1",
+            "name": "火山引擎-售后智能助手"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_7d6d8e8b7f10fb41d251a222b1a7af90\u0026position=3448",
+        "message_id": "om_x100b63d9c26c70a0cf9d3bc1cdc4797",
+        "message_position": "3448",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_ce3b309a1adb865c60cf7c112da25d62",
+          "id_type": "open_id",
+          "name": "邱治钧",
+          "sender_i18n_names": {
+            "en_us": "qiuzhijun"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-14 01:20",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_7d6d8e8b7f10fb41d251a222b1a7af90",
+        "content": "\u003ccard title=\"问题进展【处理中】\"\u003e\n【问题描述】：\n\n编辑仪表盘一段时间后页面内存增高，最终溢出\n问题群聊已创建，可点击进群关注问题解决进展\n[点击进群](https://applink.larkoffice.com/client/chat/chatter/add_by_link?link_token=992j74f4-85ad-4e77-8b6e-79f05f46c67f)\n\u003c/card\u003e",
+        "create_time": "2026-10-14 01:20",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_7d6d8e8b7f10fb41d251a222b1a7af90\u0026position=3449",
+        "message_id": "om_x100b63d9c27fac88cf1f20128108a7d",
+        "message_position": "3449",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a472c8e8c5f9d00d",
+          "id_type": "app_id",
+          "name": "火山引擎-售后智能助手",
+          "open_bot_id": "ou_48cf9468e076e9838fcd93efbe775657",
+          "sender_i18n_names": {
+            "en_us": "BytePlus Support Bot",
+            "zh_cn": "火山引擎-售后智能助手"
+          },
+          "sender_type": "app",
+          "tenant_key": "736588c9260f175d"
+        },
+        "update_time": "2026-10-14 01:21",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_7d6d8e8b7f10fb41d251a222b1a7af90",
+        "content": "@火山引擎-售后智能助手 网格线开关自动关闭",
+        "create_time": "2026-10-14 06:02",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_48cf9468e076e9838fcd93efbe775657",
+            "key": "@_user_1",
+            "name": "火山引擎-售后智能助手"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_7d6d8e8b7f10fb41d251a222b1a7af90\u0026position=3450",
+        "message_id": "om_x100b63c5fe0544a8cef1149668b8f50",
+        "message_position": "3450",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_ce3b309a1adb865c60cf7c112da25d62",
+          "id_type": "open_id",
+          "name": "邱治钧",
+          "sender_i18n_names": {
+            "en_us": "qiuzhijun"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-14 06:02",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_7d6d8e8b7f10fb41d251a222b1a7af90",
+        "content": "\u003ccard title=\"问题进展【处理中】\"\u003e\n【问题描述】：\n\n仪表盘网格线开关自动关闭\n问题群聊已创建，可点击进群关注问题解决进展\n[点击进群](https://applink.larkoffice.com/client/chat/chatter/add_by_link?link_token=0bep0fd2-c4d0-4994-9d8d-761233d21e62)\n\u003c/card\u003e",
+        "create_time": "2026-10-14 06:02",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_7d6d8e8b7f10fb41d251a222b1a7af90\u0026position=3451",
+        "message_id": "om_x100b63c5fe11c4b0dfbd8f0bc22d2c8",
+        "message_position": "3451",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a472c8e8c5f9d00d",
+          "id_type": "app_id",
+          "name": "火山引擎-售后智能助手",
+          "open_bot_id": "ou_48cf9468e076e9838fcd93efbe775657",
+          "sender_i18n_names": {
+            "en_us": "BytePlus Support Bot",
+            "zh_cn": "火山引擎-售后智能助手"
+          },
+          "sender_type": "app",
+          "tenant_key": "736588c9260f175d"
+        },
+        "update_time": "2026-10-14 06:03",
+        "updated": true
+      }
+    ],
+    "page_token": "",
+    "total": 6
+  },
+  "meta": {
+    "pagination": {
+      "complete": true,
+      "pages": 1,
+      "items": 6
+    }
+  }
+}

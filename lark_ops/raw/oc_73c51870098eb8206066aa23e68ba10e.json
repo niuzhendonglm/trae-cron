@@ -1,0 +1,41 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "has_more": false,
+    "messages": [
+      {
+        "chat_id": "oc_73c51870098eb8206066aa23e68ba10e",
+        "content": "\u003ccard title=\"温馨提示：您在OA系统中共有【1】条未处理的待办任务,请及时处理\"\u003e\n📝 提醒日期：2026-10-14 \n统计时间：9:00\n---\n[查看详情](https://oa.inovance.com/other/unify/todo/app/infoFs.jsp?\u0026oauth=fs2ekp)\n\u003c/card\u003e",
+        "create_time": "2026-10-14 01:26",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_73c51870098eb8206066aa23e68ba10e\u0026position=171",
+        "message_id": "om_x100b63d9edb884a0de6a9fe4ac861f0",
+        "message_position": "171",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a2970481cb7a900c",
+          "id_type": "app_id",
+          "name": "待办中心",
+          "open_bot_id": "ou_9fd4a1e2c4c3a78e9e073ea89754bc36",
+          "sender_i18n_names": {
+            "en_us": "To Do Center",
+            "zh_cn": "待办中心"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      }
+    ],
+    "page_token": "",
+    "total": 1
+  },
+  "meta": {
+    "pagination": {
+      "complete": true,
+      "pages": 1,
+      "items": 1
+    }
+  }
+}

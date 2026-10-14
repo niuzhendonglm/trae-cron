@@ -1,0 +1,41 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "has_more": false,
+    "messages": [
+      {
+        "chat_id": "oc_c8be723e7f371a1bff116b79aeace20b",
+        "content": "\u003ccard title=\"【通用素质】善用逻辑思维，实现高效沟通-17 界定问题\"\u003e\n🖼️ Image(img_key:img_v3_0216f_c3893843-ab18-485f-8a02-d95d723020fg)\n尊敬的 牛振东，您好！\n有新课程上传到平台上，您可以去学习哦！\n课程名称：【通用素质】善用逻辑思维，实现高效沟通-17 界定问题— 找准差距，开启问题解决第一步\n点击立即学习，快来提升职场竞争力吧！\n\u003c/card\u003e",
+        "create_time": "2026-10-14 08:56",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_c8be723e7f371a1bff116b79aeace20b\u0026position=517",
+        "message_id": "om_x100b63c07388e0b0cf97e2a4c2901c1",
+        "message_position": "517",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a3d26fefa57b500c",
+          "id_type": "app_id",
+          "name": "汇川学习平台",
+          "open_bot_id": "ou_5538a2a790f012608248626e01a89e03",
+          "sender_i18n_names": {
+            "en_us": "INOVANCE ACADEMY",
+            "zh_cn": "汇川学习平台"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      }
+    ],
+    "page_token": "",
+    "total": 1
+  },
+  "meta": {
+    "pagination": {
+      "complete": true,
+      "pages": 1,
+      "items": 1
+    }
+  }
+}

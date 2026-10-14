@@ -1,0 +1,64 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "has_more": false,
+    "messages": [
+      {
+        "chat_id": "oc_55af2558e29a16663a68b45fd8b98bf1",
+        "content": "\u003ccard title=\"您提交的流程已被审批通过，请查阅：牛振东-10068181提交的外出公干\"\u003e\n📝 申请时间：2026-10-14 09:49 \n申请人：牛振东\n---\n[查看详情](https://oa.inovance.com/sys/notify/sys_notify_todo/sysNotifyTodo.do?method=view\u0026fdId=1a13819ecd9bcbc60d715fe47f69d111\u0026oauth=fs2ekp)\n\u003c/card\u003e",
+        "create_time": "2026-10-14 01:49",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_55af2558e29a16663a68b45fd8b98bf1\u0026position=106",
+        "message_id": "om_x100b63d9b51040a8deaf8ababd6d0f2",
+        "message_position": "106",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a2a3d4cab4bb100e",
+          "id_type": "app_id",
+          "name": "OA待阅中心",
+          "open_bot_id": "ou_77027805ad07dfa8bb111ad00c1ffd93",
+          "sender_i18n_names": {
+            "en_us": "OA toView",
+            "zh_cn": "OA待阅中心"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_55af2558e29a16663a68b45fd8b98bf1",
+        "content": "\u003ccard title=\"您提交的流程已被审批通过，请查阅：IT基础设施类资源需求（需求名称：申请济南接线防反检测系统对外发布，仅允许飞书端访问）\"\u003e\n📝 申请时间：2026-10-14 10:53 \n申请人：牛振东\n---\n[查看详情](https://oa.inovance.com/sys/notify/sys_notify_todo/sysNotifyTodo.do?method=view\u0026fdId=1a13854a93f93ec788093c5463590066\u0026oauth=fs2ekp)\n\u003c/card\u003e",
+        "create_time": "2026-10-14 02:53",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_55af2558e29a16663a68b45fd8b98bf1\u0026position=107",
+        "message_id": "om_x100b63daa28920a4dd01f0654ef4a7d",
+        "message_position": "107",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a2a3d4cab4bb100e",
+          "id_type": "app_id",
+          "name": "OA待阅中心",
+          "open_bot_id": "ou_77027805ad07dfa8bb111ad00c1ffd93",
+          "sender_i18n_names": {
+            "en_us": "OA toView",
+            "zh_cn": "OA待阅中心"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      }
+    ],
+    "page_token": "",
+    "total": 2
+  },
+  "meta": {
+    "pagination": {
+      "complete": true,
+      "pages": 1,
+      "items": 2
+    }
+  }
+}

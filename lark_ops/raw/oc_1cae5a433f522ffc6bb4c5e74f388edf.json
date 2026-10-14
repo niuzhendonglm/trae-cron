@@ -1,0 +1,340 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "has_more": false,
+    "messages": [
+      {
+        "chat_id": "oc_1cae5a433f522ffc6bb4c5e74f388edf",
+        "content": "\u003ccard title=\"🟠 橙色预警 · 10-14 00:56\"\u003e\n**2026-10-14 00:56 触发 8 条预警**\n\n🟠 **[sector]** 行业板块 元件 +4.77%（领涨：超声电子）\n🟠 **[sector]** 行业板块 其他数字媒体 +11.94%（领涨：风语筑）\n🟠 **[sector]** 行业板块 印制电路板 +6.08%（领涨：超声电子）\n🟠 **[sector]** 行业板块 地面兵装Ⅲ +4.54%（领涨：国科军工）\n🟠 **[sector]** 行业板块 电商服务 +4.22%（领涨：丽人丽妆）\n🟠 **[sector]** 行业板块 纺织化学制品 +5.43%（领涨：亚邦股份）\n🟠 **[sector]** 行业板块 航海装备Ⅲ +4.36%（领涨：江龙船艇）\n🟠 **[sector]** 行业板块 防水材料 +4.28%（领涨：凯伦股份）\n\n**⚠️ 风险提示**：以上为规则触发的客观数据预警，请结合盘面独立判断。\u003e 以上为公开行情数据的客观整理，不构成投资建议。股市有风险，投资需谨慎。数据来源：东方财富/新浪/CNBC/腾讯公开接口，延迟约3-5分钟。\n\u003c/card\u003e",
+        "create_time": "2026-10-13 16:56",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_1cae5a433f522ffc6bb4c5e74f388edf\u0026position=11",
+        "message_id": "om_x100b63d264f434acdfd6b8503c5e41c",
+        "message_position": "11",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a9630741047a1cb1",
+          "id_type": "app_id",
+          "name": "牛振东的智能助手",
+          "open_bot_id": "ou_c8b9500a3166c6e6e7d2613c870c09d1",
+          "sender_i18n_names": {
+            "en_us": "牛振东的智能助手",
+            "zh_cn": "牛振东的智能助手"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_1cae5a433f522ffc6bb4c5e74f388edf",
+        "content": "\u003ccard title=\"🔴 红色预警 · 10-14 01:26\"\u003e\n**2026-10-14 01:26 触发 1 条预警**\n\n🔴 **[index]** 韩国KOSPI -5.46% 触发红色预警（±5%）\n\n**⚠️ 风险提示**：以上为规则触发的客观数据预警，请结合盘面独立判断。\u003e 以上为公开行情数据的客观整理，不构成投资建议。股市有风险，投资需谨慎。数据来源：东方财富/新浪/CNBC/腾讯公开接口，延迟约3-5分钟。\n\u003c/card\u003e",
+        "create_time": "2026-10-13 17:26",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_1cae5a433f522ffc6bb4c5e74f388edf\u0026position=12",
+        "message_id": "om_x100b63d2d47330a0df2ed30580e7e12",
+        "message_position": "12",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a9630741047a1cb1",
+          "id_type": "app_id",
+          "name": "牛振东的智能助手",
+          "open_bot_id": "ou_c8b9500a3166c6e6e7d2613c870c09d1",
+          "sender_i18n_names": {
+            "en_us": "牛振东的智能助手",
+            "zh_cn": "牛振东的智能助手"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_1cae5a433f522ffc6bb4c5e74f388edf",
+        "content": "\u003ccard title=\"🔴 红色预警 · 10-14 02:26\"\u003e\n**2026-10-14 02:26 触发 1 条预警**\n\n🔴 **[index]** 韩国KOSPI -5.46% 触发红色预警（±5%）\n\n**⚠️ 风险提示**：以上为规则触发的客观数据预警，请结合盘面独立判断。\u003e 以上为公开行情数据的客观整理，不构成投资建议。股市有风险，投资需谨慎。数据来源：东方财富/新浪/CNBC/腾讯公开接口，延迟约3-5分钟。\n\u003c/card\u003e",
+        "create_time": "2026-10-13 18:26",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_1cae5a433f522ffc6bb4c5e74f388edf\u0026position=13",
+        "message_id": "om_x100b63d3351d3ca4dd1214cf585054c",
+        "message_position": "13",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a9630741047a1cb1",
+          "id_type": "app_id",
+          "name": "牛振东的智能助手",
+          "open_bot_id": "ou_c8b9500a3166c6e6e7d2613c870c09d1",
+          "sender_i18n_names": {
+            "en_us": "牛振东的智能助手",
+            "zh_cn": "牛振东的智能助手"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_1cae5a433f522ffc6bb4c5e74f388edf",
+        "content": "\u003ccard title=\"🟠 橙色预警 · 10-14 03:26\"\u003e\n**2026-10-14 03:26 触发 8 条预警**\n\n🟠 **[sector]** 行业板块 元件 +4.77%（领涨：超声电子）\n🟠 **[sector]** 行业板块 其他数字媒体 +11.94%（领涨：风语筑）\n🟠 **[sector]** 行业板块 印制电路板 +6.08%（领涨：超声电子）\n🟠 **[sector]** 行业板块 地面兵装Ⅲ +4.54%（领涨：国科军工）\n🟠 **[sector]** 行业板块 电商服务 +4.22%（领涨：丽人丽妆）\n🟠 **[sector]** 行业板块 纺织化学制品 +5.43%（领涨：亚邦股份）\n🟠 **[sector]** 行业板块 航海装备Ⅲ +4.36%（领涨：江龙船艇）\n🟠 **[sector]** 行业板块 防水材料 +4.28%（领涨：凯伦股份）\n\n**⚠️ 风险提示**：以上为规则触发的客观数据预警，请结合盘面独立判断。\u003e 以上为公开行情数据的客观整理，不构成投资建议。股市有风险，投资需谨慎。数据来源：东方财富/新浪/CNBC/腾讯公开接口，延迟约3-5分钟。\n\u003c/card\u003e",
+        "create_time": "2026-10-13 19:26",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_1cae5a433f522ffc6bb4c5e74f388edf\u0026position=14",
+        "message_id": "om_x100b63dc1271e0a4dd105403c9b4a11",
+        "message_position": "14",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a9630741047a1cb1",
+          "id_type": "app_id",
+          "name": "牛振东的智能助手",
+          "open_bot_id": "ou_c8b9500a3166c6e6e7d2613c870c09d1",
+          "sender_i18n_names": {
+            "en_us": "牛振东的智能助手",
+            "zh_cn": "牛振东的智能助手"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_1cae5a433f522ffc6bb4c5e74f388edf",
+        "content": "\u003ccard title=\"🔴 红色预警 · 10-14 03:56\"\u003e\n**2026-10-14 03:56 触发 1 条预警**\n\n🔴 **[index]** 韩国KOSPI -5.46% 触发红色预警（±5%）\n\n**⚠️ 风险提示**：以上为规则触发的客观数据预警，请结合盘面独立判断。\u003e 以上为公开行情数据的客观整理，不构成投资建议。股市有风险，投资需谨慎。数据来源：东方财富/新浪/CNBC/腾讯公开接口，延迟约3-5分钟。\n\u003c/card\u003e",
+        "create_time": "2026-10-13 19:56",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_1cae5a433f522ffc6bb4c5e74f388edf\u0026position=15",
+        "message_id": "om_x100b63dc83fe10a0dfc18ddb37978a8",
+        "message_position": "15",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a9630741047a1cb1",
+          "id_type": "app_id",
+          "name": "牛振东的智能助手",
+          "open_bot_id": "ou_c8b9500a3166c6e6e7d2613c870c09d1",
+          "sender_i18n_names": {
+            "en_us": "牛振东的智能助手",
+            "zh_cn": "牛振东的智能助手"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_1cae5a433f522ffc6bb4c5e74f388edf",
+        "content": "\u003ccard title=\"🌃 美股收盘早报 · 10-14\"\u003e\n**2026-10-14 04:00 美股收盘早报（上一交易日）**\n\n**🇺🇸 美股指数**\n- 🟢 **道琼斯** 51,685.75（-0.32%）\n- 🟢 **纳斯达克100** 27,203.74（-0.15%）\n- ⚪ **标普500** 7,807.58（+0.00%）\n- **VIX 恐慌指数** 15.26（+0.06%）**💻 科技龙头**\n- 🔴 **苹果** 341.27（+0.09%）\n- 🔴 **微软** 543.54（+0.44%）\n- 🔴 **英伟达** 228.49（+0.96%）\n- 🔴 **谷歌** 353.63（+0.26%）\n- 🟢 **亚马逊** 258.67（-0.33%）\n- 🔴 **Meta** 762.25（+2.60%）\n- 🟢 **特斯拉** 375.16（-0.76%）**🇨🇳 中概股**\n- 🟢 **中概互联ETF** 24.72（-0.12%）\n- 🔴 **阿里巴巴** 110.86（+0.08%）\n- 🔴 **拼多多** 81.98（+1.32%）\n- 🔴 **京东** 26.77（+0.19%）\n- 🟢 **百度** 83.75（-0.65%）**🛢️ 大宗商品**\n- 🔴 **NYMEX原油** 94.52（+0.83%）\n- 🟢 **COMEX黄金** 4,189.10（-0.04%）\n- 🟢 **COMEX铜** 6.73（-0.24%）\n- 🔴 **天然气** 3.32（+4.80%）**🏦 债券收益率**\n- **美债10Y** 5.219%\n- **中债10Y** 1.715%**💱 汇率**\n- 🟢 **美元指数** 102.22（-0.35%）\n- 🟢 **离岸人民币** 6.69（-0.02%）\n- 🔴 **欧元兑美元** 1.12（+0.38%）\n- 🟢 **美元兑日元** 158.35（-0.18%）\n- **在岸人民币** 6.6928（+0.00%）\u003e 以上为公开行情数据的客观整理，不构成投资建议。股市有风险，投资需谨慎。数据来源：东方财富/新浪/CNBC/腾讯公开接口，延迟约3-5分钟。\n\u003c/card\u003e",
+        "create_time": "2026-10-13 20:00",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_1cae5a433f522ffc6bb4c5e74f388edf\u0026position=16",
+        "message_id": "om_x100b63dc92fc70a0de63e14b2cea297",
+        "message_position": "16",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a9630741047a1cb1",
+          "id_type": "app_id",
+          "name": "牛振东的智能助手",
+          "open_bot_id": "ou_c8b9500a3166c6e6e7d2613c870c09d1",
+          "sender_i18n_names": {
+            "en_us": "牛振东的智能助手",
+            "zh_cn": "牛振东的智能助手"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_1cae5a433f522ffc6bb4c5e74f388edf",
+        "content": "\u003ccard title=\"🌏 全球早盘前瞻 · 10-14\"\u003e\n**2026-10-14 08:50 全球早盘前瞻**\n\n**🇺🇸 隔夜美股**\n- 🟢 **道琼斯** 51,670.10（-0.35%）\n- 🟢 **纳斯达克100** 27,204.38（-0.15%）\n- 🟢 **标普500** 7,805.45（-0.02%）\n- **VIX 恐慌指数** 15.28（+0.08%）\n- **中概互联ETF(KWEB)** 24.72（-0.12%）**🇪🇺 隔夜欧股**\n- 🟢 **英国富时100** 10,650.33（-0.06%）\n- 🟢 **德国DAX30** 25,259.90（-0.07%）\n- 🟢 **法国CAC40** 7,827.63（-0.07%）**🛢️ 大宗商品与汇率**\n- 🔴 **NYMEX原油** 94.91（+0.82%）\n- 🔴 **COMEX黄金** 4,182.40（+0.12%）\n- 🔴 **COMEX铜** 6.73（+0.04%）\n- 🔴 **天然气** 3.33（+1.31%）\n- 🟢 **美元指数** 102.16（-0.04%）\n- 🔴 **离岸人民币** 6.69（+0.01%）**🏦 债券收益率**\n- **美债10Y** 5.223%\n- **中债10Y** 1.660%**🧭 开盘预判（条件式参考）**\n- 隔夜外围波动有限，A股或以自身节奏开盘**📋 量化筛选观察池（上一交易日收盘数据，开盘参考）**\n筛选时点 2026-10-13 23:23 ｜ 全量通过 **100** 只，展示评分前 **10** 只：\n1. **招商港口**（001872·航运港口）评分 3.09 ｜ 高共识 ｜ 命中 S02,S04,S06,S09,S11,S16,S17,S19,S23收盘 25.44，支撑 20.31 / 压力 25.46，ATR参考止损 24.08 / 止盈 27.48\n2. **分众传媒**（002027·广告营销）评分 3.09 ｜ 高共识 ｜ 命中 S01,S02,S04,S05,S06,S11,S17,S19收盘 5.1，支撑 4.63 / 压力 5.59，ATR参考止损 4.84 / 止盈 5.49\n3. **工商银行**（601398·银行Ⅱ）评分 3.01 ｜ 高共识 ｜ 命中 S04,S06,S09,S11,S16,S17,S19,S23收盘 8.49，支撑 7.36 / 压力 8.52，ATR参考止损 8.17 / 止盈 8.97\n4. **浦发银行**（600000·银行Ⅱ）评分 3.0 ｜ 高共识 ｜ 命中 S02,S04,S06,S09,S11,S17,S19,S23收盘 9.59，支撑 8.64 / 压力 9.74，ATR参考止损 9.23 / 止盈 10.13\n5. **中远海控**（601919·航运港口）评分 2.98 ｜ 高共识 ｜ 命中 S02,S04,S06,S11,S16,S17,S19,S23收盘 17.14，支撑 14.07 / 压力 17.52，ATR参考止损 16.42 / 止盈 18.22\n6. **招商银行**（600036·银行Ⅱ）评分 2.95 ｜ 高共识 ｜ 命中 S02,S04,S09,S11,S16,S17,S19收盘 42.8，支撑 36.75 / 压力 42.95，ATR参考止损 41.4 / 止盈 44.9\n7. **中国移动**（600941·通信服务）评分 2.93 ｜ 高共识 ｜ 命中 S02,S04,S06,S09,S11,S17,S19,S23收盘 99.37，支撑 88.17 / 压力 99.88，ATR参考止损 96.57 / 止盈 103.57\n8. **大秦铁路**（601006·铁路公路）评分 2.91 ｜ 高共识 ｜ 命中 S02,S04,S06,S11,S16,S19收盘 5.0，支撑 4.6 / 压力 5.06，ATR参考止损 4.82 / 止盈 5.27\n9. **宁波港**（601018·航运港口）评分 2.91 ｜ 高共识 ｜ 命中 S02,S04,S06,S09,S11,S17,S19,S23收盘 3.65，支撑 3.25 / 压力 3.72，ATR参考止损 3.51 / 止盈 3.86\n10. **江苏金租**（600901·多元金融）评分 2.9 ｜ 高共识 ｜ 命中 S02,S04,S09,S11,S16,S17,S19,S23收盘 7.26，支撑 6.02 / 压力 7.3，ATR参考止损 6.96 / 止盈 7.71\u003e 📋 以上为多策略量化引擎的客观规则筛选结果（数据截至筛选时点），**不构成投资建议，不构成任何买入/卖出指令**。候选池为市值前500只抽样，可能遗漏中等市值标的。止损/止盈位为历史波动率（ATR）参考，非收益承诺。请结合自身风险承受能力独立决策。\u003e 📌 数据能力说明：北向资金实时净额自2024-08起已停止公开披露；龙虎榜/涨停池接口（datacenter-web/push2ex）在当前网络被URL过滤策略拦截。相关栏目以可得数据替代或如实缺省。\u003e 以上为公开行情数据的客观整理，不构成投资建议。股市有风险，投资需谨慎。数据来源：东方财富/新浪/CNBC/腾讯公开接口，延迟约3-5分钟。\n\u003c/card\u003e",
+        "create_time": "2026-10-14 00:50",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_1cae5a433f522ffc6bb4c5e74f388edf\u0026position=17",
+        "message_id": "om_x100b63d9557b6100c1db641a0a9f1fe",
+        "message_position": "17",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a9630741047a1cb1",
+          "id_type": "app_id",
+          "name": "牛振东的智能助手",
+          "open_bot_id": "ou_c8b9500a3166c6e6e7d2613c870c09d1",
+          "sender_i18n_names": {
+            "en_us": "牛振东的智能助手",
+            "zh_cn": "牛振东的智能助手"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_1cae5a433f522ffc6bb4c5e74f388edf",
+        "content": "\u003ccard title=\"🟠 橙色预警 · 10-14 09:56\"\u003e\n**2026-10-14 09:56 触发 1 条预警**\n\n🟠 **[sector]** 行业板块 其他数字媒体 +4.28%（领涨：凡拓数创）\n\n**⚠️ 风险提示**：以上为规则触发的客观数据预警，请结合盘面独立判断。\u003e 以上为公开行情数据的客观整理，不构成投资建议。股市有风险，投资需谨慎。数据来源：东方财富/新浪/CNBC/腾讯公开接口，延迟约3-5分钟。\n\u003c/card\u003e",
+        "create_time": "2026-10-14 01:56",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_1cae5a433f522ffc6bb4c5e74f388edf\u0026position=18",
+        "message_id": "om_x100b63da5df3e0a4def7fc2bf8cf849",
+        "message_position": "18",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a9630741047a1cb1",
+          "id_type": "app_id",
+          "name": "牛振东的智能助手",
+          "open_bot_id": "ou_c8b9500a3166c6e6e7d2613c870c09d1",
+          "sender_i18n_names": {
+            "en_us": "牛振东的智能助手",
+            "zh_cn": "牛振东的智能助手"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_1cae5a433f522ffc6bb4c5e74f388edf",
+        "content": "\u003ccard title=\"🟡 黄色预警汇总 · 10-14 09:56\"\u003e\n**2026-10-14 09:56 触发 2 条预警**\n\n🟡 **[油气及炼化工程]** 行业板块 油气及炼化工程 +3.19%\n🟡 **[油气开采Ⅲ]** 行业板块 油气开采Ⅲ +3.26%\n\n**⚠️ 风险提示**：以上为规则触发的客观数据预警，请结合盘面独立判断。\u003e 以上为公开行情数据的客观整理，不构成投资建议。股市有风险，投资需谨慎。数据来源：东方财富/新浪/CNBC/腾讯公开接口，延迟约3-5分钟。\n\u003c/card\u003e",
+        "create_time": "2026-10-14 01:56",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_1cae5a433f522ffc6bb4c5e74f388edf\u0026position=19",
+        "message_id": "om_x100b63da5d87d8bcddfdf3ddb2dab30",
+        "message_position": "19",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a9630741047a1cb1",
+          "id_type": "app_id",
+          "name": "牛振东的智能助手",
+          "open_bot_id": "ou_c8b9500a3166c6e6e7d2613c870c09d1",
+          "sender_i18n_names": {
+            "en_us": "牛振东的智能助手",
+            "zh_cn": "牛振东的智能助手"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_1cae5a433f522ffc6bb4c5e74f388edf",
+        "content": "\u003ccard title=\"🟠 橙色预警 · 10-14 11:26\"\u003e\n**2026-10-14 11:26 触发 6 条预警**\n\n🟠 **[sector]** 行业板块 出版 +4.13%（领涨：新经典）\n🟠 **[sector]** 行业板块 大众出版 +4.55%（领涨：新经典）\n🟠 **[sector]** 行业板块 文字媒体 +8.68%（领涨：掌阅科技）\n🟠 **[sector]** 行业板块 油气及炼化工程 +4.40%（领涨：博迈科）\n🟠 **[sector]** 行业板块 游戏Ⅲ +4.02%（领涨：电魂网络）\n🟠 **[sector]** 行业板块 视频媒体 +12.42%（领涨：芒果超媒）\n\n**⚠️ 风险提示**：以上为规则触发的客观数据预警，请结合盘面独立判断。\u003e 以上为公开行情数据的客观整理，不构成投资建议。股市有风险，投资需谨慎。数据来源：东方财富/新浪/CNBC/腾讯公开接口，延迟约3-5分钟。\n\u003c/card\u003e",
+        "create_time": "2026-10-14 03:26",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_1cae5a433f522ffc6bb4c5e74f388edf\u0026position=20",
+        "message_id": "om_x100b63db2a1654a0df8c1096924f7f2",
+        "message_position": "20",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a9630741047a1cb1",
+          "id_type": "app_id",
+          "name": "牛振东的智能助手",
+          "open_bot_id": "ou_c8b9500a3166c6e6e7d2613c870c09d1",
+          "sender_i18n_names": {
+            "en_us": "牛振东的智能助手",
+            "zh_cn": "牛振东的智能助手"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_1cae5a433f522ffc6bb4c5e74f388edf",
+        "content": "\u003ccard title=\"🟡 黄色预警汇总 · 10-14 11:26\"\u003e\n**2026-10-14 11:26 触发 2 条预警**\n\n🟡 **[数字媒体]** 行业板块 数字媒体 +3.53%\n🟡 **[油服工程]** 行业板块 油服工程 +3.55%\n\n**⚠️ 风险提示**：以上为规则触发的客观数据预警，请结合盘面独立判断。\u003e 以上为公开行情数据的客观整理，不构成投资建议。股市有风险，投资需谨慎。数据来源：东方财富/新浪/CNBC/腾讯公开接口，延迟约3-5分钟。\n\u003c/card\u003e",
+        "create_time": "2026-10-14 03:26",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_1cae5a433f522ffc6bb4c5e74f388edf\u0026position=21",
+        "message_id": "om_x100b63db2a2520b8c0e7969a5ee3dff",
+        "message_position": "21",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a9630741047a1cb1",
+          "id_type": "app_id",
+          "name": "牛振东的智能助手",
+          "open_bot_id": "ou_c8b9500a3166c6e6e7d2613c870c09d1",
+          "sender_i18n_names": {
+            "en_us": "牛振东的智能助手",
+            "zh_cn": "牛振东的智能助手"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_1cae5a433f522ffc6bb4c5e74f388edf",
+        "content": "\u003ccard title=\"🕛 A股午间复盘 · 10-14\"\u003e\n**2026-10-14 11:35 A股午间复盘（上午盘面）**\n\n**📈 上午指数表现**\n- 🔴 **上证指数** 3,802.24（+0.04%）\n- 🟢 **深证成指** 12,289.54（-0.52%）\n- 🟢 **创业板指** 2,922.86（-1.20%）\n- 🟢 **科创50** 1,411.79（-1.08%）\n- 🟢 **沪深300** 4,263.40（-0.29%）\n- 🟢 **中证500** 7,079.00（-0.09%）\n- 🟢 **中证1000** 7,003.98（-0.27%）\n- 📊 沪市涨跌家数：837 涨 / 1437 跌 / 82 平💰 沪深两市成交额约 **8,429 亿元**\n\n**🏭 行业板块**\n- 板块数据缺失\u003e 📌 数据能力说明：北向资金实时净额自2024-08起已停止公开披露；龙虎榜/涨停池接口（datacenter-web/push2ex）在当前网络被URL过滤策略拦截。相关栏目以可得数据替代或如实缺省。\u003e 以上为公开行情数据的客观整理，不构成投资建议。股市有风险，投资需谨慎。数据来源：东方财富/新浪/CNBC/腾讯公开接口，延迟约3-5分钟。\n\u003c/card\u003e",
+        "create_time": "2026-10-14 03:35",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_1cae5a433f522ffc6bb4c5e74f388edf\u0026position=22",
+        "message_id": "om_x100b63dbc9bae8b8df2675be5551999",
+        "message_position": "22",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a9630741047a1cb1",
+          "id_type": "app_id",
+          "name": "牛振东的智能助手",
+          "open_bot_id": "ou_c8b9500a3166c6e6e7d2613c870c09d1",
+          "sender_i18n_names": {
+            "en_us": "牛振东的智能助手",
+            "zh_cn": "牛振东的智能助手"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_1cae5a433f522ffc6bb4c5e74f388edf",
+        "content": "\u003ccard title=\"🟠 橙色预警 · 10-14 11:56\"\u003e\n**2026-10-14 11:56 触发 1 条预警**\n\n🟠 **[sector]** 行业板块 其他数字媒体 +4.76%（领涨：凡拓数创）\n\n**⚠️ 风险提示**：以上为规则触发的客观数据预警，请结合盘面独立判断。\u003e 以上为公开行情数据的客观整理，不构成投资建议。股市有风险，投资需谨慎。数据来源：东方财富/新浪/CNBC/腾讯公开接口，延迟约3-5分钟。\n\u003c/card\u003e",
+        "create_time": "2026-10-14 03:56",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_1cae5a433f522ffc6bb4c5e74f388edf\u0026position=23",
+        "message_id": "om_x100b63db9bafcca0c0ef4df0e9b6d58",
+        "message_position": "23",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a9630741047a1cb1",
+          "id_type": "app_id",
+          "name": "牛振东的智能助手",
+          "open_bot_id": "ou_c8b9500a3166c6e6e7d2613c870c09d1",
+          "sender_i18n_names": {
+            "en_us": "牛振东的智能助手",
+            "zh_cn": "牛振东的智能助手"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_1cae5a433f522ffc6bb4c5e74f388edf",
+        "content": "\u003ccard title=\"🟡 黄色预警汇总 · 10-14 11:56\"\u003e\n**2026-10-14 11:56 触发 3 条预警**\n\n🟡 **[出版]** 行业板块 出版 +3.91%\n🟡 **[影视动漫制作]** 行业板块 影视动漫制作 +3.82%\n🟡 **[油服工程]** 行业板块 油服工程 +3.46%\n\n**⚠️ 风险提示**：以上为规则触发的客观数据预警，请结合盘面独立判断。\u003e 以上为公开行情数据的客观整理，不构成投资建议。股市有风险，投资需谨慎。数据来源：东方财富/新浪/CNBC/腾讯公开接口，延迟约3-5分钟。\n\u003c/card\u003e",
+        "create_time": "2026-10-14 03:56",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_1cae5a433f522ffc6bb4c5e74f388edf\u0026position=24",
+        "message_id": "om_x100b63db9ba1a8b0c06d650ea1385d0",
+        "message_position": "24",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a9630741047a1cb1",
+          "id_type": "app_id",
+          "name": "牛振东的智能助手",
+          "open_bot_id": "ou_c8b9500a3166c6e6e7d2613c870c09d1",
+          "sender_i18n_names": {
+            "en_us": "牛振东的智能助手",
+            "zh_cn": "牛振东的智能助手"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      }
+    ],
+    "page_token": "",
+    "total": 14
+  },
+  "meta": {
+    "pagination": {
+      "complete": true,
+      "pages": 1,
+      "items": 14
+    }
+  }
+}

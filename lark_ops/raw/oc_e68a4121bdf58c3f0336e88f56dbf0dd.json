@@ -1,0 +1,66 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "has_more": false,
+    "messages": [
+      {
+        "chat_id": "oc_e68a4121bdf58c3f0336e88f56dbf0dd",
+        "content": "\u003ccalendar_invite\u003e\nAI应用交流 -德勤\n2026-10-14 02:00:00 ~ 2026-10-14 04:00:00\n\u003c/calendar_invite\u003e",
+        "create_time": "2026-10-14 00:21",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_e68a4121bdf58c3f0336e88f56dbf0dd\u0026position=1126",
+        "message_id": "om_x100b63d8ff85a4a8c0d9e3ee3faf020",
+        "message_position": "1126",
+        "msg_type": "calendar",
+        "sender": {
+          "id": "cli_a0d9fec6ffb8d00e",
+          "id_type": "app_id",
+          "name": "日历助手",
+          "open_bot_id": "ou_0bd5f93ae8b81a948b4ec6aeab287924",
+          "sender_i18n_names": {
+            "en_us": "Calendar Assistant",
+            "ja_jp": "カレンダーアシスタント",
+            "zh_cn": "日历助手"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_e68a4121bdf58c3f0336e88f56dbf0dd",
+        "content": "\u003ccalendar_invite\u003e\n济南订单异常AI项目业务解决方案内部对齐\n2026-10-14 09:00:00 ~ 2026-10-14 09:30:00\n\u003c/calendar_invite\u003e",
+        "create_time": "2026-10-14 03:40",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_e68a4121bdf58c3f0336e88f56dbf0dd\u0026position=1127",
+        "message_id": "om_x100b63dbd5c9c4b4ceab538be2e128b",
+        "message_position": "1127",
+        "msg_type": "calendar",
+        "sender": {
+          "id": "cli_a0d9fec6ffb8d00e",
+          "id_type": "app_id",
+          "name": "日历助手",
+          "open_bot_id": "ou_0bd5f93ae8b81a948b4ec6aeab287924",
+          "sender_i18n_names": {
+            "en_us": "Calendar Assistant",
+            "ja_jp": "カレンダーアシスタント",
+            "zh_cn": "日历助手"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      }
+    ],
+    "page_token": "",
+    "total": 2
+  },
+  "meta": {
+    "pagination": {
+      "complete": true,
+      "pages": 1,
+      "items": 2
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "has_more": false,
+    "messages": [
+      {
+        "chat_id": "oc_8958ad726246ddadf242c96abf0e16aa",
+        "content": "\u003ccard title=\"⏰ 每日待办提醒：“IT基础设施类资源需求申请流程” 待处理\"\u003e\n**申请人**\n@牛振东(ou_635008cc2affc45d23de666f2e7e7446)\n**审批事由**\n[查看详情](https://applink.feishu.cn/client/approval/home?formType=other\u0026mode=appCenter\u0026appId=cli_9cb844403dbb9108\u0026width=1136\u0026height=750\u0026path=pc%2Fpages%2Fin-process%2Findex%3FinstanceId%3D7695657754559958308%26detailClickType%3Dbutton)\n\u003c/card\u003e",
+        "create_time": "2026-10-14 02:47",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_635008cc2affc45d23de666f2e7e7446",
+            "key": "@_user_1",
+            "name": "牛振东"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_8958ad726246ddadf242c96abf0e16aa\u0026position=49",
+        "message_id": "om_x100b63da9c9bc8a8de0d40325c96125",
+        "message_position": "49",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_9cb844403dbb9108",
+          "id_type": "app_id",
+          "name": "审批",
+          "open_bot_id": "ou_3584fc613978d43c9cd0d890b987474b",
+          "sender_i18n_names": {
+            "en_us": "Approval",
+            "ja_jp": "承認",
+            "zh_cn": "审批"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-14 02:53",
+        "updated": true
+      }
+    ],
+    "page_token": "",
+    "total": 1
+  },
+  "meta": {
+    "pagination": {
+      "complete": true,
+      "pages": 1,
+      "items": 1
+    }
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "has_more": false,
+    "messages": [
+      {
+        "chat_id": "oc_49bf15fba88f04ab44153d10be82d698",
+        "content": "\u003ccard title=\"应用已提交审批\"\u003e\n你的应用“高压接线防反检测”已提交“汇川集团”企业管理员审批。审批进展将通过“开发者小助手”机器人推送给你，请及时关注。\n[审核流程说明](https://open.feishu.cn/document/home/intro-to-custom-app-review?lang=zh-CN)\n\u003c/card\u003e",
+        "create_time": "2026-10-14 02:45",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_49bf15fba88f04ab44153d10be82d698\u0026position=55",
+        "message_id": "om_x100b63da838028a0de857374a53d9bc",
+        "message_position": "55",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a0bdca56edf8d013",
+          "id_type": "app_id",
+          "name": "开发者小助手",
+          "open_bot_id": "ou_6c3acfcd1480f474f5cb221886d31a47",
+          "sender_i18n_names": {
+            "en_us": "Developer Assistant",
+            "ja_jp": "開発者アシスタント",
+            "zh_cn": "开发者小助手"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_49bf15fba88f04ab44153d10be82d698",
+        "content": "\u003ccard title=\"应用审批通过，已发布成功\"\u003e\n你的应用“高压接线防反检测”已通过管理员审批并发布成功！\n[打开应用]\n\u003c/card\u003e",
+        "create_time": "2026-10-14 02:49",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_49bf15fba88f04ab44153d10be82d698\u0026position=56",
+        "message_id": "om_x100b63da939130accf1148b3c41632d",
+        "message_position": "56",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a0bdca56edf8d013",
+          "id_type": "app_id",
+          "name": "开发者小助手",
+          "open_bot_id": "ou_6c3acfcd1480f474f5cb221886d31a47",
+          "sender_i18n_names": {
+            "en_us": "Developer Assistant",
+            "ja_jp": "開発者アシスタント",
+            "zh_cn": "开发者小助手"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_49bf15fba88f04ab44153d10be82d698",
+        "content": "\u003ccard title=\"应用已提交审批\"\u003e\n你的应用“高压接线防反检测”已提交“汇川集团”企业管理员审批。审批进展将通过“开发者小助手”机器人推送给你，请及时关注。\n[审核流程说明](https://open.feishu.cn/document/home/intro-to-custom-app-review?lang=zh-CN)\n\u003c/card\u003e",
+        "create_time": "2026-10-14 03:05",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_49bf15fba88f04ab44153d10be82d698\u0026position=57",
+        "message_id": "om_x100b63db56b454bcdfd9a13f04ba20b",
+        "message_position": "57",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a0bdca56edf8d013",
+          "id_type": "app_id",
+          "name": "开发者小助手",
+          "open_bot_id": "ou_6c3acfcd1480f474f5cb221886d31a47",
+          "sender_i18n_names": {
+            "en_us": "Developer Assistant",
+            "ja_jp": "開発者アシスタント",
+            "zh_cn": "开发者小助手"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_49bf15fba88f04ab44153d10be82d698",
+        "content": "\u003ccard title=\"应用审批通过，已发布成功\"\u003e\n你的应用“高压接线防反检测”已通过管理员审批并发布成功！\n[打开应用]\n\u003c/card\u003e",
+        "create_time": "2026-10-14 03:11",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_49bf15fba88f04ab44153d10be82d698\u0026position=58",
+        "message_id": "om_x100b63db625584b8b0bae62ff1b9a33",
+        "message_position": "58",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a0bdca56edf8d013",
+          "id_type": "app_id",
+          "name": "开发者小助手",
+          "open_bot_id": "ou_6c3acfcd1480f474f5cb221886d31a47",
+          "sender_i18n_names": {
+            "en_us": "Developer Assistant",
+            "ja_jp": "開発者アシスタント",
+            "zh_cn": "开发者小助手"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      }
+    ],
+    "page_token": "",
+    "total": 4
+  },
+  "meta": {
+    "pagination": {
+      "complete": true,
+      "pages": 1,
+      "items": 4
+    }
+  }
+}
