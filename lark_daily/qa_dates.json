@@ -1,0 +1,10 @@
+{
+  "ok": false,
+  "identity": "user",
+  "error": {
+    "type": "validation",
+    "subtype": "invalid_argument",
+    "message": "invalid --limit 2000: must be between 1 and 200",
+    "param": "--limit"
+  }
+}

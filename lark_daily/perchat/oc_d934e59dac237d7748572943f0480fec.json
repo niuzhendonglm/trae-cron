@@ -1,0 +1,87 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "has_more": false,
+    "messages": [
+      {
+        "chat_id": "oc_d934e59dac237d7748572943f0480fec",
+        "content": "\u003ccard title=\"汇川R\u0026D〔2026〕65号 关于iFA软件研发部三层组织业务调整及干部任命的公示 Inovance R\u0026D〔2026〕65 Announcement on the 3-tier Organizational Business Adjustment and Cadre Appointment of the iFA Software R\u0026D Department\"\u003e\n📝 创建时间：2026-10-13 09:29 \n创建人：韩艳\n---\n[查看详情](https://oa.inovance.com/sys/notify/sys_notify_todo/sysNotifyTodo.do?method=view\u0026fdId=1a132e110223d18729bb49343dda4fc4\u0026oauth=fs2ekp)\n\u003c/card\u003e",
+        "create_time": "2026-10-13 01:31",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_d934e59dac237d7748572943f0480fec\u0026position=1051",
+        "message_id": "om_x100b63ecd137c4acc32cbe9c7967cf0",
+        "message_position": "1051",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a3e1ef0cc0b8500d",
+          "id_type": "app_id",
+          "name": "集团公告栏",
+          "open_bot_id": "ou_3144a28e071592d19cd07d67ad905f1d",
+          "sender_i18n_names": {
+            "en_us": "Group Announcement Board",
+            "zh_cn": "集团公告栏"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_d934e59dac237d7748572943f0480fec",
+        "content": "\u003ccard title=\"汇川生产质量〔2026〕49号 关于发现金膜电容安装与IGBT单板有干涉问题奖励的通报\"\u003e\n📝 创建时间：2026-10-13 17:36 \n创建人：刘彤\n---\n[查看详情](https://oa.inovance.com/sys/notify/sys_notify_todo/sysNotifyTodo.do?method=view\u0026fdId=1a1349e8744b9eb3449ace54d12a5f84\u0026oauth=fs2ekp)\n\u003c/card\u003e",
+        "create_time": "2026-10-13 09:36",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_d934e59dac237d7748572943f0480fec\u0026position=1052",
+        "message_id": "om_x100b63ebf7101cc0b4b70503f351375",
+        "message_position": "1052",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a3e1ef0cc0b8500d",
+          "id_type": "app_id",
+          "name": "集团公告栏",
+          "open_bot_id": "ou_3144a28e071592d19cd07d67ad905f1d",
+          "sender_i18n_names": {
+            "en_us": "Group Announcement Board",
+            "zh_cn": "集团公告栏"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_d934e59dac237d7748572943f0480fec",
+        "content": "\u003ccard title=\"汇川生产质量〔2026〕50号 关于南京工厂2026年7月至8月质量问题奖惩的通报\"\u003e\n📝 创建时间：2026-10-13 19:26 \n创建人：刘彤\n---\n[查看详情](https://oa.inovance.com/sys/notify/sys_notify_todo/sysNotifyTodo.do?method=view\u0026fdId=1a1350343f529db2315f7ae49b38053d\u0026oauth=fs2ekp)\n\u003c/card\u003e",
+        "create_time": "2026-10-13 11:26",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_d934e59dac237d7748572943f0480fec\u0026position=1053",
+        "message_id": "om_x100b63d5186f4ca4c2574e4b67a9e55",
+        "message_position": "1053",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a3e1ef0cc0b8500d",
+          "id_type": "app_id",
+          "name": "集团公告栏",
+          "open_bot_id": "ou_3144a28e071592d19cd07d67ad905f1d",
+          "sender_i18n_names": {
+            "en_us": "Group Announcement Board",
+            "zh_cn": "集团公告栏"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      }
+    ],
+    "page_token": "",
+    "total": 3
+  },
+  "meta": {
+    "pagination": {
+      "complete": true,
+      "pages": 1,
+      "items": 3
+    }
+  }
+}

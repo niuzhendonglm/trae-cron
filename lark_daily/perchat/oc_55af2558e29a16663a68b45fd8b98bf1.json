@@ -1,0 +1,64 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "has_more": false,
+    "messages": [
+      {
+        "chat_id": "oc_55af2558e29a16663a68b45fd8b98bf1",
+        "content": "\u003ccard title=\"请查阅姜志俊传阅的文档：IT基础设施类资源需求（需求名称：济南数字化看板改造服务器申请）\"\u003e\n📝 申请时间：2026-10-13 08:45 \n申请人：姜志俊\n---\n[查看详情](https://oa.inovance.com/sys/notify/sys_notify_todo/sysNotifyTodo.do?method=view\u0026fdId=1a132b8860d863c5e884bc642dc93b43\u0026oauth=fs2ekp)\n\u003c/card\u003e",
+        "create_time": "2026-10-13 00:45",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_55af2558e29a16663a68b45fd8b98bf1\u0026position=104",
+        "message_id": "om_x100b63e3bf0570acc34f81bfd5ba37e",
+        "message_position": "104",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a2a3d4cab4bb100e",
+          "id_type": "app_id",
+          "name": "OA待阅中心",
+          "open_bot_id": "ou_77027805ad07dfa8bb111ad00c1ffd93",
+          "sender_i18n_names": {
+            "en_us": "OA toView",
+            "zh_cn": "OA待阅中心"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_55af2558e29a16663a68b45fd8b98bf1",
+        "content": "\u003ccard title=\"请查阅姜志俊传阅的文档：IT基础设施类资源需求（需求名称：济南重大异常影响分析项目）\"\u003e\n📝 申请时间：2026-10-13 09:47 \n申请人：姜志俊\n---\n[查看详情](https://oa.inovance.com/sys/notify/sys_notify_todo/sysNotifyTodo.do?method=view\u0026fdId=1a132f19ade77500439e57d4f05b7381\u0026oauth=fs2ekp)\n\u003c/card\u003e",
+        "create_time": "2026-10-13 01:47",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_55af2558e29a16663a68b45fd8b98bf1\u0026position=105",
+        "message_id": "om_x100b63ec955be4b0c43017b27a5d998",
+        "message_position": "105",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a2a3d4cab4bb100e",
+          "id_type": "app_id",
+          "name": "OA待阅中心",
+          "open_bot_id": "ou_77027805ad07dfa8bb111ad00c1ffd93",
+          "sender_i18n_names": {
+            "en_us": "OA toView",
+            "zh_cn": "OA待阅中心"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      }
+    ],
+    "page_token": "",
+    "total": 2
+  },
+  "meta": {
+    "pagination": {
+      "complete": true,
+      "pages": 1,
+      "items": 2
+    }
+  }
+}

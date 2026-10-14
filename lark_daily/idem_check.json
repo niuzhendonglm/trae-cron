@@ -1,0 +1,12 @@
+{
+  "ok": false,
+  "identity": "user",
+  "error": {
+    "type": "api",
+    "subtype": "unknown",
+    "code": 800010701,
+    "message": "Unrecognized key(s) in object: 'conjunction'.",
+    "hint": "filter: Remove unsupported fields from the request payload.",
+    "log_id": "202610141325177E01BF12C4AB1B445A77"
+  }
+}

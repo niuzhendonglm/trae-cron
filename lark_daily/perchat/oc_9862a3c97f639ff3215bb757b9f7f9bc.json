@@ -1,0 +1,240 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "has_more": false,
+    "messages": [
+      {
+        "chat_id": "oc_9862a3c97f639ff3215bb757b9f7f9bc",
+        "content": "\u003ccard title=\"文档内容变更提醒\"\u003e\n@蒋静芳(ou_c56489eb59865650b63b569a08d20d6a) 编辑了电子表格 [各类驾驶舱与各类BI报表上线测试问题记录清单](https://inovance.feishu.cn/wiki/L8AXwsAnPi45jBkNiPzcESEYnld?from=subscription)\n[查看变更详情](https://inovance.feishu.cn/wiki/L8AXwsAnPi45jBkNiPzcESEYnld?subscription=1\u0026from=subscription_diff\u0026changes=CMmZjYqIy6X%2FaRADGPECIPECKIz6tdYG) [取消关注]\n\u003c/card\u003e",
+        "create_time": "2026-10-13 01:06",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_c56489eb59865650b63b569a08d20d6a",
+            "key": "@_user_1",
+            "name": "蒋静芳"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_9862a3c97f639ff3215bb757b9f7f9bc\u0026position=1034",
+        "message_id": "om_x100b63ec0f9330acb329c10d1b46a70",
+        "message_position": "1034",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a0c2cea3eef8100d",
+          "id_type": "app_id",
+          "name": "云文档助手",
+          "open_bot_id": "ou_bea63df3fdeb80b092045b7641b5b26d",
+          "sender_i18n_names": {
+            "en_us": "Docs Assistant",
+            "ja_jp": "Docs アシスタント",
+            "zh_cn": "云文档助手"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_9862a3c97f639ff3215bb757b9f7f9bc",
+        "content": "\u003ccard title=\"文档内容变更提醒\"\u003e\n@邱治钧(ou_ce3b309a1adb865c60cf7c112da25d62) 编辑了电子表格 [各类驾驶舱与各类BI报表上线测试问题记录清单](https://inovance.feishu.cn/wiki/L8AXwsAnPi45jBkNiPzcESEYnld?from=subscription)\n[查看变更详情](https://inovance.feishu.cn/wiki/L8AXwsAnPi45jBkNiPzcESEYnld?subscription=1\u0026from=subscription_diff\u0026changes=CMmZjYqIy6X%2FaRADGPICIPICKPumttYG) [取消关注]\n\u003c/card\u003e",
+        "create_time": "2026-10-13 02:42",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_ce3b309a1adb865c60cf7c112da25d62",
+            "key": "@_user_1",
+            "name": "邱治钧"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_9862a3c97f639ff3215bb757b9f7f9bc\u0026position=1035",
+        "message_id": "om_x100b63ede69914b0b2ee85135ec7c3b",
+        "message_position": "1035",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a0c2cea3eef8100d",
+          "id_type": "app_id",
+          "name": "云文档助手",
+          "open_bot_id": "ou_bea63df3fdeb80b092045b7641b5b26d",
+          "sender_i18n_names": {
+            "en_us": "Docs Assistant",
+            "ja_jp": "Docs アシスタント",
+            "zh_cn": "云文档助手"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_9862a3c97f639ff3215bb757b9f7f9bc",
+        "content": "\u003ccard title=\"文档内容变更提醒\"\u003e\n@黄金钢(ou_81c29721acf454ac727a80623cab8fcb) 编辑了电子表格 [驾驶舱指标开发方案](https://inovance.feishu.cn/wiki/EgS3wjiw8iI0xGkTlQWcuBHinmb?from=subscription)\n[查看变更详情](https://inovance.feishu.cn/wiki/EgS3wjiw8iI0xGkTlQWcuBHinmb?subscription=1\u0026from=subscription_diff\u0026changes=CM%2BZhcTdq7LYaRADGK0FIK0FKOaut9YG) [取消关注]\n\u003c/card\u003e",
+        "create_time": "2026-10-13 07:32",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_81c29721acf454ac727a80623cab8fcb",
+            "key": "@_user_1",
+            "name": "黄金钢"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_9862a3c97f639ff3215bb757b9f7f9bc\u0026position=1036",
+        "message_id": "om_x100b63e9a9ced0acb4b87c02d5d0543",
+        "message_position": "1036",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a0c2cea3eef8100d",
+          "id_type": "app_id",
+          "name": "云文档助手",
+          "open_bot_id": "ou_bea63df3fdeb80b092045b7641b5b26d",
+          "sender_i18n_names": {
+            "en_us": "Docs Assistant",
+            "ja_jp": "Docs アシスタント",
+            "zh_cn": "云文档助手"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_9862a3c97f639ff3215bb757b9f7f9bc",
+        "content": "\u003ccard title=\"文档内容变更提醒\"\u003e\n@孙奥迪(ou_6d7296505aad11152c1fa679a46346d1)、@黄金钢(ou_81c29721acf454ac727a80623cab8fcb) 编辑了电子表格 [驾驶舱指标开发方案](https://inovance.feishu.cn/wiki/EgS3wjiw8iI0xGkTlQWcuBHinmb?from=subscription)\n[查看变更详情](https://inovance.feishu.cn/wiki/EgS3wjiw8iI0xGkTlQWcuBHinmb?subscription=1\u0026from=subscription_diff\u0026changes=CM%2BZhcTdq7LYaRADGK4FIK4FKJe9t9YG) [取消关注]\n\u003c/card\u003e",
+        "create_time": "2026-10-13 08:02",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_6d7296505aad11152c1fa679a46346d1",
+            "key": "@_user_1",
+            "name": "孙奥迪"
+          },
+          {
+            "id": "ou_81c29721acf454ac727a80623cab8fcb",
+            "key": "@_user_2",
+            "name": "黄金钢"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_9862a3c97f639ff3215bb757b9f7f9bc\u0026position=1037",
+        "message_id": "om_x100b63ea14c85cbcdf9d1d5321c08f7",
+        "message_position": "1037",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a0c2cea3eef8100d",
+          "id_type": "app_id",
+          "name": "云文档助手",
+          "open_bot_id": "ou_bea63df3fdeb80b092045b7641b5b26d",
+          "sender_i18n_names": {
+            "en_us": "Docs Assistant",
+            "ja_jp": "Docs アシスタント",
+            "zh_cn": "云文档助手"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_9862a3c97f639ff3215bb757b9f7f9bc",
+        "content": "\u003ccard title=\"文档内容变更提醒\"\u003e\n@黄金钢(ou_81c29721acf454ac727a80623cab8fcb) 编辑了电子表格 [驾驶舱指标开发方案](https://inovance.feishu.cn/wiki/EgS3wjiw8iI0xGkTlQWcuBHinmb?from=subscription)\n[查看变更详情](https://inovance.feishu.cn/wiki/EgS3wjiw8iI0xGkTlQWcuBHinmb?subscription=1\u0026from=subscription_diff\u0026changes=CM%2BZhcTdq7LYaRADGK8FIK8FKKfLt9YG) [取消关注]\n\u003c/card\u003e",
+        "create_time": "2026-10-13 08:32",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_81c29721acf454ac727a80623cab8fcb",
+            "key": "@_user_1",
+            "name": "黄金钢"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_9862a3c97f639ff3215bb757b9f7f9bc\u0026position=1038",
+        "message_id": "om_x100b63ea85c0b0b4c3a64e895ba7dab",
+        "message_position": "1038",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a0c2cea3eef8100d",
+          "id_type": "app_id",
+          "name": "云文档助手",
+          "open_bot_id": "ou_bea63df3fdeb80b092045b7641b5b26d",
+          "sender_i18n_names": {
+            "en_us": "Docs Assistant",
+            "ja_jp": "Docs アシスタント",
+            "zh_cn": "云文档助手"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_9862a3c97f639ff3215bb757b9f7f9bc",
+        "content": "\u003ccard title=\"迁入成功\"\u003e\n@邱治钧(ou_ce3b309a1adb865c60cf7c112da25d62) 已同意你移动以下文档的请求，文档已被移动至[内部分享](https://inovance.feishu.cn/wiki/KUvJwboRsilLYEkt0CdchqGvnvd)：\n[本体建模第一次内部研讨会 会议纪要](https://inovance.feishu.cn/wiki/RIWzw5FqEiQxz0kwauhc3SW5nCc?from=botpush)\n\u003c/card\u003e",
+        "create_time": "2026-10-13 08:50",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_ce3b309a1adb865c60cf7c112da25d62",
+            "key": "@_user_1",
+            "name": "邱治钧"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_9862a3c97f639ff3215bb757b9f7f9bc\u0026position=1039",
+        "message_id": "om_x100b63eb4365d8a4b1f296449dc1ab3",
+        "message_position": "1039",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a0c2cea3eef8100d",
+          "id_type": "app_id",
+          "name": "云文档助手",
+          "open_bot_id": "ou_bea63df3fdeb80b092045b7641b5b26d",
+          "sender_i18n_names": {
+            "en_us": "Docs Assistant",
+            "ja_jp": "Docs アシスタント",
+            "zh_cn": "云文档助手"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_9862a3c97f639ff3215bb757b9f7f9bc",
+        "content": "\u003ccard title=\"文档内容变更提醒\"\u003e\n@蒋静芳(ou_c56489eb59865650b63b569a08d20d6a) 编辑了电子表格 [各类驾驶舱与各类BI报表上线测试问题记录清单](https://inovance.feishu.cn/wiki/L8AXwsAnPi45jBkNiPzcESEYnld?from=subscription)\n[查看变更详情](https://inovance.feishu.cn/wiki/L8AXwsAnPi45jBkNiPzcESEYnld?subscription=1\u0026from=subscription_diff\u0026changes=CMmZjYqIy6X%2FaRADGPMCIPUCKPzxt9YG) [取消关注]\n\u003c/card\u003e",
+        "create_time": "2026-10-13 09:55",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_c56489eb59865650b63b569a08d20d6a",
+            "key": "@_user_1",
+            "name": "蒋静芳"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_9862a3c97f639ff3215bb757b9f7f9bc\u0026position=1040",
+        "message_id": "om_x100b63d44e8178a0c023a43aadc31f8",
+        "message_position": "1040",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a0c2cea3eef8100d",
+          "id_type": "app_id",
+          "name": "云文档助手",
+          "open_bot_id": "ou_bea63df3fdeb80b092045b7641b5b26d",
+          "sender_i18n_names": {
+            "en_us": "Docs Assistant",
+            "ja_jp": "Docs アシスタント",
+            "zh_cn": "云文档助手"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      }
+    ],
+    "page_token": "",
+    "total": 7
+  },
+  "meta": {
+    "pagination": {
+      "complete": true,
+      "pages": 1,
+      "items": 7
+    }
+  }
+}

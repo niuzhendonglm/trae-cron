@@ -1,0 +1,39 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "has_more": false,
+    "messages": [
+      {
+        "chat_id": "oc_9d84fb68e7e27bd3944a15327ab7cd19",
+        "content": "岳阳工厂那边的开发工作和数据的梳理，雨桐不要参与进去@_all",
+        "create_time": "2026-10-13 05:53",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_9d84fb68e7e27bd3944a15327ab7cd19\u0026position=663",
+        "message_id": "om_x100b63e83a27e50cb39d481c7e06ef9",
+        "message_position": "663",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_12812c1a73cd277651c05fb1d2192e92",
+          "id_type": "open_id",
+          "name": "何洁",
+          "sender_i18n_names": {
+            "en_us": "hejie"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      }
+    ],
+    "page_token": "",
+    "total": 1
+  },
+  "meta": {
+    "pagination": {
+      "complete": true,
+      "pages": 1,
+      "items": 1
+    }
+  }
+}

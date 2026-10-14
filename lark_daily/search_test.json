@@ -1,0 +1,1379 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "has_more": true,
+    "messages": [
+      {
+        "chat_id": "oc_dcdc0598136d73012d3f6d26760e368d",
+        "chat_name": "【AI】济南服务器10.76.248.68网络权限开通沟通群",
+        "chat_type": "group",
+        "content": "对这个域名做零信任是吧？",
+        "create_time": "2026-10-13 12:34",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_dcdc0598136d73012d3f6d26760e368d\u0026position=27",
+        "message_id": "om_x100b63d6186bd4b4ce996646f0716b6",
+        "message_position": "27",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_4b0eea03c4af01f2a3da89dd7cc37346",
+          "id_type": "open_id",
+          "name": "程浩",
+          "sender_i18n_names": {
+            "en_us": "hao"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-13 12:34",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_5c11ab5f3bd43008d8e58cdd2d62199b",
+        "chat_name": "【Claw】牛振东的智能助手群聊",
+        "chat_type": "group",
+        "content": "\u003ccard title=\"运维日报 - 2026-10-12\"\u003e\n## 📊 今日概览- **总问题数**: 155\n- **已回答**: 142\n- **待跟进**: 13（AI 已补充回复，待人工确认）\n- **AI 补充回复**: 13## 📋 问题分类统计| 问题类型 | 数量 | 占比 |\n|------|------|------|\n| 技术讨论 | 43 | 27.7% |\n| 工具使用 | 39 | 25.2% |\n| 开发问题 | 32 | 20.6% |\n| 运维问题 | 18 | 11.6% |\n| 产品需求 | 14 | 9.0% |\n| 流程咨询 | 7 | 4.5% |\n| 项目咨询 | 2 | 1.3% |## 🔔 待办事项- [ ] **高**: 黄翔 - @潘锴 方便把文件发我一下吗，我测试下（AI 回复：文件传输请求建议：请对方直接在会话中发送文件附件，或上传到飞书云空间后分享链接（设置好访问权限）；若…）\n- [ ] **中**: 用户375933 - 没有agent你连和llm通信都做不到啊，是不是（AI 回复：不完全正确。直接通过 API/SDK（如 OpenAI Chat Completions 格式的 H…）\n- [ ] **高**: 沈敏翔 - @杨润东 好的杨工，但这个任务是HIVE2转doris的，我没有处理过这种任务，…（AI 回复：HIVE2Doris 迁移任务常见两种处理方式：1) 全量覆盖场景：在导入配置中增加导入前语句（TR…）\n- [ ] **高**: 穆潇 - @周刚 周兄，黄工金钢@黄金钢 需要看一下设备驾驶舱，我把他加到管理员用户组，可…（AI 回复：可以。操作建议：将黄金钢的账号加入设备驾驶舱管理员用户组，添加后请其刷新页面验证菜单与数据可见性；同…）\n- [ ] **高**: 蔺雨桐 - online 加字段，我没搞明白咋能直接赋默认值（AI 回复：Online 表单的『同步数据库』会以表单设计器中的字段定义覆盖数据库表结构，未在表单里配置的数据库…）\n- [ ] **中**: 朱琪明 - @InoAI InnClaw 的下载地址是多少（AI 回复：InnClaw 获取途径建议：1) 在 InoAI知识社区 的置顶公告和群文件库中查找最新版本的下载…）\n- [ ] **中**: 火山引擎-技术支持 - @火山引擎-售后智能助手 不同指标在同一张底表中切换是否支持（AI 回复：DataWind 支持在同一张底表（数据集）中使用多个指标：在图表中添加多个度量字段，通过图例或『指…）\n- [ ] **中**: 刘宏宇 - 我想看下系统里那个表单里都有啥，包含涉及到任务令的那些（AI 回复：可通过以下途径查看系统表单字段：1) 在 DaaS/数据平台的数据地图（元数据管理）中搜索目标表单，…）\n- [ ] **中**: 马海峰 - 有没有按照承诺日期上线，有没有按照承诺入库日期入库，生产过程中异常暴露出来 周例…（AI 回复：该需求可落地：以『承诺上线日期/承诺入库日期』为基准，关联 MES 实际上线时间与入库记录，计算『按…）\n- [ ] **高**: 刘宏宇 - @蔺雨桐 改的哪里（AI 回复：建议直接查看代码提交记录定位修改点：git log / git diff 查看最近一次提交改动的文件…）\n- [ ] **中**: 苏明阳 - @漫川 怎么感觉被弃的是trae code了（AI 回复：不是弃用，而是产品线整合：原 TRAE Work（办公）与 TRAE Code（开发）已统一为一个 …）\n- [ ] **中**: 董曹鹏 - 飞书访问服务器吗？（AI 回复：飞书本身是 SaaS 服务，不会主动访问你的内网服务器。当飞书开放平台需要向业务系统推送事件（消息回…）\n- [ ] **中**: 牛振东 - Hi 谢工，济南高压电缆，是哪几条线的？（AI 回复：建议通过以下渠道确认济南高压电缆项目涉及的线路：1) 查阅项目立项材料/需求说明中的工程范围与线路清…）## 📈 趋势分析- 昨日新增 155 条 QA，近 7 天无历史数据（首次自动收集）；较表内 2025-10 基线日均 17 条提升约 9.1 倍。\n- 高频类型：技术讨论（27.7%）、工具使用（25.2%），开发问题讨论较历史明显增多。\n- 活跃 Top3：提问 牛振东/蔺雨桐/刘宏宇，回复 牛振东/蔺雨桐/刘宏宇；人工回答率 91.6%。📄 完整日报（含全部 QA 明细）：[https://inovance.feishu.cn/docx/SgW7dMmFcoHd3Tx8CoGcgl5VnGg](https://inovance.feishu.cn/docx/SgW7dMmFcoHd3Tx8CoGcgl5VnGg)\n📊 多维表格数据：[https://inovance.feishu.cn/base/KezfbQ2fDaNBonskSTZcM3YVnWf?table=tblrHaPTUI8x71ot](https://inovance.feishu.cn/base/KezfbQ2fDaNBonskSTZcM3YVnWf?table=tblrHaPTUI8x71ot)\n\u003c/card\u003e",
+        "create_time": "2026-10-13 15:01",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_5c11ab5f3bd43008d8e58cdd2d62199b\u0026position=179",
+        "message_id": "om_x100b63d035d12ca4dd3f73c180070d5",
+        "message_position": "179",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a9630741047a1cb1",
+          "id_type": "app_id",
+          "name": "牛振东的智能助手",
+          "open_bot_id": "ou_c8b9500a3166c6e6e7d2613c870c09d1",
+          "sender_i18n_names": {
+            "en_us": "牛振东的智能助手",
+            "zh_cn": "牛振东的智能助手"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_505cf9b6d65b295064ba4993368cdcec",
+        "chat_name": "DaaS任务无异常🀄",
+        "chat_type": "group",
+        "content": "\u003ccard\u003e\n@金星(ou_9a014b8b8c8ac89789d87895edaee4c4)  @蔺雨桐(ou_271c27ad206c31bf2b533474db2d9ef5)  @杨润东(ou_e7fccc3af163cd1e5b59c4241cb9b574)  @穆潇(ou_c1a8a63bf361f1163e28cdf9dc77b49e)\n\n请大家关注一下等待时间哈，如已处理请忽略~\n\u003c/card\u003e",
+        "create_time": "2026-10-13 14:51",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_271c27ad206c31bf2b533474db2d9ef5",
+            "key": "@_user_1",
+            "name": "蔺雨桐"
+          },
+          {
+            "id": "ou_e7fccc3af163cd1e5b59c4241cb9b574",
+            "key": "@_user_2",
+            "name": "杨润东"
+          },
+          {
+            "id": "ou_c1a8a63bf361f1163e28cdf9dc77b49e",
+            "key": "@_user_3",
+            "name": "穆潇"
+          },
+          {
+            "id": "ou_9a014b8b8c8ac89789d87895edaee4c4",
+            "key": "@_user_4",
+            "name": "金星"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_505cf9b6d65b295064ba4993368cdcec\u0026position=9734",
+        "message_id": "om_x100b63d01b5108b0c1eaccc07789750",
+        "message_position": "9734",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_c08abc1da138d00f",
+          "id_type": "app_id",
+          "name": "小D",
+          "open_bot_id": "ou_8167250fd624056580e565555ef33b5f",
+          "sender_i18n_names": {
+            "en_us": "小D",
+            "zh_cn": "小D"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_116045b976a58256400df3e6c4a57c1b",
+        "chat_name": "TRAE 用户交流群 1️⃣2️⃣｜官方",
+        "chat_type": "group",
+        "content": "作为非程序员，我文职的活习惯用solo，代码的活习惯用work",
+        "create_time": "2026-10-13 14:43",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/thread/open?open_chat_id=oc_116045b976a58256400df3e6c4a57c1b\u0026open_thread_id=omt_19ab90388f8f9cb6\u0026openchatid=oc_116045b976a58256400df3e6c4a57c1b\u0026openthreadid=omt_19ab90388f8f9cb6\u0026thread_position=3",
+        "message_id": "om_x100b63d074f3b8a8c012792b1cb5bb3",
+        "message_position": "-3",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_9d43886d8bc38e437e9995ae85104cc3",
+          "id_type": "open_id",
+          "name": "Maicbee",
+          "sender_type": "user",
+          "tenant_key": "1011b814bb93575e"
+        },
+        "thread_id": "omt_19ab90388f8f9cb6",
+        "thread_message_position": "3",
+        "updated": false
+      },
+      {
+        "chat_id": "oc_116045b976a58256400df3e6c4a57c1b",
+        "chat_name": "TRAE 用户交流群 1️⃣2️⃣｜官方",
+        "chat_type": "group",
+        "content": "合一版本太仓促，令人失望",
+        "create_time": "2026-10-13 14:27",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/thread/open?open_chat_id=oc_116045b976a58256400df3e6c4a57c1b\u0026open_thread_id=omt_19a8280bf20f5b96\u0026openchatid=oc_116045b976a58256400df3e6c4a57c1b\u0026openthreadid=omt_19a8280bf20f5b96\u0026thread_position=8",
+        "message_id": "om_x100b63d7b597d8a4c01fd25f96ab0f4",
+        "message_position": "-3",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_c859c4ed48347b0b16f6ecdf09f1936d",
+          "id_type": "open_id",
+          "name": "Loren",
+          "sender_i18n_names": {
+            "zh_cn": "Loren"
+          },
+          "sender_type": "user",
+          "tenant_key": "1ad0f9dca0451bbe"
+        },
+        "thread_id": "omt_19a8280bf20f5b96",
+        "thread_message_position": "8",
+        "updated": false
+      },
+      {
+        "chat_id": "oc_505cf9b6d65b295064ba4993368cdcec",
+        "chat_name": "DaaS任务无异常🀄",
+        "chat_type": "group",
+        "content": "\u003ccard\u003e\n**总共有 30 个任务等待时间超过20分钟(数据来源：10.32.223.141)**\n\n**任务名** | **提交时间** | **项目空间** | **负责人** | **等待时间**\ndwd_isc_suzhou_output_last_production_records_a_h | 2026-10-08 11:18:47 | ISC数据消费 | **金星** | 5天12小时32分钟18秒\ndws_isc_wip_shortage_order_pass_match_a_h | 2026-10-13 11:45:10 | ISC数据消费 | **蔺雨桐** | 0天12小时5分钟55秒\nads_isc_wip_shortage_order_current_op_a_h | 2026-10-13 11:48:01 | ISC数据消费 | **蔺雨桐** | 0天12小时3分钟4秒\nhive2doris_ads_isc_wip_shortage_order_current_op_a_h | 2026-10-13 11:50:11 | ISC数据消费 | **蔺雨桐** | 0天12小时0分钟54秒\nods_isc_szwms_wms_qc_insp_result_i_h | 2026-10-13 20:08:01 | ISC_ODS项目空间 | **潘语言** | 0天3小时43分钟4秒\nods_isc_yymes_dc_test_instance_item_i_h | 2026-10-13 20:18:01 | ODS项目空间 | **杨润东** | 0天3小时33分钟4秒\nstd_isc_mgf_part_a_h | 2026-10-13 23:02:33 | ISC数据消费 | **陆欣怡** | 0天0小时48分钟32秒\ndim_isc_mgf_part_a_h | 2026-10-13 23:03:01 | ISC数据消费 | **杨润东** | 0天0小时48分钟4秒\nstd_isc_mgf_yymes_ut_product_routestep_res_i_h | 2026-10-13 23:14:28 | ISC数据消费 | **魏子昂** | 0天0小时36分钟37秒\ndws_isc_yy_repair_data_a_h | 2026-10-13 23:15:17 | ISC数据消费 | **金星** | 0天0小时35分钟48秒\nstd_isc_mgf_oee_ct_all_i_h | 2026-10-13 23:18:08 | ISC数据消费 | **孙奥迪** | 0天0小时32分钟57秒\ndwd_isc_mgf_yymes_ut_product_routestep_res_i_h | 2026-10-13 23:20:41 | ISC数据消费 | **孙奥迪** | 0天0小时30分钟24秒\nads_isc_yy_department_operation_fpy_a_h | 2026-10-13 23:22:01 | ISC数据消费 | **金星** | 0天0小时29分钟4秒\nads_isc_yy_hourly_actual_output_a_h | 2026-10-13 23:22:01 | ISC数据消费 | **金星** | 0天0小时29分钟4秒\nhive2doris_dws_isc_yy_fpy_first_production_records_a_h | 2026-10-13 23:22:01 | ISC数据消费 | **金星** | 0天0小时29分钟4秒\ndwd_isc_mfg_work_order_i_h | 2026-10-13 23:22:01 | ISC数据消费 | **蔺雨桐** | 0天0小时29分钟4秒\nads_isc_yy_misclassify_a_h | 2026-10-13 23:22:01 | ISC数据消费 | **金星** | 0天0小时29分钟4秒\nads_isc_yy_operation_fpy_a_h | 2026-10-13 23:22:01 | ISC数据消费 | **金星** | 0天0小时29分钟4秒\ndwd_isc_mgf_oee_ct_all_i_h | 2026-10-13 23:22:52 | ISC数据消费 | **孙奥迪** | 0天0小时28分钟13秒\nhive2doris_ads_isc_yy_department_operation_fpy_a_h | 2026-10-13 23:23:01 | ISC数据消费 | **金星** | 0天0小时28分钟4秒\nhive2doris_ads_isc_yy_operation_fpy_a_h | 2026-10-13 23:23:01 | ISC数据消费 | **金星** | 0天0小时28分钟4秒\ndws_isc_yy_work_order_ordered_planned_qty_a_h | 2026-10-13 23:23:01 | ISC数据消费 | **金星** | 0天0小时28分钟4秒\nhive2doris_ads_isc_jn_current_production_a_h | 2026-10-13 23:23:01 | ISC数据消费 | **石峰** | 0天0小时28分钟4秒\nads_isc_jn_current_production_a_h | 2026-10-13 23:23:01 | ISC数据消费 | **石峰** | 0天0小时28分钟4秒\nhive2doris_ads_isc_yy_hourly_actual_output_a_h | 2026-10-13 23:23:01 | ISC数据消费 | **金星** | 0天0小时28分钟4秒\nads_isc_yy_actual_output_a_h | 2026-10-13 23:24:01 | ISC数据消费 | **金星** | 0天0小时27分钟4秒\nads_isc_yy_work_order_finish_rate_a_h | 2026-10-13 23:24:02 | ISC数据消费 | **金星** | 0天0小时27分钟3秒\ndwd_isc_mgf_szmes_sys_unit_i_h | 2026-10-13 23:25:34 | ISC数据消费 | **魏子昂** | 0天0小时25分钟31秒\nhive2doris_ads_isc_yy_actual_output_a_h | 2026-10-13 23:25:34 | ISC数据消费 | **金星** | 0天0小时25分钟31秒\nhive2doris_ads_isc_yy_work_order_finish_rate_a_h | 2026-10-13 23:25:37 | ISC数据消费 | **金星** | 0天0小时25分钟28秒\n\u003c/card\u003e",
+        "create_time": "2026-10-13 15:51",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_505cf9b6d65b295064ba4993368cdcec\u0026position=9735",
+        "message_id": "om_x100b63d1785a7ca0df61ddfaa1399b9",
+        "message_position": "9735",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_c08abc1da138d00f",
+          "id_type": "app_id",
+          "name": "小D",
+          "open_bot_id": "ou_8167250fd624056580e565555ef33b5f",
+          "sender_i18n_names": {
+            "en_us": "小D",
+            "zh_cn": "小D"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_505cf9b6d65b295064ba4993368cdcec",
+        "chat_name": "DaaS任务无异常🀄",
+        "chat_type": "group",
+        "content": "\u003ccard\u003e\n**总共有 18 个任务等待时间超过20分钟(数据来源：10.32.223.141)**\n\n**任务名** | **提交时间** | **项目空间** | **负责人** | **等待时间**\ndwd_isc_suzhou_output_last_production_records_a_h | 2026-10-08 11:18:47 | ISC数据消费 | **金星** | 5天11小时32分钟17秒\ndws_isc_wip_shortage_order_pass_match_a_h | 2026-10-13 11:45:10 | ISC数据消费 | **蔺雨桐** | 0天11小时5分钟54秒\nads_isc_wip_shortage_order_current_op_a_h | 2026-10-13 11:48:01 | ISC数据消费 | **蔺雨桐** | 0天11小时3分钟3秒\nhive2doris_ads_isc_wip_shortage_order_current_op_a_h | 2026-10-13 11:50:11 | ISC数据消费 | **蔺雨桐** | 0天11小时0分钟53秒\nods_isc_szwms_wms_qc_insp_result_i_h | 2026-10-13 20:08:01 | ISC_ODS项目空间 | **潘语言** | 0天2小时43分钟3秒\nods_isc_yymes_dc_test_instance_item_i_h | 2026-10-13 20:18:01 | ODS项目空间 | **杨润东** | 0天2小时33分钟3秒\nads_isc_mgf_tpm_device_oee_a_min | 2026-10-13 20:20:12 | ISC数据消费 | **穆潇** | 0天2小时30分钟52秒\nhive2doris_dws_isc_mgf_tpm_device_oee_a_min | 2026-10-13 20:30:43 | ISC数据消费 | **穆潇** | 0天2小时20分钟21秒\nhive2doris_ads_isc_mgf_tpm_device_oee_a_min | 2026-10-13 20:30:45 | ISC数据消费 | **穆潇** | 0天2小时20分钟19秒\ndws_isc_yy_output_last_production_records_a_h | 2026-10-13 22:21:01 | ISC数据消费 | **金星** | 0天0小时30分钟3秒\ndws_isc_yy_fpy_first_production_records_a_h | 2026-10-13 22:21:01 | ISC数据消费 | **金星** | 0天0小时30分钟3秒\nads_isc_yy_department_operation_fpy_a_h | 2026-10-13 22:22:01 | ISC数据消费 | **金星** | 0天0小时29分钟3秒\nhive2doris_dws_isc_yy_fpy_first_production_records_a_h | 2026-10-13 22:22:01 | ISC数据消费 | **金星** | 0天0小时29分钟3秒\nads_isc_yy_hourly_actual_output_a_h | 2026-10-13 22:22:01 | ISC数据消费 | **金星** | 0天0小时29分钟3秒\nads_isc_yy_operation_fpy_a_h | 2026-10-13 22:22:01 | ISC数据消费 | **金星** | 0天0小时29分钟3秒\nhive2doris_ads_isc_yy_operation_fpy_a_h | 2026-10-13 22:23:01 | ISC数据消费 | **金星** | 0天0小时28分钟3秒\nhive2doris_ads_isc_yy_hourly_actual_output_a_h | 2026-10-13 22:23:01 | ISC数据消费 | **金星** | 0天0小时28分钟3秒\nhive2doris_ads_isc_yy_department_operation_fpy_a_h | 2026-10-13 22:23:02 | ISC数据消费 | **金星** | 0天0小时28分钟2秒\n\u003c/card\u003e",
+        "create_time": "2026-10-13 14:51",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_505cf9b6d65b295064ba4993368cdcec\u0026position=9733",
+        "message_id": "om_x100b63d01b5f24a4dd66a78ddaec475",
+        "message_position": "9733",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_c08abc1da138d00f",
+          "id_type": "app_id",
+          "name": "小D",
+          "open_bot_id": "ou_8167250fd624056580e565555ef33b5f",
+          "sender_i18n_names": {
+            "en_us": "小D",
+            "zh_cn": "小D"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_505cf9b6d65b295064ba4993368cdcec",
+        "chat_name": "DaaS任务无异常🀄",
+        "chat_type": "group",
+        "content": "\u003ccard\u003e\n@金星(ou_9a014b8b8c8ac89789d87895edaee4c4)  @蔺雨桐(ou_271c27ad206c31bf2b533474db2d9ef5)\n\n请大家关注一下等待时间哈，如已处理请忽略~\n\u003c/card\u003e",
+        "create_time": "2026-10-13 13:51",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_9a014b8b8c8ac89789d87895edaee4c4",
+            "key": "@_user_1",
+            "name": "金星"
+          },
+          {
+            "id": "ou_271c27ad206c31bf2b533474db2d9ef5",
+            "key": "@_user_2",
+            "name": "蔺雨桐"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_505cf9b6d65b295064ba4993368cdcec\u0026position=9732",
+        "message_id": "om_x100b63d73a6c7134c063241d30a9dc9",
+        "message_position": "9732",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_c08abc1da138d00f",
+          "id_type": "app_id",
+          "name": "小D",
+          "open_bot_id": "ou_8167250fd624056580e565555ef33b5f",
+          "sender_i18n_names": {
+            "en_us": "小D",
+            "zh_cn": "小D"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_505cf9b6d65b295064ba4993368cdcec",
+        "chat_name": "DaaS任务无异常🀄",
+        "chat_type": "group",
+        "content": "\u003ccard\u003e\n**总共有 74 个任务等待时间超过20分钟(数据来源：10.32.223.141)**\n\n**任务名** | **提交时间** | **项目空间** | **负责人** | **等待时间**\ndwd_isc_suzhou_output_last_production_records_a_h | 2026-10-08 11:18:47 | ISC数据消费 | **金星** | 5天10小时32分钟18秒\ndws_isc_wip_shortage_order_pass_match_a_h | 2026-10-13 11:45:10 | ISC数据消费 | **蔺雨桐** | 0天10小时5分钟55秒\nads_isc_wip_shortage_order_current_op_a_h | 2026-10-13 11:48:01 | ISC数据消费 | **蔺雨桐** | 0天10小时3分钟4秒\nhive2doris_ads_isc_wip_shortage_order_current_op_a_h | 2026-10-13 11:50:11 | ISC数据消费 | **蔺雨桐** | 0天10小时0分钟54秒\ndwd_isc_mgf_oee_ct_all_i_h | 2026-10-13 20:01:23 | ISC数据消费 | **孙奥迪** | 0天1小时49分钟42秒\nstd_isc_mgf_oee_ct_all_i_h | 2026-10-13 20:01:23 | ISC数据消费 | **孙奥迪** | 0天1小时49分钟42秒\ndws_isc_mgf_tpm_device_oee_a_min | 2026-10-13 20:01:25 | ISC数据消费 | **穆潇** | 0天1小时49分钟40秒\nods_isc_szwms_wms_qc_insp_result_i_h | 2026-10-13 20:08:01 | ISC_ODS项目空间 | **潘语言** | 0天1小时43分钟4秒\nstd_isc_mgf_yymes_ut_product_routestep_res_i_h | 2026-10-13 20:09:01 | ISC数据消费 | **魏子昂** | 0天1小时42分钟4秒\nods_isc_yymes_dc_test_instance_item_i_h | 2026-10-13 20:18:01 | ODS项目空间 | **杨润东** | 0天1小时33分钟4秒\ndwd_isc_mgf_yymes_ut_product_routestep_res_i_h | 2026-10-13 20:18:01 | ISC数据消费 | **孙奥迪** | 0天1小时33分钟4秒\nads_isc_mgf_tpm_device_oee_a_min | 2026-10-13 20:20:12 | ISC数据消费 | **穆潇** | 0天1小时30分钟53秒\nads_isc_yy_misclassify_a_h | 2026-10-13 20:22:02 | ISC数据消费 | **金星** | 0天1小时29分钟3秒\nhive2doris_ads_isc_jn_current_production_a_h | 2026-10-13 20:23:01 | ISC数据消费 | **石峰** | 0天1小时28分钟4秒\ndws_isc_yy_work_order_ordered_planned_qty_a_h | 2026-10-13 20:23:01 | ISC数据消费 | **金星** | 0天1小时28分钟4秒\nads_isc_jn_current_production_a_h | 2026-10-13 20:23:01 | ISC数据消费 | **石峰** | 0天1小时28分钟4秒\nads_isc_yy_actual_output_a_h | 2026-10-13 20:24:01 | ISC数据消费 | **金星** | 0天1小时27分钟4秒\nads_isc_yy_work_order_finish_rate_a_h | 2026-10-13 20:24:01 | ISC数据消费 | **金星** | 0天1小时27分钟4秒\nhive2doris_ads_isc_yy_work_order_finish_rate_a_h | 2026-10-13 20:25:38 | ISC数据消费 | **金星** | 0天1小时25分钟27秒\nhive2doris_ads_isc_yy_actual_output_a_h | 2026-10-13 20:25:40 | ISC数据消费 | **金星** | 0天1小时25分钟25秒\ndws_isc_jn_work_order_ordered_planned_qty_a_h | 2026-10-13 20:30:38 | ISC数据消费 | **石峰** | 0天1小时20分钟27秒\nhive2doris_dws_isc_mgf_tpm_device_oee_a_min | 2026-10-13 20:30:43 | ISC数据消费 | **穆潇** | 0天1小时20分钟22秒\nhive2doris_ads_isc_mgf_tpm_device_oee_a_min | 2026-10-13 20:30:45 | ISC数据消费 | **穆潇** | 0天1小时20分钟20秒\nads_isc_jn_actual_output_a_h | 2026-10-13 20:31:04 | ISC数据消费 | **石峰** | 0天1小时20分钟1秒\nads_isc_jn_actual_wip_a_h | 2026-10-13 20:31:04 | ISC数据消费 | **石峰** | 0天1小时20分钟1秒\nhive2doris_ads_isc_jn_actual_wip_a_h | 2026-10-13 20:32:01 | ISC数据消费 | **石峰** | 0天1小时19分钟4秒\nhive2doris_ads_isc_jn_actual_output_a_h | 2026-10-13 20:32:01 | ISC数据消费 | **石峰** | 0天1小时19分钟4秒\ndws_isc_suzhou_work_order_offline_i_h | 2026-10-13 20:35:09 | ISC数据消费 | **蔺雨桐** | 0天1小时15分钟56秒\ndws_isc_mgf_njmes_completeness_delay_detail_a_h | 2026-10-13 20:36:01 | ISC数据消费 | **石峰** | 0天1小时15分钟4秒\nhive2doris_dws_isc_mgf_njmes_completeness_delay_detail_a_h | 2026-10-13 20:37:02 | ISC数据消费 | **石峰** | 0天1小时14分钟3秒\ndws_isc_xa_production_records_a_h | 2026-10-13 20:40:07 | ISC数据消费 | **蔺雨桐** | 0天1小时10分钟58秒\ndws_isc_wip_3day_shortage_detail_a_h | 2026-10-13 20:40:10 | ISC数据消费 | **蔺雨桐** | 0天1小时10分钟55秒\nads_isc_suzhou_hourly_target_output_a_h | 2026-10-13 20:45:02 | ISC数据消费 | **牛振东** | 0天1小时6分钟3秒\ndws_isc_xa_fpy_first_production_records_a_h | 2026-10-13 20:45:03 | ISC数据消费 | **金星** | 0天1小时6分钟2秒\nhive2doris_ads_isc_suzhou_hourly_target_output_a_h | 2026-10-13 20:48:01 | ISC数据消费 | **牛振东** | 0天1小时3分钟4秒\nhive2doris_dws_isc_xa_fpy_first_production_records_a_h | 2026-10-13 20:48:01 | ISC数据消费 | **金星** | 0天1小时3分钟4秒\nhive2dorisdwd_isc_mgf_szmes_sys_unit_i_d | 2026-10-13 20:50:02 | ISC数据消费 | **杨润东** | 0天1小时1分钟3秒\ndws_isc_nj_fpy_area_records_a_h | 2026-10-13 20:51:01 | ISC数据消费 | **石峰** | 0天1小时0分钟4秒\nads_isc_mgf_fpy_a_d | 2026-10-13 20:52:01 | ISC数据消费 | **金星** | 0天0小时59分钟4秒\nhive2doris_dws_isc_nj_fpy_area_records_a_h | 2026-10-13 20:52:01 | ISC数据消费 | **石峰** | 0天0小时59分钟4秒\ndws_isc_nj_production_records_a_h | 2026-10-13 20:53:00 | ISC数据消费 | **蔺雨桐** | 0天0小时58分钟5秒\nads_prod_line_open_qty_a_d | 2026-10-13 20:55:09 | ISC数据消费 | **蔺雨桐** | 0天0小时55分钟56秒\ndws_isc_mgf_njmes_ut_plan_all_a_h | 2026-10-13 20:56:01 | ISC数据消费 | **杨润东** | 0天0小时55分钟4秒\nhive2doris_ads_isc_mgf_fpy_a_d | 2026-10-13 20:56:01 | ISC数据消费 | **金星** | 0天0小时55分钟4秒\nhive2doris_ads_prod_line_open_qty_a_d | 2026-10-13 20:57:01 | ISC数据消费 | **蔺雨桐** | 0天0小时54分钟4秒\nhive2doris_dws_isc_mgf_njmes_ut_plan_all_a_h | 2026-10-13 20:57:01 | ISC数据消费 | **石峰** | 0天0小时54分钟4秒\nads_isc_nj_line_task_order_offline_detail_a_h | 2026-10-13 21:00:45 | ISC数据消费 | **陶伟宇** | 0天0小时50分钟20秒\nads_isc_line_shift_task_order_a_h | 2026-10-13 21:00:45 | ISC数据消费 | **陶伟宇** | 0天0小时50分钟20秒\nads_isc_line_shift_output_summary_a_h | 2026-10-13 21:00:45 | ISC数据消费 | **陶伟宇** | 0天0小时50分钟20秒\nads_isc_line_shift_period_offline_detail_a_h | 2026-10-13 21:00:45 | ISC数据消费 | **陶伟宇** | 0天0小时50分钟20秒\nhive2doris_ads_isc_line_shift_output_summary_a_h | 2026-10-13 21:02:02 | ISC数据消费 | **陶伟宇** | 0天0小时49分钟3秒\nhive2doris_ads_isc_line_shift_task_order_a_h | 2026-10-13 21:02:02 | ISC数据消费 | **陶伟宇** | 0天0小时49分钟3秒\nhive2doris_ads_isc_nj_line_task_order_offline_detail_a_h | 2026-10-13 21:02:02 | ISC数据消费 | **陶伟宇** | 0天0小时49分钟3秒\nads_isc_line_shift_actual_offline_cnt_a_h | 2026-10-13 21:02:02 | ISC数据消费 | **陶伟宇** | 0天0小时49分钟3秒\nhive2doris_ads_isc_line_shift_actual_offline_cnt_a_h | 2026-10-13 21:05:14 | ISC数据消费 | **陶伟宇** | 0天0小时45分钟51秒\ndws_isc_jn_production_records_a_h | 2026-10-13 21:13:01 | ISC数据消费 | **石峰** | 0天0小时38分钟4秒\ndws_isc_jn_fpy_first_production_records_a_h | 2026-10-13 21:14:01 | ISC数据消费 | **穆潇** | 0天0小时37分钟4秒\nads_isc_jn_operation_fpy_a_h | 2026-10-13 21:15:08 | ISC数据消费 | **石峰** | 0天0小时35分钟57秒\nhive2doris_ads_isc_jn_operation_fpy_a_h | 2026-10-13 21:16:00 | ISC数据消费 | **石峰** | 0天0小时35分钟5秒\ndws_isc_jn_output_last_production_records_a_h | 2026-10-13 21:16:00 | ISC数据消费 | **穆潇** | 0天0小时35分钟5秒\nhive2doris_ads_isc_yy_misclassify_a_h | 2026-10-13 21:17:00 | ISC数据消费 | **金星** | 0天0小时34分钟5秒\nads_isc_jn_day_production_a_h | 2026-10-13 21:18:01 | ISC数据消费 | **石峰** | 0天0小时33分钟4秒\nhive2doris_ads_isc_jn_day_production_a_h | 2026-10-13 21:19:00 | ISC数据消费 | **石峰** | 0天0小时32分钟5秒\ndws_isc_jn_fpy_first_production_records_2_a_h | 2026-10-13 21:20:05 | ISC数据消费 | **金星** | 0天0小时31分钟0秒\ndws_isc_yy_production_records_a_h | 2026-10-13 21:20:09 | ISC数据消费 | **金星** | 0天0小时30分钟56秒\ndws_isc_yy_output_last_production_records_a_h | 2026-10-13 21:22:12 | ISC数据消费 | **金星** | 0天0小时28分钟53秒\ndws_isc_yy_fpy_first_production_records_a_h | 2026-10-13 21:22:14 | ISC数据消费 | **金星** | 0天0小时28分钟51秒\nhive2doris_dws_isc_jn_fpy_first_production_records_2_a_h | 2026-10-13 21:23:01 | ISC数据消费 | **金星** | 0天0小时28分钟4秒\nads_isc_yy_department_operation_fpy_a_h | 2026-10-13 21:23:10 | ISC数据消费 | **金星** | 0天0小时27分钟55秒\nads_isc_yy_hourly_actual_output_a_h | 2026-10-13 21:23:13 | ISC数据消费 | **金星** | 0天0小时27分钟52秒\nads_isc_yy_operation_fpy_a_h | 2026-10-13 21:23:27 | ISC数据消费 | **金星** | 0天0小时27分钟38秒\nhive2doris_ads_isc_yy_hourly_actual_output_a_h | 2026-10-13 21:24:15 | ISC数据消费 | **金星** | 0天0小时26分钟50秒\nhive2doris_ads_isc_yy_operation_fpy_a_h | 2026-10-13 21:24:16 | ISC数据消费 | **金星** | 0天0小时26分钟49秒\nhive2doris_ads_isc_yy_department_operation_fpy_a_h | 2026-10-13 21:24:25 | ISC数据消费 | **金星** | 0天0小时26分钟40秒\n\u003c/card\u003e",
+        "create_time": "2026-10-13 13:51",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_505cf9b6d65b295064ba4993368cdcec\u0026position=9731",
+        "message_id": "om_x100b63d73a5a9c6cc3ce35383c4f2d4",
+        "message_position": "9731",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_c08abc1da138d00f",
+          "id_type": "app_id",
+          "name": "小D",
+          "open_bot_id": "ou_8167250fd624056580e565555ef33b5f",
+          "sender_i18n_names": {
+            "en_us": "小D",
+            "zh_cn": "小D"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_116045b976a58256400df3e6c4a57c1b",
+        "chat_name": "TRAE 用户交流群 1️⃣2️⃣｜官方",
+        "chat_type": "group",
+        "content": "\u003ccard\u003e\n目前我在 TRAE 官方文档里没有查到「如何让 TRAE 主动把生成的图片展示出来」的直接说明。现有官方资料只讲到：生成的文件会进入**任务产物**区，预览侧支持的是文档、代码和 Web 页面等，并未说明有强制展示图片的开关或指令。\n\n另外有一个会改变答案的关键点：TRAE Work（含网页版 / 桌面版 / 移动版）和 TRAE IDE 是不同产品，在产物预览上的行为并不相同。\n\n为了不再往下猜，你能告诉我具体是**哪个产品、哪个端**，以及图片生成后目前是出现在产物文件里、还是完全没出现吗？我按对应的官方说明再帮你查。\n---\n💡 更多使用问题请转移至 [TRAE 官方社区「帮助与支持」板块](https://forum.trae.cn/c/7-category/7) 发帖询问 \n · 021791896833957fdbddc0200190532c659cb53af00005d6c5a55 · \n[已解决]\n[更多问题请到「官方社区」提问](https://forum.trae.cn/c/7-category/7)\n\u003c/card\u003e",
+        "create_time": "2026-10-13 13:07",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/thread/open?open_chat_id=oc_116045b976a58256400df3e6c4a57c1b\u0026open_thread_id=omt_19aba30db94f1b4f\u0026openchatid=oc_116045b976a58256400df3e6c4a57c1b\u0026openthreadid=omt_19aba30db94f1b4f\u0026thread_position=7",
+        "message_id": "om_x100b63d69ee6b0a0c0aea5899a25d06",
+        "message_position": "-3",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a9c7f80599f8dbc4",
+          "id_type": "app_id",
+          "name": "TRAE 宝",
+          "open_bot_id": "ou_dfae499a31a17e270c3cc86c7275f2bd",
+          "sender_i18n_names": {
+            "en_us": "TRAE 宝",
+            "zh_cn": "TRAE 宝"
+          },
+          "sender_type": "app",
+          "tenant_key": "15d6d1e6e508d75e"
+        },
+        "thread_id": "omt_19aba30db94f1b4f",
+        "thread_message_position": "7",
+        "update_time": "2026-10-13 13:07",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_1cae5a433f522ffc6bb4c5e74f388edf",
+        "chat_name": "【生活】牛振东的生活助手群聊",
+        "chat_type": "group",
+        "content": "\u003ccard title=\"🔴 红色预警 · 10-13 22:36\"\u003e\n**2026-10-13 22:36 触发 9 条预警**\n\n🔴 **[index]** 韩国KOSPI -5.46% 触发红色预警（±5%）\n🟠 **[sector]** 行业板块 元件 +4.77%（领涨：超声电子）\n🟠 **[sector]** 行业板块 其他数字媒体 +11.94%（领涨：风语筑）\n🟠 **[sector]** 行业板块 印制电路板 +6.08%（领涨：超声电子）\n🟠 **[sector]** 行业板块 地面兵装Ⅲ +4.54%（领涨：国科军工）\n🟠 **[sector]** 行业板块 电商服务 +4.22%（领涨：丽人丽妆）\n🟠 **[sector]** 行业板块 纺织化学制品 +5.43%（领涨：亚邦股份）\n🟠 **[sector]** 行业板块 航海装备Ⅲ +4.36%（领涨：江龙船艇）\n🟠 **[sector]** 行业板块 防水材料 +4.28%（领涨：凯伦股份）\n\n**⚠️ 风险提示**：以上为规则触发的客观数据预警，请结合盘面独立判断。\u003e 以上为公开行情数据的客观整理，不构成投资建议。股市有风险，投资需谨慎。数据来源：东方财富/新浪/CNBC/腾讯公开接口，延迟约3-5分钟。\n\u003c/card\u003e",
+        "create_time": "2026-10-13 14:36",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_1cae5a433f522ffc6bb4c5e74f388edf\u0026position=7",
+        "message_id": "om_x100b63d06e916ca4de18d0e302fed48",
+        "message_position": "7",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a9630741047a1cb1",
+          "id_type": "app_id",
+          "name": "牛振东的智能助手",
+          "open_bot_id": "ou_c8b9500a3166c6e6e7d2613c870c09d1",
+          "sender_i18n_names": {
+            "en_us": "牛振东的智能助手",
+            "zh_cn": "牛振东的智能助手"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_55107e95f87c4d9b42821cd55444bd35",
+        "chat_name": "运营\u0026使能篮球队",
+        "chat_type": "group",
+        "content": "兄弟齐心 其利断金",
+        "create_time": "2026-10-13 13:19",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_55107e95f87c4d9b42821cd55444bd35\u0026position=194",
+        "message_id": "om_x100b63d6b25d00a0df24af6bd4af101",
+        "message_position": "194",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_f852937a43fc399bf815fb2c8bd9005d",
+          "id_type": "open_id",
+          "name": "王凯",
+          "sender_i18n_names": {
+            "en_us": "wangkai"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_55107e95f87c4d9b42821cd55444bd35",
+        "chat_name": "运营\u0026使能篮球队",
+        "chat_type": "group",
+        "content": "一度打的对方内讧[大笑]",
+        "create_time": "2026-10-13 13:13",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_55107e95f87c4d9b42821cd55444bd35\u0026position=192",
+        "message_id": "om_x100b63d6a7a5e0a0cfec67d2a997448",
+        "message_position": "192",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_ce913959d9725774178dcf3b4bebdb91",
+          "id_type": "open_id",
+          "name": "郑庆云",
+          "sender_i18n_names": {
+            "en_us": "zhengqingyun"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_116045b976a58256400df3e6c4a57c1b",
+        "chat_name": "TRAE 用户交流群 1️⃣2️⃣｜官方",
+        "chat_type": "group",
+        "content": "![Image](img_v3_0216e_e61811e9-4b24-4851-91f2-201beabe4d3g)\nTrae怎样才能主动展示产物生成的图片@TRAE 宝",
+        "create_time": "2026-10-13 13:01",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "cli_a9c7f80599f8dbc4",
+            "key": "@_user_1",
+            "name": "TRAE 宝"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/thread/open?open_chat_id=oc_116045b976a58256400df3e6c4a57c1b\u0026open_thread_id=omt_19aba30db94f1b4f\u0026openchatid=oc_116045b976a58256400df3e6c4a57c1b\u0026openthreadid=omt_19aba30db94f1b4f\u0026thread_position=-1",
+        "message_id": "om_x100b63d6f28478a0ce323d194b49d54",
+        "message_position": "12572",
+        "msg_type": "post",
+        "sender": {
+          "id": "ou_48bf9c4e2937ccde5071b70025452432",
+          "id_type": "open_id",
+          "name": "飞书用户0409KK",
+          "sender_type": "user",
+          "tenant_key": "151ef1cb6a00d758"
+        },
+        "thread_id": "omt_19aba30db94f1b4f",
+        "thread_message_position": "-1",
+        "update_time": "2026-10-13 13:01",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_dcdc0598136d73012d3f6d26760e368d",
+        "chat_name": "【AI】济南服务器10.76.248.68网络权限开通沟通群",
+        "chat_type": "group",
+        "content": "可以的，程工，明天上午处理吧",
+        "create_time": "2026-10-13 12:35",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_dcdc0598136d73012d3f6d26760e368d\u0026position=29",
+        "message_id": "om_x100b63d6196a00a8cd127fc8172d279",
+        "message_position": "29",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_635008cc2affc45d23de666f2e7e7446",
+          "id_type": "open_id",
+          "name": "牛振东",
+          "sender_i18n_names": {
+            "en_us": "niuzhendong"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-13 12:35",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_55107e95f87c4d9b42821cd55444bd35",
+        "chat_name": "运营\u0026使能篮球队",
+        "chat_type": "group",
+        "content": "\u003cp\u003e@_all 今日对战强队MNK，首发5虎，无替补，打满4节，配合，防守，得分全都打出来了，打得非常好，53比63惜败，[赞][赞]\u003c/p\u003e",
+        "create_time": "2026-10-13 13:07",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_55107e95f87c4d9b42821cd55444bd35\u0026position=191",
+        "message_id": "om_x100b63d69cfe4ca4c0e10ad945c638c",
+        "message_position": "191",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_f852937a43fc399bf815fb2c8bd9005d",
+          "id_type": "open_id",
+          "name": "王凯",
+          "sender_i18n_names": {
+            "en_us": "wangkai"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-13 22:48",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_505cf9b6d65b295064ba4993368cdcec",
+        "chat_name": "DaaS任务无异常🀄",
+        "chat_type": "group",
+        "content": "\u003ccard\u003e\n@金星(ou_9a014b8b8c8ac89789d87895edaee4c4)  @蔺雨桐(ou_271c27ad206c31bf2b533474db2d9ef5)\n\n请大家关注一下等待时间哈，如已处理请忽略~\n\u003c/card\u003e",
+        "create_time": "2026-10-13 12:51",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_271c27ad206c31bf2b533474db2d9ef5",
+            "key": "@_user_1",
+            "name": "蔺雨桐"
+          },
+          {
+            "id": "ou_9a014b8b8c8ac89789d87895edaee4c4",
+            "key": "@_user_2",
+            "name": "金星"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_505cf9b6d65b295064ba4993368cdcec\u0026position=9728",
+        "message_id": "om_x100b63d6dd6444a4c300f5046894de3",
+        "message_position": "9728",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_c08abc1da138d00f",
+          "id_type": "app_id",
+          "name": "小D",
+          "open_bot_id": "ou_8167250fd624056580e565555ef33b5f",
+          "sender_i18n_names": {
+            "en_us": "小D",
+            "zh_cn": "小D"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_5c11ab5f3bd43008d8e58cdd2d62199b",
+        "chat_name": "【Claw】牛振东的智能助手群聊",
+        "chat_type": "group",
+        "content": "[Image: img_v3_0216e_e8200ab4-fb72-40db-b060-1606977e9f1g]",
+        "create_time": "2026-10-13 14:57",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_5c11ab5f3bd43008d8e58cdd2d62199b\u0026position=177",
+        "message_id": "om_x100b63d0208b88a8c01f936fc5be504",
+        "message_position": "177",
+        "msg_type": "image",
+        "sender": {
+          "id": "cli_a9630741047a1cb1",
+          "id_type": "app_id",
+          "name": "牛振东的智能助手",
+          "open_bot_id": "ou_c8b9500a3166c6e6e7d2613c870c09d1",
+          "sender_i18n_names": {
+            "en_us": "牛振东的智能助手",
+            "zh_cn": "牛振东的智能助手"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_505cf9b6d65b295064ba4993368cdcec",
+        "chat_name": "DaaS任务无异常🀄",
+        "chat_type": "group",
+        "content": "\u003ccard\u003e\n### 🚨 任务失败告警\n总共有 **2** 个任务失败(数据来源: 10.32.223.141)\n**任务名** | **结束时间** | **项目空间** | **负责人** | **已过去时长**\n\n采购件计划属性 | 2026-10-13 20:02:20 | ISC数据治理 | 黄新明 | 0天0小时48分钟\n产品状态为空 | 2026-10-13 20:04:13 | ISC数据治理 | 黄新明 | 0天0小时47分钟\n\u003c/card\u003e",
+        "create_time": "2026-10-13 12:51",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_505cf9b6d65b295064ba4993368cdcec\u0026position=9729",
+        "message_id": "om_x100b63d6dad0d0a4c05473494638453",
+        "message_position": "9729",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_c08abc1da138d00f",
+          "id_type": "app_id",
+          "name": "小D",
+          "open_bot_id": "ou_8167250fd624056580e565555ef33b5f",
+          "sender_i18n_names": {
+            "en_us": "小D",
+            "zh_cn": "小D"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_1cae5a433f522ffc6bb4c5e74f388edf",
+        "chat_name": "【生活】牛振东的生活助手群聊",
+        "chat_type": "group",
+        "content": "\u003ccard title=\"🔴 红色预警 · 10-13 23:56\"\u003e\n**2026-10-13 23:56 触发 1 条预警**\n\n🔴 **[index]** 韩国KOSPI -5.46% 触发红色预警（±5%）\n\n**⚠️ 风险提示**：以上为规则触发的客观数据预警，请结合盘面独立判断。\u003e 以上为公开行情数据的客观整理，不构成投资建议。股市有风险，投资需谨慎。数据来源：东方财富/新浪/CNBC/腾讯公开接口，延迟约3-5分钟。\n\u003c/card\u003e",
+        "create_time": "2026-10-13 15:56",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_1cae5a433f522ffc6bb4c5e74f388edf\u0026position=10",
+        "message_id": "om_x100b63d1078218a4dfc0977ff54a961",
+        "message_position": "10",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a9630741047a1cb1",
+          "id_type": "app_id",
+          "name": "牛振东的智能助手",
+          "open_bot_id": "ou_c8b9500a3166c6e6e7d2613c870c09d1",
+          "sender_i18n_names": {
+            "en_us": "牛振东的智能助手",
+            "zh_cn": "牛振东的智能助手"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_116045b976a58256400df3e6c4a57c1b",
+        "chat_name": "TRAE 用户交流群 1️⃣2️⃣｜官方",
+        "chat_type": "group",
+        "content": "\u003ccard\u003e\n目前官方文档里没有能直接对应“任务复杂时让模型主动展示产物图片”的说明或开关，所以这类表现能不能出现，主要取决于你在提示词里给出的输出要求，而不是某个固定设置。\n\n可以试着在需求里把产出形式写死，比如：\n- 明确要求“直接生成图片/图表/HTML 产物并展示，不要只给文字说明”\n- 指定输出格式和验收方式，例如“输出 PNG 图片并附文件链接”“生成可用浏览器打开的 HTML 页面”\n- 复杂任务拆成多步，每步单独说明期望的产物，避免模型用一段文字概括如果这是你希望 TRAE 产品改进的能力（比如复杂任务默认优先展示可视化产物），可以到 TRAE 社区论坛的产品建议板块反馈：🔗 [https://forum.trae.cn/c/8-category/8](https://forum.trae.cn/c/8-category/8)\n\n方便的话告诉我你用的是 TRAE Work 还是 TRAE IDE，我可以针对对应端再帮你看下产物展示的具体位置。\n---\n💡 更多使用问题请转移至 [TRAE 官方社区「帮助与支持」板块](https://forum.trae.cn/c/7-category/7) 发帖询问 \n · 021791896655106fdbddc02000a02664559cb53af0000a6046ee1 · \n[已解决]\n[更多问题请到「官方社区」提问](https://forum.trae.cn/c/7-category/7)\n\u003c/card\u003e",
+        "create_time": "2026-10-13 13:04",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/thread/open?open_chat_id=oc_116045b976a58256400df3e6c4a57c1b\u0026open_thread_id=omt_19aba30db94f1b4f\u0026openchatid=oc_116045b976a58256400df3e6c4a57c1b\u0026openthreadid=omt_19aba30db94f1b4f\u0026thread_position=2",
+        "message_id": "om_x100b63d68a33c0a4cfc8f470d84e7a7",
+        "message_position": "-3",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a9c7f80599f8dbc4",
+          "id_type": "app_id",
+          "name": "TRAE 宝",
+          "open_bot_id": "ou_dfae499a31a17e270c3cc86c7275f2bd",
+          "sender_i18n_names": {
+            "en_us": "TRAE 宝",
+            "zh_cn": "TRAE 宝"
+          },
+          "sender_type": "app",
+          "tenant_key": "15d6d1e6e508d75e"
+        },
+        "thread_id": "omt_19aba30db94f1b4f",
+        "thread_message_position": "2",
+        "update_time": "2026-10-13 13:04",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_116045b976a58256400df3e6c4a57c1b",
+        "chat_name": "TRAE 用户交流群 1️⃣2️⃣｜官方",
+        "chat_type": "group",
+        "content": "\u003ccard\u003e\n这个链接现在是通的，我刚刚能正常打开 [mark-for-ai-use](https://docs.trae.cn/ide/mark-for-ai-use)，你可以再点一次或直接把它粘到浏览器。这一页讲的正是**终端：标记为 AI 使用**：在**终端**面板里右击某个终端，选择 **标记为 AI 使用**，被标记的终端右上角会出现星号，之后 AI 就会用这个终端执行命令（若标记了多个，优先用最近标记的那个）。\n\n不过这一页只解决\"AI 用哪个终端\"，和\"IDE 没有找到 PowerShell 7、命令跑不起来\"是两回事，该文档没有覆盖这个报错，我这边也没查到能对应这种情况的明确官方说明，就不猜原因了。\n\n建议带上 **TRAE IDE 版本、操作系统**和**完整报错原文**到 TRAE 社区论坛「帮助与支持」发帖：🔗 [https://forum.trae.cn/c/7-category/7](https://forum.trae.cn/c/7-category/7)\n---\n💡 更多使用问题请转移至 [TRAE 官方社区「帮助与支持」板块](https://forum.trae.cn/c/7-category/7) 发帖询问 \n · 021791898623801fdbddc0200190532c659cb53af00005d9ebd7b · \n[已解决]\n[更多问题请到「官方社区」提问](https://forum.trae.cn/c/7-category/7)\n\u003c/card\u003e",
+        "create_time": "2026-10-13 13:37",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/thread/open?open_chat_id=oc_116045b976a58256400df3e6c4a57c1b\u0026open_thread_id=omt_19abbb7f194f1a7c\u0026openchatid=oc_116045b976a58256400df3e6c4a57c1b\u0026openthreadid=omt_19abbb7f194f1a7c\u0026thread_position=3",
+        "message_id": "om_x100b63d70ec52934c09609af24cc391",
+        "message_position": "-3",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a9c7f80599f8dbc4",
+          "id_type": "app_id",
+          "name": "TRAE 宝",
+          "open_bot_id": "ou_dfae499a31a17e270c3cc86c7275f2bd",
+          "sender_i18n_names": {
+            "en_us": "TRAE 宝",
+            "zh_cn": "TRAE 宝"
+          },
+          "sender_type": "app",
+          "tenant_key": "15d6d1e6e508d75e"
+        },
+        "thread_id": "omt_19abbb7f194f1a7c",
+        "thread_message_position": "3",
+        "update_time": "2026-10-13 13:37",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_5c11ab5f3bd43008d8e58cdd2d62199b",
+        "chat_name": "【Claw】牛振东的智能助手群聊",
+        "chat_type": "group",
+        "content": "【Inoclaw 精选消息 · 每日QA精选（含回答）】\n数据日期：2026-10-12（周一）\n本次新增 6 条QA，问答如下：\n\n■ 一、操作指南\n3. 国际版 Pro 自动续费扣款了，怎么申请退款？\n回答：①发送邮件到 feedback@mail.trae.ai，写清诉求、账号UID和付款信息，由负责同学按正式流程处理；②邮件建议附上产品名称、扣费时间、金额及扣费凭证截图；③先到微信「支付分/自动续费」关闭 Trae Pro 自动续费，避免下月继续扣款\n\n■ 二、产品动态\n3. TraeWork 改成 TRAE 了，有什么变化？为什么要卸载重装？\n回答：①原 Work/Code 两个产品统一为全新 TRAE，含 Agent 模式（原Work办公/Design）与 IDE 模式（原Code编码），一键切换、数据互通；②聊天记录、登录态、资料、积分自动合并，历史任务并入统一列表不丢失；③能力不缺失，原 TraeWork 不再单独更新；④不要求手动卸载重装：TraeCode 自动更新为新 TRAE，旧 TraeWork 数据迁移完成后由系统引导卸载\n4. TraeWork 升级会影响 TRAE IDE 吗？trae code 是没了吗？\n回答：①不影响，两端最终汇入同一个全新 TRAE（Agent 与 IDE 同属一个产品）；②trae code 没有下架而是合并，官网下载覆盖安装即可，Agent/IDE 模式自由切换\n\n■ 三、技术问答\n5. 「请求专家建议」是什么功能？\n回答：TRAE 新上线功能。Agent 面对复杂任务、多步推理、方案规划或自我校验时，会进入「请求专家建议」深度分析过程，属正常执行环节，无需干预\n6. 执行中显示大量无关信息，是在骗 token 吗？\n回答：疑似模型循环，停止任务即可；①AUTO Mode 可能路由不同模型，手动指定模型重试；②新建对话验证；③直接询问 AI 为何回复这些内容；④检查 skill、命令与记忆配置；⑤跨任务引用可用 # 引用其他对话历史，或先让模型总结对话内容再引用\n7. 用 TRAE 配合国内大模型，能按 opus5.5 的方式做视频吗？\n回答：①社区共识 opus5.5 配 Claude 桌面版效果最好；②国产模型可跑通（已有 DSH4.1+TRAE 剪视频实例）；③通过 SKILL+知识库沉淀方法论抹平差距，长程任务靠拆分完成；④简单剪视频可直接用剪映 AI\n\n文档链接：https://inovance.feishu.cn/docx/UZqRddDCxoKy0VxxqjjcX4XZnfg",
+        "create_time": "2026-10-13 15:42",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_5c11ab5f3bd43008d8e58cdd2d62199b\u0026position=182",
+        "message_id": "om_x100b63d159df20b0ce36b6d86511728",
+        "message_position": "182",
+        "msg_type": "text",
+        "sender": {
+          "id": "cli_a9630741047a1cb1",
+          "id_type": "app_id",
+          "name": "牛振东的智能助手",
+          "open_bot_id": "ou_c8b9500a3166c6e6e7d2613c870c09d1",
+          "sender_i18n_names": {
+            "en_us": "牛振东的智能助手",
+            "zh_cn": "牛振东的智能助手"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-13 15:42",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_dcdc0598136d73012d3f6d26760e368d",
+        "chat_name": "【AI】济南服务器10.76.248.68网络权限开通沟通群",
+        "chat_type": "group",
+        "content": "hvrd.inovance.com",
+        "create_time": "2026-10-13 12:34",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_dcdc0598136d73012d3f6d26760e368d\u0026position=26",
+        "message_id": "om_x100b63d61b3edcb4b0ead113a716711",
+        "message_position": "26",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_4b0eea03c4af01f2a3da89dd7cc37346",
+          "id_type": "open_id",
+          "name": "程浩",
+          "sender_i18n_names": {
+            "en_us": "hao"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_116045b976a58256400df3e6c4a57c1b",
+        "chat_name": "TRAE 用户交流群 1️⃣2️⃣｜官方",
+        "chat_type": "group",
+        "content": "@TRAE 宝",
+        "create_time": "2026-10-13 13:07",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "cli_a9c7f80599f8dbc4",
+            "key": "@_user_1",
+            "name": "TRAE 宝"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/thread/open?open_chat_id=oc_116045b976a58256400df3e6c4a57c1b\u0026open_thread_id=omt_19aba30db94f1b4f\u0026openchatid=oc_116045b976a58256400df3e6c4a57c1b\u0026openthreadid=omt_19aba30db94f1b4f\u0026thread_position=6",
+        "message_id": "om_x100b63d69ec69ca4cef9ecca77de12a",
+        "message_position": "-3",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_48bf9c4e2937ccde5071b70025452432",
+          "id_type": "open_id",
+          "name": "飞书用户0409KK",
+          "sender_type": "user",
+          "tenant_key": "151ef1cb6a00d758"
+        },
+        "thread_id": "omt_19aba30db94f1b4f",
+        "thread_message_position": "6",
+        "update_time": "2026-10-13 13:07",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_116045b976a58256400df3e6c4a57c1b",
+        "chat_name": "TRAE 用户交流群 1️⃣2️⃣｜官方",
+        "chat_type": "group",
+        "content": "TRAE Work \n![Image](img_v3_0216e_5cc7fdd6-12e1-44f2-9775-93c8e84de1ag)\n复杂度代办都出不来",
+        "create_time": "2026-10-13 13:07",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/thread/open?open_chat_id=oc_116045b976a58256400df3e6c4a57c1b\u0026open_thread_id=omt_19aba30db94f1b4f\u0026openchatid=oc_116045b976a58256400df3e6c4a57c1b\u0026openthreadid=omt_19aba30db94f1b4f\u0026thread_position=5",
+        "message_id": "om_x100b63d6810d24a4b4f1b066cc858d4",
+        "message_position": "-3",
+        "msg_type": "post",
+        "sender": {
+          "id": "ou_48bf9c4e2937ccde5071b70025452432",
+          "id_type": "open_id",
+          "name": "飞书用户0409KK",
+          "sender_type": "user",
+          "tenant_key": "151ef1cb6a00d758"
+        },
+        "thread_id": "omt_19aba30db94f1b4f",
+        "thread_message_position": "5",
+        "updated": false
+      },
+      {
+        "chat_id": "oc_1cae5a433f522ffc6bb4c5e74f388edf",
+        "chat_name": "【生活】牛振东的生活助手群聊",
+        "chat_type": "group",
+        "content": "\u003ccard title=\"📕 A股收盘日报 · 10-13\"\u003e\n**2026-10-13 A股收盘日报**\n\n**📈 全天指数表现**\n- 🔴 **上证指数** 3,800.86（+0.10%）\n- 🟢 **深证成指** 12,353.70（-0.25%）\n- 🟢 **创业板指** 2,958.34（-0.18%）\n- 🔴 **科创50** 1,427.18（+0.03%）\n- 🟢 **沪深300** 4,275.68（-0.29%）\n- 🟢 **中证500** 7,085.09（-0.11%）\n- 🔴 **中证1000** 7,023.22（+0.02%）\n- 📊 沪市涨跌家数：1167 涨 / 1114 跌 / 75 平💰 沪深两市成交额约 **16,759 亿元**\n\n🚦 涨跌停统计（近似口径）：涨停 **83** 家 / 跌停 **0** 家\n\n**🏭 行业板块**\n- **领涨行业**：其他数字媒体(+11.94%)、印制电路板(+6.08%)、纺织化学制品(+5.43%)、元件(+4.77%)、地面兵装Ⅲ(+4.54%)\n- **领跌行业**：锂电专用设备(-3.32%)、电池化学品(-3.14%)、保险Ⅱ(-3.12%)、保险Ⅲ(-3.12%)、逆变器(-2.99%)**📋 今日量化筛选观察池（多策略规则筛选）**\n筛选时点 2026-10-13 23:23 ｜ 全量通过 **100** 只，展示评分前 **10** 只：\n1. **招商港口**（001872·航运港口）评分 3.09 ｜ 高共识 ｜ 命中 S02,S04,S06,S09,S11,S16,S17,S19,S23收盘 25.44，支撑 20.31 / 压力 25.46，ATR参考止损 24.08 / 止盈 27.48\n2. **分众传媒**（002027·广告营销）评分 3.09 ｜ 高共识 ｜ 命中 S01,S02,S04,S05,S06,S11,S17,S19收盘 5.1，支撑 4.63 / 压力 5.59，ATR参考止损 4.84 / 止盈 5.49\n3. **工商银行**（601398·银行Ⅱ）评分 3.01 ｜ 高共识 ｜ 命中 S04,S06,S09,S11,S16,S17,S19,S23收盘 8.49，支撑 7.36 / 压力 8.52，ATR参考止损 8.17 / 止盈 8.97\n4. **浦发银行**（600000·银行Ⅱ）评分 3.0 ｜ 高共识 ｜ 命中 S02,S04,S06,S09,S11,S17,S19,S23收盘 9.59，支撑 8.64 / 压力 9.74，ATR参考止损 9.23 / 止盈 10.13\n5. **中远海控**（601919·航运港口）评分 2.98 ｜ 高共识 ｜ 命中 S02,S04,S06,S11,S16,S17,S19,S23收盘 17.14，支撑 14.07 / 压力 17.52，ATR参考止损 16.42 / 止盈 18.22\n6. **招商银行**（600036·银行Ⅱ）评分 2.95 ｜ 高共识 ｜ 命中 S02,S04,S09,S11,S16,S17,S19收盘 42.8，支撑 36.75 / 压力 42.95，ATR参考止损 41.4 / 止盈 44.9\n7. **中国移动**（600941·通信服务）评分 2.93 ｜ 高共识 ｜ 命中 S02,S04,S06,S09,S11,S17,S19,S23收盘 99.37，支撑 88.17 / 压力 99.88，ATR参考止损 96.57 / 止盈 103.57\n8. **大秦铁路**（601006·铁路公路）评分 2.91 ｜ 高共识 ｜ 命中 S02,S04,S06,S11,S16,S19收盘 5.0，支撑 4.6 / 压力 5.06，ATR参考止损 4.82 / 止盈 5.27\n9. **宁波港**（601018·航运港口）评分 2.91 ｜ 高共识 ｜ 命中 S02,S04,S06,S09,S11,S17,S19,S23收盘 3.65，支撑 3.25 / 压力 3.72，ATR参考止损 3.51 / 止盈 3.86\n10. **江苏金租**（600901·多元金融）评分 2.9 ｜ 高共识 ｜ 命中 S02,S04,S09,S11,S16,S17,S19,S23收盘 7.26，支撑 6.02 / 压力 7.3，ATR参考止损 6.96 / 止盈 7.71\u003e 📋 以上为多策略量化引擎的客观规则筛选结果（数据截至筛选时点），**不构成投资建议，不构成任何买入/卖出指令**。候选池为市值前500只抽样，可能遗漏中等市值标的。止损/止盈位为历史波动率（ATR）参考，非收益承诺。请结合自身风险承受能力独立决策。\u003e 📌 数据能力说明：北向资金实时净额自2024-08起已停止公开披露；龙虎榜/涨停池接口（datacenter-web/push2ex）在当前网络被URL过滤策略拦截。相关栏目以可得数据替代或如实缺省。\u003e 以上为公开行情数据的客观整理，不构成投资建议。股市有风险，投资需谨慎。数据来源：东方财富/新浪/CNBC/腾讯公开接口，延迟约3-5分钟。\n\u003c/card\u003e",
+        "create_time": "2026-10-13 15:23",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_1cae5a433f522ffc6bb4c5e74f388edf\u0026position=9",
+        "message_id": "om_x100b63d0837c1ca4de92c237a9106ba",
+        "message_position": "9",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a9630741047a1cb1",
+          "id_type": "app_id",
+          "name": "牛振东的智能助手",
+          "open_bot_id": "ou_c8b9500a3166c6e6e7d2613c870c09d1",
+          "sender_i18n_names": {
+            "en_us": "牛振东的智能助手",
+            "zh_cn": "牛振东的智能助手"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_1cae5a433f522ffc6bb4c5e74f388edf",
+        "chat_name": "【生活】牛振东的生活助手群聊",
+        "chat_type": "group",
+        "content": "\u003ccard title=\"✅ 市场监测系统测试推送\"\u003e\n**全球股市监测系统 · 测试卡片**\n- 发送时间：2026-10-13 22:36:27\n- 市场状态：{'a_share': False, 'hk': False, 'us': True, 'year_known': True}\n- 若看到本卡片，说明 .env 凭证与群聊配置正确。\u003e 以上为公开行情数据的客观整理，不构成投资建议。股市有风险，投资需谨慎。数据来源：东方财富/新浪/CNBC/腾讯公开接口，延迟约3-5分钟。\n\u003c/card\u003e",
+        "create_time": "2026-10-13 14:36",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_1cae5a433f522ffc6bb4c5e74f388edf\u0026position=6",
+        "message_id": "om_x100b63d0507040a4c1d8c2dcdcf0c7f",
+        "message_position": "6",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a9630741047a1cb1",
+          "id_type": "app_id",
+          "name": "牛振东的智能助手",
+          "open_bot_id": "ou_c8b9500a3166c6e6e7d2613c870c09d1",
+          "sender_i18n_names": {
+            "en_us": "牛振东的智能助手",
+            "zh_cn": "牛振东的智能助手"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_505cf9b6d65b295064ba4993368cdcec",
+        "chat_name": "DaaS任务无异常🀄",
+        "chat_type": "group",
+        "content": "\u003ccard\u003e\n\n有任务最终失败，请大家关注一下~\n\u003c/card\u003e",
+        "create_time": "2026-10-13 12:51",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_505cf9b6d65b295064ba4993368cdcec\u0026position=9730",
+        "message_id": "om_x100b63d6daeb64a0c236c3eec4e5156",
+        "message_position": "9730",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_c08abc1da138d00f",
+          "id_type": "app_id",
+          "name": "小D",
+          "open_bot_id": "ou_8167250fd624056580e565555ef33b5f",
+          "sender_i18n_names": {
+            "en_us": "小D",
+            "zh_cn": "小D"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_e95907928230ca46971a5ca78f878e10",
+        "chat_partner": {
+          "open_id": "ou_1655dba07585c6123811bb9d54fa9554"
+        },
+        "chat_type": "p2p",
+        "content": "\u003ccard title=\"📚 clawCast 学习报告【InoClaw】\"\u003e\n**📅 学习时间**：2026-10-13\n**📰 内容来源**：🦞 虾报 | 2026-04-27（周一）三日完整版 | OpenClaw 从\"文本工具\"进化为\"全场景 AI 协作者\"\n---\n**🎯 学习摘要**\n\nOpenClaw 三日进化：AI Sandwich 认知革命 + Google Meet 形态升级 + GStack 效率跃迁\n核心：人类是三明治的面包（框架设定 + 质量把关），AI 是夹心（执行）；Google Meet 加入让 AI 从后台走向前台；瓶颈不在模型，在脚手架。\n---\n**📌 为您推荐以下内容**\n1️⃣ **AI Sandwich 理论——人机协作的新范式**\n\n相关性：⭐⭐⭐⭐⭐\n核心洞察：人类价值集中在两端（创意框架 + 质量把关），AI 负责中间执行。这不是取代，是角色升级。\n实操价值：任务开始前花 30 分钟设定清晰框架，让 AI 自主执行，结束后人类润色优化。可将 11 小时工作压缩至 1.5 小时（效率提升 86%）。\n案例/数据：写技术博客案例——传统方式 11 小时，AI Sandwich 方式 1.5 小时，质量更高。\n来源链接：[https://www.toutiao.com/group/7632879949292093967/](https://www.toutiao.com/group/7632879949292093967/)\n2️⃣ **Google Meet 加入——AI 从工具到协作者的质变**\n\n相关性：⭐⭐⭐⭐⭐\n核心洞察：OpenClaw v2026.4.24 正式支持 Google Meet，AI 能参加会议、记录要点、实时翻译、智能提醒。\n实操价值：场景 1）会议自动化——\"帮我参加下午 3 点评审会，记录要点，发摘要\"；场景 2）智能提醒——检测到未分配任务自动提醒；场景 3）跨语言会议实时翻译。\n案例/数据：支持个人 Google 认证、Chrome/Twilio 实时会话、会议记录导出、出席人员记录。\n来源链接：[https://github.com/openclaw/openclaw/releases/tag/v2026.4.24](https://github.com/openclaw/openclaw/releases/tag/v2026.4.24)\n3️⃣ **GStack 生产力 810 倍——工程纪律比创造力更重要**\n\n相关性：⭐⭐⭐⭐⭐\n核心洞察：YC CEO Garry Tan 用 23 个专业角色 Agent 把日均代码行数从 14 行提升至 11,417 行（810 倍）。\n实操价值：核心原则 4 条——Think Before Coding、Simplicity First、Surgical Changes、Goal-Driven。一个 70 行 CLAUDE.md 文件冲上 GitHub Trending 第一。\n案例/数据：年度提交数 1.6 倍增长，但工作模式从全职开发变为兼职开发（主业运营 YC）。\n来源链接：[https://github.com/garrytan/gstack](https://github.com/garrytan/gstack) | [https://techfounder.tv/inside-garry-tans-claude-code-setup/](https://techfounder.tv/inside-garry-tans-claude-code-setup/)\n4️⃣ **Agent 角色模板——从工具到虚拟团队**\n\n相关性：⭐⭐⭐⭐\n核心洞察：OpenClaw 计划推出 `/agent add --role xxx` 命令，可创建 CEO/工程师/设计师/QA 等不同角色 Agent 组成虚拟团队。\n实操价值：未来场景——创建多角色 Agent 团队自主协作，像真实软件团队一样工作。与 GStack 的 23 个专业角色遥相呼应。\n案例/数据：GitHub Stars 突破 364K，超过 React 和 Vue，逼近 Linux 内核；Contributors 1,946 人持续增加。\n来源链接：[https://github.com/openclaw/openclaw/issues/71480](https://github.com/openclaw/openclaw/issues/71480)\n5️⃣ **企业级安全架构升级——OAuth + 零中断更新**\n\n相关性：⭐⭐⭐⭐\n核心洞察：v2026.4.23 通过 Codex OAuth 统一授权，解决 API Key 管理痛点；v2026.4.24 实现零中断更新。\n实操价值：企业场景——统一 OAuth 授权，员工使用企业账号登录，密钥集中管理，离职自动失去权限。配置重载时保持任务不中断。\n案例/数据：修复 10+ 核心 Issue，包括隐式记忆提示上下文、缓存 Token 正确计算、模型 ID 版本后缀保护等。\n来源链接：[https://github.com/openclaw/openclaw/releases/tag/v2026.4.23](https://github.com/openclaw/openclaw/releases/tag/v2026.4.23)\n---\n**💡 金句集锦**\n\n\u003e \"当 AI 能帮你开会，你只需专注思考。瓶颈不在模型，在脚手架。\"\n\n\u003e \"人类是三明治的面包，AI 是夹心。不是取代，是角色升级。\"\n\n\u003e \"安全不是口号，是每一次提交。\"\n---\n**📊 数据看板**\n\nGitHub 数据：Stars 364,080（超 React 144K、Vue 154K）| Contributors 1,946 | Forks 74,566 | Sponsors 127 位\n三日核心：3 个主题（AI Sandwich + OAuth/Agent + Google Meet）| 15+ PR/Issue 解读 | 10+ 生态文章\n---\n延伸阅读：\n1. GStack 完整架构：[https://github.com/garrytan/gstack](https://github.com/garrytan/gstack)\n2. OpenClaw v2026.4.24 发布说明：[https://github.com/openclaw/openclaw/releases/tag/v2026.4.24](https://github.com/openclaw/openclaw/releases/tag/v2026.4.24)\n3. AI Sandwich 理论详解：[https://www.toutiao.com/group/7632879949292093967/](https://www.toutiao.com/group/7632879949292093967/)结尾建议：AI 时代的核心竞争力是\"框架思维\"和\"质量把关能力\"。建议重点关注 AI Sandwich 理论的实践应用，同时关注 Google Meet 等形态升级带来的新场景。工程纪律比模型能力更重要，从\"执行者\"升级为\"指挥官\"是必经之路。\n\u003c/card\u003e",
+        "create_time": "2026-10-13 13:08",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_e95907928230ca46971a5ca78f878e10\u0026position=73",
+        "message_id": "om_x100b63d69b785ca4df231217510f7b7",
+        "message_position": "73",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_aa3b8cce14b85d23",
+          "id_type": "app_id",
+          "name": "牛振东的InoClaw_AI架构师",
+          "open_bot_id": "ou_1655dba07585c6123811bb9d54fa9554",
+          "sender_i18n_names": {
+            "en_us": "牛振东的InoClaw_AI架构师",
+            "zh_cn": "牛振东的InoClaw_AI架构师"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_2c15b3e6ae2348dc175050cc587ab382",
+        "chat_partner": {
+          "open_id": "ou_91e3a8a4be0ba2877a11d558467ce735"
+        },
+        "chat_type": "p2p",
+        "content": "\u003ccard title=\"打卡记录\"\u003e\n**账号**\n10068181\n\n**时间**\n2026-10-13 23:54:28\n\n**地点**\nB5-1F-20大厅电梯厅入口2考勤\n📝 10分钟内的多次考勤不会重复提醒\n\u003c/card\u003e",
+        "create_time": "2026-10-13 15:54",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_2c15b3e6ae2348dc175050cc587ab382\u0026position=802",
+        "message_id": "om_x100b63d10da414a0c0147f1d3941834",
+        "message_position": "802",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a3a0d2f81839d00b",
+          "id_type": "app_id",
+          "name": "我的HR自助",
+          "open_bot_id": "ou_91e3a8a4be0ba2877a11d558467ce735",
+          "sender_i18n_names": {
+            "en_us": "HR self",
+            "zh_cn": "我的HR自助"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_116045b976a58256400df3e6c4a57c1b",
+        "chat_name": "TRAE 用户交流群 1️⃣2️⃣｜官方",
+        "chat_type": "group",
+        "content": "那不又变成手工活了吗@TRAE 宝",
+        "create_time": "2026-10-13 13:05",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "cli_a9c7f80599f8dbc4",
+            "key": "@_user_1",
+            "name": "TRAE 宝"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/thread/open?open_chat_id=oc_116045b976a58256400df3e6c4a57c1b\u0026open_thread_id=omt_19aba30db94f1b4f\u0026openchatid=oc_116045b976a58256400df3e6c4a57c1b\u0026openthreadid=omt_19aba30db94f1b4f\u0026thread_position=3",
+        "message_id": "om_x100b63d687bbfca8ce8b4a07808002a",
+        "message_position": "-3",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_48bf9c4e2937ccde5071b70025452432",
+          "id_type": "open_id",
+          "name": "飞书用户0409KK",
+          "sender_type": "user",
+          "tenant_key": "151ef1cb6a00d758"
+        },
+        "thread_id": "omt_19aba30db94f1b4f",
+        "thread_message_position": "3",
+        "update_time": "2026-10-13 13:05",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_505cf9b6d65b295064ba4993368cdcec",
+        "chat_name": "DaaS任务无异常🀄",
+        "chat_type": "group",
+        "content": "\u003ccard\u003e\n@金星(ou_9a014b8b8c8ac89789d87895edaee4c4)  @蔺雨桐(ou_271c27ad206c31bf2b533474db2d9ef5)  @杨润东(ou_e7fccc3af163cd1e5b59c4241cb9b574)\n\n请大家关注一下等待时间哈，如已处理请忽略~\n\u003c/card\u003e",
+        "create_time": "2026-10-13 15:51",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_9a014b8b8c8ac89789d87895edaee4c4",
+            "key": "@_user_1",
+            "name": "金星"
+          },
+          {
+            "id": "ou_271c27ad206c31bf2b533474db2d9ef5",
+            "key": "@_user_2",
+            "name": "蔺雨桐"
+          },
+          {
+            "id": "ou_e7fccc3af163cd1e5b59c4241cb9b574",
+            "key": "@_user_3",
+            "name": "杨润东"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_505cf9b6d65b295064ba4993368cdcec\u0026position=9736",
+        "message_id": "om_x100b63d1786c24a0c09f27f5ef48535",
+        "message_position": "9736",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_c08abc1da138d00f",
+          "id_type": "app_id",
+          "name": "小D",
+          "open_bot_id": "ou_8167250fd624056580e565555ef33b5f",
+          "sender_i18n_names": {
+            "en_us": "小D",
+            "zh_cn": "小D"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_dcdc0598136d73012d3f6d26760e368d",
+        "chat_name": "【AI】济南服务器10.76.248.68网络权限开通沟通群",
+        "chat_type": "group",
+        "content": "好的",
+        "create_time": "2026-10-13 12:35",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_dcdc0598136d73012d3f6d26760e368d\u0026position=30",
+        "message_id": "om_x100b63d6193988a0b0b6abe80be2526",
+        "message_position": "30",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_4b0eea03c4af01f2a3da89dd7cc37346",
+          "id_type": "open_id",
+          "name": "程浩",
+          "sender_i18n_names": {
+            "en_us": "hao"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_5c11ab5f3bd43008d8e58cdd2d62199b",
+        "chat_name": "【Claw】牛振东的智能助手群聊",
+        "chat_type": "group",
+        "content": "#### 运维日报 - 2026-10-12\n\n##### 📊 今日概览\n- **总问题数**: 155\n- **已回答**: 142\n- **待跟进**: 13（AI 已补充回复，待人工确认）\n- **AI 补充回复**: 13\n\n##### 📋 问题分类统计\n\n| 问题类型 | 数量 | 占比 |\n|----------|------|------|\n| 技术讨论 | 43 | 27.7% |\n| 工具使用 | 39 | 25.2% |\n| 开发问题 | 32 | 20.6% |\n| 运维问题 | 18 | 11.6% |\n| 产品需求 | 14 | 9.0% |\n| 流程咨询 | 7 | 4.5% |\n| 项目咨询 | 2 | 1.3% |\n\n##### 🔔 待办事项\n- [ ] **高**: 黄翔 - @潘锴 方便把文件发我一下吗，我测试下（AI 回复：文件传输请求建议：请对方直接在会话中发送文件附件，或上传到飞书云空间后分享链接（设置好访问权限）；若…）\n- [ ] **中**: 用户375933 - 没有agent你连和llm通信都做不到啊，是不是（AI 回复：不完全正确。直接通过 API/SDK（如 OpenAI Chat Completions 格式的 H…）\n- [ ] **高**: 沈敏翔 - @杨润东 好的杨工，但这个任务是HIVE2转doris的，我没有处理过这种任务，…（AI 回复：HIVE2Doris 迁移任务常见两种处理方式：1) 全量覆盖场景：在导入配置中增加导入前语句（TR…）\n- [ ] **高**: 穆潇 - @周刚 周兄，黄工金钢@黄金钢 需要看一下设备驾驶舱，我把他加到管理员用户组，可…（AI 回复：可以。操作建议：将黄金钢的账号加入设备驾驶舱管理员用户组，添加后请其刷新页面验证菜单与数据可见性；同…）\n- [ ] **高**: 蔺雨桐 - online 加字段，我没搞明白咋能直接赋默认值（AI 回复：Online 表单的『同步数据库』会以表单设计器中的字段定义覆盖数据库表结构，未在表单里配置的数据库…）\n- [ ] **中**: 朱琪明 - @InoAI InnClaw 的下载地址是多少（AI 回复：InnClaw 获取途径建议：1) 在 InoAI知识社区 的置顶公告和群文件库中查找最新版本的下载…）\n- [ ] **中**: 火山引擎-技术支持 - @火山引擎-售后智能助手 不同指标在同一张底表中切换是否支持（AI 回复：DataWind 支持在同一张底表（数据集）中使用多个指标：在图表中添加多个度量字段，通过图例或『指…）\n- [ ] **中**: 刘宏宇 - 我想看下系统里那个表单里都有啥，包含涉及到任务令的那些（AI 回复：可通过以下途径查看系统表单字段：1) 在 DaaS/数据平台的数据地图（元数据管理）中搜索目标表单，…）\n- [ ] **中**: 马海峰 - 有没有按照承诺日期上线，有没有按照承诺入库日期入库，生产过程中异常暴露出来 周例…（AI 回复：该需求可落地：以『承诺上线日期/承诺入库日期』为基准，关联 MES 实际上线时间与入库记录，计算『按…）\n- [ ] **高**: 刘宏宇 - @蔺雨桐 改的哪里（AI 回复：建议直接查看代码提交记录定位修改点：git log / git diff 查看最近一次提交改动的文件…）\n- [ ] **中**: 苏明阳 - @漫川 怎么感觉被弃的是trae code了（AI 回复：不是弃用，而是产品线整合：原 TRAE Work（办公）与 TRAE Code（开发）已统一为一个 …）\n- [ ] **中**: 董曹鹏 - 飞书访问服务器吗？（AI 回复：飞书本身是 SaaS 服务，不会主动访问你的内网服务器。当飞书开放平台需要向业务系统推送事件（消息回…）\n- [ ] **中**: 牛振东 - Hi 谢工，济南高压电缆，是哪几条线的？（AI 回复：建议通过以下渠道确认济南高压电缆项目涉及的线路：1) 查阅项目立项材料/需求说明中的工程范围与线路清…）\n\n##### 📈 趋势分析\n- 昨日新增 155 条 QA，近 7 天无历史数据（首次自动收集）；较表内 2025-10 基线日均 17 条提升约 9.1 倍。\n- 高频类型：技术讨论（27.7%）、工具使用（25.2%），开发问题讨论较历史明显增多。\n- 活跃 Top3：提问 牛振东/蔺雨桐/刘宏宇，回复 牛振东/蔺雨桐/刘宏宇；人工回答率 91.6%。\n\n📄 完整日报（含全部 QA 明细）：https://inovance.feishu.cn/docx/SgW7dMmFcoHd3Tx8CoGcgl5VnGg\n📊 多维表格数据：https://inovance.feishu.cn/base/KezfbQ2fDaNBonskSTZcM3YVnWf?table=tblrHaPTUI8x71ot",
+        "create_time": "2026-10-13 14:41",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_5c11ab5f3bd43008d8e58cdd2d62199b\u0026position=176",
+        "message_id": "om_x100b63d07edd78a0df7066d32784e7d",
+        "message_position": "176",
+        "msg_type": "post",
+        "sender": {
+          "id": "ou_635008cc2affc45d23de666f2e7e7446",
+          "id_type": "open_id",
+          "name": "牛振东",
+          "sender_i18n_names": {
+            "en_us": "niuzhendong"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_116045b976a58256400df3e6c4a57c1b",
+        "chat_name": "TRAE 用户交流群 1️⃣2️⃣｜官方",
+        "chat_type": "group",
+        "content": "@高旋 不用解释，符合我想象，但不合理！对于我90%用work的人，升级后常驻从500m增长为1.2g！也并没有带来什么好处！合一的需求虽然来自于组织架构，技术上可以做到组件化后按需启动呀",
+        "create_time": "2026-10-13 14:24",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_f66233ee586f17ab9817ff3c41de6505",
+            "key": "@_user_1",
+            "name": "高旋"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/thread/open?open_chat_id=oc_116045b976a58256400df3e6c4a57c1b\u0026open_thread_id=omt_19a8280bf20f5b96\u0026openchatid=oc_116045b976a58256400df3e6c4a57c1b\u0026openthreadid=omt_19a8280bf20f5b96\u0026thread_position=7",
+        "message_id": "om_x100b63d7bd7ac8a0c1cad7cd30a1c1f",
+        "message_position": "-3",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_c859c4ed48347b0b16f6ecdf09f1936d",
+          "id_type": "open_id",
+          "name": "Loren",
+          "sender_i18n_names": {
+            "zh_cn": "Loren"
+          },
+          "sender_type": "user",
+          "tenant_key": "1ad0f9dca0451bbe"
+        },
+        "thread_id": "omt_19a8280bf20f5b96",
+        "thread_message_position": "7",
+        "update_time": "2026-10-13 14:25",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_116045b976a58256400df3e6c4a57c1b",
+        "chat_name": "TRAE 用户交流群 1️⃣2️⃣｜官方",
+        "chat_type": "group",
+        "content": "就是任务复杂高时，模型倾向给文字，而不是展示产物@TRAE 宝",
+        "create_time": "2026-10-13 13:04",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "cli_a9c7f80599f8dbc4",
+            "key": "@_user_1",
+            "name": "TRAE 宝"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/thread/open?open_chat_id=oc_116045b976a58256400df3e6c4a57c1b\u0026open_thread_id=omt_19aba30db94f1b4f\u0026openchatid=oc_116045b976a58256400df3e6c4a57c1b\u0026openthreadid=omt_19aba30db94f1b4f\u0026thread_position=1",
+        "message_id": "om_x100b63d68a2d7ca4cfbe2825d7c72ad",
+        "message_position": "-3",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_48bf9c4e2937ccde5071b70025452432",
+          "id_type": "open_id",
+          "name": "飞书用户0409KK",
+          "sender_type": "user",
+          "tenant_key": "151ef1cb6a00d758"
+        },
+        "thread_id": "omt_19aba30db94f1b4f",
+        "thread_message_position": "1",
+        "update_time": "2026-10-13 13:04",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_e95907928230ca46971a5ca78f878e10",
+        "chat_partner": {
+          "open_id": "ou_1655dba07585c6123811bb9d54fa9554"
+        },
+        "chat_type": "p2p",
+        "content": "\u003ccard title=\"📚 clawCast 学习报告【InoClaw】\"\u003e\n**📅 学习时间**：2026-10-13\n**📰 内容来源**：🦞 虾报 | 2026-04-27（周一）三日完整版 | OpenClaw 从\"文本工具\"进化为\"全场景 AI 协作者\"\n---\n**🎯 学习摘要**\n\n本期虾报涵盖 OpenClaw 三日进化历程：AI Sandwich 认知革命 + Google Meet 形态升级 + GStack 效率跃迁\n核心洞察：人类是三明治的面包（框架设定 + 质量把关），AI 是夹心（执行）；瓶颈不在模型，在脚手架\n---\n**📌 为您推荐以下内容**\n1️⃣ **🍞 AI Sandwich 理论——人类在 AI 时代的价值定位**\n\n相关性：⭐⭐⭐⭐⭐\n核心洞察：人类价值集中在两端——开始前（创意/框架设定）和结束后（质量把关/润色），AI 负责中间执行。这不是取代，是角色升级。\n实操价值：任务开始前花 30 分钟明确框架（核心问题/成功标准/边界约束），让 AI 自主执行，结束后人类负责润色从\"能用\"到\"惊艳\"。\n案例/数据：写技术博客从 11 小时缩短至 1.5 小时（-86%），质量更高。框架更清晰、润色更专业。\n来源链接：[https://www.toutiao.com/group/7632879949292093967/](https://www.toutiao.com/group/7632879949292093967/)\n2️⃣ **🎥 Google Meet 正式加入——AI 从后台工具走向前台协作者**\n\n相关性：⭐⭐⭐⭐⭐\n核心洞察：Google Meet 的加入是质变而非量变——从\"文本工具\"到\"视频参与者\"，实现会议自动化、智能纪要、跨语言翻译。\n实操价值：可让 AI 自动参加会议→实时转录→提取关键决策→生成会议纪要→发送摘要；检测未分配任务主动提醒；实时翻译跨语言会议。\n案例/数据：v2026.4.24 正式发布，包含个人 Google 认证、Chrome/Twilio 实时会话、会议记录导出、出席人员记录等完整功能。\n来源链接：[https://github.com/openclaw/openclaw/releases/tag/v2026.4.24](https://github.com/openclaw/openclaw/releases/tag/v2026.4.24)\n3️⃣ **🚀 GStack 生产力 810 倍——YC CEO 的 AI 工程团队实践**\n\n相关性：⭐⭐⭐⭐⭐\n核心洞察：瓶颈不在模型，在脚手架。Garry Tan 用 23 个专业角色的虚拟工程团队，把日均代码行数从 14 行提升至 11,417 行（810 倍）。\n实操价值：通过斜杠命令调用专业角色——/office-hours（产品问诊）、/plan-eng-review（架构审查）、/qa（浏览器测试）、/cso（安全审查）、/ship（自动发布）。\n案例/数据：年度提交数从 772 次增至 1,237 次（1.6 倍），工作模式从全职开发变为兼职开发（主业运营 YC）。\n来源链接：[https://github.com/garrytan/gstack](https://github.com/garrytan/gstack)\n4️⃣ **🔐 OAuth 企业级安全架构——从\"能玩的工具\"到\"敢用的系统\"**\n\n相关性：⭐⭐⭐⭐⭐\n核心洞察：Codex OAuth 统一授权解决了企业 API Key 管理痛点——密钥由企业集中管理，员工离职自动失去权限。\n实操价值：以前需为每个员工分发 API Key、密钥管理复杂、离职需回收；现在统一 OAuth 登录、企业集中管理、离职自动失效。\n案例/数据：v2026.4.23 核心更新，修复 API Key 管理痛点 Issue #70703，支持 OpenRouter 图像模型通过 image_generate 接口。\n来源链接：[https://github.com/openclaw/openclaw/releases/tag/v2026.4.23](https://github.com/openclaw/openclaw/releases/tag/v2026.4.23)\n5️⃣ **🤖 Agent 角色模板计划——从\"工具\"进化为\"团队\"**\n\n相关性：⭐⭐⭐⭐⭐\n核心洞察：未来可通过 /agent add --role xxx 创建不同角色 Agent（CEO/工程师/设计师/QA），组成虚拟团队自主协作。\n实操价值：早期访问生成空白 Agent 运行面试流程，正式发布后支持分层角色模板，实现多 Agent 共享浏览器安全协作（/pair-agent）。\n案例/数据：与 GStack 的 23 个专业角色遥相呼应，整个行业朝\"AI 工程团队\"方向进化。GitHub Stars 突破 364K，超过 React 和 Vue。\n来源链接：[https://github.com/openclaw/openclaw/issues/71480](https://github.com/openclaw/openclaw/issues/71480)\n---\n**💡 金句集锦**\n\n\u003e 人类是三明治的面包（框架设定 + 质量把关），AI 是夹心（执行）\n\n\u003e 当 AI 能帮你开会，你只需专注思考。瓶颈不在模型，在脚手架\n\n\u003e 安全不是口号，是每一次提交\n\n\u003e OpenClaw 正在从\"工具\"进化为\"团队\"\n\n\u003e 未来的竞争不是\"人 vs AI\"，而是\"会用 AI 的人 vs 不会用 AI 的人\"\n---\n**📊 数据看板**\n\n📊 三日数据看板\nGitHub Stars: 364,080（突破 364K，超过 React 220K、Vue 210K）\nContributors: 1,946（持续增加）\n版本发布：v2026.4.23（OAuth/图像生成）+ v2026.4.24（Google Meet/安全加固）\nPR/Issue 解读：15+ | 生态文章：10+ | 字数：~1.5 万字\n---\n📎 延伸阅读建议\n1. AI Sandwich 理论详解：[https://www.toutiao.com/group/7632879949292093967/](https://www.toutiao.com/group/7632879949292093967/)\n2. GStack GitHub 项目：[https://github.com/garrytan/gstack](https://github.com/garrytan/gstack)\n3. OpenClaw v2026.4.24 Release：[https://github.com/openclaw/openclaw/releases/tag/v2026.4.24](https://github.com/openclaw/openclaw/releases/tag/v2026.4.24)💡 行动建议：尝试用 AI Sandwich 框架重新设计你的下一个任务——开始前花 30 分钟明确框架，让 AI 自主执行，结束后人类润色。体验从\"执行者\"到\"指挥官\"的角色升级。\n\u003c/card\u003e",
+        "create_time": "2026-10-13 15:10",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_e95907928230ca46971a5ca78f878e10\u0026position=74",
+        "message_id": "om_x100b63d0d16780a0c0864c801d2027a",
+        "message_position": "74",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_aa3b8cce14b85d23",
+          "id_type": "app_id",
+          "name": "牛振东的InoClaw_AI架构师",
+          "open_bot_id": "ou_1655dba07585c6123811bb9d54fa9554",
+          "sender_i18n_names": {
+            "en_us": "牛振东的InoClaw_AI架构师",
+            "zh_cn": "牛振东的InoClaw_AI架构师"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_116045b976a58256400df3e6c4a57c1b",
+        "chat_name": "TRAE 用户交流群 1️⃣2️⃣｜官方",
+        "chat_type": "group",
+        "content": "\u003ccard\u003e\n我查了官方文档，目前**没有找到可以让 TRAE 默认自动展示产物图片的设置项**——输出是纯文字还是带产物展示，会和任务类型、模型的执行方式有关，不是靠一个开关就能强制。能确认的是 TRAE Work 有一个**「任务产物」面板**，用来存放 AI 为该任务生成的文件，能不能直观看到图片，取决于任务本身产出的产物类型。\n\n也就是说，如果只能靠在指令里额外要求它展示，目前确实没有更省事的官方配置。\n\n如果你希望 TRAE 支持「默认自动把生成的图片作为产物展示」，可以到社区论坛的产品建议板块提：[https://forum.trae.cn/c/8-category/8](https://forum.trae.cn/c/8-category/8)\n\n另外方便确认一下：你用的是 **TRAE Work** 还是 **TRAE IDE**？两者的产物展示方式不一样，我可以按对应产品再查一次。\n---\n💡 更多使用问题请转移至 [TRAE 官方社区「帮助与支持」板块](https://forum.trae.cn/c/7-category/7) 发帖询问 \n · 021791896728594fdbddc02001405304b59cb53af0000e91b5cbe · \n[已解决]\n[更多问题请到「官方社区」提问](https://forum.trae.cn/c/7-category/7)\n\u003c/card\u003e",
+        "create_time": "2026-10-13 13:05",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/thread/open?open_chat_id=oc_116045b976a58256400df3e6c4a57c1b\u0026open_thread_id=omt_19aba30db94f1b4f\u0026openchatid=oc_116045b976a58256400df3e6c4a57c1b\u0026openthreadid=omt_19aba30db94f1b4f\u0026thread_position=4",
+        "message_id": "om_x100b63d68758e0b4cf8f7d537f0ed0c",
+        "message_position": "-3",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a9c7f80599f8dbc4",
+          "id_type": "app_id",
+          "name": "TRAE 宝",
+          "open_bot_id": "ou_dfae499a31a17e270c3cc86c7275f2bd",
+          "sender_i18n_names": {
+            "en_us": "TRAE 宝",
+            "zh_cn": "TRAE 宝"
+          },
+          "sender_type": "app",
+          "tenant_key": "15d6d1e6e508d75e"
+        },
+        "thread_id": "omt_19aba30db94f1b4f",
+        "thread_message_position": "4",
+        "update_time": "2026-10-13 13:06",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_1cae5a433f522ffc6bb4c5e74f388edf",
+        "chat_name": "【生活】牛振东的生活助手群聊",
+        "chat_type": "group",
+        "content": "\u003ccard title=\"🟠 橙色预警 · 10-13 22:37\"\u003e\n**2026-10-13 22:37 触发 5 条预警**\n\n🟠 **[sector]** 行业板块 地面兵装Ⅲ +4.54%（领涨：国科军工）\n🟠 **[sector]** 行业板块 电商服务 +4.22%（领涨：丽人丽妆）\n🟠 **[sector]** 行业板块 纺织化学制品 +5.43%（领涨：亚邦股份）\n🟠 **[sector]** 行业板块 航海装备Ⅲ +4.36%（领涨：江龙船艇）\n🟠 **[sector]** 行业板块 防水材料 +4.28%（领涨：凯伦股份）\n\n**⚠️ 风险提示**：以上为规则触发的客观数据预警，请结合盘面独立判断。\u003e 以上为公开行情数据的客观整理，不构成投资建议。股市有风险，投资需谨慎。数据来源：东方财富/新浪/CNBC/腾讯公开接口，延迟约3-5分钟。\n\u003c/card\u003e",
+        "create_time": "2026-10-13 14:37",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_1cae5a433f522ffc6bb4c5e74f388edf\u0026position=8",
+        "message_id": "om_x100b63d06d0b8ca0de19bb9f714b2fd",
+        "message_position": "8",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a9630741047a1cb1",
+          "id_type": "app_id",
+          "name": "牛振东的智能助手",
+          "open_bot_id": "ou_c8b9500a3166c6e6e7d2613c870c09d1",
+          "sender_i18n_names": {
+            "en_us": "牛振东的智能助手",
+            "zh_cn": "牛振东的智能助手"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_dcdc0598136d73012d3f6d26760e368d",
+        "chat_name": "【AI】济南服务器10.76.248.68网络权限开通沟通群",
+        "chat_type": "group",
+        "content": "明天一早我就给弄",
+        "create_time": "2026-10-13 12:35",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_dcdc0598136d73012d3f6d26760e368d\u0026position=28",
+        "message_id": "om_x100b63d6199ba0a4cf3a734b1f89416",
+        "message_position": "28",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_4b0eea03c4af01f2a3da89dd7cc37346",
+          "id_type": "open_id",
+          "name": "程浩",
+          "sender_i18n_names": {
+            "en_us": "hao"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_55107e95f87c4d9b42821cd55444bd35",
+        "chat_name": "运营\u0026使能篮球队",
+        "chat_type": "group",
+        "content": "今晚兄弟们的发挥，离不开王大队上午在群里振聋发聩的篮球呐喊与精准指挥，致敬🫡@王凯",
+        "create_time": "2026-10-13 13:16",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_f852937a43fc399bf815fb2c8bd9005d",
+            "key": "@_user_1",
+            "name": "王凯"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_55107e95f87c4d9b42821cd55444bd35\u0026position=193",
+        "message_id": "om_x100b63d6bfb8b0a4cffc65c342e06c9",
+        "message_position": "193",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_ce913959d9725774178dcf3b4bebdb91",
+          "id_type": "open_id",
+          "name": "郑庆云",
+          "sender_i18n_names": {
+            "en_us": "zhengqingyun"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-13 13:16",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_116045b976a58256400df3e6c4a57c1b",
+        "chat_name": "TRAE 用户交流群 1️⃣2️⃣｜官方",
+        "chat_type": "group",
+        "content": "\u003ccard\u003e\n**关于选择用哪个终端**\n\n这个能力还在。在**终端**面板中右击你想用的那个终端，选择「标记为 AI 使用」，AI 就会固定用这个终端执行命令（若同时标记了多个，会优先用最近标记的；当前打开的就是被标记终端时优先用它）。官方说明：[https://docs.trae.cn/ide/mark-for-ai-use](https://docs.trae.cn/ide/mark-for-ai-use)---**关于「找不到 PowerShell7、所有命令跑不了」**\n\n这个具体报错我目前没有查到能对上的官方说明，不适合凭经验给排查结论。\n\n建议到 TRAE 社区论坛「帮助与支持」板块发帖：🔗 [https://forum.trae.cn/c/7-category/7](https://forum.trae.cn/c/7-category/7)，附上 TRAE IDE 版本、操作系统，以及具体的报错原文和现象，方便定位。\n---\n💡 更多使用问题请转移至 [TRAE 官方社区「帮助与支持」板块](https://forum.trae.cn/c/7-category/7) 发帖询问 \n · 021791898551354fdbddc02001405304b59cb53af0000e936b1f5 · \n[已解决]\n[更多问题请到「官方社区」提问](https://forum.trae.cn/c/7-category/7)\n\u003c/card\u003e",
+        "create_time": "2026-10-13 13:35",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/thread/open?open_chat_id=oc_116045b976a58256400df3e6c4a57c1b\u0026open_thread_id=omt_19abbb7f194f1a7c\u0026openchatid=oc_116045b976a58256400df3e6c4a57c1b\u0026openthreadid=omt_19abbb7f194f1a7c\u0026thread_position=0",
+        "message_id": "om_x100b63d77549fcacc0fb25b7376bcd7",
+        "message_position": "-3",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a9c7f80599f8dbc4",
+          "id_type": "app_id",
+          "name": "TRAE 宝",
+          "open_bot_id": "ou_dfae499a31a17e270c3cc86c7275f2bd",
+          "sender_i18n_names": {
+            "en_us": "TRAE 宝",
+            "zh_cn": "TRAE 宝"
+          },
+          "sender_type": "app",
+          "tenant_key": "15d6d1e6e508d75e"
+        },
+        "thread_id": "omt_19abbb7f194f1a7c",
+        "thread_message_position": "0",
+        "update_time": "2026-10-13 13:36",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_5c11ab5f3bd43008d8e58cdd2d62199b",
+        "chat_name": "【Claw】牛振东的智能助手群聊",
+        "chat_type": "group",
+        "content": "📋 个人工作日报维护结果\n日期：2026年10月13日（周二 · 法定工作日）\n状态：✅ 已成功在文档最前面新增日期条目\n新条目标题：10月13日\n文档链接：https://inovance.feishu.cn/wiki/CnNGwpz8CiA4vMkp01EcVIK3nzc",
+        "create_time": "2026-10-13 15:08",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_5c11ab5f3bd43008d8e58cdd2d62199b\u0026position=180",
+        "message_id": "om_x100b63d0d941e4a4b05ccdb4dd0854e",
+        "message_position": "180",
+        "msg_type": "text",
+        "sender": {
+          "id": "cli_a9630741047a1cb1",
+          "id_type": "app_id",
+          "name": "牛振东的智能助手",
+          "open_bot_id": "ou_c8b9500a3166c6e6e7d2613c870c09d1",
+          "sender_i18n_names": {
+            "en_us": "牛振东的智能助手",
+            "zh_cn": "牛振东的智能助手"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-13 15:08",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_5c11ab5f3bd43008d8e58cdd2d62199b",
+        "chat_name": "【Claw】牛振东的智能助手群聊",
+        "chat_type": "group",
+        "content": "【Inoclaw 精选消息 · 每日QA精选】\n数据日期：2026-10-12（周一）\n本次新增 6 条QA：\n■ 一、操作指南\n  3. 国际版 Pro 自动续费扣款了，怎么申请退款？\n■ 二、产品动态\n  3. TraeWork 改成 TRAE 了，有什么变化？为什么要卸载重装？\n  4. TraeWork 升级会影响 TRAE IDE 吗？trae code 是没了吗？\n■ 三、技术问答\n  5. 「请求专家建议」是什么功能？\n  6. 执行中显示大量无关信息，是在骗 token 吗？\n  7. 用 TRAE 配合国内大模型，能按 opus5.5 的方式做视频吗？\n文档链接：https://inovance.feishu.cn/docx/UZqRddDCxoKy0VxxqjjcX4XZnfg",
+        "create_time": "2026-10-13 15:38",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_5c11ab5f3bd43008d8e58cdd2d62199b\u0026position=181",
+        "message_id": "om_x100b63d149abc8a0cf32b9517a14119",
+        "message_position": "181",
+        "msg_type": "text",
+        "sender": {
+          "id": "cli_a9630741047a1cb1",
+          "id_type": "app_id",
+          "name": "牛振东的智能助手",
+          "open_bot_id": "ou_c8b9500a3166c6e6e7d2613c870c09d1",
+          "sender_i18n_names": {
+            "en_us": "牛振东的智能助手",
+            "zh_cn": "牛振东的智能助手"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-13 15:38",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_116045b976a58256400df3e6c4a57c1b",
+        "chat_name": "TRAE 用户交流群 1️⃣2️⃣｜官方",
+        "chat_type": "group",
+        "content": "\u003ccard\u003e\n从截图看，这是 TRAE Work 里的设计/生图类任务（产物 + 消耗积分 + 「由 AI 生成」都是 Work 的形态）。\n\n关于「怎么让 Trae 主动把生成的图片展示出来」，我查了当前的官方文档和资料，**没有找到描述这个行为或相关开关的直接说明**，所以不能凭空给你一个结论。可以确认的是，TRAE Work 支持在任务工作区里预览智能体生成的产物，官方也强调了「对话界面内直接预览成果并完成验收」，但文档里没有写「让 AI 每次生成后自动把图片贴到对话里」这类规则。\n\n如果你希望它生成后能更直接地呈现图片，可以去 TRAE 社区论坛反馈：\n🔗 [https://forum.trae.cn/c/8-category/8](https://forum.trae.cn/c/8-category/8)\n\n方便的话告诉我你用的是**网页版还是桌面版**，我再按对应形态帮你查产物预览的具体位置。\n---\n💡 更多使用问题请转移至 [TRAE 官方社区「帮助与支持」板块](https://forum.trae.cn/c/7-category/7) 发帖询问 \n · 021791896518206fdbddc0200190532c659cb53af00005d5d05cd · \n[已解决]\n[更多问题请到「官方社区」提问](https://forum.trae.cn/c/7-category/7)\n\u003c/card\u003e",
+        "create_time": "2026-10-13 13:01",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/thread/open?open_chat_id=oc_116045b976a58256400df3e6c4a57c1b\u0026open_thread_id=omt_19aba30db94f1b4f\u0026openchatid=oc_116045b976a58256400df3e6c4a57c1b\u0026openthreadid=omt_19aba30db94f1b4f\u0026thread_position=0",
+        "message_id": "om_x100b63d6f2bea8a0ce5dabec9ad47fa",
+        "message_position": "-3",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a9c7f80599f8dbc4",
+          "id_type": "app_id",
+          "name": "TRAE 宝",
+          "open_bot_id": "ou_dfae499a31a17e270c3cc86c7275f2bd",
+          "sender_i18n_names": {
+            "en_us": "TRAE 宝",
+            "zh_cn": "TRAE 宝"
+          },
+          "sender_type": "app",
+          "tenant_key": "15d6d1e6e508d75e"
+        },
+        "thread_id": "omt_19aba30db94f1b4f",
+        "thread_message_position": "0",
+        "update_time": "2026-10-13 13:03",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_116045b976a58256400df3e6c4a57c1b",
+        "chat_name": "TRAE 用户交流群 1️⃣2️⃣｜官方",
+        "chat_type": "group",
+        "content": "https://docs.trae.cn/ide/mark-for-ai-use 404 @TRAE 宝",
+        "create_time": "2026-10-13 13:37",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "cli_a9c7f80599f8dbc4",
+            "key": "@_user_1",
+            "name": "TRAE 宝"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/thread/open?open_chat_id=oc_116045b976a58256400df3e6c4a57c1b\u0026open_thread_id=omt_19abbb7f194f1a7c\u0026openchatid=oc_116045b976a58256400df3e6c4a57c1b\u0026openthreadid=omt_19abbb7f194f1a7c\u0026thread_position=2",
+        "message_id": "om_x100b63d77126b4a0de90f59fd886453",
+        "message_position": "-3",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_1029907b6151084c4ebd160b4bb7319c",
+          "id_type": "open_id",
+          "name": "用户190475",
+          "sender_i18n_names": {
+            "zh_cn": "kaitist"
+          },
+          "sender_type": "user",
+          "tenant_key": "1adf081866435c82"
+        },
+        "thread_id": "omt_19abbb7f194f1a7c",
+        "thread_message_position": "2",
+        "update_time": "2026-10-13 13:37",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_55107e95f87c4d9b42821cd55444bd35",
+        "chat_name": "运营\u0026使能篮球队",
+        "chat_type": "group",
+        "content": "[Image: img_v3_0216e_3d89bad2-08f7-4ea0-9e62-b7e0a1f0f13g]",
+        "create_time": "2026-10-13 13:05",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_55107e95f87c4d9b42821cd55444bd35\u0026position=190",
+        "message_id": "om_x100b63d687e3d0a0de52d14171acae3",
+        "message_position": "190",
+        "msg_type": "image",
+        "sender": {
+          "id": "ou_f852937a43fc399bf815fb2c8bd9005d",
+          "id_type": "open_id",
+          "name": "王凯",
+          "sender_i18n_names": {
+            "en_us": "wangkai"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-13 13:05",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_116045b976a58256400df3e6c4a57c1b",
+        "chat_name": "TRAE 用户交流群 1️⃣2️⃣｜官方",
+        "chat_type": "group",
+        "content": "Trae 无法设置使用哪个终端了吗？模型所有命令都跑不了，说是 IDE 没有找到我的 PowerShell7 @TRAE 宝",
+        "create_time": "2026-10-13 13:35",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "cli_a9c7f80599f8dbc4",
+            "key": "@_user_1",
+            "name": "TRAE 宝"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/thread/open?open_chat_id=oc_116045b976a58256400df3e6c4a57c1b\u0026open_thread_id=omt_19abbb7f194f1a7c\u0026openchatid=oc_116045b976a58256400df3e6c4a57c1b\u0026openthreadid=omt_19abbb7f194f1a7c\u0026thread_position=-1",
+        "message_id": "om_x100b63d775ae78a0dd015dfcf5fdf84",
+        "message_position": "12573",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_1029907b6151084c4ebd160b4bb7319c",
+          "id_type": "open_id",
+          "name": "用户190475",
+          "sender_i18n_names": {
+            "zh_cn": "kaitist"
+          },
+          "sender_type": "user",
+          "tenant_key": "1adf081866435c82"
+        },
+        "thread_id": "omt_19abbb7f194f1a7c",
+        "thread_message_position": "-1",
+        "update_time": "2026-10-13 13:35",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_505cf9b6d65b295064ba4993368cdcec",
+        "chat_name": "DaaS任务无异常🀄",
+        "chat_type": "group",
+        "content": "\u003ccard\u003e\n**总共有 38 个任务等待时间超过20分钟(数据来源：10.32.223.141)**\n\n**任务名** | **提交时间** | **项目空间** | **负责人** | **等待时间**\ndwd_isc_suzhou_output_last_production_records_a_h | 2026-10-08 11:18:47 | ISC数据消费 | **金星** | 5天9小时32分钟18秒\ndws_isc_wip_shortage_order_pass_match_a_h | 2026-10-13 11:45:10 | ISC数据消费 | **蔺雨桐** | 0天9小时5分钟55秒\nads_isc_wip_shortage_order_current_op_a_h | 2026-10-13 11:48:01 | ISC数据消费 | **蔺雨桐** | 0天9小时3分钟4秒\nhive2doris_ads_isc_wip_shortage_order_current_op_a_h | 2026-10-13 11:50:11 | ISC数据消费 | **蔺雨桐** | 0天9小时0分钟54秒\nstd_isc_mgf_oee_ct_all_i_h | 2026-10-13 20:01:23 | ISC数据消费 | **孙奥迪** | 0天0小时49分钟42秒\ndwd_isc_mgf_oee_ct_all_i_h | 2026-10-13 20:01:23 | ISC数据消费 | **孙奥迪** | 0天0小时49分钟42秒\ndws_isc_mgf_tpm_device_oee_a_min | 2026-10-13 20:01:25 | ISC数据消费 | **穆潇** | 0天0小时49分钟40秒\nstd_isc_wms_picking_loc_i_d | 2026-10-13 20:02:18 | ISC数据消费 | **蔺雨桐** | 0天0小时48分钟47秒\nstd_isc_mgf_part_a_h | 2026-10-13 20:02:18 | ISC数据消费 | **陆欣怡** | 0天0小时48分钟47秒\ndim_isc_mgf_part_a_h | 2026-10-13 20:03:05 | ISC数据消费 | **杨润东** | 0天0小时48分钟0秒\nods_isc_szwms_wms_qc_insp_result_i_h | 2026-10-13 20:08:01 | ISC_ODS项目空间 | **潘语言** | 0天0小时43分钟4秒\nstd_isc_mgf_yymes_ut_product_routestep_res_i_h | 2026-10-13 20:09:01 | ISC数据消费 | **魏子昂** | 0天0小时42分钟4秒\nstd_isc_mfg_yymes_quality_tag_i_h | 2026-10-13 20:10:17 | ISC数据消费 | **杨润东** | 0天0小时40分钟48秒\ndws_isc_yy_repair_data_a_h | 2026-10-13 20:15:06 | ISC数据消费 | **金星** | 0天0小时35分钟59秒\ndwd_isc_mfg_yymes_quality_tag_i_h | 2026-10-13 20:15:09 | ISC数据消费 | **杨润东** | 0天0小时35分钟56秒\nods_isc_yymes_dc_test_instance_item_i_h | 2026-10-13 20:18:01 | ODS项目空间 | **杨润东** | 0天0小时33分钟4秒\ndwd_isc_mgf_yymes_ut_product_routestep_res_i_h | 2026-10-13 20:18:01 | ISC数据消费 | **孙奥迪** | 0天0小时33分钟4秒\ndws_isc_yy_production_records_a_h | 2026-10-13 20:20:10 | ISC数据消费 | **金星** | 0天0小时30分钟55秒\nads_isc_mgf_tpm_device_oee_a_min | 2026-10-13 20:20:12 | ISC数据消费 | **穆潇** | 0天0小时30分钟53秒\ndws_isc_yy_output_last_production_records_a_h | 2026-10-13 20:21:01 | ISC数据消费 | **金星** | 0天0小时30分钟4秒\ndws_isc_yy_fpy_first_production_records_a_h | 2026-10-13 20:21:01 | ISC数据消费 | **金星** | 0天0小时30分钟4秒\ndwd_isc_mfg_work_order_i_h | 2026-10-13 20:22:01 | ISC数据消费 | **蔺雨桐** | 0天0小时29分钟4秒\nads_isc_yy_department_operation_fpy_a_h | 2026-10-13 20:22:01 | ISC数据消费 | **金星** | 0天0小时29分钟4秒\nhive2doris_dws_isc_yy_fpy_first_production_records_a_h | 2026-10-13 20:22:01 | ISC数据消费 | **金星** | 0天0小时29分钟4秒\nads_isc_yy_hourly_actual_output_a_h | 2026-10-13 20:22:01 | ISC数据消费 | **金星** | 0天0小时29分钟4秒\nads_isc_yy_misclassify_a_h | 2026-10-13 20:22:02 | ISC数据消费 | **金星** | 0天0小时29分钟3秒\nads_isc_yy_operation_fpy_a_h | 2026-10-13 20:22:02 | ISC数据消费 | **金星** | 0天0小时29分钟3秒\nhive2doris_ads_isc_yy_department_operation_fpy_a_h | 2026-10-13 20:23:01 | ISC数据消费 | **金星** | 0天0小时28分钟4秒\nhive2doris_ads_isc_yy_operation_fpy_a_h | 2026-10-13 20:23:01 | ISC数据消费 | **金星** | 0天0小时28分钟4秒\nhive2doris_ads_isc_yy_hourly_actual_output_a_h | 2026-10-13 20:23:01 | ISC数据消费 | **金星** | 0天0小时28分钟4秒\nads_isc_jn_current_production_a_h | 2026-10-13 20:23:01 | ISC数据消费 | **石峰** | 0天0小时28分钟4秒\ndws_isc_yy_work_order_ordered_planned_qty_a_h | 2026-10-13 20:23:01 | ISC数据消费 | **金星** | 0天0小时28分钟4秒\nhive2doris_ads_isc_jn_current_production_a_h | 2026-10-13 20:23:01 | ISC数据消费 | **石峰** | 0天0小时28分钟4秒\nads_isc_yy_actual_output_a_h | 2026-10-13 20:24:01 | ISC数据消费 | **金星** | 0天0小时27分钟4秒\nads_isc_yy_work_order_finish_rate_a_h | 2026-10-13 20:24:01 | ISC数据消费 | **金星** | 0天0小时27分钟4秒\nhive2doris_ads_isc_yy_work_order_finish_rate_a_h | 2026-10-13 20:25:38 | ISC数据消费 | **金星** | 0天0小时25分钟27秒\ndwd_isc_mgf_szmes_sys_unit_i_h | 2026-10-13 20:25:40 | ISC数据消费 | **魏子昂** | 0天0小时25分钟25秒\nhive2doris_ads_isc_yy_actual_output_a_h | 2026-10-13 20:25:40 | ISC数据消费 | **金星** | 0天0小时25分钟25秒\n\u003c/card\u003e",
+        "create_time": "2026-10-13 12:51",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_505cf9b6d65b295064ba4993368cdcec\u0026position=9727",
+        "message_id": "om_x100b63d6dd52b8a8dffebd313a23603",
+        "message_position": "9727",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_c08abc1da138d00f",
+          "id_type": "app_id",
+          "name": "小D",
+          "open_bot_id": "ou_8167250fd624056580e565555ef33b5f",
+          "sender_i18n_names": {
+            "en_us": "小D",
+            "zh_cn": "小D"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      }
+    ],
+    "page_token": "79b9dd2f33972e34",
+    "total": 50
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "has_more": false,
+    "messages": [
+      {
+        "chat_id": "oc_0d24d8023caef438d91aefedf77410b8",
+        "content": "\u003ccard title=\"Nomi 心跳检查报告 - 2026-10-13 12:44\"\u003e\n**⏰ 今日日程**\n\n| 时间 | 会议 | 状态 |\n|------|------|------|\n| 09:00-09:30 | 济南工单异常AI项目每日例会 | ✅ 已结束 |\n| 10:00-11:00 | 质量AI智能体初版验证 | ✅ 已结束 |\n| **14:00-16:00** | **本体建模研讨** 🟢 | ⏳ 即将开始 |\n| 16:00-17:00 | 开发 | 📅 待进行 |\n---\n**📋 待办任务状态**\n- ⚠️ **今日到期**：【团队】开发看板数据更新\n- ⚠️ **逾期任务**：数字化大讲堂回顾(09-15)、AI Coding规范V1.0(09-27)、数据分析开发小组(08-29)、InoAI知识社区(09-15)\n- ⭐ **近期到期**：济南AI飞书权限申请(12-30)\n---\n📝 Nomi 主动汇报 🤖\n\u003c/card\u003e",
+        "create_time": "2026-10-13 04:46",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_0d24d8023caef438d91aefedf77410b8\u0026position=51",
+        "message_id": "om_x100b63ef376064a8c3451ea2fca6abc",
+        "message_position": "51",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a9630741047a1cb1",
+          "id_type": "app_id",
+          "name": "牛振东的智能助手",
+          "open_bot_id": "ou_c8b9500a3166c6e6e7d2613c870c09d1",
+          "sender_i18n_names": {
+            "en_us": "牛振东的智能助手",
+            "zh_cn": "牛振东的智能助手"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_0d24d8023caef438d91aefedf77410b8",
+        "content": "\u003ccard title=\"Nomi 心跳检查报告 - 2026-10-13 12:44\"\u003e\n**⏰ 今日日程**\n\n| 时间 | 会议 | 状态 |\n|------|------|------|\n| 09:00-09:30 | 济南工单异常AI项目每日例会 | ✅ 已结束 |\n| 10:00-11:00 | 质量AI智能体初版验证 | ✅ 已结束 |\n| **14:00-16:00** | **本体建模研讨** 🟢 | ⏳ 即将开始 |\n| 16:00-17:00 | 开发 | 📅 待进行 |\n---\n**📋 待办任务状态**\n- ⚠️ **今日到期**：【团队】开发看板数据更新\n- ⚠️ **逾期任务**：数字化大讲堂回顾(09-15)、AI Coding规范V1.0(09-27)、数据分析开发小组(08-29)、InoAI知识社区(09-15)\n- ⭐ **近期到期**：济南AI飞书权限申请(12-30)\n---\n📝 Nomi 主动汇报 🤖\n\u003c/card\u003e",
+        "create_time": "2026-10-13 04:46",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_0d24d8023caef438d91aefedf77410b8\u0026position=52",
+        "message_id": "om_x100b63ef343c6ca4dd8b6cb14635dd9",
+        "message_position": "52",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a9630741047a1cb1",
+          "id_type": "app_id",
+          "name": "牛振东的智能助手",
+          "open_bot_id": "ou_c8b9500a3166c6e6e7d2613c870c09d1",
+          "sender_i18n_names": {
+            "en_us": "牛振东的智能助手",
+            "zh_cn": "牛振东的智能助手"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_0d24d8023caef438d91aefedf77410b8",
+        "content": "\u003ccard title=\"Nomi 心跳检查报告 - 2026-10-13 14:26\"\u003e\n⏰ **今日日程**\n| 时间 | 会议 | 组织者 |\n|------|------|--------|\n| 14:00-16:00 | 本体建模研讨 | 邱治钧 |\n| 16:00-17:00 | 开发 | 牛振东 |\n\n📋 **待办任务状态**\n- ✅ 今日到期：无\n- ⚠️ 逾期任务：开发看板数据更新（10-12 刚逾期1天）+ 历史多期\n- ⭐ 最近到期：10-19（下周一，6天后）\n---\n📝 Nomi 主动汇报 🤖\n\u003c/card\u003e",
+        "create_time": "2026-10-13 06:27",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_0d24d8023caef438d91aefedf77410b8\u0026position=53",
+        "message_id": "om_x100b63e8bd588ca8c2790141409ed71",
+        "message_position": "53",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a9630741047a1cb1",
+          "id_type": "app_id",
+          "name": "牛振东的智能助手",
+          "open_bot_id": "ou_c8b9500a3166c6e6e7d2613c870c09d1",
+          "sender_i18n_names": {
+            "en_us": "牛振东的智能助手",
+            "zh_cn": "牛振东的智能助手"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      }
+    ],
+    "page_token": "",
+    "total": 3
+  },
+  "meta": {
+    "pagination": {
+      "complete": true,
+      "pages": 1,
+      "items": 3
+    }
+  }
+}

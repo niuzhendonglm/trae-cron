@@ -1,0 +1,118 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "data": [
+      [
+        "om_x100b63b9da67e8a0c075e12c773b9ed",
+        "群聊",
+        "(app) cli_a9630741047a1cb1",
+        "cli_a9630741047a1cb1",
+        null,
+        "【Claw】牛振东的智能助手群聊",
+        "oc_5c11ab5f3bd43008d8e58cdd2d62199b",
+        "post",
+        "好的，我看到今天的记录比较简单，主要是关于待办提醒投递方式的偏好确认。",
+        "2025-03-11T20:08:42.000+08:00"
+      ],
+      [
+        "om_x100b63ba514c70a4dd4444d8107da4a",
+        "群聊",
+        "(app) cli_a9c7f80599f8dbc4",
+        "cli_a9c7f80599f8dbc4",
+        "omt_19ad693f078f5cbe",
+        "TRAE 用户交流群 1️⃣2️⃣｜官方",
+        "oc_116045b976a58256400df3e6c4a57c1b",
+        "interactive",
+        "下班快乐，收工休息去吧 🎉",
+        "2025-03-11T20:45:44.000+08:00"
+      ],
+      [
+        "om_x100b63b9de1e34b0c2b1059ab508ad1",
+        "单聊",
+        "牛振东",
+        "ou_2014e758488511f97412365af6fecb99",
+        null,
+        "与Nomi单聊-1",
+        "oc_0d24d8023caef438d91aefedf77410b8",
+        "text",
+        "/feishu auth",
+        "2025-03-11T20:07:41.000+08:00"
+      ],
+      [
+        "om_x100b63b91e66a0a8c4a03912b6dcf0f",
+        "群聊",
+        "用户375933",
+        "ou_1d496a1920d3ad8861f31320be8bb1fc",
+        "omt_19ad5c9d804f1b96",
+        "TRAE 用户交流群 1️⃣2️⃣｜官方",
+        "oc_116045b976a58256400df3e6c4a57c1b",
+        "text",
+        "@哈基宸 不好玩了",
+        "2025-03-11T19:50:35.000+08:00"
+      ],
+      [
+        "om_x100b63b99c34b8acc2480360be5e1a7",
+        "群聊",
+        "(app) cli_a9630741047a1cb1",
+        "cli_a9630741047a1cb1",
+        null,
+        "【Claw】牛振东的智能助手群聊",
+        "oc_5c11ab5f3bd43008d8e58cdd2d62199b",
+        "interactive",
+        "📊 群消息QA日报 - 2026-10-08",
+        "2025-03-11T20:25:19.000+08:00"
+      ]
+    ],
+    "field_id_list": [
+      "fld4pWFTiC",
+      "fld4yEnM3S",
+      "fld8wx5td9",
+      "fldgZzxWbm",
+      "fldhzVM8Ri",
+      "fldJmdIXFN",
+      "fldSIPaBuS",
+      "fldVDUJsMZ",
+      "fldWkNP9nu",
+      "fldXHvmm4n"
+    ],
+    "field_type_list": [
+      "text",
+      "text",
+      "text",
+      "text",
+      "text",
+      "text",
+      "text",
+      "text",
+      "text",
+      "datetime"
+    ],
+    "fields": [
+      "消息ID",
+      "会话类型",
+      "发送人",
+      "发送人ID",
+      "话题ID",
+      "会话名称",
+      "会话ID",
+      "消息类型",
+      "消息内容",
+      "发送时间"
+    ],
+    "has_more": true,
+    "query_context": {
+      "field_scope": "all_fields",
+      "record_scope": "all_records"
+    },
+    "record_id_list": [
+      "recvxySXKhQpBZ",
+      "recvxySXKhKfZk",
+      "recvxySXKhIWbS",
+      "recvxySXKh17yI",
+      "recvxySXKhaQPo"
+    ],
+    "rev": 55,
+    "timezone": "Asia/Shanghai"
+  }
+}

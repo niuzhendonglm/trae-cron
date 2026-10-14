@@ -1,0 +1,763 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "has_more": false,
+    "messages": [
+      {
+        "chat_id": "oc_afd26ef974fbe6668f040c683cf752d0",
+        "content": "@蔺雨桐 新功能现在人工互检前面必须要做ai检测吗？我选择人工互检，我看页面还是提示ai检测。都没有进入人工互检的页面了。必须做ai检测:Lark_Emoji_Facepalm_0:\n\n我理解的是，AI检测第一个人检三次，三次不合格，升级其他人互检，这个人可以有一次ai检测的机会，在不合格就人工互检。  这个是AI检测的流程。\n但是我想做人工互检随时都可以吧。我不进行ai检测，直接选择人工互检也可以吧。。。是我理解错了吗？:Lark_Emoji_Facepalm_0:   \n![Image](img_v3_0216e_00ca4c71-0df5-4047-9ca7-93b7615102dg)",
+        "create_time": "2026-10-13 01:10",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_271c27ad206c31bf2b533474db2d9ef5",
+            "key": "@_user_1",
+            "name": "蔺雨桐"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_afd26ef974fbe6668f040c683cf752d0\u0026position=194",
+        "message_id": "om_x100b63ec004be0a4b3e96ac5bc15689",
+        "message_position": "194",
+        "msg_type": "post",
+        "sender": {
+          "id": "ou_0fc158dbde9024d8ab66a892734e1196",
+          "id_type": "open_id",
+          "name": "曹丽",
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-13 01:10",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_afd26ef974fbe6668f040c683cf752d0",
+        "content": "人工互检现在前面都有一次ai检测，互检人人工互检也有，那里还没加",
+        "create_time": "2026-10-13 01:12",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_afd26ef974fbe6668f040c683cf752d0\u0026position=195",
+        "message_id": "om_x100b63ec180aad00c4a51738c86b291",
+        "message_position": "195",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_271c27ad206c31bf2b533474db2d9ef5",
+          "id_type": "open_id",
+          "name": "蔺雨桐",
+          "sender_i18n_names": {
+            "en_us": "linyutong"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_afd26ef974fbe6668f040c683cf752d0",
+        "content": "\u003cp\u003e就是我后台选择的是人工互检，或者我手动选择人工互检，都必须要做一次AI检测，才跳到人工检测\u003c/p\u003e",
+        "create_time": "2026-10-13 01:13",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_afd26ef974fbe6668f040c683cf752d0\u0026position=196",
+        "message_id": "om_x100b63ec147a84a8b3c4759c1f18e4d",
+        "message_position": "196",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_0fc158dbde9024d8ab66a892734e1196",
+          "id_type": "open_id",
+          "name": "曹丽",
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-13 01:13",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_afd26ef974fbe6668f040c683cf752d0",
+        "content": "做一次ai检测再跳到人工",
+        "create_time": "2026-10-13 01:13",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_afd26ef974fbe6668f040c683cf752d0\u0026position=197",
+        "message_id": "om_x100b63ec12eb3cb4b263784250a6752",
+        "message_position": "197",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_271c27ad206c31bf2b533474db2d9ef5",
+          "id_type": "open_id",
+          "name": "蔺雨桐",
+          "sender_i18n_names": {
+            "en_us": "linyutong"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_afd26ef974fbe6668f040c683cf752d0",
+        "content": "必须强制前面加一个AI检测",
+        "create_time": "2026-10-13 01:13",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_afd26ef974fbe6668f040c683cf752d0\u0026position=198",
+        "message_id": "om_x100b63ec121bb0acb39b3664d689b86",
+        "message_position": "198",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_0fc158dbde9024d8ab66a892734e1196",
+          "id_type": "open_id",
+          "name": "曹丽",
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_afd26ef974fbe6668f040c683cf752d0",
+        "content": "强制的话感觉不太对[笑哭]，我觉得是改成可选项",
+        "create_time": "2026-10-13 01:24",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_afd26ef974fbe6668f040c683cf752d0\u0026position=199",
+        "message_id": "om_x100b63eccb9c90a8c34b2c724c2a1e9",
+        "message_position": "199",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_c8afe8aab3f80a020c356c0ca46a12ce",
+          "id_type": "open_id",
+          "name": "刘宏宇",
+          "sender_i18n_names": {
+            "en_us": "liuhongyu"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_afd26ef974fbe6668f040c683cf752d0",
+        "content": "。。。。。。。。。。。。。。",
+        "create_time": "2026-10-13 01:25",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_afd26ef974fbe6668f040c683cf752d0\u0026position=200",
+        "message_id": "om_x100b63ecc9fd5ca4b30958192a42357",
+        "message_position": "200",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_271c27ad206c31bf2b533474db2d9ef5",
+          "id_type": "open_id",
+          "name": "蔺雨桐",
+          "sender_i18n_names": {
+            "en_us": "linyutong"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_afd26ef974fbe6668f040c683cf752d0",
+        "content": "当时开会，用户还问了一下，我不选择ai，可以直接做人工吗，当时是可以手动选择的。。",
+        "create_time": "2026-10-13 01:25",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_afd26ef974fbe6668f040c683cf752d0\u0026position=201",
+        "message_id": "om_x100b63ecc7f920a0b1d481347d5a37b",
+        "message_position": "201",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_0fc158dbde9024d8ab66a892734e1196",
+          "id_type": "open_id",
+          "name": "曹丽",
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-13 01:25",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_afd26ef974fbe6668f040c683cf752d0",
+        "content": "我之前说的是强制吗",
+        "create_time": "2026-10-13 01:25",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_afd26ef974fbe6668f040c683cf752d0\u0026position=202",
+        "message_id": "om_x100b63ecc4d47cb0dd8b714fdc0cbcb",
+        "message_position": "202",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_c8afe8aab3f80a020c356c0ca46a12ce",
+          "id_type": "open_id",
+          "name": "刘宏宇",
+          "sender_i18n_names": {
+            "en_us": "liuhongyu"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_afd26ef974fbe6668f040c683cf752d0",
+        "content": "不是呀",
+        "create_time": "2026-10-13 01:25",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_afd26ef974fbe6668f040c683cf752d0\u0026position=203",
+        "message_id": "om_x100b63ecc4b588b0b16c93b8561d113",
+        "message_position": "203",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_0fc158dbde9024d8ab66a892734e1196",
+          "id_type": "open_id",
+          "name": "曹丽",
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_afd26ef974fbe6668f040c683cf752d0",
+        "content": "当时没有提强制",
+        "create_time": "2026-10-13 01:26",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_afd26ef974fbe6668f040c683cf752d0\u0026position=204",
+        "message_id": "om_x100b63ecc40d08a4b114afc10a6543e",
+        "message_position": "204",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_0fc158dbde9024d8ab66a892734e1196",
+          "id_type": "open_id",
+          "name": "曹丽",
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_afd26ef974fbe6668f040c683cf752d0",
+        "content": "[笑哭]要不先这样，之前和我说的都是人工检测前加一次ai检测",
+        "create_time": "2026-10-13 01:26",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_afd26ef974fbe6668f040c683cf752d0\u0026position=205",
+        "message_id": "om_x100b63ecc5e2ecacb1b33cdf73fa729",
+        "message_position": "205",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_271c27ad206c31bf2b533474db2d9ef5",
+          "id_type": "open_id",
+          "name": "蔺雨桐",
+          "sender_i18n_names": {
+            "en_us": "linyutong"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_afd26ef974fbe6668f040c683cf752d0",
+        "content": "这里要不本来之前的逻辑就可以选择ai检测和人工检测了，ai检测还可以跳转回人工检测。如果人工检测里面再加可选ai和人工。。。这不是循环了吗。。。。",
+        "create_time": "2026-10-13 01:26",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_afd26ef974fbe6668f040c683cf752d0\u0026position=206",
+        "message_id": "om_x100b63ecc0d9a0b0b173b2c65c7b71b",
+        "message_position": "206",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_271c27ad206c31bf2b533474db2d9ef5",
+          "id_type": "open_id",
+          "name": "蔺雨桐",
+          "sender_i18n_names": {
+            "en_us": "linyutong"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_afd26ef974fbe6668f040c683cf752d0",
+        "content": "\u003cp\u003e当时用户说前面加一次ai的意思是，前面三次都失败了，升级老师傅在互检的时候，在拍照一次看看到底能不能成功，看是前面那个人拍照的问题，还是模型识别的问题。  并不是说，我做人工强制先做1次ai。。我听的是这个意思\u003c/p\u003e",
+        "create_time": "2026-10-13 01:28",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_afd26ef974fbe6668f040c683cf752d0\u0026position=207",
+        "message_id": "om_x100b63ecdc2cb0acb1230b20718ea9e",
+        "message_position": "207",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_0fc158dbde9024d8ab66a892734e1196",
+          "id_type": "open_id",
+          "name": "曹丽",
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-13 01:33",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_afd26ef974fbe6668f040c683cf752d0",
+        "content": "[惊呆]",
+        "create_time": "2026-10-13 01:29",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_afd26ef974fbe6668f040c683cf752d0\u0026position=208",
+        "message_id": "om_x100b63ecdb062ca4b4b13528235aed0",
+        "message_position": "208",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_271c27ad206c31bf2b533474db2d9ef5",
+          "id_type": "open_id",
+          "name": "蔺雨桐",
+          "sender_i18n_names": {
+            "en_us": "linyutong"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_afd26ef974fbe6668f040c683cf752d0",
+        "content": "我都选择人工互检了，还强制我做一次ai识别。  这个逻辑变的有点大",
+        "create_time": "2026-10-13 01:29",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_afd26ef974fbe6668f040c683cf752d0\u0026position=209",
+        "message_id": "om_x100b63ecd8ccb4a0b261ca61c0f4a81",
+        "message_position": "209",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_0fc158dbde9024d8ab66a892734e1196",
+          "id_type": "open_id",
+          "name": "曹丽",
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_afd26ef974fbe6668f040c683cf752d0",
+        "content": "[捂脸]现在咋搞",
+        "create_time": "2026-10-13 01:29",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_afd26ef974fbe6668f040c683cf752d0\u0026position=210",
+        "message_id": "om_x100b63ecd7dcc0acb176f0a23d4a8b5",
+        "message_position": "210",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_0fc158dbde9024d8ab66a892734e1196",
+          "id_type": "open_id",
+          "name": "曹丽",
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_afd26ef974fbe6668f040c683cf752d0",
+        "content": "@牛振东 \n![Image](img_v3_0216e_9919a0a8-f0a1-48d6-85d4-36e667a37dfg)\n\n东哥这个啥意思，可能是我没看懂 :Lark_Emoji_Lol_0:",
+        "create_time": "2026-10-13 01:29",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_635008cc2affc45d23de666f2e7e7446",
+            "key": "@_user_1",
+            "name": "牛振东"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_afd26ef974fbe6668f040c683cf752d0\u0026position=211",
+        "message_id": "om_x100b63ecd7a688a8b1ce062392448df",
+        "message_position": "211",
+        "msg_type": "post",
+        "sender": {
+          "id": "ou_271c27ad206c31bf2b533474db2d9ef5",
+          "id_type": "open_id",
+          "name": "蔺雨桐",
+          "sender_i18n_names": {
+            "en_us": "linyutong"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-13 01:29",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_afd26ef974fbe6668f040c683cf752d0",
+        "content": "是曹丽的这个意思吗。人工检测 和ai检测跑通的这个流程要不一起对一下吧。。",
+        "create_time": "2026-10-13 01:30",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_afd26ef974fbe6668f040c683cf752d0\u0026position=212",
+        "message_id": "om_x100b63ecd2abe8a8b276ac119f41a35",
+        "message_position": "212",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_271c27ad206c31bf2b533474db2d9ef5",
+          "id_type": "open_id",
+          "name": "蔺雨桐",
+          "sender_i18n_names": {
+            "en_us": "linyutong"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_afd26ef974fbe6668f040c683cf752d0",
+        "content": "@蔺雨桐 进入人工互检后，有两个按钮，AI检和人工检，用户自己选择使用",
+        "create_time": "2026-10-13 01:31",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_271c27ad206c31bf2b533474db2d9ef5",
+            "key": "@_user_1",
+            "name": "蔺雨桐"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_afd26ef974fbe6668f040c683cf752d0\u0026position=213",
+        "message_id": "om_x100b63ecd0b8e8b8b496fe941d4b79b",
+        "message_position": "213",
+        "msg_type": "text",
+        "reply_to": "om_x100b63ecd7a688a8b1ce062392448df",
+        "sender": {
+          "id": "ou_635008cc2affc45d23de666f2e7e7446",
+          "id_type": "open_id",
+          "name": "牛振东",
+          "sender_i18n_names": {
+            "en_us": "niuzhendong"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-13 01:31",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_afd26ef974fbe6668f040c683cf752d0",
+        "content": "@牛振东  这个人工互检和 人工检测是一个意思吗，还是第二个人的时候有按钮",
+        "create_time": "2026-10-13 01:32",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_635008cc2affc45d23de666f2e7e7446",
+            "key": "@_user_1",
+            "name": "牛振东"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_afd26ef974fbe6668f040c683cf752d0\u0026position=214",
+        "message_id": "om_x100b63ecef7398a8b201dc2f603c928",
+        "message_position": "214",
+        "msg_type": "text",
+        "reply_to": "om_x100b63ecd0b8e8b8b496fe941d4b79b",
+        "sender": {
+          "id": "ou_271c27ad206c31bf2b533474db2d9ef5",
+          "id_type": "open_id",
+          "name": "蔺雨桐",
+          "sender_i18n_names": {
+            "en_us": "linyutong"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-13 01:32",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_afd26ef974fbe6668f040c683cf752d0",
+        "content": "第一个人那？",
+        "create_time": "2026-10-13 01:32",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_afd26ef974fbe6668f040c683cf752d0\u0026position=215",
+        "message_id": "om_x100b63ececce20a0b22293427157695",
+        "message_position": "215",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_271c27ad206c31bf2b533474db2d9ef5",
+          "id_type": "open_id",
+          "name": "蔺雨桐",
+          "sender_i18n_names": {
+            "en_us": "linyutong"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_afd26ef974fbe6668f040c683cf752d0",
+        "content": "@蔺雨桐 啊，互检，不是第一个人不能继续操作了吗？",
+        "create_time": "2026-10-13 01:33",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_271c27ad206c31bf2b533474db2d9ef5",
+            "key": "@_user_1",
+            "name": "蔺雨桐"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_afd26ef974fbe6668f040c683cf752d0\u0026position=216",
+        "message_id": "om_x100b63eceb4f9cb8b362dddf833f9b8",
+        "message_position": "216",
+        "msg_type": "text",
+        "reply_to": "om_x100b63ececce20a0b22293427157695",
+        "sender": {
+          "id": "ou_635008cc2affc45d23de666f2e7e7446",
+          "id_type": "open_id",
+          "name": "牛振东",
+          "sender_i18n_names": {
+            "en_us": "niuzhendong"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-13 01:33",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_afd26ef974fbe6668f040c683cf752d0",
+        "content": "1. 如果是人工检测任务\n第一个检测人检测 （这里也是有两个按钮吗？），人工检测任务第一个人操作前面要加ai检测吗？（待确认）\n2. 如果是ai检测任务，\n第一个人 进去直接是ai检测，可以检测3次，然后失败了生产一个互检任务，互检人可以选择是ai检测一次，或者直接人工检测（已确认）",
+        "create_time": "2026-10-13 01:35",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_afd26ef974fbe6668f040c683cf752d0\u0026position=217",
+        "message_id": "om_x100b63ece06f00acb49543865276647",
+        "message_position": "217",
+        "msg_type": "post",
+        "sender": {
+          "id": "ou_271c27ad206c31bf2b533474db2d9ef5",
+          "id_type": "open_id",
+          "name": "蔺雨桐",
+          "sender_i18n_names": {
+            "en_us": "linyutong"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-13 01:35",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_afd26ef974fbe6668f040c683cf752d0",
+        "content": "我画一下",
+        "create_time": "2026-10-13 01:35",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_afd26ef974fbe6668f040c683cf752d0\u0026position=218",
+        "message_id": "om_x100b63ece16288a0dd4224971b5d87e",
+        "message_position": "218",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_c8afe8aab3f80a020c356c0ca46a12ce",
+          "id_type": "open_id",
+          "name": "刘宏宇",
+          "sender_i18n_names": {
+            "en_us": "liuhongyu"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_afd26ef974fbe6668f040c683cf752d0",
+        "content": "![Image](img_v3_0216e_2c538939-1b99-4798-a45c-f3bf73537f5g)\n现在的逻辑要改成啥样？:Lark_Emoji_Facepalm_0:我理解的流程是这样的，不知道对不对，大家看下流程图有没有问题。。。\n\n- 两条线：一条是**ai检测**，一条是**人工检测**。\n\n- ai检测的任务，可以手动改成人工检测，万一后面ai检测他们觉得不好用。可以换人工检，总不能让他弃用工具吧。我在测试模型的时候，发现会有很多机型确实不好识别。\n\n- 但是有一个问题升级人工互检，给互检人一次ai检的机会，那么ai识别成功了，是不是还要人工复核一下，那么谁来检？这已经是互检人了?",
+        "create_time": "2026-10-13 07:31",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_afd26ef974fbe6668f040c683cf752d0\u0026position=219",
+        "message_id": "om_x100b63e9a8ddc4a8b2053f10be2ef46",
+        "message_position": "219",
+        "msg_type": "post",
+        "sender": {
+          "id": "ou_0fc158dbde9024d8ab66a892734e1196",
+          "id_type": "open_id",
+          "name": "曹丽",
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_afd26ef974fbe6668f040c683cf752d0",
+        "content": "@蔺雨桐 雨桐，机器人应用换这个，\nAppID：cli_aa476eda64789d05\nAppSecret：GUYFWXvWt5EqAVGi5Kqn4fCQ3mBFVYb5",
+        "create_time": "2026-10-13 09:11",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_271c27ad206c31bf2b533474db2d9ef5",
+            "key": "@_user_1",
+            "name": "蔺雨桐"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_afd26ef974fbe6668f040c683cf752d0\u0026position=220",
+        "message_id": "om_x100b63eb1323d0b0b4bf8c1d2495942",
+        "message_position": "220",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_635008cc2affc45d23de666f2e7e7446",
+          "id_type": "open_id",
+          "name": "牛振东",
+          "sender_i18n_names": {
+            "en_us": "niuzhendong"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-13 09:11",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_afd26ef974fbe6668f040c683cf752d0",
+        "content": "\u003cp\u003e好的，我替换一下，下次部署的时候我换一下\u003c/p\u003e",
+        "create_time": "2026-10-13 09:12",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_afd26ef974fbe6668f040c683cf752d0\u0026position=221",
+        "message_id": "om_x100b63eb11bd3ca8b4b52a28fc8bfdb",
+        "message_position": "221",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_271c27ad206c31bf2b533474db2d9ef5",
+          "id_type": "open_id",
+          "name": "蔺雨桐",
+          "sender_i18n_names": {
+            "en_us": "linyutong"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-13 09:12",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_afd26ef974fbe6668f040c683cf752d0",
+        "content": "@牛振东 我本地改完了，没问题。堡垒机我登录报错了。。在找一站式服务台看下。。。",
+        "create_time": "2026-10-13 09:43",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_635008cc2affc45d23de666f2e7e7446",
+            "key": "@_user_1",
+            "name": "牛振东"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_afd26ef974fbe6668f040c683cf752d0\u0026position=222",
+        "message_id": "om_x100b63eb9c616874b2c34606e7154e3",
+        "message_position": "222",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_271c27ad206c31bf2b533474db2d9ef5",
+          "id_type": "open_id",
+          "name": "蔺雨桐",
+          "sender_i18n_names": {
+            "en_us": "linyutong"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-13 09:43",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_afd26ef974fbe6668f040c683cf752d0",
+        "content": "![Image](img_v3_0216e_c05c9ce0-1db8-4e32-9025-6c61efd33c3g)\n:Lark_Emoji_Tears_0:",
+        "create_time": "2026-10-13 09:43",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_afd26ef974fbe6668f040c683cf752d0\u0026position=223",
+        "message_id": "om_x100b63eb9d8f450cb170ec7431ae9ef",
+        "message_position": "223",
+        "msg_type": "post",
+        "sender": {
+          "id": "ou_271c27ad206c31bf2b533474db2d9ef5",
+          "id_type": "open_id",
+          "name": "蔺雨桐",
+          "sender_i18n_names": {
+            "en_us": "linyutong"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_afd26ef974fbe6668f040c683cf752d0",
+        "content": "[Image: img_v3_0216e_f854de7a-ba7e-4ba1-932c-eb0a2c9ea9eg]",
+        "create_time": "2026-10-13 09:46",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_afd26ef974fbe6668f040c683cf752d0\u0026position=224",
+        "message_id": "om_x100b63eb9069ccacc4faf43fa08ddf4",
+        "message_position": "224",
+        "msg_type": "image",
+        "sender": {
+          "id": "ou_635008cc2affc45d23de666f2e7e7446",
+          "id_type": "open_id",
+          "name": "牛振东",
+          "sender_i18n_names": {
+            "en_us": "niuzhendong"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-13 09:46",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_afd26ef974fbe6668f040c683cf752d0",
+        "content": "\u003cat user_id=\"all\"\u003e\u003c/at\u003e 大家工作台-添加应用，搜索“高压接线防反检测”，\n@曹丽 测试手机端SN的识别，\n![Image](img_v3_0216e_7842a424-76f8-4a55-bbf1-59861b3eafeg)",
+        "create_time": "2026-10-13 09:57",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_0fc158dbde9024d8ab66a892734e1196",
+            "key": "@_user_1",
+            "name": "曹丽"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_afd26ef974fbe6668f040c683cf752d0\u0026position=225",
+        "message_id": "om_x100b63d449990118b4ad0ff511ab2f3",
+        "message_position": "225",
+        "msg_type": "post",
+        "sender": {
+          "id": "ou_635008cc2affc45d23de666f2e7e7446",
+          "id_type": "open_id",
+          "name": "牛振东",
+          "sender_i18n_names": {
+            "en_us": "niuzhendong"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-13 09:57",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_afd26ef974fbe6668f040c683cf752d0",
+        "content": "@牛振东 服务器端 已同步更新配置",
+        "create_time": "2026-10-13 09:59",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_635008cc2affc45d23de666f2e7e7446",
+            "key": "@_user_1",
+            "name": "牛振东"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_afd26ef974fbe6668f040c683cf752d0\u0026position=226",
+        "message_id": "om_x100b63d441b624a0b10ae9655c93a36",
+        "message_position": "226",
+        "msg_type": "text",
+        "reply_to": "om_x100b63eb1323d0b0b4bf8c1d2495942",
+        "sender": {
+          "id": "ou_271c27ad206c31bf2b533474db2d9ef5",
+          "id_type": "open_id",
+          "name": "蔺雨桐",
+          "sender_i18n_names": {
+            "en_us": "linyutong"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-13 09:59",
+        "updated": true
+      }
+    ],
+    "page_token": "",
+    "total": 33
+  },
+  "meta": {
+    "pagination": {
+      "complete": true,
+      "pages": 1,
+      "items": 33
+    }
+  }
+}

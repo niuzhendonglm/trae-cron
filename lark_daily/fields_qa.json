@@ -1,0 +1,81 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "fields": [
+      {
+        "default_value": null,
+        "id": "fldZ8OCMiW",
+        "name": "问题类型",
+        "style": {
+          "type": "plain"
+        },
+        "type": "text"
+      },
+      {
+        "default_value": null,
+        "id": "fldyixshzh",
+        "name": "文本",
+        "style": {
+          "type": "plain"
+        },
+        "type": "text"
+      },
+      {
+        "default_value": null,
+        "id": "fldVyCiJ2m",
+        "name": "问题日期",
+        "style": {
+          "format": "yyyy/MM/dd HH:mm"
+        },
+        "type": "datetime"
+      },
+      {
+        "default_value": null,
+        "id": "fldY017GaS",
+        "name": "提问人",
+        "style": {
+          "type": "plain"
+        },
+        "type": "text"
+      },
+      {
+        "default_value": null,
+        "id": "fldL8QOn5x",
+        "name": "回复人",
+        "style": {
+          "type": "plain"
+        },
+        "type": "text"
+      },
+      {
+        "default_value": null,
+        "id": "fldtSg9R3M",
+        "name": "AI回复",
+        "style": {
+          "type": "plain"
+        },
+        "type": "text"
+      },
+      {
+        "default_value": null,
+        "id": "fldGVRHmev",
+        "name": "Answer",
+        "style": {
+          "type": "plain"
+        },
+        "type": "text"
+      },
+      {
+        "default_value": null,
+        "id": "flduTpz0TC",
+        "name": "Question",
+        "style": {
+          "type": "plain"
+        },
+        "type": "text"
+      }
+    ],
+    "total": 8
+  }
+}
