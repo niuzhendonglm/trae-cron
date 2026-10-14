@@ -1,0 +1,71 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "has_more": false,
+    "messages": [
+      {
+        "chat_id": "oc_7d6d8e8b7f10fb41d251a222b1a7af90",
+        "content": "@火山引擎-售后智能助手 数据集编辑界面保存时出现 维度/指标表达式语法校验错误",
+        "create_time": "2026-10-13 02:39",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_48cf9468e076e9838fcd93efbe775657",
+            "key": "@_user_1",
+            "name": "火山引擎-售后智能助手"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_7d6d8e8b7f10fb41d251a222b1a7af90\u0026position=3444",
+        "message_id": "om_x100b63edd2aaa100b31a6bd47925d68",
+        "message_position": "3444",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_c1a8a63bf361f1163e28cdf9dc77b49e",
+          "id_type": "open_id",
+          "name": "穆潇",
+          "sender_i18n_names": {
+            "en_us": "Michel"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-13 02:39",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_7d6d8e8b7f10fb41d251a222b1a7af90",
+        "content": "\u003ccard title=\"问题进展【处理中】\"\u003e\n【问题描述】：\n\n数据集编辑界面保存时出现 维度/指标表达式语法校验错误\n问题群聊已创建，可点击进群关注问题解决进展\n[点击进群](https://applink.larkoffice.com/client/chat/chatter/add_by_link?link_token=ad0tffa3-a434-428c-adae-65d9c1ffc935)\n\u003c/card\u003e",
+        "create_time": "2026-10-13 02:39",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_7d6d8e8b7f10fb41d251a222b1a7af90\u0026position=3445",
+        "message_id": "om_x100b63edd2b72cb4c461f9e42154856",
+        "message_position": "3445",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a472c8e8c5f9d00d",
+          "id_type": "app_id",
+          "name": "火山引擎-售后智能助手",
+          "open_bot_id": "ou_48cf9468e076e9838fcd93efbe775657",
+          "sender_i18n_names": {
+            "en_us": "BytePlus Support Bot",
+            "zh_cn": "火山引擎-售后智能助手"
+          },
+          "sender_type": "app",
+          "tenant_key": "736588c9260f175d"
+        },
+        "update_time": "2026-10-13 02:39",
+        "updated": true
+      }
+    ],
+    "page_token": "",
+    "total": 2
+  },
+  "meta": {
+    "pagination": {
+      "complete": true,
+      "pages": 1,
+      "items": 2
+    }
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "has_more": false,
+    "messages": [
+      {
+        "chat_id": "oc_c8be723e7f371a1bff116b79aeace20b",
+        "content": "\u003ccard title=\"告别转矩突变，PT模式让输出平稳可控\"\u003e\n🖼️ Image(img_key:img_v3_0216e_be0f9a4e-5260-460c-9a95-004f4a537b2g)\n尊敬的 牛振东，您好！\n有新课程上传到平台上，您可以去学习哦！\n课程名称：轮廓转矩模式\n点击查看详情，非常感谢您的支持！\n\u003c/card\u003e",
+        "create_time": "2026-10-13 01:45",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_c8be723e7f371a1bff116b79aeace20b\u0026position=514",
+        "message_id": "om_x100b63ec9f2b24acb346bbeeed4e213",
+        "message_position": "514",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a3d26fefa57b500c",
+          "id_type": "app_id",
+          "name": "汇川学习平台",
+          "open_bot_id": "ou_5538a2a790f012608248626e01a89e03",
+          "sender_i18n_names": {
+            "en_us": "INOVANCE ACADEMY",
+            "zh_cn": "汇川学习平台"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_c8be723e7f371a1bff116b79aeace20b",
+        "content": "\u003ccard title=\"您有新的必修学习项目 ，仅需10分钟，别让“不懂”，成为你的职场风险！\"\u003e\n🖼️ Image(img_key:img_v3_0216e_f3215f94-cfbe-4c5a-a800-cc14a35cbcag)\n项目名称：2026汇川技术商业行为准则全员学习\n\n项目时间：2026-10-13 09:27～2026-11-06 17:30 \n\n点击查看详情，非常感谢您的支持！\n\u003c/card\u003e",
+        "create_time": "2026-10-13 02:20",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_c8be723e7f371a1bff116b79aeace20b\u0026position=515",
+        "message_id": "om_x100b63ed16c3a4bcc22b65b4eb7291a",
+        "message_position": "515",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a3d26fefa57b500c",
+          "id_type": "app_id",
+          "name": "汇川学习平台",
+          "open_bot_id": "ou_5538a2a790f012608248626e01a89e03",
+          "sender_i18n_names": {
+            "en_us": "INOVANCE ACADEMY",
+            "zh_cn": "汇川学习平台"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_c8be723e7f371a1bff116b79aeace20b",
+        "content": "\u003ccard title=\"【剑桥国际英语-中级】Unit10 A Matter of Time 时代变迁\"\u003e\n🖼️ Image(img_key:img_v3_0216e_42bcb099-a43e-4a7a-b6ad-c10194180ffg)\n尊敬的 牛振东，您好！\n有新课程上传到平台上，您可以去学习哦！\n课程名称：【剑桥国际英语-中级】Unit10 A Matter of Time 时代变迁— 认识流行风潮，掌握时间表达，读懂历史事件主题\n点击立即学习，开启国际化之旅！\n\u003c/card\u003e",
+        "create_time": "2026-10-13 08:56",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_c8be723e7f371a1bff116b79aeace20b\u0026position=516",
+        "message_id": "om_x100b63eb6b5ad110c224c139de7f22b",
+        "message_position": "516",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a3d26fefa57b500c",
+          "id_type": "app_id",
+          "name": "汇川学习平台",
+          "open_bot_id": "ou_5538a2a790f012608248626e01a89e03",
+          "sender_i18n_names": {
+            "en_us": "INOVANCE ACADEMY",
+            "zh_cn": "汇川学习平台"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      }
+    ],
+    "page_token": "",
+    "total": 3
+  },
+  "meta": {
+    "pagination": {
+      "complete": true,
+      "pages": 1,
+      "items": 3
+    }
+  }
+}

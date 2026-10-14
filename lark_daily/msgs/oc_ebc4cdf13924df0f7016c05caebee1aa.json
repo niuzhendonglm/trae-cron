@@ -1,0 +1,79 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "has_more": false,
+    "messages": [
+      {
+        "chat_id": "oc_ebc4cdf13924df0f7016c05caebee1aa",
+        "content": "@蔺雨桐 @沈缙 现在有接数据吗？",
+        "create_time": "2026-10-13 00:33",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_271c27ad206c31bf2b533474db2d9ef5",
+            "key": "@_user_1",
+            "name": "蔺雨桐"
+          },
+          {
+            "id": "ou_1d13005e989eadd4863f29f0ee1977a2",
+            "key": "@_user_2",
+            "name": "沈缙"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_ebc4cdf13924df0f7016c05caebee1aa\u0026position=71",
+        "message_id": "om_x100b63e389b66ca4de78d0de98f95f8",
+        "message_position": "71",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_f31588c287e3b2237d964c7e77a4fe58",
+          "id_type": "open_id",
+          "name": "刘嫣然",
+          "sender_i18n_names": {
+            "en_us": "Ann Liu"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-13 00:33",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_ebc4cdf13924df0f7016c05caebee1aa",
+        "content": "@刘嫣然 \n测试环境已经测试过了，还没上生产",
+        "create_time": "2026-10-13 01:43",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_f31588c287e3b2237d964c7e77a4fe58",
+            "key": "@_user_1",
+            "name": "刘嫣然"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_ebc4cdf13924df0f7016c05caebee1aa\u0026position=72",
+        "message_id": "om_x100b63ec846f34b8c2cfd7d02a8dc74",
+        "message_position": "72",
+        "msg_type": "text",
+        "reply_to": "om_x100b63e389b66ca4de78d0de98f95f8",
+        "sender": {
+          "id": "ou_1d13005e989eadd4863f29f0ee1977a2",
+          "id_type": "open_id",
+          "name": "沈缙",
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-13 01:43",
+        "updated": true
+      }
+    ],
+    "page_token": "",
+    "total": 2
+  },
+  "meta": {
+    "pagination": {
+      "complete": true,
+      "pages": 1,
+      "items": 2
+    }
+  }
+}

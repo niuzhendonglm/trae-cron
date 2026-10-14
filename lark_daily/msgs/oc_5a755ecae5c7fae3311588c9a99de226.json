@@ -1,0 +1,35 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "has_more": false,
+    "messages": [
+      {
+        "chat_id": "oc_5a755ecae5c7fae3311588c9a99de226",
+        "content": "周航 invited 孟伟 to the group. New members can view all chat history.",
+        "create_time": "2026-10-13 09:15",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_5a755ecae5c7fae3311588c9a99de226\u0026position=74",
+        "message_id": "om_x100b63eb27a4d8a0b2cc4659a806282",
+        "message_position": "74",
+        "msg_type": "system",
+        "sender": {
+          "id": "",
+          "id_type": "",
+          "sender_type": "",
+          "tenant_key": ""
+        },
+        "updated": false
+      }
+    ],
+    "page_token": "",
+    "total": 1
+  },
+  "meta": {
+    "pagination": {
+      "complete": true,
+      "pages": 1,
+      "items": 1
+    }
+  }
+}

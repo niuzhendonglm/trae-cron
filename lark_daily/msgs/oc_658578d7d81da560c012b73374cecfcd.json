@@ -1,0 +1,102 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "has_more": false,
+    "messages": [
+      {
+        "chat_id": "oc_658578d7d81da560c012b73374cecfcd",
+        "content": "@万向阳 @刘宏宇 @胡茜 @吴永定 @崔望 @杜彦永 @钱中景 @曾凡荣 @李守东 @杨润东 @沈霜 @滕菲 \n大家好，昨天内部会议刷新的项目的待办，请各责任人及时关注更新进展情况，谢谢！\n![Image](img_v3_0216e_e87d0060-2392-496b-bf1f-f60c0546b32g)",
+        "create_time": "2026-10-13 06:02",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_4e63341423c72c5725811bb7d839dc1e",
+            "key": "@_user_1",
+            "name": "万向阳"
+          },
+          {
+            "id": "ou_c8afe8aab3f80a020c356c0ca46a12ce",
+            "key": "@_user_2",
+            "name": "刘宏宇"
+          },
+          {
+            "id": "ou_7195ce18ddb26bb134747e37cd61bb8f",
+            "key": "@_user_3",
+            "name": "胡茜"
+          },
+          {
+            "id": "ou_6bf0b1af8b28e6e2d7b8b1a54ed98bec",
+            "key": "@_user_4",
+            "name": "吴永定"
+          },
+          {
+            "id": "ou_643d94534d32e50d3a2e10a9c24a4068",
+            "key": "@_user_5",
+            "name": "崔望"
+          },
+          {
+            "id": "ou_e8afce6057f334dd46762f0047b88c03",
+            "key": "@_user_6",
+            "name": "杜彦永"
+          },
+          {
+            "id": "ou_748c2cf42b785bec780bc792cd310362",
+            "key": "@_user_7",
+            "name": "钱中景"
+          },
+          {
+            "id": "ou_bbfd0293d32b6cf58bf3aa51ddab4cb5",
+            "key": "@_user_8",
+            "name": "曾凡荣"
+          },
+          {
+            "id": "ou_8f2cde744f5d1fb938c98ce559a66d6b",
+            "key": "@_user_9",
+            "name": "李守东"
+          },
+          {
+            "id": "ou_e7fccc3af163cd1e5b59c4241cb9b574",
+            "key": "@_user_10",
+            "name": "杨润东"
+          },
+          {
+            "id": "ou_9968b54f07671b7485ed328120d481e7",
+            "key": "@_user_11",
+            "name": "沈霜"
+          },
+          {
+            "id": "ou_e2510747905656522763a62a6cce0520",
+            "key": "@_user_12",
+            "name": "滕菲"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_658578d7d81da560c012b73374cecfcd\u0026position=312",
+        "message_id": "om_x100b63e8db109cb0b305af05f133f61",
+        "message_position": "312",
+        "msg_type": "post",
+        "sender": {
+          "id": "ou_c56489eb59865650b63b569a08d20d6a",
+          "id_type": "open_id",
+          "name": "蒋静芳",
+          "sender_i18n_names": {
+            "en_us": "jiangjingfang"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-13 06:02",
+        "updated": true
+      }
+    ],
+    "page_token": "",
+    "total": 1
+  },
+  "meta": {
+    "pagination": {
+      "complete": true,
+      "pages": 1,
+      "items": 1
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "ok": false,
+  "identity": "user",
+  "error": {
+    "type": "api",
+    "subtype": "unknown",
+    "code": 800010406,
+    "message": "The user open_id is invalid.",
+    "hint": "Provide a valid user open_id in the cell item id field, for example [{\"id\":\"ou_123\"}]. The current open_id cannot be converted by OpenAPI.",
+    "log_id": "202610141129575C33C86C3FF7EA367B3A"
+  }
+}

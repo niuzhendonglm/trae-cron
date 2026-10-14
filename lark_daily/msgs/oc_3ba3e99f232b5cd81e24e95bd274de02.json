@@ -1,0 +1,39 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "has_more": false,
+    "messages": [
+      {
+        "chat_id": "oc_3ba3e99f232b5cd81e24e95bd274de02",
+        "content": "[Image: img_v3_0216e_04e04e2b-58e1-4a35-b0fe-93ef3f73d44g]",
+        "create_time": "2026-10-13 07:38",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_3ba3e99f232b5cd81e24e95bd274de02\u0026position=1934",
+        "message_id": "om_x100b63ea4ef45cacc4415114cc6d9ea",
+        "message_position": "1934",
+        "msg_type": "image",
+        "sender": {
+          "id": "ou_c8afe8aab3f80a020c356c0ca46a12ce",
+          "id_type": "open_id",
+          "name": "刘宏宇",
+          "sender_i18n_names": {
+            "en_us": "liuhongyu"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      }
+    ],
+    "page_token": "",
+    "total": 1
+  },
+  "meta": {
+    "pagination": {
+      "complete": true,
+      "pages": 1,
+      "items": 1
+    }
+  }
+}

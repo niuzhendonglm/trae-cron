@@ -1,0 +1,786 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "has_more": false,
+    "messages": [
+      {
+        "chat_id": "oc_79af426fe8f195f1099fb204333f7285",
+        "content": "@李炎杰 inoclaw 更新后，切换智能体的功能找不到，是没有这个功能了吗？",
+        "create_time": "2026-10-13 01:34",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_509e6c0dd49deec5ebea6f705f881e81",
+            "key": "@_user_1",
+            "name": "李炎杰"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_79af426fe8f195f1099fb204333f7285\u0026position=4599",
+        "message_id": "om_x100b63ece436fca8b11b79f14f5db76",
+        "message_position": "4599",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_aab91fdf42f48bad8cf187bd0b133dbd",
+          "id_type": "open_id",
+          "name": "黄立勇",
+          "sender_i18n_names": {
+            "en_us": "Garfield Huang"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-13 01:34",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_79af426fe8f195f1099fb204333f7285",
+        "content": "@黄立勇 \n![Image](img_v3_0216e_7f5b220b-5f5e-4554-b5e1-17dd8114173g)\n这块会话框没有吗",
+        "create_time": "2026-10-13 01:35",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_aab91fdf42f48bad8cf187bd0b133dbd",
+            "key": "@_user_1",
+            "name": "黄立勇"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_79af426fe8f195f1099fb204333f7285\u0026position=4600",
+        "message_id": "om_x100b63ece0ebf8b4b2cf66028540332",
+        "message_position": "4600",
+        "msg_type": "post",
+        "sender": {
+          "id": "ou_692aaa0a6c9c7fa178d04b4b942483cf",
+          "id_type": "open_id",
+          "name": "雷嘉勋",
+          "sender_i18n_names": {
+            "en_us": "lei"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-13 01:35",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_79af426fe8f195f1099fb204333f7285",
+        "content": "不是这个。以前是在这里，可以显示当前的智能体是什么。然后可以切换\n![Image](img_v3_0216e_d35fa7ff-a529-4abe-8fc6-77d52b923f5g)",
+        "create_time": "2026-10-13 01:36",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_79af426fe8f195f1099fb204333f7285\u0026position=4601",
+        "message_id": "om_x100b63ecfffe50a4b224d41e6515fb9",
+        "message_position": "4601",
+        "msg_type": "post",
+        "sender": {
+          "id": "ou_aab91fdf42f48bad8cf187bd0b133dbd",
+          "id_type": "open_id",
+          "name": "黄立勇",
+          "sender_i18n_names": {
+            "en_us": "Garfield Huang"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_79af426fe8f195f1099fb204333f7285",
+        "content": "现在这个新版本智能体改为专家了新对话里面选专家\n![Image](img_v3_0216e_d42eaf15-40a2-4bf7-b455-6b1995fec95g)\n或者 在专家里面去对话\n![Image](img_v3_0216e_46796e1f-d620-4bff-8f6b-8598bd4a115g)",
+        "create_time": "2026-10-13 01:39",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_79af426fe8f195f1099fb204333f7285\u0026position=4603",
+        "message_id": "om_x100b63ecf2b8b8a0b26804055d135aa",
+        "message_position": "4603",
+        "msg_type": "post",
+        "sender": {
+          "id": "ou_692aaa0a6c9c7fa178d04b4b942483cf",
+          "id_type": "open_id",
+          "name": "雷嘉勋",
+          "sender_i18n_names": {
+            "en_us": "lei"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_79af426fe8f195f1099fb204333f7285",
+        "content": "@黄立勇 你原先不同智能体的对话，在你的工作目录中可以找到",
+        "create_time": "2026-10-13 01:41",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_aab91fdf42f48bad8cf187bd0b133dbd",
+            "key": "@_user_1",
+            "name": "黄立勇"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_79af426fe8f195f1099fb204333f7285\u0026position=4604",
+        "message_id": "om_x100b63ec8c16c0a8c2aa7ac10d6286f",
+        "message_position": "4604",
+        "msg_type": "text",
+        "reply_to": "om_x100b63ecfffe50a4b224d41e6515fb9",
+        "sender": {
+          "id": "ou_62dff183a14e17412ca2db7612124c67",
+          "id_type": "open_id",
+          "name": "王婧婷",
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-13 01:41",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_79af426fe8f195f1099fb204333f7285",
+        "content": "![Image](img_v3_0216e_905fe42c-6b58-4d98-8f4f-8ca31179f1fg)\n新版本更新后聊天记录和模型加载不出来，重启和关机无效，帮忙解决下谢谢@王婧婷",
+        "create_time": "2026-10-13 01:42",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_62dff183a14e17412ca2db7612124c67",
+            "key": "@_user_1",
+            "name": "王婧婷"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_79af426fe8f195f1099fb204333f7285\u0026position=4605",
+        "message_id": "om_x100b63ec864950a0b27c539c9fbc4ee",
+        "message_position": "4605",
+        "msg_type": "post",
+        "sender": {
+          "id": "ou_78ccb04112365f5bad598d8db0af07d2",
+          "id_type": "open_id",
+          "name": "范成成",
+          "sender_i18n_names": {
+            "en_us": "fanchengcheng"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-13 01:42",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_79af426fe8f195f1099fb204333f7285",
+        "content": "[Image: img_v3_0216e_cfec49fa-1308-403f-b300-f09a2978ea8g]",
+        "create_time": "2026-10-13 01:42",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_79af426fe8f195f1099fb204333f7285\u0026position=4606",
+        "message_id": "om_x100b63ec876204a8b26b885c91b2c9b",
+        "message_position": "4606",
+        "msg_type": "image",
+        "sender": {
+          "id": "ou_78ccb04112365f5bad598d8db0af07d2",
+          "id_type": "open_id",
+          "name": "范成成",
+          "sender_i18n_names": {
+            "en_us": "fanchengcheng"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_79af426fe8f195f1099fb204333f7285",
+        "content": "@范成成 我来给你看看",
+        "create_time": "2026-10-13 01:44",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_78ccb04112365f5bad598d8db0af07d2",
+            "key": "@_user_1",
+            "name": "范成成"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_79af426fe8f195f1099fb204333f7285\u0026position=4607",
+        "message_id": "om_x100b63ec8071f480b3b51fd859a80ab",
+        "message_position": "4607",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_692aaa0a6c9c7fa178d04b4b942483cf",
+          "id_type": "open_id",
+          "name": "雷嘉勋",
+          "sender_i18n_names": {
+            "en_us": "lei"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-13 01:44",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_79af426fe8f195f1099fb204333f7285",
+        "content": "@雷嘉勋 谢谢",
+        "create_time": "2026-10-13 01:44",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_692aaa0a6c9c7fa178d04b4b942483cf",
+            "key": "@_user_1",
+            "name": "雷嘉勋"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_79af426fe8f195f1099fb204333f7285\u0026position=4608",
+        "message_id": "om_x100b63ec812c9910b3964a64ece2a38",
+        "message_position": "4608",
+        "msg_type": "text",
+        "reply_to": "om_x100b63ec8071f480b3b51fd859a80ab",
+        "sender": {
+          "id": "ou_78ccb04112365f5bad598d8db0af07d2",
+          "id_type": "open_id",
+          "name": "范成成",
+          "sender_i18n_names": {
+            "en_us": "fanchengcheng"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-13 01:44",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_79af426fe8f195f1099fb204333f7285",
+        "content": "新版本更新后，跑定时任务后不在工作目录中显示了，其他地方也找不到运行结果",
+        "create_time": "2026-10-13 02:08",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_79af426fe8f195f1099fb204333f7285\u0026position=4609",
+        "message_id": "om_x100b63ed67c978b4ddc116577551316",
+        "message_position": "4609",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_fcf9920a9fb48fe4b98b22de684934bf",
+          "id_type": "open_id",
+          "name": "申远航",
+          "sender_i18n_names": {
+            "en_us": "shenyuanhang"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-13 02:08",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_79af426fe8f195f1099fb204333f7285",
+        "content": "@申远航 \n![Image](img_v3_0216e_beaaccfd-6d6b-4325-8c37-b56476e2b6ag)\n这里有没有呢",
+        "create_time": "2026-10-13 02:30",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_fcf9920a9fb48fe4b98b22de684934bf",
+            "key": "@_user_1",
+            "name": "申远航"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_79af426fe8f195f1099fb204333f7285\u0026position=4610",
+        "message_id": "om_x100b63ed33e57cbcb2429d298fa46bd",
+        "message_position": "4610",
+        "msg_type": "post",
+        "sender": {
+          "id": "ou_692aaa0a6c9c7fa178d04b4b942483cf",
+          "id_type": "open_id",
+          "name": "雷嘉勋",
+          "sender_i18n_names": {
+            "en_us": "lei"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-13 02:30",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_79af426fe8f195f1099fb204333f7285",
+        "content": "![Image](img_v3_0216e_34872d49-0670-42b4-ace9-e89070b6d7eg)\n点开执行记录也没执行内容",
+        "create_time": "2026-10-13 02:38",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_79af426fe8f195f1099fb204333f7285\u0026position=4611",
+        "message_id": "om_x100b63edd46bdc88df956a9d397cd57",
+        "message_position": "4611",
+        "msg_type": "post",
+        "sender": {
+          "id": "ou_fcf9920a9fb48fe4b98b22de684934bf",
+          "id_type": "open_id",
+          "name": "申远航",
+          "sender_i18n_names": {
+            "en_us": "shenyuanhang"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_79af426fe8f195f1099fb204333f7285",
+        "content": "@申远航 正常定时任务的运行结果是会有一个任务条目，如果你这边没有的话，我再私聊你看一下。这边执行记录目前是展示的执行列表，下个版本会加上每个记录点击后的跳转对话情况",
+        "create_time": "2026-10-13 03:08",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_fcf9920a9fb48fe4b98b22de684934bf",
+            "key": "@_user_1",
+            "name": "申远航"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_79af426fe8f195f1099fb204333f7285\u0026position=4612",
+        "message_id": "om_x100b63ee428644a4c48b9eb177bacb9",
+        "message_position": "4612",
+        "msg_type": "text",
+        "reply_to": "om_x100b63ed67c978b4ddc116577551316",
+        "sender": {
+          "id": "ou_62dff183a14e17412ca2db7612124c67",
+          "id_type": "open_id",
+          "name": "王婧婷",
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-13 03:08",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_79af426fe8f195f1099fb204333f7285",
+        "content": "@InoAI \n![Image](img_v3_0216e_a5033396-b5c0-45a7-9304-bc9595eadd8g)\n启动不起来 是咋了",
+        "create_time": "2026-10-13 03:09",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_c07ea47f247dd9910ace099eb9725088",
+            "key": "@_user_1",
+            "name": "InoAI"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_79af426fe8f195f1099fb204333f7285\u0026position=4613",
+        "message_id": "om_x100b63ee5e865ca8c02df7ac133ae2d",
+        "message_position": "4613",
+        "msg_type": "post",
+        "sender": {
+          "id": "ou_2c4a81da600a9c4f7f94a1aba879f138",
+          "id_type": "open_id",
+          "name": "蒋伯东",
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-13 03:09",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_79af426fe8f195f1099fb204333f7285",
+        "content": "\u003ccard\u003e\n我来看看这张图片的内容，了解具体是什么启动不起来。让我查阅一下知识库，看看有没有关于InoClaw启动不起来的相关信息。根据你发的截图来看，你看到的是 InoClaw 的**启动画面**（中间有个橙色的机器人，显示\"全力启动\"），但启动画面卡住了，软件没有进入主界面。\n\n这通常是因为 **本地服务启动失败** 导致的。根据知识库中的排查指南，请按以下步骤逐一排查：---### 排查步骤**第一步：完全关闭并重启**\n1. 打开 **任务管理器**（`Ctrl + Shift + Esc`）\n2. 找到所有 **InoClaw** 相关进程，全部**结束任务**\n3. 重新双击打开 InoClaw，看能否正常进入**第二步：重启电脑**\n- 如果第一步无效，重启电脑后再启动 InoClaw**第三步：修复文件权限**（如果以上两步都不行）\n\n这是最常见的原因——安装目录 `.inoclaw` 文件权限不足，导致本地服务无法启动：\n1. 用 **Everything** 搜索 `.inoclaw` 文件夹（找到安装时的根目录）\n2. 右键 `.inoclaw` → **属性** → **安全** → **编辑** → **添加**\n3. 输入你的 **Windows 登录用户名**，点击\"检查名称\"确认\n4. 为该用户勾选权限：✅修改、✅读取和执行、✅列出文件夹内容、✅读取、✅写入\n5. 点击 **高级**，勾选「**替换子容器和对象的权限项**」，确定（权限会递归应用到 logs、service 子目录）\n6. 对 InoClaw 安装目录下的 `\\resources\\runtime` 文件夹**重复同样的操作**---请先试试**第一步和第二步**，如果还不行再执行**第三步**。完成后告诉我是哪种情况，我可以继续帮你排查。\n\n如果卡在启动界面时有弹出错误码，也请截图发给我，我可以帮你更精准地定位问题。\n\u003c/card\u003e",
+        "create_time": "2026-10-13 03:09",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_79af426fe8f195f1099fb204333f7285\u0026position=4614",
+        "message_id": "om_x100b63ee5eb76cacc3a43b98e3bd503",
+        "message_position": "4614",
+        "msg_type": "interactive",
+        "reply_to": "om_x100b63ee5e865ca8c02df7ac133ae2d",
+        "sender": {
+          "id": "cli_a6923266569a900b",
+          "id_type": "app_id",
+          "name": "InoAI",
+          "open_bot_id": "ou_c07ea47f247dd9910ace099eb9725088",
+          "sender_i18n_names": {
+            "en_us": "InoAI",
+            "zh_cn": "InoAI"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-13 03:10",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_79af426fe8f195f1099fb204333f7285",
+        "content": "一直全力启动中",
+        "create_time": "2026-10-13 03:10",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_79af426fe8f195f1099fb204333f7285\u0026position=4615",
+        "message_id": "om_x100b63ee5d11ac90c242e5580614195",
+        "message_position": "4615",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_2c4a81da600a9c4f7f94a1aba879f138",
+          "id_type": "open_id",
+          "name": "蒋伯东",
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_79af426fe8f195f1099fb204333f7285",
+        "content": "@InoAI 一直全力启动中",
+        "create_time": "2026-10-13 03:11",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_c07ea47f247dd9910ace099eb9725088",
+            "key": "@_user_1",
+            "name": "InoAI"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_79af426fe8f195f1099fb204333f7285\u0026position=4616",
+        "message_id": "om_x100b63ee5bcc9ca4c4ab030859706da",
+        "message_position": "4616",
+        "msg_type": "text",
+        "reply_to": "om_x100b63ee5eb76cacc3a43b98e3bd503",
+        "sender": {
+          "id": "ou_2c4a81da600a9c4f7f94a1aba879f138",
+          "id_type": "open_id",
+          "name": "蒋伯东",
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-13 03:11",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_79af426fe8f195f1099fb204333f7285",
+        "content": "暂不支持回复 [interactive] 类型的消息",
+        "create_time": "2026-10-13 03:11",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_79af426fe8f195f1099fb204333f7285\u0026position=4617",
+        "message_id": "om_x100b63ee5bd374bcc242e98c0382c8f",
+        "message_position": "4617",
+        "msg_type": "text",
+        "reply_to": "om_x100b63ee5bcc9ca4c4ab030859706da",
+        "sender": {
+          "id": "cli_a6923266569a900b",
+          "id_type": "app_id",
+          "name": "InoAI",
+          "open_bot_id": "ou_c07ea47f247dd9910ace099eb9725088",
+          "sender_i18n_names": {
+            "en_us": "InoAI",
+            "zh_cn": "InoAI"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_79af426fe8f195f1099fb204333f7285",
+        "content": "@InoAI 一直全力启动中",
+        "create_time": "2026-10-13 03:11",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_c07ea47f247dd9910ace099eb9725088",
+            "key": "@_user_1",
+            "name": "InoAI"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_79af426fe8f195f1099fb204333f7285\u0026position=4618",
+        "message_id": "om_x100b63ee5b14acb0dd4ca4409877edb",
+        "message_position": "4618",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_2c4a81da600a9c4f7f94a1aba879f138",
+          "id_type": "open_id",
+          "name": "蒋伯东",
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-13 03:11",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_79af426fe8f195f1099fb204333f7285",
+        "content": "\u003ccard\u003e\n我来帮助你了解这个\"全力启动中\"的问题。请先让我看看相关的背景信息。\n\n让我先了解一下情况，用户提到一个用户（@_user_1）的\"启动中\"状态问题。让我先搜索相关知识库了解相关信息。您好！根据我的查询，您提到的\"**一直全力启动中**\"这个问题，我在InoAI知识库中搜索到了相关的内容。\n\n从您的问题来看，您可能指的是某个用户或任务一直显示\"**全力启动中**\"的状态无法完成。让我进一步搜索相关的内容来帮您分析：\n\n我看到您在群里提到有用户 **\"一直全力启动中\"**。让我帮您分析这个问题。\n\n根据我在知识库中检索到的信息，关于「启动状态一直显示」的问题，我没有直接找到名为\"全力启动中\"状态的解决方案。不过，结合知识库中关于 **本地服务启动失败** 的内容，我可以给您一些排查建议。\n\n不过，在深入排查之前，我需要确认一下您遇到的具体场景。请问：\n1. **\"全力启动中\"是在什么界面显示的？** 是可以的\n  - 是 **InoClaw / InoAI 桌面客户端** 的启动状态？\n  - 还是指某个 **智能体（Agent）** 或 **定时任务** 的执行状态一直显示\"执行中/启动中\"？\n2. **如果是桌面客户端本地服务启动问题**，根据知识库的排查指引，可以参考以下步骤：**第一步：关闭所有进程重启第二步：重启电脑第三步：修复文件夹权限**（错误码5001 os error5时）\n  - 打开任务管理器，完全关闭所有 **InoClaw** 进程，重新打开客户端验证\n  - 若方案1无效，重启电脑后再次启动客户端验证\n  - 在 Everything 中搜索 `.inoclaw` 安装根目录，右键 → 属性 → 安全 → 编辑 → 添加当前Windows登录用户\n  - 勾选权限：**修改、读取和执行、列出文件夹内容、读取、写入**\n  - 点击【高级】，勾选**「替换子容器和对象的权限项」**，确定\n  - 对 `\\resources\\runtime` 文件夹重复同样操作---请您补充一下具体是哪个界面/功能显示\"全力启动中\"，以及是否有错误码或其他提示信息，这样我可以更精准地帮您定位问题。\n\u003c/card\u003e",
+        "create_time": "2026-10-13 03:11",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_79af426fe8f195f1099fb204333f7285\u0026position=4619",
+        "message_id": "om_x100b63ee5b39dca0c3460642659adeb",
+        "message_position": "4619",
+        "msg_type": "interactive",
+        "reply_to": "om_x100b63ee5b14acb0dd4ca4409877edb",
+        "sender": {
+          "id": "cli_a6923266569a900b",
+          "id_type": "app_id",
+          "name": "InoAI",
+          "open_bot_id": "ou_c07ea47f247dd9910ace099eb9725088",
+          "sender_i18n_names": {
+            "en_us": "InoAI",
+            "zh_cn": "InoAI"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-13 03:11",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_79af426fe8f195f1099fb204333f7285",
+        "content": "@蒋伯东 我们找你看下",
+        "create_time": "2026-10-13 03:12",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_2c4a81da600a9c4f7f94a1aba879f138",
+            "key": "@_user_1",
+            "name": "蒋伯东"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_79af426fe8f195f1099fb204333f7285\u0026position=4620",
+        "message_id": "om_x100b63ee5495a0b8b185706044d0cef",
+        "message_position": "4620",
+        "msg_type": "text",
+        "reply_to": "om_x100b63ee5e865ca8c02df7ac133ae2d",
+        "sender": {
+          "id": "ou_509e6c0dd49deec5ebea6f705f881e81",
+          "id_type": "open_id",
+          "name": "李炎杰",
+          "sender_i18n_names": {
+            "en_us": "liyanjie"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-13 03:12",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_79af426fe8f195f1099fb204333f7285",
+        "content": "![Image](img_v3_0216e_73962f64-b995-488f-a54b-a7042f63b01g)\n为什么我给他的问题都没回复呢:Lark_Emoji_Cry_0:",
+        "create_time": "2026-10-13 06:39",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_79af426fe8f195f1099fb204333f7285\u0026position=4622",
+        "message_id": "om_x100b63e96f84b0a8c4f130f87d5fa3e",
+        "message_position": "4622",
+        "msg_type": "post",
+        "sender": {
+          "id": "ou_5cf50e3dad9bc4d7980e39fa64dd6ca0",
+          "id_type": "open_id",
+          "name": "罗涛",
+          "sender_i18n_names": {
+            "en_us": "luotao"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_79af426fe8f195f1099fb204333f7285",
+        "content": "@罗涛 我给你看下",
+        "create_time": "2026-10-13 06:39",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_5cf50e3dad9bc4d7980e39fa64dd6ca0",
+            "key": "@_user_1",
+            "name": "罗涛"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_79af426fe8f195f1099fb204333f7285\u0026position=4623",
+        "message_id": "om_x100b63e96db040acb16d8a498e6224e",
+        "message_position": "4623",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_692aaa0a6c9c7fa178d04b4b942483cf",
+          "id_type": "open_id",
+          "name": "雷嘉勋",
+          "sender_i18n_names": {
+            "en_us": "lei"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-13 06:39",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_79af426fe8f195f1099fb204333f7285",
+        "content": "![Image](img_v3_0216e_fbfd9ceb-1fc1-4e29-9149-22250eda37bg)\n@雷嘉勋 雷工 麻烦也帮我看一下",
+        "create_time": "2026-10-13 06:40",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_692aaa0a6c9c7fa178d04b4b942483cf",
+            "key": "@_user_1",
+            "name": "雷嘉勋"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_79af426fe8f195f1099fb204333f7285\u0026position=4624",
+        "message_id": "om_x100b63e968e15960b167dfcfd244b6b",
+        "message_position": "4624",
+        "msg_type": "post",
+        "sender": {
+          "id": "ou_656545e969a256054082226e0e5ae243",
+          "id_type": "open_id",
+          "name": "刘智军",
+          "sender_i18n_names": {
+            "en_us": "liuzhijun"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-13 06:40",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_79af426fe8f195f1099fb204333f7285",
+        "content": "重新登陆看下",
+        "create_time": "2026-10-13 06:40",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_79af426fe8f195f1099fb204333f7285\u0026position=4625",
+        "message_id": "om_x100b63e969dd84a8b3964c93f3876c6",
+        "message_position": "4625",
+        "msg_type": "text",
+        "reply_to": "om_x100b63e96f84b0a8c4f130f87d5fa3e",
+        "sender": {
+          "id": "ou_509e6c0dd49deec5ebea6f705f881e81",
+          "id_type": "open_id",
+          "name": "李炎杰",
+          "sender_i18n_names": {
+            "en_us": "liyanjie"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_79af426fe8f195f1099fb204333f7285",
+        "content": "@刘智军 开个新会话试下",
+        "create_time": "2026-10-13 06:41",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_656545e969a256054082226e0e5ae243",
+            "key": "@_user_1",
+            "name": "刘智军"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_79af426fe8f195f1099fb204333f7285\u0026position=4626",
+        "message_id": "om_x100b63e96640d480b2a7a679e774bf7",
+        "message_position": "4626",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_692aaa0a6c9c7fa178d04b4b942483cf",
+          "id_type": "open_id",
+          "name": "雷嘉勋",
+          "sender_i18n_names": {
+            "en_us": "lei"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-13 06:41",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_79af426fe8f195f1099fb204333f7285",
+        "content": "可以了 谢谢",
+        "create_time": "2026-10-13 06:41",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_79af426fe8f195f1099fb204333f7285\u0026position=4627",
+        "message_id": "om_x100b63e965ccf4acb043521373f648c",
+        "message_position": "4627",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_656545e969a256054082226e0e5ae243",
+          "id_type": "open_id",
+          "name": "刘智军",
+          "sender_i18n_names": {
+            "en_us": "liuzhijun"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-13 06:41",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_79af426fe8f195f1099fb204333f7285",
+        "content": "@雷嘉勋 拿一下日志",
+        "create_time": "2026-10-13 06:42",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_692aaa0a6c9c7fa178d04b4b942483cf",
+            "key": "@_user_1",
+            "name": "雷嘉勋"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_79af426fe8f195f1099fb204333f7285\u0026position=4628",
+        "message_id": "om_x100b63e9651d74bcb296cccccbd5b50",
+        "message_position": "4628",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_c51d86aefe40fde4ef84abd495bf5c48",
+          "id_type": "open_id",
+          "name": "单呈祥",
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-13 06:42",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_79af426fe8f195f1099fb204333f7285",
+        "content": "@InoAI 从浏览器INOAI进入deepseek，问问题一直提示\"系统繁忙，请稍后重试!\"，重启浏览器也不行，请问是什么原因",
+        "create_time": "2026-10-13 06:48",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_c07ea47f247dd9910ace099eb9725088",
+            "key": "@_user_1",
+            "name": "InoAI"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_79af426fe8f195f1099fb204333f7285\u0026position=4630",
+        "message_id": "om_x100b63e90d4a2480c3862abd237369c",
+        "message_position": "4630",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_6637550d7ef2455258f445018a5d368c",
+          "id_type": "open_id",
+          "name": "熊冬情",
+          "sender_i18n_names": {
+            "en_us": "xiongdongqing"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-13 06:48",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_79af426fe8f195f1099fb204333f7285",
+        "content": "\u003ccard\u003e\n我来帮你分析这个问题。让我先搜索一下相关信息和知识库。\n\n让我再搜索一下关于从INOAI平台使用DeepSeek模型时遇到\"系统繁忙\"的特定信息。根据搜索结果和知识库的已有信息，我来综合分析这个问题。\n\n用户描述的情况是：**从浏览器进入 INOAI（inoai.inovance.com），选择 DeepSeek 模型，问问题一直提示\"系统繁忙，请稍后重试!\"，重启浏览器也无法解决。**\n\n这其实不太像是用户本地浏览器的问题，而是更偏平台侧/服务侧的问题。让我整理一下可能的原因和对应的排查方法：---## 问题分析\"系统繁忙，请稍后重试!\" 这个提示出现在 **INOAI 平台通过浏览器调用 DeepSeek 模型** 时。重启浏览器无效，说明大概率与浏览器本地缓存、Cookie 无关，问题出在**平台侧**或**深层客户端状态**上。\n\n结合 InoAI 知识库和 DeepSeek 服务情况的搜索，可能的原因有以下几类：### 1. 🔍 平台侧模型服务异常或限流（最常见原因）DeepSeek 官方 API 在**流量高峰期会触发限流保护机制**（表现为 HTTP 503 \"Server is busy\"）。INOAI 平台作为模型接入方，如果 DeepSeek 上游 API 过载，INOAI 返回给用户的就会是\"系统繁忙，请稍后重试\"。\n\n**排查方法：**\n- 错峰重试：换一个时间段（避开工作日下午、晚上高峰）再试\n- 切换其他模型试试：在 INOAI 中切换到其他模型（如通义千问、Kimi 等），看是否正常。**如果其他模型可以正常响应，说明是 DeepSeek 上游服务的问题，而非 INOAI 平台问题**；如果所有模型都报\"系统繁忙\"，则是 INOAI 平台自身问题。### 2. 📱 会话状态异常（历史会话上下文问题）知识库中提到，Agent 无法正常响应时，可能是因为**模型幻觉或会话上下文状态异常**。更新日志中也提到过修复\"发送消息后接口直接返回停止\"、\"修复网关连接失败\"等问题。\n\n**排查方法：**\n- 点击侧栏「会话管理」→ 清理当前有问题的会话\n- **新建一个空白对话**（`+ 新建对话`），再重新提问测试\n- 如果当前会话历史过多或上下文过长，模型调用可能超时，新建对话可排除此因素### 3. 🌐 网关/网络链路问题（B/S 架构下）从浏览器访问 INOAI 是 B/S 架构，请求走的是 **浏览器 → INOAI 服务器 → DeepSeek API** 这条链路。任何一环出问题都会报错。\n\n**排查方法：**\n- 检查当前网络是否正常（是否能正常访问其他网页）\n- 若在内网环境，确认是否有防火墙/代理拦截了到 DeepSeek API 的请求\n- 尝试**清除浏览器缓存和 Cookies**（重启浏览器不等于清缓存），或用**无痕模式**打开 INOAI 再试\n- 换一个浏览器（Chrome / Edge）访问试试### 4. 💡 建议按以下顺序操作排查| 步骤 | 操作 | 目的 |\n|------|------|------|\n| 1 | 在 INOAI 中新建空白对话再提问 | 排除会话上下文异常 |\n| 2 | 切换其他模型测试 | 判断是 DeepSeek 上游问题还是平台问题 |\n| 3 | 用浏览器无痕模式打开 inoai.inovance.com | 排除缓存/Cookie 干扰 |\n| 4 | 换一个浏览器访问 | 排除浏览器兼容性问题 |\n| 5 | 错峰重试（避开高峰时段） | 排除 DeepSeek 限流 |\n| 6 | 若以上都不行，稍后再试并关注 INOAI 是否发服务维护公告 | 判断是否为平台侧维护/故障 |---### 总结\u003e 重启浏览器没用的根本原因在于：**问题大概率出在 INOAI 平台 → DeepSeek API 这条服务端链路上**，而不是浏览器本地问题。最常见的情形是 DeepSeek 上游服务高峰期限流，或 INOAI 平台侧的模型网关发生临时性故障/维护。**最快的验证方法**：在 INOAI 里**新建一条空白对话**，**换一个模型**问同一个问题——如果其他模型正常而 DeepSeek 不行，那就是 DeepSeek 上游服务的问题，等待错峰再试即可；如果所有模型都异常，则建议联系 INOAI 平台支持（可联系 **李炎杰 工号 10027317**）反馈此问题。\n\u003c/card\u003e",
+        "create_time": "2026-10-13 06:48",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_79af426fe8f195f1099fb204333f7285\u0026position=4631",
+        "message_id": "om_x100b63e90d69b8a0ddc2a1ef133688a",
+        "message_position": "4631",
+        "msg_type": "interactive",
+        "reply_to": "om_x100b63e90d4a2480c3862abd237369c",
+        "sender": {
+          "id": "cli_a6923266569a900b",
+          "id_type": "app_id",
+          "name": "InoAI",
+          "open_bot_id": "ou_c07ea47f247dd9910ace099eb9725088",
+          "sender_i18n_names": {
+            "en_us": "InoAI",
+            "zh_cn": "InoAI"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-13 06:48",
+        "updated": true
+      }
+    ],
+    "page_token": "",
+    "total": 30
+  },
+  "meta": {
+    "pagination": {
+      "complete": true,
+      "pages": 1,
+      "items": 30
+    }
+  }
+}

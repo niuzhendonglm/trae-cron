@@ -1,0 +1,72 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "has_more": false,
+    "messages": [
+      {
+        "chat_id": "oc_9bc0bb0793e96e645bba93d4e3042b31",
+        "content": "@纪玉勇 指标预警通知",
+        "create_time": "2026-10-13 03:22",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_4f13aec222bca22f2c00c8ada94feb92",
+            "key": "@_user_1",
+            "name": "纪玉勇"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_9bc0bb0793e96e645bba93d4e3042b31\u0026position=1022",
+        "message_id": "om_x100b63ee710d6758c48a652bca61fe4",
+        "message_position": "1022",
+        "msg_type": "text",
+        "sender": {
+          "id": "cli_c08abc1da138d00f",
+          "id_type": "app_id",
+          "name": "指标告警机器人",
+          "open_bot_id": "ou_a73bfe723405aa3b45c859af00c9f69b",
+          "sender_i18n_names": {
+            "en_us": "指标告警机器人",
+            "zh_cn": "指标告警机器人"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-13 03:22",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_9bc0bb0793e96e645bba93d4e3042b31",
+        "content": "\u003ccard title=\"指标预警通知\"\u003e\n**预警规则**: 测试预警\n**预警类型**: 阈值预警\n**预警级别**: 警告\n**触发条数**: 287569 条\n**指标编码**: ATOMIC_012_import_ps\n**指标名称**: 物料消耗总成本_import_ps\n**责任人**: 纪玉勇\n\u003c/card\u003e",
+        "create_time": "2026-10-13 03:22",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_9bc0bb0793e96e645bba93d4e3042b31\u0026position=1023",
+        "message_id": "om_x100b63ee712fbcb8c15f1d072094b7e",
+        "message_position": "1023",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_c08abc1da138d00f",
+          "id_type": "app_id",
+          "name": "指标告警机器人",
+          "open_bot_id": "ou_a73bfe723405aa3b45c859af00c9f69b",
+          "sender_i18n_names": {
+            "en_us": "指标告警机器人",
+            "zh_cn": "指标告警机器人"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      }
+    ],
+    "page_token": "",
+    "total": 2
+  },
+  "meta": {
+    "pagination": {
+      "complete": true,
+      "pages": 1,
+      "items": 2
+    }
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "has_more": false,
+    "messages": [
+      {
+        "chat_id": "oc_16469869e69a19d6c0ff02e0c8b86a5c",
+        "content": "雷志玲 invited 陶伟宇 to the group. New members can view all chat history.",
+        "create_time": "2026-10-13 08:13",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_16469869e69a19d6c0ff02e0c8b86a5c\u0026position=216",
+        "message_id": "om_x100b63eacfdd98bcc0295be75dd6473",
+        "message_position": "216",
+        "msg_type": "system",
+        "sender": {
+          "id": "",
+          "id_type": "",
+          "sender_type": "",
+          "tenant_key": ""
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_16469869e69a19d6c0ff02e0c8b86a5c",
+        "content": "@陶荣辉 @杨润东 陶工，杨工，直通率的数据弄好了吗？",
+        "create_time": "2026-10-13 08:44",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_3f9019baaa5f99c6b39b1a27cbe718c5",
+            "key": "@_user_1",
+            "name": "陶荣辉"
+          },
+          {
+            "id": "ou_e7fccc3af163cd1e5b59c4241cb9b574",
+            "key": "@_user_2",
+            "name": "杨润东"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_16469869e69a19d6c0ff02e0c8b86a5c\u0026position=217",
+        "message_id": "om_x100b63eab68d94acc4839e368875ded",
+        "message_position": "217",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_b65f0fe76c977aeb934b207a067ac8d5",
+          "id_type": "open_id",
+          "name": "石峰",
+          "sender_i18n_names": {
+            "en_us": "shifeng"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-13 08:44",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_16469869e69a19d6c0ff02e0c8b86a5c",
+        "content": "@杨润东 咱两之前是不是对齐好了？？你把表信息发出来。",
+        "create_time": "2026-10-13 08:51",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_e7fccc3af163cd1e5b59c4241cb9b574",
+            "key": "@_user_1",
+            "name": "杨润东"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_16469869e69a19d6c0ff02e0c8b86a5c\u0026position=218",
+        "message_id": "om_x100b63eb5eeb58a8b4a5a48fb74b11e",
+        "message_position": "218",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_3f9019baaa5f99c6b39b1a27cbe718c5",
+          "id_type": "open_id",
+          "name": "陶荣辉",
+          "sender_i18n_names": {
+            "en_us": "taoronghui"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-13 08:51",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_16469869e69a19d6c0ff02e0c8b86a5c",
+        "content": "\u003cp\u003e@石峰 @陶荣辉 新增的字段加好了isc_ads.ads_isc_nj_workshop_board_i_h\u003c/p\u003e",
+        "create_time": "2026-10-13 09:01",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_b65f0fe76c977aeb934b207a067ac8d5",
+            "key": "@_user_1",
+            "name": "石峰"
+          },
+          {
+            "id": "ou_3f9019baaa5f99c6b39b1a27cbe718c5",
+            "key": "@_user_2",
+            "name": "陶荣辉"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_16469869e69a19d6c0ff02e0c8b86a5c\u0026position=219",
+        "message_id": "om_x100b63eb780ef0b8c4c99e75e5806c3",
+        "message_position": "219",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_e7fccc3af163cd1e5b59c4241cb9b574",
+          "id_type": "open_id",
+          "name": "杨润东",
+          "sender_i18n_names": {
+            "en_us": "yangrundong"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-13 09:02",
+        "updated": true
+      }
+    ],
+    "page_token": "",
+    "total": 4
+  },
+  "meta": {
+    "pagination": {
+      "complete": true,
+      "pages": 1,
+      "items": 4
+    }
+  }
+}

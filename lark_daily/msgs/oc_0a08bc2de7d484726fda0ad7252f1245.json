@@ -1,0 +1,61 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "has_more": false,
+    "messages": [
+      {
+        "chat_id": "oc_0a08bc2de7d484726fda0ad7252f1245",
+        "content": "梁工，这个申请单，得空帮忙处理一下 [双手合十]\nhttps://oa.inovance.com/km/review/km_review_main/kmReviewMain.do?method=view\u0026fdId=1a12eaac426563e96826f4c46a48092c",
+        "create_time": "2026-10-13 05:53",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_0a08bc2de7d484726fda0ad7252f1245\u0026position=188",
+        "message_id": "om_x100b63e83d3a0cb8b1235933d1beb90",
+        "message_position": "188",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_635008cc2affc45d23de666f2e7e7446",
+          "id_type": "open_id",
+          "name": "牛振东",
+          "sender_i18n_names": {
+            "en_us": "niuzhendong"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-13 07:05",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_0a08bc2de7d484726fda0ad7252f1245",
+        "content": "好了 下去了",
+        "create_time": "2026-10-13 07:05",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_0a08bc2de7d484726fda0ad7252f1245\u0026position=189",
+        "message_id": "om_x100b63e9ca571538b4a0a5a154b8f11",
+        "message_position": "189",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_f24866dd0b2e82b77b68e6a682645e44",
+          "id_type": "open_id",
+          "name": "梁超",
+          "sender_i18n_names": {
+            "en_us": "liangchao"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      }
+    ],
+    "page_token": "",
+    "total": 2
+  },
+  "meta": {
+    "pagination": {
+      "complete": true,
+      "pages": 1,
+      "items": 2
+    }
+  }
+}

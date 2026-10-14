@@ -1,0 +1,391 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "has_more": false,
+    "messages": [
+      {
+        "chat_id": "oc_971b0e23bcca023fd8ff5d00f4f60f69",
+        "content": "@刘宏宇 @石峰 南京工厂RBS专线看板，指标开发计划有对排出来了吗",
+        "create_time": "2026-10-13 02:32",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_c8afe8aab3f80a020c356c0ca46a12ce",
+            "key": "@_user_1",
+            "name": "刘宏宇"
+          },
+          {
+            "id": "ou_b65f0fe76c977aeb934b207a067ac8d5",
+            "key": "@_user_2",
+            "name": "石峰"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_971b0e23bcca023fd8ff5d00f4f60f69\u0026position=250",
+        "message_id": "om_x100b63edcdd1f4a4b15a48e3559f183",
+        "message_position": "250",
+        "msg_type": "text",
+        "reply_to": "om_x100b63ab0a97fca4c270198c886a2a8",
+        "sender": {
+          "id": "ou_a2f5396871c8e8b1721147548ab4aee3",
+          "id_type": "open_id",
+          "name": "雷志玲",
+          "sender_i18n_names": {
+            "en_us": "leizhiling"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-13 02:32",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_971b0e23bcca023fd8ff5d00f4f60f69",
+        "content": "@雷志玲 我们内部对齐下，下午发",
+        "create_time": "2026-10-13 02:33",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_a2f5396871c8e8b1721147548ab4aee3",
+            "key": "@_user_1",
+            "name": "雷志玲"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_971b0e23bcca023fd8ff5d00f4f60f69\u0026position=251",
+        "message_id": "om_x100b63edc86818b0c15205206522f70",
+        "message_position": "251",
+        "msg_type": "text",
+        "reply_to": "om_x100b63edcdd1f4a4b15a48e3559f183",
+        "sender": {
+          "id": "ou_b65f0fe76c977aeb934b207a067ac8d5",
+          "id_type": "open_id",
+          "name": "石峰",
+          "sender_i18n_names": {
+            "en_us": "shifeng"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-13 02:33",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_971b0e23bcca023fd8ff5d00f4f60f69",
+        "content": "\u003cp\u003e@雷志玲 10月14号：大屏主页面关键工序产出与不良指标开发；\u003c/p\u003e\u003cp\u003e10月15号-10月19号：关键工序产出与不良、产出、及时上下线率、任务令完成率、在职天数与超时指标数据验证;\u003c/p\u003e\u003cp\u003e10月20号-22号：延误趋势指标数据接入datawind与开发\u003c/p\u003e\u003cp\u003e10月23号：延误趋势指标数据验证\u003c/p\u003e\u003cp\u003e10月26号-10月28号：下钻页面开发与数据验证\u003c/p\u003e\u003cp\u003e工序直通率、设备分布状态三个指标底层数据尚未接入，待接入完成后再做计划安排\u003c/p\u003e",
+        "create_time": "2026-10-13 07:57",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_a2f5396871c8e8b1721147548ab4aee3",
+            "key": "@_user_1",
+            "name": "雷志玲"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_971b0e23bcca023fd8ff5d00f4f60f69\u0026position=252",
+        "message_id": "om_x100b63ea08886080deb2e30950f8035",
+        "message_position": "252",
+        "msg_type": "text",
+        "reply_to": "om_x100b63edcdd1f4a4b15a48e3559f183",
+        "sender": {
+          "id": "ou_b65f0fe76c977aeb934b207a067ac8d5",
+          "id_type": "open_id",
+          "name": "石峰",
+          "sender_i18n_names": {
+            "en_us": "shifeng"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-13 08:30",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_971b0e23bcca023fd8ff5d00f4f60f69",
+        "content": "@石峰 \n1、工序直通率：1个多月前，陶工说数据已经入湖了.\n2、延误趋势：线下文档，之前需求评审会议时有沟通过，丝杠ANDON暂未上线，先抓取以下线下文档数据。\n![Image](img_v3_0216e_b44bd63c-06a3-4822-91d3-c22fbe40effg)\n3、设备分布状态：CNC数采系统，实时数据均未入湖，之前需求会议时沟通的，直接登录数采系统数据库，取报表相关字段及数据。供应商等一下给出数采数据库链接、用户、表名后，我发在群里。你们看一下是否可登录连接。",
+        "create_time": "2026-10-13 08:19",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_b65f0fe76c977aeb934b207a067ac8d5",
+            "key": "@_user_1",
+            "name": "石峰"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_971b0e23bcca023fd8ff5d00f4f60f69\u0026position=253",
+        "message_id": "om_x100b63ead4b1ecb8b1cd2d4c5002872",
+        "message_position": "253",
+        "msg_type": "post",
+        "reply_to": "om_x100b63ea08886080deb2e30950f8035",
+        "sender": {
+          "id": "ou_a2f5396871c8e8b1721147548ab4aee3",
+          "id_type": "open_id",
+          "name": "雷志玲",
+          "sender_i18n_names": {
+            "en_us": "leizhiling"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-13 08:31",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_971b0e23bcca023fd8ff5d00f4f60f69",
+        "content": "https://inovance.feishu.cn/wiki/Fi54wF6dkiAfAtkKIhpcnniGnx4?table=tblysMwhEC19Sx3D\u0026view=vewyZwJNjy",
+        "create_time": "2026-10-13 08:20",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_971b0e23bcca023fd8ff5d00f4f60f69\u0026position=254",
+        "message_id": "om_x100b63ead53060b4c247dceded497e6",
+        "message_position": "254",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_a2f5396871c8e8b1721147548ab4aee3",
+          "id_type": "open_id",
+          "name": "雷志玲",
+          "sender_i18n_names": {
+            "en_us": "leizhiling"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_971b0e23bcca023fd8ff5d00f4f60f69",
+        "content": "\u003cp\u003e@雷志玲 1.可能时间太长了，记不清了，能否提供下工序直通率入湖后的宽表名；2.好的，稍后排一下延误趋势的开发；\u003c/p\u003e",
+        "create_time": "2026-10-13 08:28",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_a2f5396871c8e8b1721147548ab4aee3",
+            "key": "@_user_1",
+            "name": "雷志玲"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_971b0e23bcca023fd8ff5d00f4f60f69\u0026position=255",
+        "message_id": "om_x100b63eaf4c6b90cdf90ff412515942",
+        "message_position": "255",
+        "msg_type": "text",
+        "reply_to": "om_x100b63ead4b1ecb8b1cd2d4c5002872",
+        "sender": {
+          "id": "ou_b65f0fe76c977aeb934b207a067ac8d5",
+          "id_type": "open_id",
+          "name": "石峰",
+          "sender_i18n_names": {
+            "en_us": "shifeng"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-13 08:32",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_971b0e23bcca023fd8ff5d00f4f60f69",
+        "content": "\u003cforwarded_messages\u003e\n[2026-07-22T07:52:15Z] 陶荣辉:\n    \u003cfile key=\"file_v3_0016e_f90a2c66-615c-4dd2-b320-ead88c8aefdg\" name=\"南京工厂2026年指标宽表.xlsx\"/\u003e\n[2026-07-22T07:52:21Z] 陶荣辉:\n    @杨润东 我更新好了。\n[2026-07-23T02:53:12Z] 陶荣辉:\n    是的\n[2026-07-23T02:53:42Z] 陶荣辉:\n    \u003cp\u003e我提了一个电子流，请IPD协助处理的。这个杜老师应该知道进度。\u003c/p\u003e\n[2026-07-23T02:54:57Z] 陶荣辉:\n    你把宽表建好，维度数据如果IPD还没有搞定，那不着急加进去，后面还会迭代，等他们进度就行。目前业务也没有强制要求展示。\n[2026-07-23T02:57:54Z] 杨润东:\n    这宽表是看啥的，有统一的宽表名称吗，我看既有工单排产，又有sn过站信息\n[2026-07-23T03:00:33Z] 陶荣辉:\n    \u003cp\u003e南京工厂车间看板宽表\u003c/p\u003e\n[2026-07-23T03:01:02Z] 陶荣辉:\n    我建的这个宽表适用于很多场景[泣不成声]\n[2026-07-23T03:09:01Z] 杨润东:\n    好的\n[2026-07-24T08:10:46Z] 陶荣辉:\n    有一个月的数据？\n[2026-07-24T08:11:16Z] 陶荣辉:\n    @杨润东 先搞近期一个月的数据出来看看呢。\n[2026-07-27T08:59:44Z] 杨润东:\n    @刘宏宇 宇哥 isc_ads.ads_isc_nj_workshop_board_i_h陶工已经验证好了，可以进行前端开发了\n[2026-08-10T01:21:10Z] 雷志玲:\n    ![Image](img_v3_0216e_45e38304-bf86-4e55-9f76-d14a6d9a6c1g)\n    @刘宏宇(10005746) 宏宇：丝杠RBS线体看板，陶工提供的宽表可以满足9个指标，杨工的信息是陶工数据已经验证好，到前端开发的节点了是吧。现在是什么进度了呢。\n\u003c/forwarded_messages\u003e",
+        "create_time": "2026-10-13 08:37",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_971b0e23bcca023fd8ff5d00f4f60f69\u0026position=256",
+        "message_id": "om_x100b63ea95bbf4a0c112372734210fb",
+        "message_position": "256",
+        "msg_type": "merge_forward",
+        "sender": {
+          "id": "ou_a2f5396871c8e8b1721147548ab4aee3",
+          "id_type": "open_id",
+          "name": "雷志玲",
+          "sender_i18n_names": {
+            "en_us": "leizhiling"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_971b0e23bcca023fd8ff5d00f4f60f69",
+        "content": "@雷志玲 这个是其他指标开发需要的宽表，看了下另一个群里的记录，\n![Image](img_v3_0216e_515ed112-26fe-4f09-89a7-a9478dc793cg)\n，我们这需要得到陶老师设计好的宽表在daas中的名称",
+        "create_time": "2026-10-13 08:39",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_a2f5396871c8e8b1721147548ab4aee3",
+            "key": "@_user_1",
+            "name": "雷志玲"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_971b0e23bcca023fd8ff5d00f4f60f69\u0026position=257",
+        "message_id": "om_x100b63eaab2d98acc23c88f55138f27",
+        "message_position": "257",
+        "msg_type": "post",
+        "reply_to": "om_x100b63ea95bbf4a0c112372734210fb",
+        "sender": {
+          "id": "ou_b65f0fe76c977aeb934b207a067ac8d5",
+          "id_type": "open_id",
+          "name": "石峰",
+          "sender_i18n_names": {
+            "en_us": "shifeng"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-13 08:39",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_971b0e23bcca023fd8ff5d00f4f60f69",
+        "content": "@石峰 看一下这个群里的信息，这里边主要是底表沟通这些，看一下如果找不到，问一下上游的杨润东、陶荣辉工哈。\n\n![Image](img_v3_0216e_685add13-a979-48f1-b420-2ec8251c9cag)",
+        "create_time": "2026-10-13 08:40",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_b65f0fe76c977aeb934b207a067ac8d5",
+            "key": "@_user_1",
+            "name": "石峰"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_971b0e23bcca023fd8ff5d00f4f60f69\u0026position=258",
+        "message_id": "om_x100b63eaa8d804a0b16396e4e8517d8",
+        "message_position": "258",
+        "msg_type": "post",
+        "reply_to": "om_x100b63eaf4c6b90cdf90ff412515942",
+        "sender": {
+          "id": "ou_a2f5396871c8e8b1721147548ab4aee3",
+          "id_type": "open_id",
+          "name": "雷志玲",
+          "sender_i18n_names": {
+            "en_us": "leizhiling"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-13 08:40",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_971b0e23bcca023fd8ff5d00f4f60f69",
+        "content": "@雷志玲 直通率用的不是这个表把",
+        "create_time": "2026-10-13 08:40",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_a2f5396871c8e8b1721147548ab4aee3",
+            "key": "@_user_1",
+            "name": "雷志玲"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_971b0e23bcca023fd8ff5d00f4f60f69\u0026position=259",
+        "message_id": "om_x100b63eaa74070a0c366eb6811d003e",
+        "message_position": "259",
+        "msg_type": "text",
+        "reply_to": "om_x100b63eaa8d804a0b16396e4e8517d8",
+        "sender": {
+          "id": "ou_b65f0fe76c977aeb934b207a067ac8d5",
+          "id_type": "open_id",
+          "name": "石峰",
+          "sender_i18n_names": {
+            "en_us": "shifeng"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-13 08:40",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_971b0e23bcca023fd8ff5d00f4f60f69",
+        "content": "@石峰 数据的宽表，他做的工作，我不清楚，你直接在群里问他一下哈",
+        "create_time": "2026-10-13 08:40",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_b65f0fe76c977aeb934b207a067ac8d5",
+            "key": "@_user_1",
+            "name": "石峰"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_971b0e23bcca023fd8ff5d00f4f60f69\u0026position=260",
+        "message_id": "om_x100b63eaa750c0b0b2654ba7de01978",
+        "message_position": "260",
+        "msg_type": "text",
+        "reply_to": "om_x100b63eaab2d98acc23c88f55138f27",
+        "sender": {
+          "id": "ou_a2f5396871c8e8b1721147548ab4aee3",
+          "id_type": "open_id",
+          "name": "雷志玲",
+          "sender_i18n_names": {
+            "en_us": "leizhiling"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-13 08:40",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_971b0e23bcca023fd8ff5d00f4f60f69",
+        "content": "如果有什么问题，我一起跟他们沟通",
+        "create_time": "2026-10-13 08:41",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_971b0e23bcca023fd8ff5d00f4f60f69\u0026position=261",
+        "message_id": "om_x100b63eaa41d0c80b4adb8a0f8b51f5",
+        "message_position": "261",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_a2f5396871c8e8b1721147548ab4aee3",
+          "id_type": "open_id",
+          "name": "雷志玲",
+          "sender_i18n_names": {
+            "en_us": "leizhiling"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_971b0e23bcca023fd8ff5d00f4f60f69",
+        "content": "@石峰 @陶伟宇 时间尽力帮往前赶，项目已经在开始结项了，辛苦了",
+        "create_time": "2026-10-13 10:04",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_b65f0fe76c977aeb934b207a067ac8d5",
+            "key": "@_user_1",
+            "name": "石峰"
+          },
+          {
+            "id": "ou_30399ac61ee65793ba374600ebea5164",
+            "key": "@_user_2",
+            "name": "陶伟宇"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_971b0e23bcca023fd8ff5d00f4f60f69\u0026position=262",
+        "message_id": "om_x100b63d46f5434b8b343b9b46f957c6",
+        "message_position": "262",
+        "msg_type": "text",
+        "reply_to": "om_x100b63ea08886080deb2e30950f8035",
+        "sender": {
+          "id": "ou_a2f5396871c8e8b1721147548ab4aee3",
+          "id_type": "open_id",
+          "name": "雷志玲",
+          "sender_i18n_names": {
+            "en_us": "leizhiling"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-13 10:04",
+        "updated": true
+      }
+    ],
+    "page_token": "",
+    "total": 13
+  },
+  "meta": {
+    "pagination": {
+      "complete": true,
+      "pages": 1,
+      "items": 13
+    }
+  }
+}

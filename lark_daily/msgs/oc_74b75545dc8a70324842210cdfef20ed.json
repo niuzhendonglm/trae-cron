@@ -1,0 +1,133 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "has_more": false,
+    "messages": [
+      {
+        "chat_id": "oc_74b75545dc8a70324842210cdfef20ed",
+        "content": "\u003ccard title=\"电装中心电装精益处\u0026电装调度模块26年9月工作总结和10月工作计划\"\u003e\n🎉 **内容摘要**\n\n---\n[查看详情](https://oa.inovance.com/sys/notify/sys_notify_todo/sysNotifyTodo.do?method=view\u0026fdId=1a13458f0f483204d1d07b64929b9e7c\u0026oauth=fs2ekp)\n📝 💡发布时间2026-10-13 16:20\n\u003c/card\u003e",
+        "create_time": "2026-10-13 08:20",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_74b75545dc8a70324842210cdfef20ed\u0026position=619",
+        "message_id": "om_x100b63ead3a778b4df9d21af4f25de0",
+        "message_position": "619",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a3e1eec6f43b900e",
+          "id_type": "app_id",
+          "name": "资料纪要",
+          "open_bot_id": "ou_725b2f346a8b89dc2cb6dfb503de963d",
+          "sender_i18n_names": {
+            "en_us": "Data summary",
+            "zh_cn": "资料纪要"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_74b75545dc8a70324842210cdfef20ed",
+        "content": "\u003ccard title=\"电装中心电装制造一部26年9月工作总结和10月工作计划\"\u003e\n🎉 **内容摘要**\n\n---\n[查看详情](https://oa.inovance.com/sys/notify/sys_notify_todo/sysNotifyTodo.do?method=view\u0026fdId=1a1345acf838b585830aad74f528983f\u0026oauth=fs2ekp)\n📝 💡发布时间2026-10-13 16:22\n\u003c/card\u003e",
+        "create_time": "2026-10-13 08:22",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_74b75545dc8a70324842210cdfef20ed\u0026position=620",
+        "message_id": "om_x100b63eaea40b4b8c349d3c1dadff41",
+        "message_position": "620",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a3e1eec6f43b900e",
+          "id_type": "app_id",
+          "name": "资料纪要",
+          "open_bot_id": "ou_725b2f346a8b89dc2cb6dfb503de963d",
+          "sender_i18n_names": {
+            "en_us": "Data summary",
+            "zh_cn": "资料纪要"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_74b75545dc8a70324842210cdfef20ed",
+        "content": "\u003ccard title=\"【会议纪要】计划与 AI 数字化深度融合项目启动会议纪要\"\u003e\n🎉 **内容摘要**\n\n---\n[查看详情](https://oa.inovance.com/sys/notify/sys_notify_todo/sysNotifyTodo.do?method=view\u0026fdId=1a1346d007176a4a62fa89d4e048fbf1\u0026oauth=fs2ekp)\n📝 💡发布时间2026-10-13 16:42\n\u003c/card\u003e",
+        "create_time": "2026-10-13 08:42",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_74b75545dc8a70324842210cdfef20ed\u0026position=621",
+        "message_id": "om_x100b63eaa0c530a4ddc16d00a39e54b",
+        "message_position": "621",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a3e1eec6f43b900e",
+          "id_type": "app_id",
+          "name": "资料纪要",
+          "open_bot_id": "ou_725b2f346a8b89dc2cb6dfb503de963d",
+          "sender_i18n_names": {
+            "en_us": "Data summary",
+            "zh_cn": "资料纪要"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_74b75545dc8a70324842210cdfef20ed",
+        "content": "\u003ccard title=\"默纳克机械开发部2026年9月工作总结及10月工作计划\"\u003e\n🎉 **内容摘要**\n\n---\n[查看详情](https://oa.inovance.com/sys/notify/sys_notify_todo/sysNotifyTodo.do?method=view\u0026fdId=1a134da12c85463142b24e14d7b938ab\u0026oauth=fs2ekp)\n📝 💡发布时间2026-10-13 18:41\n\u003c/card\u003e",
+        "create_time": "2026-10-13 10:41",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_74b75545dc8a70324842210cdfef20ed\u0026position=622",
+        "message_id": "om_x100b63d4e0c89c88b24298aeee02c05",
+        "message_position": "622",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a3e1eec6f43b900e",
+          "id_type": "app_id",
+          "name": "资料纪要",
+          "open_bot_id": "ou_725b2f346a8b89dc2cb6dfb503de963d",
+          "sender_i18n_names": {
+            "en_us": "Data summary",
+            "zh_cn": "资料纪要"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_74b75545dc8a70324842210cdfef20ed",
+        "content": "\u003ccard title=\"驱控中心控制技术制造部2026年9月份工作总结与10月份工作计划\"\u003e\n🎉 **内容摘要**\n\n---\n[查看详情](https://oa.inovance.com/sys/notify/sys_notify_todo/sysNotifyTodo.do?method=view\u0026fdId=1a134fbe64c5ebaeefa296f4b338337f\u0026oauth=fs2ekp)\n📝 💡发布时间2026-10-13 19:18\n\u003c/card\u003e",
+        "create_time": "2026-10-13 11:18",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_74b75545dc8a70324842210cdfef20ed\u0026position=623",
+        "message_id": "om_x100b63d576f2a0a0c111f9fef262b41",
+        "message_position": "623",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a3e1eec6f43b900e",
+          "id_type": "app_id",
+          "name": "资料纪要",
+          "open_bot_id": "ou_725b2f346a8b89dc2cb6dfb503de963d",
+          "sender_i18n_names": {
+            "en_us": "Data summary",
+            "zh_cn": "资料纪要"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      }
+    ],
+    "page_token": "",
+    "total": 5
+  },
+  "meta": {
+    "pagination": {
+      "complete": true,
+      "pages": 1,
+      "items": 5
+    }
+  }
+}

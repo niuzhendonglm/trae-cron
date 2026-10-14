@@ -1,0 +1,87 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "has_more": false,
+    "messages": [
+      {
+        "chat_id": "oc_482b4e04c88fd30c5e96011b890790af",
+        "content": "\u003ccard title=\"授权操作通知\"\u003e\n**授权应用**：TraeWork\n**授权时间**：2026年10月13日 15:22:29 (CST)\n**授权设备**：Chrome / Windows\n   **授权 IP**：58.250.90.15\n\n如非本人操作，请[撤销对该应用的历史授权](https://applink.feishu.cn/client/passport/account_center?path=apply_authorization)以确保数据安全。\n\u003c/card\u003e",
+        "create_time": "2026-10-13 07:22",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_482b4e04c88fd30c5e96011b890790af\u0026position=140",
+        "message_id": "om_x100b63e98d94b0b8b1082f77ebffbcb",
+        "message_position": "140",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a260b07942f9d00e",
+          "id_type": "app_id",
+          "name": "账号安全中心",
+          "open_bot_id": "ou_aa76480dc073d5fcb2c0d79e250f0980",
+          "sender_i18n_names": {
+            "en_us": "Account Security Center",
+            "zh_cn": "账号安全中心"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_482b4e04c88fd30c5e96011b890790af",
+        "content": "\u003ccard title=\"授权操作通知\"\u003e\n**授权应用**：TraeWork\n**授权时间**：2026年10月13日 16:13:00 (CST)\n**授权设备**：Chrome / Windows\n   **授权 IP**：222.92.231.37\n\n如非本人操作，请[撤销对该应用的历史授权](https://applink.feishu.cn/client/passport/account_center?path=apply_authorization)以确保数据安全。\n\u003c/card\u003e",
+        "create_time": "2026-10-13 08:13",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_482b4e04c88fd30c5e96011b890790af\u0026position=141",
+        "message_id": "om_x100b63eace00e0acdeb06ac3c7ad983",
+        "message_position": "141",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a260b07942f9d00e",
+          "id_type": "app_id",
+          "name": "账号安全中心",
+          "open_bot_id": "ou_aa76480dc073d5fcb2c0d79e250f0980",
+          "sender_i18n_names": {
+            "en_us": "Account Security Center",
+            "zh_cn": "账号安全中心"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_482b4e04c88fd30c5e96011b890790af",
+        "content": "\u003ccard title=\"授权操作通知\"\u003e\n**授权应用**：TraeWork\n**授权时间**：2026年10月13日 16:31:11 (CST)\n**授权设备**：Chrome / Windows\n   **授权 IP**：222.92.231.37\n\n如非本人操作，请[撤销对该应用的历史授权](https://applink.feishu.cn/client/passport/account_center?path=apply_authorization)以确保数据安全。\n\u003c/card\u003e",
+        "create_time": "2026-10-13 08:31",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_482b4e04c88fd30c5e96011b890790af\u0026position=142",
+        "message_id": "om_x100b63ea8a31b4a4b3bd1bc604ad504",
+        "message_position": "142",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a260b07942f9d00e",
+          "id_type": "app_id",
+          "name": "账号安全中心",
+          "open_bot_id": "ou_aa76480dc073d5fcb2c0d79e250f0980",
+          "sender_i18n_names": {
+            "en_us": "Account Security Center",
+            "zh_cn": "账号安全中心"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      }
+    ],
+    "page_token": "",
+    "total": 3
+  },
+  "meta": {
+    "pagination": {
+      "complete": true,
+      "pages": 1,
+      "items": 3
+    }
+  }
+}

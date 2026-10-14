@@ -1,0 +1,35 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "has_more": false,
+    "messages": [
+      {
+        "chat_id": "oc_cde3514e4eaab03ef35f5468939d645a",
+        "content": "滕菲 invited 何荣福 to the group. New members can view all chat history.",
+        "create_time": "2026-10-13 07:25",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_cde3514e4eaab03ef35f5468939d645a\u0026position=18",
+        "message_id": "om_x100b63e981b968bcdfaff1868aeb6d2",
+        "message_position": "18",
+        "msg_type": "system",
+        "sender": {
+          "id": "",
+          "id_type": "",
+          "sender_type": "",
+          "tenant_key": ""
+        },
+        "updated": false
+      }
+    ],
+    "page_token": "",
+    "total": 1
+  },
+  "meta": {
+    "pagination": {
+      "complete": true,
+      "pages": 1,
+      "items": 1
+    }
+  }
+}

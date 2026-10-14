@@ -1,0 +1,69 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "has_more": false,
+    "messages": [
+      {
+        "chat_id": "oc_9ebf1608d5be3a0561147e4e68c65dca",
+        "content": "\u003cfile key=\"file_v3_0016e_5af0dcd7-f235-46dc-a63c-8ebcb3a79c6g\" name=\"【内部公开】0101编码BOM子件用量261013.xlsx\"/\u003e",
+        "create_time": "2026-10-13 01:57",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_9ebf1608d5be3a0561147e4e68c65dca\u0026position=221",
+        "message_id": "om_x100b63ecb10f0cb4b2c8ee1c63edf54",
+        "message_position": "221",
+        "msg_type": "file",
+        "sender": {
+          "id": "ou_c25d1c60bb94507fc804db29af3f672a",
+          "id_type": "open_id",
+          "name": "彭广胜",
+          "sender_i18n_names": {
+            "en_us": "pengguangsheng"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_9ebf1608d5be3a0561147e4e68c65dca",
+        "content": "\u003cp\u003e@金垠博 金老师 这是10个整机编码下物料带数量的附件清单  请查收\u003c/p\u003e",
+        "create_time": "2026-10-13 01:58",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_c6d4bbac2c2c99263c3df4d9d488a79a",
+            "key": "@_user_1",
+            "name": "金垠博"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_9ebf1608d5be3a0561147e4e68c65dca\u0026position=222",
+        "message_id": "om_x100b63ed4c721480b2a8411b7e751da",
+        "message_position": "222",
+        "msg_type": "text",
+        "reply_to": "om_x100b63ecb10f0cb4b2c8ee1c63edf54",
+        "sender": {
+          "id": "ou_c25d1c60bb94507fc804db29af3f672a",
+          "id_type": "open_id",
+          "name": "彭广胜",
+          "sender_i18n_names": {
+            "en_us": "pengguangsheng"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-13 01:58",
+        "updated": true
+      }
+    ],
+    "page_token": "",
+    "total": 2
+  },
+  "meta": {
+    "pagination": {
+      "complete": true,
+      "pages": 1,
+      "items": 2
+    }
+  }
+}

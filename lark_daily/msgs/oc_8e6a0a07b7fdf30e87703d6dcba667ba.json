@@ -1,0 +1,42 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "has_more": false,
+    "messages": [
+      {
+        "chat_id": "oc_8e6a0a07b7fdf30e87703d6dcba667ba",
+        "content": "\u003ccard title=\"ISC专业人才岗位地图学习档案发布\"\u003e\n大家好！\n**ISC专业人才岗位地图学习档案**（首版）发布，说明如下：\nISC各专业序列岗位25年陆续建立了学习地图，于26年也正式关联了个人任职认证，为持续推动ISC专业人才的学习与发展，提升专业能力，**实时了解专业人才岗位地图学习进度及学习积分情况**。目前，**个人学习档案已录入并统计生成，** 员工可对照自身岗位等级进行查看。\n\n需要特别说明的是，**ISC学习地图完成情况作为任职门槛条件**，与年度任职资格认证直接关联。即：在每年年度任职认证前，对应岗位等级的全部学习课程需学习完成，方可具备任职认证资格。**请各层级领导予以关注和重视，推动所属团队按计划完成学习任务。**\n\n发布及更新机制\n1. **本版为首次发布**，建立了ISC专业人才培养的学习底座和基线数据；\n2. 后续将**每季度刷新学习进度并发布一次**，动态更新学习完成情况及人员进展。\n[ISC专业人才岗位地图学习档案查询系统](https://inovance.feishu.cn/file/SqtGbgYaroO5P8xjI0IcWlrcnvc?from=from_copylink\u0026ccm_open_type=im_card_automation_button)\n---\n\u003c/card\u003e",
+        "create_time": "2026-10-13 09:30",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_8e6a0a07b7fdf30e87703d6dcba667ba\u0026position=0",
+        "message_id": "om_x100b63ebea8068acc247b8983d5a058",
+        "message_position": "0",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_aa475c680df81cba",
+          "id_type": "app_id",
+          "name": "ISC专业人才岗位地图学习档案发布",
+          "open_bot_id": "ou_40eabf04c0119e59a77a26e553966eb9",
+          "sender_i18n_names": {
+            "en_us": "ISC专业人才岗位地图学习档案发布",
+            "ja_jp": "ISC专业人才岗位地图学习档案发布",
+            "zh_cn": "ISC专业人才岗位地图学习档案发布"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      }
+    ],
+    "page_token": "",
+    "total": 1
+  },
+  "meta": {
+    "pagination": {
+      "complete": true,
+      "pages": 1,
+      "items": 1
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "has_more": false,
+    "messages": [
+      {
+        "chat_id": "oc_b3b158b65013a0781f650a43c939faff",
+        "content": "好的好的，收到收到",
+        "create_time": "2026-10-13 01:15",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_b3b158b65013a0781f650a43c939faff\u0026position=3",
+        "message_id": "om_x100b63ec2cad88a0ddc1a2c0f574807",
+        "message_position": "3",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_f9cc416cff7061b9388dc2e9a287a9f5",
+          "id_type": "open_id",
+          "name": "孙桦君",
+          "sender_i18n_names": {
+            "en_us": "ivy"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      }
+    ],
+    "page_token": "",
+    "total": 1
+  },
+  "meta": {
+    "pagination": {
+      "complete": true,
+      "pages": 1,
+      "items": 1
+    }
+  }
+}
