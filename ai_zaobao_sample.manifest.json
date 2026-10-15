@@ -1,0 +1,100 @@
+{
+  "manifest_version": "v1",
+  "format": "ndjson",
+  "base_token": "KezfbQ2fDaNBonskSTZcM3YVnWf",
+  "table_id": "tblGYhAz6u12BRPZ",
+  "rev": 95,
+  "timezone": "Asia/Shanghai",
+  "query_context": {
+    "field_scope": "all_fields",
+    "record_scope": "all_records"
+  },
+  "requested_limit": 3,
+  "records_count": 3,
+  "page_count": 1,
+  "has_more": true,
+  "next_offset": 3,
+  "record_file": "/workspace/ai_zaobao_sample.ndjson",
+  "record_file_size_bytes": 14581,
+  "manifest_file": "/workspace/ai_zaobao_sample.manifest.json",
+  "columns": {
+    "record_id": {
+      "physical_type": "string",
+      "stats": {
+        "max_length": 14
+      },
+      "example": "recvw2AWMzuQ7X"
+    },
+    "内容": {
+      "field_id": "fldGXq3fd5",
+      "field_type": "text",
+      "physical_type": "string|null",
+      "stats": {
+        "null_count": 0,
+        "max_length": 3063
+      },
+      "example": "# AI 行业日报 | 2026年9月23日\n\n**1. OpenAI 发布 GPT-6 Sol 与 GPT-6 Luna 两款新模型**\n摘要：新模型延续旗舰 Astra 在专业工作、事实性、编码与对齐方面的前沿能力，更快更便宜，API 价格下调约 50",
+      "example_truncated": true
+    },
+    "推送时间": {
+      "field_id": "fldczxexmz",
+      "field_type": "text",
+      "physical_type": "string|null",
+      "stats": {
+        "null_count": 0,
+        "max_length": 19
+      },
+      "example": "2026-09-23 17:36:42"
+    },
+    "本地文件地址": {
+      "field_id": "fldDQ7NZhu",
+      "field_type": "text",
+      "physical_type": "string|null",
+      "stats": {
+        "null_count": 0,
+        "max_length": 62
+      },
+      "example": "D:/softinstall/AI/.qoder/ai-daily-brief/briefs/2026-09-23.md"
+    },
+    "来源": {
+      "field_id": "fldg4INo8R",
+      "field_type": "text",
+      "physical_type": "string|null",
+      "stats": {
+        "null_count": 0,
+        "max_length": 8
+      },
+      "example": "Qoder"
+    },
+    "标题": {
+      "field_id": "fld6GidRN3",
+      "field_type": "text",
+      "physical_type": "string|null",
+      "stats": {
+        "null_count": 0,
+        "max_length": 31
+      },
+      "example": "AI 科技早报 · 2026-09-23"
+    },
+    "消息ID": {
+      "field_id": "fldHe8LrEy",
+      "field_type": "text",
+      "physical_type": "string|null",
+      "stats": {
+        "null_count": 0,
+        "max_length": 35
+      },
+      "example": "om_x100b640d946fb480df96657241d4e1a"
+    },
+    "群聊": {
+      "field_id": "fldW6uMGtt",
+      "field_type": "text",
+      "physical_type": "string|null",
+      "stats": {
+        "null_count": 0,
+        "max_length": 17
+      },
+      "example": "【Claw】牛振东的AI架构师群聊"
+    }
+  }
+}
