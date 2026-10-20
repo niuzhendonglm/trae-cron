@@ -1,0 +1,254 @@
+<title>AI生态实用工具盘点与每日热点日报</title>
+<p>本文档为 AI 工具生态监测的沉淀文档，采用「总盘点库 + 每日日报」双模块结构：</p>
+<ul>
+<li><b>工具总盘点库</b>：按 插件类 / Skill类 / MCP类 / 模板库类 收录具备长期复用价值的高价值工具，持续增量更新；重复工具不重复入库，仅在有重大版本更新时补充更新记录。</li>
+<li><b>每日热点日报</b>：按日期倒序归档（最新日期在最上方），记录最近 24 小时工具生态新增动态，永久归档、支持历史回溯。</li>
+</ul>
+<p>监测范围：插件类、Skill类、MCP类、模板库类四类工具；平台国内优先（豆包、Trae、Qoder、WorkBuddy/CodeBuddy、文心一言、通义千问、讯飞星火、扣子、Dify），海外补充（ChatGPT、Claude、Cursor、GitHub Copilot、Zapier）。最近更新：2026-10-20。</p>
+<h1 seq="auto">工具总盘点库</h1>
+<p>标注「⭐重点推荐」的为经核实具备高落地价值、低使用门槛或生态标杆意义的工具。所有条目均附官方出处或可验证来源链接。</p>
+<h2 seq="auto">插件类</h2>
+<h3 seq="auto">扣子（Coze）</h3>
+<h4 seq="auto">扣子插件商店 ⭐重点推荐</h4>
+<ul>
+<li><b>基础信息</b>：扣子编程官方插件市场，属字节跳动扣子（Coze）智能体生态。官方出处：<a href="https://docs.coze.cn/guides_coze_store">扣子文档-探索商店</a>、<a href="https://docs.coze.cn/guides_plugin">插件介绍</a></li>
+<li><b>核心功能</b>：集中展示扣子官方插件与开发者自定义插件，覆盖链接读取、多模态处理、模型调用等能力，支持一键「添加到我的智能体」。解决智能体功能扩展难、重复造轮子的痛点，降低开发难度与成本。</li>
+<li><b>适用场景</b>：为文本模型智能体补充多模态能力（如阅读总结 PDF）；电商/客服智能体接入查询与工具类插件；企业内部快速组装业务智能体。</li>
+<li><b>落地案例</b>：抖音电商基于扣子搭建客服智能体体系，客服人效提升 50%、转人工率降低 5 个百分点以上（来源：<a href="https://docs.coze.cn/customers/douyindianshang">扣子官方案例页</a>，数据由客户方提供）。</li>
+<li><b>使用门槛</b>：使用插件免费（部分第三方插件付费）；零代码一键添加，无需技术开发；自行开发插件需一定 API 开发能力。</li>
+<li><b>优劣势总结</b>：优势是官方与社区双供给、与扣子智能体和工作流深度集成、国内生态活跃；局限是插件主要绑定扣子平台、跨平台移植性弱，付费插件质量参差。</li>
+</ul>
+<h3 seq="auto">豆包</h3>
+<h4 seq="auto">豆包浏览器插件</h4>
+<ul>
+<li><b>基础信息</b>：字节跳动豆包官方浏览器扩展。官方出处：<a href="https://www.doubao.com/browser-extension/">豆包浏览器插件官网</a>、<a href="https://www.doubao.com/browser-extension/landing">安装指引</a></li>
+<li><b>核心功能</b>：在浏览器任意网页呼出豆包 AI，完成网页阅读总结、划词问答、写作辅助等任务，把大模型能力嵌入日常浏览动线。解决跨标签页复制粘贴的效率损耗。</li>
+<li><b>适用场景</b>：长网页与文献快速总结；外文页面辅助阅读；边浏览边起草邮件与文案。</li>
+<li><b>落地案例</b>：暂无公开可查的企业落地案例；官方页面提供完整产品介绍与安装指引（见上方官方出处链接）。</li>
+<li><b>使用门槛</b>：免费；无需技术开发；Chrome 系浏览器按官方指引安装即可。</li>
+<li><b>优劣势总结</b>：优势是背靠豆包大模型、中文体验好、与豆包客户端及智能体生态互通；局限是分发受浏览器商店政策约束，功能深度不及独立客户端。</li>
+</ul>
+<h3 seq="auto">文心一言</h3>
+<h4 seq="auto">文心一言插件商城</h4>
+<ul>
+<li><b>基础信息</b>：百度文心一言官方插件生态（含开发者平台「灵境矩阵」）。权威报道：<a href="https://new.qq.com/rain/a/20231214A00SUI00">腾讯新闻（IT之家）</a>、<a href="http://difang.gmw.cn/hb/2023-09/16/content_36837007.htm">光明网「灵境矩阵」报道</a></li>
+<li><b>核心功能</b>：插件商城 2023 年 12 月上线，用户一键安装即可完成 PPT 生成、音视频提取、思维导图制作等多模态任务，主打「指令即服务」。原生插件含百度搜索、览卷文档、E 言易图、说图解画、一镜流影。</li>
+<li><b>适用场景</b>：办公提效（PPT/思维导图生成）；多模态内容理解与生成；专业信息查询。</li>
+<li><b>落地案例</b>：暂无公开可查的企业落地案例；现有公开信息为插件商城上线的媒体报道（见上方来源链接）。</li>
+<li><b>使用门槛</b>：用户端免费、一键安装、无需开发；开发者可通过灵境矩阵接入。</li>
+<li><b>优劣势总结</b>：优势是上线早、与百度搜索等自有能力结合紧密；局限是公开信息停留在 2023 年报道，当前产品形态可能已随改版调整，最新状态待官方说明核实。</li>
+</ul>
+<h3 seq="auto">Cursor</h3>
+<h4 seq="auto">Cursor Plugins 与插件市场 ⭐重点推荐</h4>
+<ul>
+<li><b>基础信息</b>：Cursor（Anysphere）官方插件体系与市场。官方出处：<a href="https://cursor.com/docs/plugins">Cursor Plugins 文档</a>、<a href="https://cursor.com/marketplace">Cursor Marketplace</a></li>
+<li><b>核心功能</b>：插件可打包 Rules、Skills、Agents、Commands、MCP Servers、Hooks 六类组件，一键安装即用；兼容 Agent Plugins 开放标准（plugin.json），规范插件可跨宿主加载。解决 AI 编程助手连接企业工具链的定制化问题。</li>
+<li><b>适用场景</b>：在 IDE 内直接读写 Atlassian/GitLab/Datadog 等研发协作系统；团队统一分发编码规范与内部工具；社区插件复用。</li>
+<li><b>落地案例</b>：Cursor 官方博客披露 Atlassian、Datadog、GitLab、Glean、Hugging Face、monday.com、PlanetScale 等 30 余家合作伙伴官方插件上架（来源：<a href="https://cursor.com/blog/new-plugins">Cursor 官方博客</a>）。</li>
+<li><b>使用门槛</b>：安装使用免费（Cursor 本体有免费与付费额度）；安装零代码；开发插件需了解 Git 仓库与 manifest 规范，提交市场需官方审核。</li>
+<li><b>优劣势总结</b>：优势是组件类型丰富、官方审核质量可控、兼容开放标准；局限是生态以海外为主、国内工具接入少，分发依赖 Cursor 平台审核。</li>
+</ul>
+<h3 seq="auto">浏览器效率（独立产品）</h3>
+<h4 seq="auto">沉浸式翻译 ⭐重点推荐</h4>
+<ul>
+<li><b>基础信息</b>：国产浏览器 AI 翻译扩展（独立团队产品）。官方出处：<a href="https://immersivetranslate.com/zh-Hans/">沉浸式翻译官网</a></li>
+<li><b>核心功能</b>：双语对照的网页/PDF/视频字幕/图片翻译，内置 ChatGPT、DeepL、DeepSeek、Gemini 等 20 余个翻译引擎，支持 100 多种语言。解决跨语言阅读来回切换、复制粘贴的痛点。</li>
+<li><b>适用场景</b>：科研人员研读外文文献与 PDF 论文；开发者查阅英文技术文档；跨境从业者与内容创作者处理多语种内容。</li>
+<li><b>落地案例</b>：官方博客宣布 2026 年 9 月全球激活用户突破 3000 万，并入选 Chrome 商店 2024 年度精选（来源：<a href="https://immersivetranslate.com/blog/30-million-users/">官方博客</a>）。</li>
+<li><b>使用门槛</b>：基础功能免费（另有付费会员服务）；浏览器商店一键安装，零开发。</li>
+<li><b>优劣势总结</b>：优势是双语对照体验成熟、多引擎可切换、全平台覆盖（Chrome/Edge/Safari/iOS/Android）；局限是高级引擎与功能需付费，翻译质量依赖所选第三方模型。</li>
+</ul>
+<h4 seq="auto">Monica / Sider</h4>
+<ul>
+<li><b>基础信息</b>：浏览器多模型 AI 助手（侧边栏形态）。官方出处：<a href="https://monica.im">Monica 官网</a>、<a href="https://sider.ai">Sider 官网</a>（两站均有反爬限制，信息以官方帮助文档与商店收录为准）</li>
+<li><b>核心功能</b>：在任意网页侧边栏调用 ChatGPT、DeepSeek、Claude 等多个大模型，完成写作、邮件起草、网页翻译、划词问答与代码辅助。解决多模型切换与 AI 能力脱离工作现场的痛点。</li>
+<li><b>适用场景</b>：邮件与文案即时起草；外文网页沉浸式对照阅读；在任意业务系统中就地提问与总结。</li>
+<li><b>落地案例</b>：暂无公开可查的企业落地案例；产品能力以官方帮助文档（网页翻译、写作等功能指引）为准。</li>
+<li><b>使用门槛</b>：免费额度加订阅付费；商店安装即用，零开发；可自配 API Key 接入更多模型。</li>
+<li><b>优劣势总结</b>：优势是多模型聚合、场景覆盖广、侧边栏不打断工作流；局限是核心能力依赖上游模型 API、付费墙较多。</li>
+</ul>
+<h2 seq="auto">Skill类</h2>
+<h3 seq="auto">Anthropic / Claude</h3>
+<h4 seq="auto">Claude Agent Skills ⭐重点推荐</h4>
+<ul>
+<li><b>基础信息</b>：Anthropic 官方 Agent Skills 体系。官方出处：<a href="https://platform.claude.com/docs/en/agents-and-tools/agent-skills/overview">Agent Skills 文档</a>、<a href="https://www.anthropic.com/news/skills">发布公告</a>、<a href="https://www.anthropic.com/engineering/equipping-agents-for-the-real-world-with-agent-skills">工程博客</a></li>
+<li><b>核心功能</b>：以「文件夹 + SKILL.md」形式封装指令、脚本与资源，Claude 按需动态加载，把流程性知识与组织上下文注入通用 Agent。解决重复提示、专业知识难复用与跨会话沉淀的痛点；已于 2025-12-18 发布为开放标准（agentskills.io）。</li>
+<li><b>适用场景</b>：文档处理自动化（官方预置 PPT/Excel/Word/PDF 技能）；企业内部 SOP 封装为可复用技能；品牌规范与合规流程注入 Agent。</li>
+<li><b>落地案例</b>：Anthropic 官方工程博客以 brand-guidelines、internal-comms 等真实技能示例，演示技能构建与内部使用最佳实践（来源：上方工程博客链接）。</li>
+<li><b>使用门槛</b>：在 claude.ai、Claude API、AWS、Microsoft Foundry 可用（按对应产品计费）；预置技能零代码；自定义技能只需会写 Markdown 加可选脚本，无需框架开发。</li>
+<li><b>优劣势总结</b>：优势是渐进式加载省上下文、开放标准可跨平台移植（Cursor 等已兼容）、官方持续维护；局限是深度绑定 Claude 模型生态，非 Claude 宿主需自行适配。</li>
+</ul>
+<h3 seq="auto">扣子（Coze）</h3>
+<h4 seq="auto">扣子技能与技能商店 ⭐重点推荐</h4>
+<ul>
+<li><b>基础信息</b>：扣子/扣子编程官方技能体系。官方出处：<a href="https://docs.coze.cn/guides_skill_overview">技能概述文档</a>、<a href="https://www.coze.cn/skills">技能商店</a></li>
+<li><b>核心功能</b>：技能（Skill）是含说明文件、元数据与脚本的模块化能力包，通过「渐进式披露」机制按需加载，让通用 Agent 变成垂直领域专家；技能商店提供官方技能、技能包与数据集，支持一键添加或订阅。解决专业知识碎片化、任务方案不可复用的痛点。</li>
+<li><b>适用场景</b>：行业能力打包（如投资分析技能包）；企业把业务 SOP 封装为技能供全员 Agent 调用；用自然语言对话式生成新技能文件包。</li>
+<li><b>落地案例</b>：孩子王基于扣子搭建 KidsGPT 智能育儿顾问，新增商品推荐、孕育通识等能力（来源：<a href="https://docs.coze.cn/customers_haiziwang">扣子官方案例页</a>）。</li>
+<li><b>使用门槛</b>：免费技能直接添加，付费技能需订阅；使用零代码；开发技能可用扣子 AI 对话式生成，无需手写文件。</li>
+<li><b>优劣势总结</b>：优势是国内生态中技能商店化运营最成熟、与扣子对话和工作流无缝集成、支持技能包组合；局限是技能主要在扣子体系内流转、跨平台复用受限。</li>
+</ul>
+<h3 seq="auto">Trae</h3>
+<h4 seq="auto">Trae 技能（Skills）</h4>
+<ul>
+<li><b>基础信息</b>：字节跳动 Trae（AI IDE）官方技能能力。官方出处：<a href="https://docs.trae.ai/ide/skills">Trae Skills 文档</a>、<a href="https://docs.trae.ai/ide/best-practice-for-how-to-write-a-good-skill">技能编写最佳实践</a></li>
+<li><b>核心功能</b>：每个 Skill 封装指令、脚本与相关资源，相当于给 Agent 的「专业说明书」，执行任务时按需加载，提升对特定场景的理解与执行能力。解决研发流程知识（代码规范、发布流程、框架套路）难以沉淀复用的痛点。</li>
+<li><b>适用场景</b>：研发场景复用（官方提供「研发场景十大热门 Skill 推荐」）；团队沉淀内部工程规范；通过斜杠命令或自然语言显式调用技能（如用 codemap 技能总结分支变更）。</li>
+<li><b>落地案例</b>：暂无公开可查的企业案例；官方文档提供技能创建、迭代与热门技能推荐的完整指引（见上方官方出处链接）。</li>
+<li><b>使用门槛</b>：随 Trae 提供，无需额外付费（模型用量按 Trae 套餐）；支持 AI 对话创建、手动创建与外部导入，无需深度开发。</li>
+<li><b>优劣势总结</b>：优势是与 IDE Agent 深度集成、支持导入外部技能（兼容主流技能格式）、中文文档完善；局限是生态较新，社区技能数量仍在积累。</li>
+</ul>
+<h3 seq="auto">Dify</h3>
+<h4 seq="auto">Dify 应用编排（Workflow / Agent）</h4>
+<ul>
+<li><b>基础信息</b>：Dify（开源 LLMOps 平台，LangGenius）。官方出处：<a href="https://dify.ai/zh">Dify 官网</a>、<a href="https://github.com/langgenius/dify">GitHub 仓库</a></li>
+<li><b>核心功能</b>：可视化画布编排 Agentic 工作流与 RAG 管道，节点涵盖模型调用、知识检索、工具、代码、分支、触发器与人工审核，应用可发布为网页应用、API 或 MCP 兼容工具。解决 AI 应用从原型到生产「逻辑不可见、难测试、难交接」的痛点。</li>
+<li><b>适用场景</b>：企业客服与知识问答应用；多步骤内容生产流水线；需要人工审核与合规审计的业务流程自动化。</li>
+<li><b>落地案例</b>：官网展示沃尔沃（VOLVO）、理光（RICOH）、马士基（MAERSK）等企业客户证言，其中 VOLVO 称 Dify 在其 AI 战略验证中「发挥无可替代的价值」（来源：<a href="https://dify.ai/zh">Dify 官网</a>）。</li>
+<li><b>使用门槛</b>：社区版开源免费（Apache-2.0，Docker 自部署，GitHub 158K+ Star）；云服务与企业版付费；拖拽式编排对非开发者友好，复杂集成需一定技术能力。</li>
+<li><b>优劣势总结</b>：优势是开源可私有化部署、插件市场与 MCP 集成丰富、国内外社区庞大；局限是自部署运维有成本，SSO/审计等企业级功能在付费版。</li>
+</ul>
+<h2 seq="auto">MCP类</h2>
+<h3 seq="auto">MCP 官方</h3>
+<h4 seq="auto">MCP 官方参考服务器仓库 ⭐重点推荐</h4>
+<ul>
+<li><b>基础信息</b>：MCP（Model Context Protocol）协议官方参考实现仓库，Anthropic 主导的开放协议。官方出处：<a href="https://modelcontextprotocol.io/examples">MCP 官方示例页</a>、<a href="https://github.com/modelcontextprotocol/servers">GitHub 仓库</a></li>
+<li><b>核心功能</b>：提供官方参考服务器（Everything、Fetch、Filesystem、Git、Memory、Sequential Thinking、Time），演示 MCP 的 tools/resources/prompts 核心能力与 SDK 用法，并在 README 维护「官方集成」与「社区服务器」目录。解决 MCP 生态入门与标准参照缺失的问题。</li>
+<li><b>适用场景</b>：学习 MCP 协议与 SDK 开发；为 Claude/Trae/Cursor 等宿主快速接入文件、Git、网页抓取等基础能力；以 npx/uvx 一条命令直接运行参考服务器。</li>
+<li><b>落地案例</b>：定位为参考实现，无商业落地案例；其中 Fetch、Filesystem、Memory 等服务器被各主流 IDE 广泛默认引用，2026-10-19 发布 v2.0.0 完成向新一代协议规范的整体迁移（来源：<a href="https://github.com/modelcontextprotocol/servers/releases/tag/v2.0.0">GitHub Release</a>）。</li>
+<li><b>使用门槛</b>：完全免费开源；TypeScript/Python 实现，npx/uvx 即可运行；使用无需开发，自研 Server 需一定编程能力。</li>
+<li><b>优劣势总结</b>：优势是协议正统参考、持续维护、社区目录是事实上的 MCP 导航站；局限是参考服务器功能基础，部分历史示例已归档不再维护。</li>
+</ul>
+<h3 seq="auto">Trae</h3>
+<h4 seq="auto">Trae MCP 市场 ⭐重点推荐</h4>
+<ul>
+<li><b>基础信息</b>：Trae IDE 内置 MCP 市场与配置体系。官方出处：<a href="https://docs.trae.ai/ide/add-mcp-servers">添加 MCP Server 文档</a></li>
+<li><b>核心功能</b>：在设置-MCP 中从市场一键添加热门 MCP Server，或手动配置 stdio/HTTP 类型 Server；支持本地与云端运行环境、项目级 mcp.json 与 Schema 链接一键安装。解决 MCP 配置繁琐、上手门槛高的痛点。</li>
+<li><b>适用场景</b>：AI 编程中接入 Figma、Playwright、地图等外部能力；团队按项目统一 MCP 配置；云端任务接入云端 MCP。</li>
+<li><b>落地案例</b>：火山引擎官方更新日志显示，Trae MCP 市场已接入火山引擎 MCP 市场 100+ 优质 MCP Server 并支持快捷配置（来源：<a href="https://www.volcengine.com/docs/86677/1836865">火山引擎文档</a>）。</li>
+<li><b>使用门槛</b>：随 Trae 免费提供；市场安装零代码；本地类 Server 需预装 NPX/UVX，部分服务需自备 API Key。</li>
+<li><b>优劣势总结</b>：优势是市场、手动、项目级三层接入方式完整，中文文档与教程齐全，与火山引擎生态联动；局限是市场收录以主流 Server 为主，长尾服务需手动配置。</li>
+</ul>
+<h3 seq="auto">GitHub</h3>
+<h4 seq="auto">GitHub 官方 MCP Server ⭐重点推荐</h4>
+<ul>
+<li><b>基础信息</b>：GitHub 官方提供并维护的 MCP Server。官方出处：<a href="https://docs.github.com/en/copilot/concepts/context/mcp">GitHub MCP 文档</a>、<a href="https://github.com/github/github-mcp-server">GitHub 仓库</a></li>
+<li><b>核心功能</b>：让任意 MCP 宿主（Copilot、Claude Code、Cursor 等）以结构化工具调用方式操作 GitHub：搜索仓库、管理 Issue、审查 PR、安全扫描等。解决 AI 工具与 GitHub 数据之间反复切换、上下文割裂的痛点。</li>
+<li><b>适用场景</b>：AI 编码助手内直接管理 PR/Issue；自动化代码审查与安全扫描；委托 Copilot Coding Agent 自主完成修复并开 PR。</li>
+<li><b>落地案例</b>：2025-09-04 远程版 GitHub MCP Server 正式 GA，引入 OAuth 2.1+PKCE、Copilot Coding Agent 与密钥扫描等能力（来源：<a href="https://github.blog/changelog/2025-09-04-remote-github-mcp-server-is-now-generally-available/">GitHub 官方 Changelog</a>），并推出 GitHub MCP Registry 作为发现入口。</li>
+<li><b>使用门槛</b>：免费开源（高级工具随 GitHub 付费许可）；远程版 OAuth 即连即用，无需本地环境；部分高级工具需 GHAS 等付费功能。</li>
+<li><b>优劣势总结</b>：优势是官方维护、认证安全（短时凭据）、覆盖研发全流程；局限是深度绑定 GitHub，高级安全工具与付费许可挂钩。</li>
+</ul>
+<h3 seq="auto">Figma</h3>
+<h4 seq="auto">Figma MCP Server</h4>
+<ul>
+<li><b>基础信息</b>：Figma 官方 MCP Server（远程版 + 桌面版）。官方出处：<a href="https://help.figma.com/hc/en-us/articles/39216419318551-Get-started-with-the-Figma-MCP-server">Figma MCP 帮助文档</a></li>
+<li><b>核心功能</b>：AI Agent 可读取 Figma 文件的组件、变量、布局等设计数据生成贴合设计系统的代码，也可反向写入 Figma（创建/更新组件与画布）。解决「设计稿到代码」还原失真、设计系统脱节的痛点。</li>
+<li><b>适用场景</b>：设计稿一键转前端代码；代码渲染结果回写 Figma 迭代；以设计系统为单一事实源的双向开发流。</li>
+<li><b>落地案例</b>：GitHub 官方 Changelog（2026-03-06）显示，Copilot 用户可通过 Figma MCP Server 从 VS Code 拉取设计上下文生成代码，并把渲染 UI 发回 Figma 成为可编辑图层（来源：<a href="https://github.blog/changelog/2026-03-06-figma-mcp-server-can-now-generate-design-layers-from-vs-code/">GitHub Changelog</a>）。</li>
+<li><b>使用门槛</b>：Beta 期间免费（官方说明未来将转为按用量付费）；需在支持 MCP 的客户端中配置；写入画布功能限 Professional 及以上套餐。</li>
+<li><b>优劣势总结</b>：优势是官方出品、读写双向能力、远程端点免本地部署；局限是套餐与席位限制较多，未来收费策略存在不确定性。</li>
+</ul>
+<h3 seq="auto">高德</h3>
+<h4 seq="auto">高德地图 MCP Server ⭐重点推荐</h4>
+<ul>
+<li><b>基础信息</b>：高德开放平台官方 MCP Server。官方出处：<a href="https://lbs.amap.com/api/mcp-server/summary">高德 MCP 概述</a></li>
+<li><b>核心功能</b>：将地理编码、逆地理编码、天气查询、多种路径规划、POI 搜索等 12+ 核心地图服务以 MCP 协议开放，并打通高德地图 APP，可一键生成「专属地图」、发起导航与打车。解决大模型出行数据时效性差、无法直接调度真实地图服务的痛点。</li>
+<li><b>适用场景</b>：AI 出行规划助手（攻略生成后一键导入高德 APP 导航）；智能体中的位置检索与天气查询；与通义灵码等编码工具组合定制地图应用。</li>
+<li><b>落地案例</b>：官方「应用案例」栏目提供「出行规划专属地图」与「高德 MCP + 通义灵码定制专属地图」两个案例（来源：<a href="https://lbs.amap.com/api/mcp-server/application-case/travel-planning-case">高德官方应用案例</a>）。</li>
+<li><b>使用门槛</b>：需注册高德开放平台开发者账号并创建 Web 服务 Key（免费额度按开放平台政策）；配置即用，无需自研服务端。</li>
+<li><b>优劣势总结</b>：优势是国内出行数据鲜度高、与高德 APP 闭环（导航/打车/订票）、官方持续迭代；局限是商用超量调用需购买开放平台服务，境外数据不覆盖。</li>
+</ul>
+<h3 seq="auto">百度地图</h3>
+<h4 seq="auto">百度地图 MCP Server</h4>
+<ul>
+<li><b>基础信息</b>：百度地图官方 MCP Server（国内首家兼容 MCP 协议的地图服务商）。官方出处：<a href="https://www.apollo.auto/news/16843">百度 Apollo 发布新闻</a>；开源包 mcp_server_baidu_maps 见<a href="https://juejin.cn/post/7494870286644265011">掘金社区文档</a></li>
+<li><b>核心功能</b>：将逆地理编码、地点检索、路线规划等 8 个核心 API 按 MCP 协议标准化封装，让大模型与 Agent 获得「定位置、查周边、画路径」能力。解决地图服务接入大模型需逐个适配 API 的痛点。</li>
+<li><b>适用场景</b>：智能体出行与位置服务；本地生活类 Agent 的周边检索；与国产智能体平台集成（已上架 vivo 蓝心智能体平台插件广场）。</li>
+<li><b>落地案例</b>：暂无公开可查的企业落地案例；官方发布报道与平台上架信息见上方来源链接。</li>
+<li><b>使用门槛</b>：开源免费，需百度地图开放平台 Key；按文档配置即可注入智能体，无需深度开发。</li>
+<li><b>优劣势总结</b>：优势是发布早（2025-03）、开源、国内平台适配广；局限是初期接口数量（8 个）少于竞品，能力扩展节奏需关注官方更新。</li>
+</ul>
+<h2 seq="auto">模板库类</h2>
+<h3 seq="auto">扣子（Coze）</h3>
+<h4 seq="auto">扣子模板商店 ⭐重点推荐</h4>
+<ul>
+<li><b>基础信息</b>：扣子编程官方模板中心。官方出处：<a href="https://docs.coze.cn/guides_template">模板文档</a>、<a href="https://www.coze.cn/template">模板商店入口</a></li>
+<li><b>核心功能</b>：汇集官方与开发者预先搭建的智能体模板、工作流模板，支持先对话体验、再一键复制到自己的工作空间改造，覆盖营销创作、智能客服、学习教育、零售提效等类目。解决从零搭建智能体成本高、缺少最佳实践参照的痛点。</li>
+<li><b>适用场景</b>：快速复刻「虚拟伴侣/客服/营销文案」类智能体并改提示词换场景；工作流模板试运行后接入自有智能体；学习官方编排范式。</li>
+<li><b>落地案例</b>：暂无模板商店专属公开案例；扣子平台级案例可参考探域电商智能体（来源：<a href="https://docs.coze.cn/customers_tanyu">扣子官方案例页</a>）。</li>
+<li><b>使用门槛</b>：浏览、体验与复制免费；零代码。</li>
+<li><b>优劣势总结</b>：优势是官方与社区供给、体验后复制的流程顺滑、类目贴合国内业务；局限是模板复制后的配置不再公开，深度定制仍需理解扣子编排逻辑。</li>
+</ul>
+<h3 seq="auto">Dify</h3>
+<h4 seq="auto">Dify Marketplace（模板市场 + 插件市场）⭐重点推荐</h4>
+<ul>
+<li><b>基础信息</b>：Dify 官方市场。官方出处：<a href="https://marketplace.dify.ai/templates">Dify Marketplace</a>、<a href="https://dify.ai/blog/dify-creator-center-template-marketplace-share-your-workflows">模板市场官方公告</a></li>
+<li><b>核心功能</b>：提供可一键导入 Dify 的工作流模板（DSL）与插件（模型供应商、工具、数据源、MCP 集成），配套 Creator Center 供创作者发布模板。解决工作流「导出文件、手动搬运」的分享难题，实现发现-试用-采纳闭环。</li>
+<li><b>适用场景</b>：直接套用「每日 AI 新闻摘要」「竞品情报」等现成模板；为 Dify 安装 Excel 分析、Agent 策略等插件；社区学习 DSL 编排写法。</li>
+<li><b>落地案例</b>：暂无单独客户案例；官方公告页描述创作者生态与联盟分成计划（来源：上方官方公告链接）。</li>
+<li><b>使用门槛</b>：免费；一键导入，无需开发；发布模板需注册创作者中心。</li>
+<li><b>优劣势总结</b>：优势是模板即 DSL 文件可版本化迁移、与开源社区联动、插件与模板双轨；局限是模板质量由社区决定，需自行甄别。</li>
+</ul>
+<h3 seq="auto">开源社区</h3>
+<h4 seq="auto">LangGPT 结构化 Prompt 框架</h4>
+<ul>
+<li><b>基础信息</b>：开源结构化提示词框架（云中江树 2023 年提出）。官方出处：<a href="https://github.com/langgptai/LangGPT">GitHub 仓库</a>、<a href="https://arxiv.org/abs/2402.16929">arXiv 论文</a></li>
+<li><b>核心功能</b>：把提示词设计变成「编程语言」：用角色、变量、命令、条件逻辑等模块化模板组织 Prompt，实现一次编写、多处复用。解决提示词散乱、不可复用、团队协作难的痛点。</li>
+<li><b>适用场景</b>：为智能体编写结构化系统提示词；团队沉淀 Prompt 资产；主流大模型已深度学习该范式，可直接「按 LangGPT 方式」生成提示词。</li>
+<li><b>落地案例</b>：暂无企业落地案例；框架拥有 arXiv 论文（2402.16929）与配套工具 Minstrel（arXiv:2409.13449）作为学术验证，GitHub 11000+ Star（来源：仓库 README）。</li>
+<li><b>使用门槛</b>：完全免费开源；纯 Markdown 模板，无需任何开发。</li>
+<li><b>优劣势总结</b>：优势是中文社区影响力最大的结构化提示词范式、有论文支撑、模型原生友好；局限是本身是范式而非平台，无托管与分发能力。</li>
+</ul>
+<h4 seq="auto">Awesome ChatGPT Prompts ⭐重点推荐</h4>
+<ul>
+<li><b>基础信息</b>：全球最知名的开源提示词库。官方出处：<a href="https://github.com/f/awesome-chatgpt-prompts">GitHub 仓库</a>、<a href="https://prompts.chat">prompts.chat 站点</a></li>
+<li><b>核心功能</b>：收录海量「扮演某角色」式提示词（兼容 ChatGPT、Claude、Gemini 等），提供网页浏览、CSV/Markdown 数据、Hugging Face 数据集、自托管、Claude Code 插件与 MCP Server 多种消费方式。解决找提示词靠零散搜索的痛点。</li>
+<li><b>适用场景</b>：为写作、编程、教学等任务快速取用成熟角色提示词；作为提示词数据集用于微调与评测；自建私有提示词库（官方提供 npx 自托管方案）。</li>
+<li><b>落地案例</b>：仓库 README 显示其被 Forbes 报道、哈佛大学与哥伦比亚大学引用、获 40+ 学术引用，143K+ Star、Hugging Face 最受欢迎数据集（来源：仓库首页）。</li>
+<li><b>使用门槛</b>：完全免费（提示词内容 CC0 公共领域）；复制即用，零开发。</li>
+<li><b>优劣势总结</b>：优势是体量与影响力最大、数据开放可自托管、持续演进（已支持 MCP）；局限是以英文提示词为主，角色扮演类提示在新模型上的边际收益下降。</li>
+</ul>
+<h3 seq="auto">飞书</h3>
+<h4 seq="auto">飞书模板中心（含 AI 模板）</h4>
+<ul>
+<li><b>基础信息</b>：飞书官方模板市场。官方出处：<a href="https://www.feishu.cn/template">飞书模板中心</a></li>
+<li><b>核心功能</b>：提供多维表格、飞书项目、aPaaS、表格、云文档、PPT、思维导图等全产品线的开箱即用模板，其中 AI 模板可作为文档 Block 按 Prompt 调用飞书智能伙伴生成并一键更新内容。解决业务系统与文档从零搭建、AI 内容重复生成的痛点。</li>
+<li><b>适用场景</b>：零售上架、CRM、工单等业务系统一键启用；「OKR 目标智能拆解管理」等 AI 模板做目标管理；多维表格加大模型搭建投资管理第二大脑。</li>
+<li><b>落地案例</b>：暂无公开可查的企业落地案例；模板本身即官方最佳实践载体，AI 模板示例见<a href="https://www.feishu.cn/template/ai-okr-decomposition-goal-management">OKR 智能拆解模板页</a>。</li>
+<li><b>使用门槛</b>：模板免费复制使用（需飞书账号，部分能力依赖飞书付费版本）；零代码。</li>
+<li><b>优劣势总结</b>：优势是与飞书协作套件深度绑定、AI 模板可重复更新、中文业务场景全；局限是强绑定飞书生态，模板难以迁移到其他平台。</li>
+</ul>
+<h3 seq="auto">Notion</h3>
+<h4 seq="auto">Notion AI 模板库</h4>
+<ul>
+<li><b>基础信息</b>：Notion 官方模板市场 AI 分类。官方出处：<a href="https://www.notion.com/zh-cn/templates/category/ai">Notion AI 模板库</a></li>
+<li><b>核心功能</b>：聚合 1000+ 个 AI 相关模板（AI 提示、AI 写作助手、AI 工具等），含官方与社区创作者作品，一键复制到工作空间即可使用。解决 AI 工作流（提示词管理、第二大脑、写作系统）搭建无参照的痛点。</li>
+<li><b>适用场景</b>：个人提示词库与 AI 工作流管理；AI 写作与内容生产 SOP；团队知识库加 Notion AI 组合。</li>
+<li><b>落地案例</b>：暂无公开可查的企业落地案例；官方提供模板提交与创作者生态机制。</li>
+<li><b>使用门槛</b>：免费模板一键复制（付费模板由创作者定价）；零代码；AI 功能需 Notion AI 订阅。</li>
+<li><b>优劣势总结</b>：优势是模板数量与创作者生态全球领先、中文模板增多；局限是 Notion 国内访问不稳定，AI 能力依赖 Notion AI 订阅。</li>
+</ul>
+<h1 seq="auto">每日热点日报</h1>
+<p>按日期倒序归档，最新日期置于本模块最上方。每日报固定包含：当日核心速览、热点工具详情、趋势短评。日报永久归档，支持历史回溯。</p>
+<h2 seq="auto">2026-10-20  AI工具热点日报</h2>
+<h3 seq="auto">当日核心速览</h3>
+<ol>
+<li>豆包鸿蒙版升级上线「工作任务」模式，办公 Agent 能力扩展至鸿蒙终端；DeepSeek 开放自研搜索引擎 API，Agent 检索迎来国产新基建。</li>
+<li>MCP 官方参考服务器仓库发布 v2.0.0，全面迁移至新一代协议规范，MCP 生态代际升级有了参照基线。</li>
+<li>GitHub Copilot 一次性退役 6 个模型并正式 GA 企业级模型策略 API，多模型治理成为平台竞争焦点。</li>
+</ol>
+<h3 seq="auto">热点工具详情</h3>
+<ol>
+<li><b>豆包鸿蒙版升级：「工作任务」模式上线</b>（插件类/办公 Agent｜字节跳动｜2026-10-20）<br/>核心动态：鸿蒙版豆包升级搭载豆包 2.1 Lite/2.1 Pro 双模型，上线标准/加强/高级三档订阅，落地长资料分析、多步骤办公的「工作任务」模式。<br/>核心价值：办公 Agent 能力扩展至鸿蒙生态终端，从问答助手向办公生产力深入。<br/>信息来源：<a href="http://m.163.com/dy/article/L9MJCSJB05199NPP.html">21世纪经济报道（网易号转载）</a></li>
+<li><b>DeepSeek 开放自研搜索引擎 API</b>（MCP类/工具链基建｜DeepSeek｜2026-10-17 至 18）<br/>核心动态：发布 V4.1-Flash-1017 并开放 Search/Fetch 两个接口（每千次调用 5 元，11 月 1 日前免费），索引规模达千亿级网页，主动过滤 SEO 作弊与低质 AI 内容。<br/>核心价值：为 Agent 检索与 MCP 工具链提供直接可用的国产搜索基础设施。<br/>信息来源：<a href="https://www.qbitai.com/2026/10/504067.html">量子位</a></li>
+<li><b>WorkBuddy 5.8.3 发布，企业微信融合深化</b>（Skill类/企业 Agent｜腾讯｜2026-10-19）<br/>核心动态：5.8.3 修复账号刷新串号、企微助理会话入口回退、沙箱内存膨胀等稳定性问题；第三方实测记录其以企业微信机器人形态打通消息/文件/会议/邮件/日程。<br/>核心价值：AI Agent 嵌入企业 IM 的真实落地样本，长时运行与企业网络环境可靠性提升。<br/>信息来源：<a href="https://www.workbuddy.cn/docs/workbuddy/Changelog">WorkBuddy 官方更新日志</a></li>
+<li><b>千问AI平台模型广场连续上新</b>（生态动态｜阿里｜2026-10-18 至 19）<br/>核心动态：先后上架 DeepSeek-V4.1-Flash-1017（552B MoE、1M 上下文）与小米 mimo-v2.6-pro-ultraspeed（同质量下输出速度约提升 10 倍，面向智能体工作流优化）。<br/>核心价值：持续聚合头部第三方模型，强化 Agent 与编程场景的低延迟供给。<br/>信息来源：<a href="https://platform.qianwenai.com/docs/changelog/models">千问AI平台模型发布记录</a></li>
+<li><b>MiniMax M3.1 Flash 发布</b>（模型/生态动态｜MiniMax｜2026-10-19）<br/>核心动态：新一代 Flash 模型正式发布，Agentic 任务、编程、Computer Use 能力代际提升，线上推理速度提升近 3 倍。<br/>核心价值：为 Agent 场景提供低延迟新选项。<br/>信息来源：<a href="http://news.qq.com/rain/a/20261020A07HCB00">腾讯新闻</a></li>
+<li><b>讯飞星火 X2.6 与「云+端」协同方案预告</b>（功能预告｜科大讯飞｜10-22 发布）<br/>核心动态：官宣 2026 全球 1024 开发者节 10 月 22 日启幕，主论坛将发布星火 X2.6 与基于全国产算力的「云+端」协同方案，以「Token+Agent」升级开发者生态。<br/>核心价值：端云协同加全国产算力路线的下一代星火生态即将落地，未来 48 小时最值得跟踪的国内发布。<br/>信息来源：<a href="https://m.36kr.com/newsflashes/4025527364063362">36氪快讯</a></li>
+<li><b>MCP 官方服务器仓库 v2.0.0 发布</b>（MCP类｜modelcontextprotocol｜2026-10-19）<br/>核心动态：4 个 TypeScript 参考服务器迁移至 TS SDK v2 发布 2.0.0，3 个 Python 服务器以 CalVer 2026.10.19 发布，同时兼容 2026-07-28 与 2025-11-25 两个协议时代。<br/>核心价值：官方完成向新一代 MCP 规范的切换，为生态升级提供双时代兼容的参考实现基线。<br/>信息来源：<a href="https://github.com/modelcontextprotocol/servers/releases/tag/v2.0.0">GitHub Release</a></li>
+<li><b>GitHub Copilot 模型策略 API GA 与 6 模型退役</b>（插件类/企业治理｜GitHub｜2026-10-19）<br/>核心动态：企业/组织四级模型策略 API 正式 GA，同日起退役 Gemini 3.7 Flash、GPT-5.5 等 6 个模型并给出新一代替代映射。<br/>核心价值：企业可用代码化方式统一治理 Copilot 可用模型范围，Agent 时代治理基础设施补强。<br/>信息来源：<a href="https://github.blog/changelog/2026-10-19-copilot-model-policy-api-for-enterprise-orgs-and-teams">GitHub Changelog</a></li>
+<li><b>Claude Code v2.1.304 发布</b>（Skill类/编码 Agent｜Anthropic｜2026-10-19）<br/>核心动态：新增 /auto-mode-setup 与 Managed Agents 安全审计命令，修复 plugin/skill/hook 与 MCP 连接问题（含云端同步 skill 安装失败）。<br/>核心价值：强化 auto mode 落地与安全审计，持续打磨插件与技能生态稳定性。<br/>信息来源：<a href="https://github.com/anthropics/claude-code/releases/tag/v2.1.304">GitHub Release</a></li>
+</ol>
+<h3 seq="auto">趋势短评</h3>
+<p>MCP 官方服务器全面迁移至新规范，协议代际升级加速；企业多模型治理（Copilot 策略 API）与办公 Agent 落地（豆包工作任务、WorkBuddy×企业微信）成两大主线；国产搜索基建加速向 Agent 生态开放。</p>
