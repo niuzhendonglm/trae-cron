@@ -1,0 +1,35 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "has_more": false,
+    "messages": [
+      {
+        "chat_id": "oc_6d4bd9ff5610d41f107d41de36d0a191",
+        "content": "万向阳 invited 朱鹏飞 to the group. New members can view all chat history.",
+        "create_time": "2026-10-21 09:11",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_6d4bd9ff5610d41f107d41de36d0a191\u0026position=26",
+        "message_id": "om_x100b62bc55e624acc05706f12ca3a3a",
+        "message_position": "26",
+        "msg_type": "system",
+        "sender": {
+          "id": "",
+          "id_type": "",
+          "sender_type": "",
+          "tenant_key": ""
+        },
+        "updated": false
+      }
+    ],
+    "page_token": "",
+    "total": 1
+  },
+  "meta": {
+    "pagination": {
+      "complete": true,
+      "pages": 1,
+      "items": 1
+    }
+  }
+}

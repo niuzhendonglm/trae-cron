@@ -1,0 +1,41 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "has_more": false,
+    "messages": [
+      {
+        "chat_id": "oc_127eefba071997fecbda78dc3d991484",
+        "content": "\u003ccard title=\"新机型照片上传\"\u003e\n**线体：**仙海湖1线-组装段\n**产品编码：**01951326\n**产品型号：**-\n**任务令：**ZYPO265091902\n**照片：**共 1 张\n🖼️ 照片1(img_key:img_v3_0216m_7afece5e-6481-4842-ab75-c4d769628ebg)\n\u003c/card\u003e",
+        "create_time": "2026-10-21 00:38",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_127eefba071997fecbda78dc3d991484\u0026position=5048",
+        "message_id": "om_x100b62b4d80960b0df17a70f1fcac0e",
+        "message_position": "5048",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_c08abc1da138d00f",
+          "id_type": "app_id",
+          "name": "测试机器人",
+          "open_bot_id": "ou_0b78c33289da085c70c0ef176b0f522d",
+          "sender_i18n_names": {
+            "en_us": "测试机器人",
+            "zh_cn": "测试机器人"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      }
+    ],
+    "page_token": "",
+    "total": 1
+  },
+  "meta": {
+    "pagination": {
+      "complete": true,
+      "pages": 1,
+      "items": 1
+    }
+  }
+}

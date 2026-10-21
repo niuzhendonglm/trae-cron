@@ -1,0 +1,64 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "has_more": false,
+    "messages": [
+      {
+        "chat_id": "oc_0d24d8023caef438d91aefedf77410b8",
+        "content": "\u003ccard title=\"Nomi 心跳检查报告 - 2026-10-21 07:28\"\u003e\n⏰ **今日日程**\n| 时间 | 会议 | 组织者 |\n|------|------|--------|\n| 09:00-09:30 | 济南工单异常AI项目每日例会 | 沈霜 |\n| 09:30-10:00 | 【济南AI】高压接线防反进度对齐 | 牛振东 |\n| 10:00-11:00 | 开发 | 牛振东 |\n| 10:00-10:30 | 岳阳预测性维护进度对齐周会 | 安文斌 |\n| 15:00-17:00 | 开发 | 牛振东 |\n\n⚠️ **时间冲突：** 10:00-10:30 开发 vs 岳阳预测性维护进度对齐周会\n\n📋 **待办任务状态**\n- ✅ 今日到期：无\n- ❌ 逾期：运维日报 - 2026-10-14（逾期6天，含济南服务器https配置、OMS授权方案等）\n      【团队】开发看板数据更新（10-19逾期2天，另有多期）\n- ⭐ 最近到期：10-26（5天后）开发看板数据更新\n---\n📝 Nomi 主动汇报 🤖\n\u003c/card\u003e",
+        "create_time": "2026-10-20 23:29",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_0d24d8023caef438d91aefedf77410b8\u0026position=66",
+        "message_id": "om_x100b624bdbf550a0dd7bd59ac59e1e9",
+        "message_position": "66",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a9630741047a1cb1",
+          "id_type": "app_id",
+          "name": "牛振东的智能助手",
+          "open_bot_id": "ou_c8b9500a3166c6e6e7d2613c870c09d1",
+          "sender_i18n_names": {
+            "en_us": "牛振东的智能助手",
+            "zh_cn": "牛振东的智能助手"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_0d24d8023caef438d91aefedf77410b8",
+        "content": "\u003ccard title=\"Nomi 心跳检查报告 - 2026-10-21 13:28\"\u003e\n⏰ **下午日程**\n| 时间 | 会议 | 组织者 |\n|------|------|--------|\n| 15:00-17:00 | 开发 | 牛振东 |\n| 18:00-19:00 | AI 需求调研讨论 | 柴亚通 |\n\n📋 **待办任务状态**\n- ✅ 今天到期：无\n- ❌ 逾期：数字化大讲堂（逾期47天）、AI Coding规范调研（逾期56天）等多个长期逾期\n- ⚠️ **明天到期：** 开发看板数据更新（10-22）\n- ℹ️ 运维日报任务**已不在待办列表**中（或已清理）\n---\n📝 Nomi 主动汇报 🤖\n\u003c/card\u003e",
+        "create_time": "2026-10-21 04:59",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_0d24d8023caef438d91aefedf77410b8\u0026position=67",
+        "message_id": "om_x100b62b024e420a8de4b3202c566f79",
+        "message_position": "67",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a9630741047a1cb1",
+          "id_type": "app_id",
+          "name": "牛振东的智能助手",
+          "open_bot_id": "ou_c8b9500a3166c6e6e7d2613c870c09d1",
+          "sender_i18n_names": {
+            "en_us": "牛振东的智能助手",
+            "zh_cn": "牛振东的智能助手"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      }
+    ],
+    "page_token": "",
+    "total": 2
+  },
+  "meta": {
+    "pagination": {
+      "complete": true,
+      "pages": 1,
+      "items": 2
+    }
+  }
+}

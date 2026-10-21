@@ -1,0 +1,136 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "has_more": false,
+    "messages": [
+      {
+        "chat_id": "oc_aaae0c7199ed3529b97ab387a50de4c8",
+        "content": "石峰 invited 刘宏宇, 曹丽, 蔺雨桐, 牛振东 to the chat.",
+        "create_time": "2026-10-21 01:35",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_aaae0c7199ed3529b97ab387a50de4c8\u0026position=1",
+        "message_id": "om_x100b62b521b390a8de4e3b69b4dc8b5",
+        "message_position": "1",
+        "msg_type": "system",
+        "sender": {
+          "id": "",
+          "id_type": "",
+          "sender_type": "",
+          "tenant_key": ""
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_aaae0c7199ed3529b97ab387a50de4c8",
+        "content": "石峰 invited 推送机器人 to the group. New members can view all chat history.",
+        "create_time": "2026-10-21 01:36",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_aaae0c7199ed3529b97ab387a50de4c8\u0026position=2",
+        "message_id": "om_x100b62b53d46d0b0c0e6745d8f5041b",
+        "message_position": "2",
+        "msg_type": "system",
+        "sender": {
+          "id": "",
+          "id_type": "",
+          "sender_type": "",
+          "tenant_key": ""
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_aaae0c7199ed3529b97ab387a50de4c8",
+        "content": "石峰 invited 姜志俊 to the group. New members can view all chat history.",
+        "create_time": "2026-10-21 01:58",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_aaae0c7199ed3529b97ab387a50de4c8\u0026position=3",
+        "message_id": "om_x100b62b58d5650b0c0bf4617d50ebf2",
+        "message_position": "3",
+        "msg_type": "system",
+        "sender": {
+          "id": "",
+          "id_type": "",
+          "sender_type": "",
+          "tenant_key": ""
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_aaae0c7199ed3529b97ab387a50de4c8",
+        "content": "石峰 invited 龚有铭, 谢石 to the group. New members can view all chat history.",
+        "create_time": "2026-10-21 02:22",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_aaae0c7199ed3529b97ab387a50de4c8\u0026position=4",
+        "message_id": "om_x100b62b6511c94b0dfdcdd3a657fc38",
+        "message_position": "4",
+        "msg_type": "system",
+        "sender": {
+          "id": "",
+          "id_type": "",
+          "sender_type": "",
+          "tenant_key": ""
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_aaae0c7199ed3529b97ab387a50de4c8",
+        "content": "@谢石 谢工，根据产品型号还是产品编码能判断机柜是什么柜型么（比如隔离柜、手工旁路柜）",
+        "create_time": "2026-10-21 06:57",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_6c2722faba9a986dcabdca91ad32a194",
+            "key": "@_user_1",
+            "name": "谢石"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_aaae0c7199ed3529b97ab387a50de4c8\u0026position=5",
+        "message_id": "om_x100b62b26816847cb4c355d1c64a932",
+        "message_position": "5",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_b65f0fe76c977aeb934b207a067ac8d5",
+          "id_type": "open_id",
+          "name": "石峰",
+          "sender_i18n_names": {
+            "en_us": "shifeng"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-21 06:57",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_aaae0c7199ed3529b97ab387a50de4c8",
+        "content": "晚点回复你了",
+        "create_time": "2026-10-21 06:59",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_aaae0c7199ed3529b97ab387a50de4c8\u0026position=6",
+        "message_id": "om_x100b62b2636f18b0b4c95d497b4e58b",
+        "message_position": "6",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_6c2722faba9a986dcabdca91ad32a194",
+          "id_type": "open_id",
+          "name": "谢石",
+          "sender_i18n_names": {
+            "en_us": "xieshi"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      }
+    ],
+    "page_token": "",
+    "total": 6
+  },
+  "meta": {
+    "pagination": {
+      "complete": true,
+      "pages": 1,
+      "items": 6
+    }
+  }
+}

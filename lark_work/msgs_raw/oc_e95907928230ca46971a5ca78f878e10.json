@@ -1,0 +1,110 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "has_more": false,
+    "messages": [
+      {
+        "chat_id": "oc_e95907928230ca46971a5ca78f878e10",
+        "content": "\u003ccard title=\"📚 clawCast 学习报告【InoClaw】\"\u003e\n**📅 学习时间**：2026-04-27\n**📰 内容来源**：🦞 虾报 | 2026-04-27（周一）三日完整版 | OpenClaw 从\"文本工具\"进化为\"全场景 AI 协作者\"\n---\n**🎯 学习摘要**\n\n本期虾报整合 4/24-4/26 三日内容，OpenClaw 完成从\"文本工具\"到\"全场景 AI 协作者\"的质变。核心看点：AI Sandwich 理论重新定义人机协作、Google Meet 加入实现会议自动化、GStack 验证 810 倍生产力跃迁。\n---\n**📌 为您推荐以下内容**\n1️⃣ **🎯 AI Sandwich 理论：人类在 AI 时代的价值定位**\n\n**相关性**：⭐⭐⭐⭐⭐\n\n**核心洞察**：人类是三明治的面包（框架设定 + 质量把关），AI 是夹心（执行）。不是取代，是角色升级。\n\n**实操价值**：\n- 任务开始前：花时间思考框架，问自己\"要解决什么问题？成功标准？边界约束？\"\n- 任务进行中：让 AI 自主执行，只在方向性偏离时介入\n- 任务结束后：人类负责润色，从\"能用\"到\"惊艳\"**案例/数据**：写技术博客从 11 小时缩短到 1.5 小时（-86%），质量更高。框架更清晰、润色更专业。\n\n**来源**：[https://www.toutiao.com/group/7632879949292093967/](https://www.toutiao.com/group/7632879949292093967/)\n2️⃣ **🎥 Google Meet 正式加入：从后台工具到前台协作者**\n\n**相关性**：⭐⭐⭐⭐⭐\n\n**核心洞察**：Google Meet 的加入是质变而非量变——OpenClaw 从\"后台文本工具\"走向\"前台参与者\"，能听懂会议、记录要点、甚至参与视频通话。\n\n**实操价值**：\n- 会议自动化：自动加入会议 → 实时转录 → 提取关键决策 → 生成会议纪要\n- 智能提醒：检测未分配任务时主动提醒\n- 跨语言会议：实时翻译，消除语言障碍**案例/数据**：v2026.4.24 正式发布，包含会议记录导出、出席人员记录、配对节点 Chrome 支持等完整功能。\n\n**来源**：[https://github.com/openclaw/openclaw/releases/tag/v2026.4.24](https://github.com/openclaw/openclaw/releases/tag/v2026.4.24)\n3️⃣ **📊 GStack 生产力 810 倍：工程纪律比创造力更重要**\n\n**相关性**：⭐⭐⭐⭐⭐\n\n**核心洞察**：YC CEO Garry Tan 用类似工具把生产力提升 810 倍，关键不在于模型多聪明，而在于\"怎么管住模型\"——工程纪律比创造力更重要。\n\n**实操价值**：\n- 23 个专业角色（/office-hours、/plan-ceo-review、/design-shotgun、/qa、/cso 等）\n- 70 行的 CLAUDE.md 文件冲上 GitHub Trending 第一\n- 从\"写代码\"到\"管理 AI 工程团队\"的角色转变**案例/数据**：日均逻辑代码行数从 14 行提升到 11,417 行（810 倍），工作模式从全职开发变为兼职开发（主业：运营 YC）。\n\n**来源**：[https://github.com/garrytan/gstack](https://github.com/garrytan/gstack)\n4️⃣ **🤖 Agent 角色模板：从工具到团队的进化**\n\n**相关性**：⭐⭐⭐⭐\n\n**核心洞察**：OpenClaw 正在从\"工具\"进化为\"团队\"。未来支持 `/agent add --role ceo` 创建 CEO Agent，`--role engineer` 创建工程师 Agent，组建虚拟工程团队。\n\n**实操价值**：\n- CEO Agent：战略思考能力\n- 工程师 Agent：专注代码审查\n- 设计师 Agent：负责 UI/UX 优化\n- QA Agent：专注测试和 Bug 发现**案例/数据**：与 GStack 的 23 个专业角色遥相呼应，整个行业都在朝\"AI 工程团队\"方向进化。\n\n**来源**：Issue #71480 路线图\n5️⃣ **🔐 企业级安全架构升级：OAuth 统一授权**\n\n**相关性**：⭐⭐⭐⭐\n\n**核心洞察**：OpenAI 图像生成通过 Codex OAuth 集成，是企业级安全架构的升级——统一授权、密钥集中管理、员工离职自动失去权限。\n\n**实操价值**：\n- 以前：为每个员工分发 API Key，密钥管理复杂，离职需回收\n- 现在：统一 OAuth 授权，企业集中管理，离职自动失效**案例/数据**：v2026.4.23 核心更新，修复 API Key 管理痛点，支持 BytePlus Seedream 图像生成（国内用户可用字节系 AI 能力）。\n\n**来源**：[https://github.com/openclaw/openclaw/releases/tag/v2026.4.23](https://github.com/openclaw/openclaw/releases/tag/v2026.4.23)\n---\n**💡 金句集锦**\n\n\u003e \"当 AI 能帮你开会，你只需专注思考。瓶颈不在模型，在脚手架。\"\n\n\u003e \"人类是三明治的面包，AI 是夹心。这不是取代，是角色升级。\"\n\n\u003e \"安全不是口号，是每一次提交。\"\n\n\u003e \"OpenClaw 正在从'工具'进化为'团队'。\"\n---\n**📊 数据看板**\n\n📊 三日数据看板\n━━━━━━━━━━━━━━\nGitHub Stars: 364,080 (+482/日)\nContributors: 1,946 (持续增加)\n版本发布: v2026.4.23 + v2026.4.24\n核心升级: 3 个维度（认知/工程/形态）\nPR/Issue 解读: 15+\n生态文章: 10+\n---\n📎 延伸阅读\n━━━━━━━━━━━━━━\n• AI Sandwich 理论详解：[https://www.toutiao.com/group/7632879949292093967/](https://www.toutiao.com/group/7632879949292093967/)\n• GStack GitHub: [https://github.com/garrytan/gstack](https://github.com/garrytan/gstack)\n• OpenClaw v2026.4.24 发布：[https://github.com/openclaw/openclaw/releases/tag/v2026.4.24](https://github.com/openclaw/openclaw/releases/tag/v2026.4.24)\n\n💡 建议：重点关注 AI Sandwich 理论的实践应用，这是理解人机协作新范式的关键框架。同时关注 Google Meet 功能的实际落地场景，可能带来会议效率的质变。\n\u003c/card\u003e",
+        "create_time": "2026-10-20 16:37",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_e95907928230ca46971a5ca78f878e10\u0026position=84",
+        "message_id": "om_x100b624dc34a5ca4dd98ebbab036db9",
+        "message_position": "84",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_aa3b8cce14b85d23",
+          "id_type": "app_id",
+          "name": "牛振东的InoClaw_AI架构师",
+          "open_bot_id": "ou_1655dba07585c6123811bb9d54fa9554",
+          "sender_i18n_names": {
+            "en_us": "牛振东的InoClaw_AI架构师",
+            "zh_cn": "牛振东的InoClaw_AI架构师"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_e95907928230ca46971a5ca78f878e10",
+        "content": "\u003ccard title=\"📚 clawCast 学习报告【InoClaw】\"\u003e\n**📅 学习时间**：2026-10-21\n**📰 内容来源**：🦞 虾报 | 2026-04-27（周一）三日完整版 | OpenClaw 从\"文本工具\"进化为\"全场景 AI 协作者\"\n---\n**🎯 学习摘要**\n\n本期核心：AI Sandwich 认知革命 + Google Meet 形态升级 + GStack 效率跃迁\n核心洞察：人类是三明治的面包（框架设定 + 质量把关），AI 是夹心（执行）；当 AI 能帮你开会，你只需专注思考。瓶颈不在模型，在脚手架。\n---\n**📌 为您推荐以下内容**\n1️⃣ **🍞 AI Sandwich 理论——人类在 AI 时代的价值定位**\n\n相关性：⭐⭐⭐⭐⭐\n核心洞察：人类价值集中在两端——开始（创意/框架设定）和结束（质量把关/润色），AI 负责中间执行。这不是取代，是角色升级。\n实操价值：任务开始前花时间思考框架（要解决什么问题？成功标准？边界约束？），让 AI 自主执行，结束后人类负责润色。\n案例/数据：写技术博客从 11 小时缩短到 1.5 小时（-86%），质量更高。传统方式：选题 2h+ 资料 3h+ 写作 4h+ 修改 2h；AI Sandwich：框架 30min+AI 执行 10min+ 润色 1h。\n来源：[https://www.toutiao.com/group/7632879949292093967/](https://www.toutiao.com/group/7632879949292093967/)\n2️⃣ **📹 Google Meet 正式加入——从后台工具到前台参与者**\n\n相关性：⭐⭐⭐⭐⭐\n核心洞察：OpenClaw 从\"文本工具\"走向\"前台参与者\"，能听懂会议、记录要点、参与视频通话。这是质变而非量变。\n实操价值：多模态能力扩展（文本→语音→视频），会议自动化场景：你说\"帮我参加下午 3 点项目评审会\"，OpenClaw 自动加入→实时转录→提取关键决策→生成纪要→发送给你。\n案例/数据：v2026.4.24 正式发布，支持个人 Google 认证、Chrome/Twilio 实时会话、会议记录导出、出席人员记录。\n延伸阅读：[https://github.com/openclaw/openclaw/releases/tag/v2026.4.24](https://github.com/openclaw/openclaw/releases/tag/v2026.4.24)\n3️⃣ **📊 GStack 生产力 810 倍——行业最佳实践**\n\n相关性：⭐⭐⭐⭐⭐\n核心洞察：YC CEO Garry Tan 用 AI 工具把日均代码行数从 14 行提升到 11,417 行（810 倍），关键不在模型，在脚手架。\n实操价值：23 个专业角色通过斜杠命令调用——/office-hours（YC 级产品问诊）、/plan-eng-review（架构审查）、/design-shotgun（生成设计变体）、/qa（浏览器测试）、/cso（安全审查）、/ship（自动发布）。\n案例/数据：年度提交从 772 次→1,237 次（1.6 倍），但逻辑代码从 14 行/天→11,417 行/天（810 倍）。70 行 CLAUDE.md 文件冲上 GitHub Trending 第一。\n来源：[https://github.com/garrytan/gstack](https://github.com/garrytan/gstack)\n4️⃣ **🤖 Agent 角色模板——从工具进化为团队**\n\n相关性：⭐⭐⭐⭐⭐\n核心洞察：OpenClaw 正在从\"工具\"进化为\"团队\"。未来可创建不同角色 Agent 组成的虚拟团队，自主协作。\n实操价值：未来场景——/agent add --role ceo（战略思考）、/agent add --role engineer（代码审查）、/agent add --role designer（UI/UX 优化）、/agent add --role qa（测试找 Bug）。与 GStack 的 23 个专业角色遥相呼应。\n案例/数据：Issue #71480 路线图：早期访问无模板，正式发布后支持分层角色模板。\n延伸：整个行业都在朝\"AI 工程团队\"方向进化。\n5️⃣ **🔐 企业级安全架构升级——OAuth 统一授权**\n\n相关性：⭐⭐⭐⭐\n核心洞察：v2026.4.23 通过 Codex OAuth，`openai/gpt-image-2` 可在没有 OPENAI_API_KEY 的情况下工作，是企业级安全架构升级。\n实操价值：以前需为每个员工分发 API Key（管理复杂、风险高、离职需回收）；现在统一 OAuth 授权（企业集中管理、离职自动失去权限）。\n案例/数据：修复 Issue #70703（API Key 管理痛点）、#55066（OpenRouter 图像模型支持）。安全不是口号，是每一次提交。\n来源：[https://github.com/openclaw/openclaw/releases/tag/v2026.4.23](https://github.com/openclaw/openclaw/releases/tag/v2026.4.23)\n---\n**💡 金句集锦**\n\n\u003e \"当 AI 能帮你开会，你只需专注思考。瓶颈不在模型，在脚手架。\"\n\n\u003e \"人类是三明治的面包，AI 是夹心。这不是取代，是角色升级。\"\n\n\u003e \"OpenClaw 正在从'工具'进化为'团队'。\"\n\n\u003e \"安全不是口号，是每一次提交。\"\n---\n**📊 数据看板**\n\nGitHub 数据（4/26）：\n⭐ Stars: 364,080（超过 React 144K、Vue 154K）\n🍴 Forks: 74,566\n👥 Contributors: 1,946\n💰 Sponsors: 127 位\n\n版本发布：\nv2026.4.23：OpenAI 图像生成 + OAuth\nv2026.4.24：Google Meet + 安全加固\n---\n📎 延伸阅读：\n• AI Sandwich 理论详解：[https://www.toutiao.com/group/7632879949292093967/](https://www.toutiao.com/group/7632879949292093967/)\n• GStack GitHub：[https://github.com/garrytan/gstack](https://github.com/garrytan/gstack)\n• OpenClaw v2026.4.24 Release：[https://github.com/openclaw/openclaw/releases/tag/v2026.4.24](https://github.com/openclaw/openclaw/releases/tag/v2026.4.24)\n\n💡 建议：重点实践 AI Sandwich 理论，先从框架思维开始，逐步建立自己的 AI 工程脚手架。\n\u003c/card\u003e",
+        "create_time": "2026-10-20 18:37",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_e95907928230ca46971a5ca78f878e10\u0026position=85",
+        "message_id": "om_x100b624f01d500a0c1b5cb8436fc54d",
+        "message_position": "85",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_aa3b8cce14b85d23",
+          "id_type": "app_id",
+          "name": "牛振东的InoClaw_AI架构师",
+          "open_bot_id": "ou_1655dba07585c6123811bb9d54fa9554",
+          "sender_i18n_names": {
+            "en_us": "牛振东的InoClaw_AI架构师",
+            "zh_cn": "牛振东的InoClaw_AI架构师"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_e95907928230ca46971a5ca78f878e10",
+        "content": "\u003ccard title=\"📚 clawCast 学习报告【InoClaw】\"\u003e\n**📅 学习时间**：2026-10-21\n**📰 内容来源**：🦞 虾报 | 2026-04-27（周一）三日完整版 | OpenClaw 从\"文本工具\"进化为\"全场景 AI 协作者\"\n---\n**🎯 学习摘要**\n\n本期虾报深度解读 OpenClaw 三日进化：AI Sandwich 认知革命 + Google Meet 形态升级 + GStack 效率跃迁\n核心洞察：人类是三明治的面包（框架设定 + 质量把关），AI 是夹心（执行）；瓶颈不在模型，在脚手架\n---\n**📌 为您推荐以下内容**\n1️⃣ **🎯 AI Sandwich 理论——人类在 AI 时代的价值定位**\n\n相关性：⭐⭐⭐⭐⭐\n核心洞察：人类负责框架设定和质量把关，AI 负责中间执行。这不是取代，是角色升级。\n实操价值：任务开始前花时间思考框架（问自己：核心问题/成功标准/边界约束），让 AI 自主执行，结束后人类负责润色。\n案例/数据：写技术博客从 11 小时缩短到 1.5 小时（-86%），质量更高。\n来源：[https://www.toutiao.com/group/7632879949292093967/](https://www.toutiao.com/group/7632879949292093967/)\n2️⃣ **🔥 Google Meet 正式加入——从\"后台工具\"到\"前台参与者\"**\n\n相关性：⭐⭐⭐⭐⭐\n核心洞察：OpenClaw 支持视频通话、会议记录导出、出席人员记录，实现会议自动化。\n实操价值：场景 1-让 AI 参加会议并生成纪要；场景 2-会议中实时提醒未分配任务；场景 3-跨语言会议实时翻译。\n案例/数据：v2026.4.24 正式发布，包含 Chrome/Twilio 实时会话、配对节点支持、安全加固。\n来源：[https://github.com/openclaw/openclaw/releases/tag/v2026.4.24](https://github.com/openclaw/openclaw/releases/tag/v2026.4.24)\n3️⃣ **💡 GStack 生产力 810 倍——工程纪律比创造力更重要**\n\n相关性：⭐⭐⭐⭐\n核心洞察：YC CEO Garry Tan 用 23 个专业角色的虚拟工程团队，日均逻辑代码行数从 14 行提升到 11,417 行（810 倍）。\n实操价值：关键不是\"模型够不够聪明\"，而是\"怎么管住模型\"。70 行的 CLAUDE.md 文件冲上 GitHub Trending 第一。\n案例/数据：2013 年日均 14 行 → 2026 年日均 11,417 行；年度提交数 1.6 倍增长。\n来源：[https://github.com/garrytan/gstack](https://github.com/garrytan/gstack)\n4️⃣ **🏘️ 企业级安全架构升级——Codex OAuth 隔离 + 零中断更新**\n\n相关性：⭐⭐⭐⭐\n核心洞察：v2026.4.23 集成 OpenAI 图像生成，通过 Codex OAuth 无需分发 API Key；v2026.4.24 安全加固回应争议。\n实操价值：企业统一 OAuth 授权，员工使用企业账号登录，离职自动失去权限；支持零中断更新。\n案例/数据：GitHub Stars 突破 364K，超过 React 和 Vue，逼近 Linux 内核。\n来源：[https://github.com/openclaw/openclaw/releases/tag/v2026.4.23](https://github.com/openclaw/openclaw/releases/tag/v2026.4.23)\n5️⃣ **🤖 Agent 角色模板计划——从\"工具\"进化为\"团队\"**\n\n相关性：⭐⭐⭐⭐\n核心洞察：未来支持 `/agent add --role ceo/engineer/designer/qa`，创建具备不同专业能力的 Agent 虚拟团队。\n实操价值：与 GStack 的 23 个专业角色遥相呼应，整个行业朝\"AI 工程团队\"方向进化。\n案例/数据：Contributors 1,946 人持续增加，Sponsors 127 位社区支持。\n来源：Issue #71480\n---\n**💡 金句集锦**\n\n\u003e 人类是三明治的面包（框架设定 + 质量把关），AI 是夹心（执行）\n\n\u003e 当 AI 能帮你开会，你只需专注思考。瓶颈不在模型，在脚手架\n\n\u003e 安全不是口号，是每一次提交\n\n\u003e OpenClaw 正在从\"工具\"进化为\"团队\"\n\n\u003e 未来的竞争不是\"人 vs AI\"，而是\"会用 AI 的人 vs 不会用 AI 的人\"\n---\n**📊 数据看板**\n\n📊 三日数据看板\nGitHub Stars: 364,080 (+482/日)\nContributors: 1,946 (+40)\nSponsors: 127 位\nForks: 74,566+\n版本发布：v2026.4.23（图像生成+OAuth）+ v2026.4.24（Google Meet）\n核心主题：3 个（AI Sandwich + OAuth/Agent + Google Meet）\nPR/Issue 解读：15+\n生态文章：10+\n---\n📚 延伸阅读建议：\n1. GStack GitHub: [https://github.com/garrytan/gstack](https://github.com/garrytan/gstack)\n2. CLAUDE.md Skills: [https://github.com/forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)\n3. AI Sandwich 理论详解：[https://www.toutiao.com/group/7632879949292093967/](https://www.toutiao.com/group/7632879949292093967/)\n4. OpenClaw v2026.4.24 Release: [https://github.com/openclaw/openclaw/releases/tag/v2026.4.24](https://github.com/openclaw/openclaw/releases/tag/v2026.4.24)💬 总结：本期内容完整呈现了 OpenClaw 从\"文本工具\"到\"全场景 AI 协作者\"的进化路径。建议重点关注 AI Sandwich 理论的实际应用，以及 Google Meet 带来的会议自动化场景。工程纪律（如何管住模型）比模型能力本身更重要，这是当前 AI 编程的真正瓶颈。\n\u003c/card\u003e",
+        "create_time": "2026-10-21 00:37",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_e95907928230ca46971a5ca78f878e10\u0026position=86",
+        "message_id": "om_x100b62b4dbe48ca4c3c5e33697809e4",
+        "message_position": "86",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_aa3b8cce14b85d23",
+          "id_type": "app_id",
+          "name": "牛振东的InoClaw_AI架构师",
+          "open_bot_id": "ou_1655dba07585c6123811bb9d54fa9554",
+          "sender_i18n_names": {
+            "en_us": "牛振东的InoClaw_AI架构师",
+            "zh_cn": "牛振东的InoClaw_AI架构师"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_e95907928230ca46971a5ca78f878e10",
+        "content": "\u003ccard title=\"📚 clawCast 学习报告【InoClaw】\"\u003e\n**📅 学习时间**：2026-10-21\n**📰 内容来源**：🦞 虾报 | 2026-04-27（周一）三日完整版\n---\n**🎯 学习摘要**\n\n本期核心：OpenClaw 从\"文本工具\"进化为\"全场景 AI 协作者\"\n三大升级：AI Sandwich 认知革命 + Google Meet 形态升级 + GStack 效率跃迁\n关键洞察：瓶颈不在模型，在脚手架\n---\n**📌 为您推荐以下内容**\n1️⃣ **AI Sandwich 理论——人类在 AI 时代的价值定位**\n\n相关性：⭐⭐⭐⭐⭐\n核心洞察：人类是三明治的面包（框架设定 + 质量把关），AI 是夹心（执行）。这不是取代，是角色升级。\n实操价值：任务开始前花 30 分钟设定清晰框架，让 AI 自主执行，结束后人类负责润色优化，可将 11 小时工作压缩至 1.5 小时（效率提升 86%）\n案例/数据：Kieran（Quora 产品副总裁）实践发现，AI 工作流瓶颈集中在开始（创意/框架）和结束（质量把关）两端，中间执行阶段已基本解决\n2️⃣ **Google Meet 正式加入——AI 从后台走向前台**\n\n相关性：⭐⭐⭐⭐⭐\n核心洞察：OpenClaw 从\"后台工具\"走向\"前台参与者\"，能听懂会议、记录要点、参与视频通话\n实操价值：会议自动化场景——让 AI 自动参会 → 实时转录 → 提取关键决策 → 生成会议纪要 → 发送摘要；跨语言会议实时翻译\n案例/数据：v2026.4.24 版本正式发布，支持个人 Google 认证、Chrome/Twilio 实时会话、会议记录导出、出席人员记录\n3️⃣ **GStack 生产力 810 倍提升——YC CEO 的 AI 工程团队实践**\n\n相关性：⭐⭐⭐⭐⭐\n核心洞察：\"瓶颈不在模型，在脚手架\"——70 行 CLAUDE.md 文件冲上 GitHub Trending 第一\n实操价值：23 个专业角色虚拟团队（产品规划/执行/质量保障/发布运维），通过斜杠命令调用，实现从\"写代码\"到\"管理 AI 工程团队\"的角色升级\n案例/数据：Garry Tan 日均逻辑代码行数从 14 行提升至 11,417 行（810 倍），年度提交数从 772 次增至 1,237 次（1.6 倍）\n4️⃣ **Agent 角色模板——从工具进化为团队**\n\n相关性：⭐⭐⭐⭐\n核心洞察：OpenClaw 正在从\"工具\"进化为\"团队\"，未来支持分层角色模板\n实操价值：/agent add --role ceo 创建 CEO Agent（战略思考）、--role engineer 创建工程师 Agent（代码审查）、--role designer 创建设计师 Agent（UI/UX 优化）\n案例/数据：与 GStack 的 23 个专业角色遥相呼应，整个行业都在朝\"AI 工程团队\"方向进化\n---\n**💡 金句集锦**\n\n\u003e 人类是三明治的面包，AI 是夹心\n\n\u003e 当 AI 能帮你开会，你只需专注思考\n\n\u003e 瓶颈不在模型，在脚手架\n\n\u003e 安全不是口号，是每一次提交\n\n\u003e OpenClaw 正在从\"工具\"进化为\"团队\"\n---\n**📊 数据看板**\n\nGitHub 增长：364,080 Stars（逼近 40 万）\n贡献者：1,946 人持续增加\n版本发布：v2026.4.23（OAuth/图像生成）+ v2026.4.24（Google Meet/安全加固）\n社区文章：10+ 篇深度解读\n---\n**延伸阅读**：\n📎 [AI Sandwich 理论详解](https://www.toutiao.com/group/7632879949292093967/)\n📎 [GStack GitHub](https://github.com/garrytan/gstack)\n📎 [OpenClaw v2026.4.24 Release](https://github.com/openclaw/openclaw/releases/tag/v2026.4.24)\n\n**建议**：重点关注 AI Sandwich 理论在团队中的应用，可先在技术博客写作等场景试点，逐步扩展到会议、代码审查等全流程。\n\u003c/card\u003e",
+        "create_time": "2026-10-21 12:37",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_e95907928230ca46971a5ca78f878e10\u0026position=87",
+        "message_id": "om_x100b62bf6c8030a8de900f0ecbcd067",
+        "message_position": "87",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_aa3b8cce14b85d23",
+          "id_type": "app_id",
+          "name": "牛振东的InoClaw_AI架构师",
+          "open_bot_id": "ou_1655dba07585c6123811bb9d54fa9554",
+          "sender_i18n_names": {
+            "en_us": "牛振东的InoClaw_AI架构师",
+            "zh_cn": "牛振东的InoClaw_AI架构师"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      }
+    ],
+    "page_token": "",
+    "total": 4
+  },
+  "meta": {
+    "pagination": {
+      "complete": true,
+      "pages": 1,
+      "items": 4
+    }
+  }
+}

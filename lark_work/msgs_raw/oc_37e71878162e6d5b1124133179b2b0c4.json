@@ -1,0 +1,39 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "has_more": false,
+    "messages": [
+      {
+        "chat_id": "oc_37e71878162e6d5b1124133179b2b0c4",
+        "content": "\u003ccard title=\"沉淀资源每日精选\" subtitle=\"2026-10-21 · SkillHub 精选\"\u003e\n**hzero-excel-import-export**\n\n**作者**：李宝杰\n\n**来源**：SkillHub · 流程数据与it部---Hzero 框架 Excel 导入导出功能开发模式最佳实践，覆盖：\n- 导入三件套：DTO + Validator + BatchImportHandler\n- 导出：@LovValue 值集注解 / 手动预加载 Map 转码\n- 分组覆盖导入：失败行防护 + 文件内唯一性校验\n- getSize 批大小选型、git stash 按文件搁置**适用场景**：开发 Hzero/Boot 框架的 Excel 导入导出功能时参考，含导入模式全景分类与选型速查。\n[查看 hzero-excel-import-export](https://inoai.apaas.inovance.com/inoai-skillhub-front/space/%E6%B5%81%E7%A8%8B%E6%95%B0%E6%8D%AE%E4%B8%8Eit%E9%83%A8/hzero-excel-import-export)\n---\n**excel-data-processing-patterns**\n\n**作者**：李宝杰\n\n**来源**：SkillHub · 流程数据与it部---Excel 批量导入导出的数据处理通用模式（框架无关），覆盖：\n- 解析分批与行级隔离\n- 校验三维度：单行 / 跨行唯一 / 前置参数（预加载防 N+1）\n- 写入七策略：新增 / 更新 / upsert / 字段级 / 单维度与多分组覆盖 / 委托 service\n- 事务四模式、失败组防护\n- getSize 档位与防分组跨批、导出注解与手动转码选型**适用场景**：设计批量导入导出功能时参考，附选型决策树。\n[查看 excel-data-processing-patterns](https://inoai.apaas.inovance.com/inoai-skillhub-front/space/%E6%B5%81%E7%A8%8B%E6%95%B0%E6%8D%AE%E4%B8%8Eit%E9%83%A8/excel-data-processing-patterns)\n\u003c/card\u003e",
+        "create_time": "2026-10-21 08:53",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_37e71878162e6d5b1124133179b2b0c4\u0026position=265",
+        "message_id": "om_x100b62b396a77ca4b08f4883ad56def",
+        "message_position": "265",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "ou_62b3403b1621ef0525dec364987c271f",
+          "id_type": "open_id",
+          "name": "葛士祺",
+          "sender_i18n_names": {
+            "en_us": "geshiqi"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      }
+    ],
+    "page_token": "",
+    "total": 1
+  },
+  "meta": {
+    "pagination": {
+      "complete": true,
+      "pages": 1,
+      "items": 1
+    }
+  }
+}

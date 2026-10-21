@@ -1,0 +1,42 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "has_more": false,
+    "messages": [
+      {
+        "chat_id": "oc_d948eca2cb988aece60eca75f1f6986e",
+        "content": "\u003ccard\u003e\n**Michel completed the task**\n\u003cclickable\u003e\n🖼️ Image(img_key:img_v3_02tm_ad585df7-0732-469b-8234-5dc08c232cag)\n\u003c/clickable\u003e\n\n来自会话：设备驾驶舱问题排查（Datawind/DaaS）\n🖼️ Image(img_key:img_v3_02tm_92669841-2a33-429f-9601-8b986b003d9g)\n\n穆潇\n\nMichel\n🖼️ Image(img_key:img_v3_02tm_b229f3e2-e27c-4bb7-9507-94706b46f9cg)\n\nDue: Today 11:00\n\n🖼️ Image(img_key:img_v3_02tm_887eae28-91e7-4cc7-8d7b-0982e563bceg)\n[查看详情](https://applink.feishu.cn/client/todo/detail?guid=6dab9f73-67e6-4190-9101-7adccb1c5862)\n---\n\u003cclickable url=\"https://applink.feishu.cn/client/todo/view?tab=assign_to_me\"\u003e\nView More in Tasks\n\n🖼️ Image(img_key:img_v3_02tm_1ab0a2a8-26b1-4e18-ad5a-e0b27927e55g)\n\u003c/clickable\u003e\n\u003c/card\u003e",
+        "create_time": "2026-10-21 09:08",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_d948eca2cb988aece60eca75f1f6986e\u0026position=269",
+        "message_id": "om_x100b62bc5f3cb4a8df7858915c40b0a",
+        "message_position": "269",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a0d9f947f538d00d",
+          "id_type": "app_id",
+          "name": "任务助手",
+          "open_bot_id": "ou_26825639e25059bba897e5bc7807b63d",
+          "sender_i18n_names": {
+            "en_us": "Tasks Assistant",
+            "ja_jp": "タスクアシスタント",
+            "zh_cn": "任务助手"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      }
+    ],
+    "page_token": "",
+    "total": 1
+  },
+  "meta": {
+    "pagination": {
+      "complete": true,
+      "pages": 1,
+      "items": 1
+    }
+  }
+}

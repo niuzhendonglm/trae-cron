@@ -1,0 +1,41 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "has_more": false,
+    "messages": [
+      {
+        "chat_id": "oc_d934e59dac237d7748572943f0480fec",
+        "content": "[nonsupport]",
+        "create_time": "2026-10-21 11:00",
+        "deleted": true,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_d934e59dac237d7748572943f0480fec\u0026position=1069",
+        "message_id": "om_x100b62bdfd7364a0de6f19b0ff25efd",
+        "message_position": "1069",
+        "msg_type": "nonsupport",
+        "sender": {
+          "id": "cli_a3e1ef0cc0b8500d",
+          "id_type": "app_id",
+          "name": "集团公告栏",
+          "open_bot_id": "ou_3144a28e071592d19cd07d67ad905f1d",
+          "sender_i18n_names": {
+            "en_us": "Group Announcement Board",
+            "zh_cn": "集团公告栏"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      }
+    ],
+    "page_token": "",
+    "total": 1
+  },
+  "meta": {
+    "pagination": {
+      "complete": true,
+      "pages": 1,
+      "items": 1
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "has_more": false,
+    "messages": [
+      {
+        "chat_id": "oc_e68a4121bdf58c3f0336e88f56dbf0dd",
+        "content": "\u003ccalendar_invite open_calendar_id=\"feishu.cn_KEqLHIUwWfzIryYknb7Prb@group.calendar.feishu.cn\" open_event_id=\"ac9fa98d-a676-43fe-9c59-4d652dc66408_0\"\u003e\nAI需求调研讨论 B6# 3F-4\n2026-10-21 10:00:00 ~ 2026-10-21 11:00:00\n\u003c/calendar_invite\u003e",
+        "create_time": "2026-10-21 02:48",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_e68a4121bdf58c3f0336e88f56dbf0dd\u0026position=1141",
+        "message_id": "om_x100b62b6306118a8c0f9924579f049f",
+        "message_position": "1141",
+        "msg_type": "calendar",
+        "sender": {
+          "id": "cli_a0d9fec6ffb8d00e",
+          "id_type": "app_id",
+          "name": "日历助手",
+          "open_bot_id": "ou_0bd5f93ae8b81a948b4ec6aeab287924",
+          "sender_i18n_names": {
+            "en_us": "Calendar Assistant",
+            "ja_jp": "カレンダーアシスタント",
+            "zh_cn": "日历助手"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_e68a4121bdf58c3f0336e88f56dbf0dd",
+        "content": "\u003ccalendar_invite open_calendar_id=\"feishu.cn_KEqLHIUwWfzIryYknb7Prb@group.calendar.feishu.cn\" open_event_id=\"54fb8669-972e-45de-890d-3a6536209b75_0\"\u003e\n已开发指标优化需求责任人对齐\n2026-10-22 02:00:00 ~ 2026-10-22 03:20:00\n\u003c/calendar_invite\u003e",
+        "create_time": "2026-10-21 06:24",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_e68a4121bdf58c3f0336e88f56dbf0dd\u0026position=1142",
+        "message_id": "om_x100b62b1e62a9c88b05e2ab7d6fed71",
+        "message_position": "1142",
+        "msg_type": "calendar",
+        "sender": {
+          "id": "cli_a0d9fec6ffb8d00e",
+          "id_type": "app_id",
+          "name": "日历助手",
+          "open_bot_id": "ou_0bd5f93ae8b81a948b4ec6aeab287924",
+          "sender_i18n_names": {
+            "en_us": "Calendar Assistant",
+            "ja_jp": "カレンダーアシスタント",
+            "zh_cn": "日历助手"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      }
+    ],
+    "page_token": "",
+    "total": 2
+  },
+  "meta": {
+    "pagination": {
+      "complete": true,
+      "pages": 1,
+      "items": 2
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "has_more": false,
+    "messages": [
+      {
+        "chat_id": "oc_c4ad05264da60241fc5d2bd39fcf9512",
+        "content": "![Image](img_v3_0216m_aaecf1db-6c34-4e4e-86c8-b8968ca4840g)\n[https://oa.inovance.com/km/review/km_review_main/kmReviewMain.do?method=view\u0026fdId=19ffa65583cd3790fe72eaa4099b0062\u0026flag=circulation](https://oa.inovance.com/km/review/km_review_main/kmReviewMain.do?method=view\u0026fdId=19ffa65583cd3790fe72eaa4099b0062\u0026flag=circulation)",
+        "create_time": "2026-10-21 06:48",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_c4ad05264da60241fc5d2bd39fcf9512\u0026position=589",
+        "message_id": "om_x100b62b24b9f08acb05f5badf104522",
+        "message_position": "589",
+        "msg_type": "post",
+        "sender": {
+          "id": "ou_635008cc2affc45d23de666f2e7e7446",
+          "id_type": "open_id",
+          "name": "牛振东",
+          "sender_i18n_names": {
+            "en_us": "niuzhendong"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      }
+    ],
+    "page_token": "",
+    "total": 1
+  },
+  "meta": {
+    "pagination": {
+      "complete": true,
+      "pages": 1,
+      "items": 1
+    }
+  }
+}

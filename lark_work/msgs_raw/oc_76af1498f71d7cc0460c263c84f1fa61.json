@@ -1,0 +1,171 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "has_more": false,
+    "messages": [
+      {
+        "chat_id": "oc_76af1498f71d7cc0460c263c84f1fa61",
+        "content": "\u003ccard title=\"【需求】待处理清单，请关注\"\u003e\n@everyone 待处理清单如下：\n| 需求类型 | 所属看板/报表名称 | 所属模块/页面 | 现状描述 | 期望效果 | 期望完成时间 | 需求提出人 | 访问链接 | 开发负责人 | 计划开始时间 | 计划完成时间 | 需求状态 | 产品负责人 |\n|------|------|------|------|------|------|------|------|------|------|------|------|------|\n| 逻辑调整 | 计划侧库存可视数据集 |  | 计划侧库存可视数据集 没有海外公司的库存数据 | 添加海外公司的库存数据，当前主要添加韩国汇川 | 2026/09/25 |  |  |  |  |  | 已提交 |  |\n| 新增功能 | 试制3条线 |  | 未显示 | 先调整展示，使用起来 | 2026/08/14 |  |  |  |  | 2026/09/10 | 已排期 |  |\n| 新增功能 | 供应链设备管理驾驶舱 | OEE | 当前设备驾驶舱缺少南京OEE数据 | 基于DAAS平台已开发完成的DWD表，开发ADS建模和UI开发，补充OEE南京工厂数据 | 2026/09/30 |  |  |  | 2026/10/19 | 2026/10/30 | 已排期 |  |\n| 新增功能 | 驱控中心线体看板\u0026人员技能矩阵 |  | 新增展示线头看板，对应人员岗位及产出直通率等信息 | 中心的线体看板及人员技能矩阵能够正常展示 | 2026/10/14 |  |  |  | 2026/10/12 | 2026/10/23 | 等待部署 |  |\n| 新增功能 | 供应链设备管理驾驶舱 | 设备维修 | 维修模块环形图欠缺维修工单明细数据，不利于业务定位具体工单 | 维修模块环形图根据工单状态跳转出来的界面补充维修工单明细数据，和上方柱形图联动，新增明细字段包含：维修工单编号、设备状态、设备明码、设备名称、设备位置、设备型号、工单状态、工单发生时间、报修人、维修人 | 2026/09/30 |  | https://ssda.inovance.com/bi/#/dashboard/36689?appId=3\u0026sheetId=1209 |    | 2026/10/10 | 2026/10/16 | 等待用户验收 |  |\n| 新增功能 | 供应链工装管理驾驶舱 | 工装报废 | 工装报废环形图跳转出来的工装报废明细缺少一个工装编码搜索框 | 工装报废环形图跳转出来的工装报废明细增加一个工装编码搜索框 | 2026/10/16 |  | https://ssda.inovance.com/bi#/dashboard/36842?appId=3\u0026sheetId=1252 |  | 2026/10/19 | 2026/10/20 | 等待用户验收 |  |\n[去处理](https://inovance.feishu.cn/wiki/CKohwVm44i2kBlkHMYmcC9IknDc?table=tblt4Dt9YqqeGj2T\u0026view=vewvVET71z\u0026ccm_open_type=im_card_automation_button)\n---\n\u003c/card\u003e",
+        "create_time": "2026-10-21 00:45",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_eb77726d5be78939100bd6cdb6ae96aa",
+            "key": "@_user_1",
+            "name": "赵甫"
+          },
+          {
+            "id": "ou_c8afe8aab3f80a020c356c0ca46a12ce",
+            "key": "@_user_2",
+            "name": "刘宏宇"
+          },
+          {
+            "id": "ou_fda3a0c958ec0bae56b699596da5a87d",
+            "key": "@_user_3",
+            "name": "黄新明"
+          },
+          {
+            "id": "ou_7d5c6d6cefdab60f4ab9f414b6c3d9bf",
+            "key": "@_user_4",
+            "name": "李树德"
+          },
+          {
+            "id": "ou_ce3b309a1adb865c60cf7c112da25d62",
+            "key": "@_user_5",
+            "name": "邱治钧"
+          },
+          {
+            "id": "ou_c1a8a63bf361f1163e28cdf9dc77b49e",
+            "key": "@_user_7",
+            "name": "穆潇"
+          },
+          {
+            "id": "ou_b1a90d1912f916b4ef287e3d3948c31f",
+            "key": "@_user_8",
+            "name": "周刚"
+          },
+          {
+            "id": "ou_9a014b8b8c8ac89789d87895edaee4c4",
+            "key": "@_user_9",
+            "name": "金星"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_76af1498f71d7cc0460c263c84f1fa61\u0026position=694",
+        "message_id": "om_x100b62b4ffcc7ca4c1e8bb1053147d8",
+        "message_position": "694",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a87ba89658ba900e",
+          "id_type": "app_id",
+          "name": "数据开发项目",
+          "open_bot_id": "ou_2eeca1219f46eca3ab521293f9fceb47",
+          "sender_i18n_names": {
+            "en_us": "数据开发项目",
+            "ja_jp": "数据开发项目",
+            "zh_cn": "数据开发项目"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_76af1498f71d7cc0460c263c84f1fa61",
+        "content": "\u003ccard title=\"【平台问题】待处理清单，请关注\"\u003e\n@everyone 待处理清单如下：\n| 问题编号 | 问题分类 | 问题描述 | 提出人 | 处理人 |\n|------|------|------|------|------|\n| P-Datawind-2609-0001 | Datawind平台功能问题 | 大屏字体异动加载，进入大屏后指标卡字体会出现显示原始默认字体的情况，待10s左右后会恢复到预设的字体 |  |  |\n[去处理](https://inovance.feishu.cn/base/AnH9bCdGKaLWa8silwccgTqLn8b?table=tblwQVOXtSFomK9X\u0026view=vewUGqRRdu\u0026ccm_open_type=im_card_automation_button)\n---\n\u003c/card\u003e",
+        "create_time": "2026-10-21 01:05",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_9a014b8b8c8ac89789d87895edaee4c4",
+            "key": "@_user_1",
+            "name": "金星"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_76af1498f71d7cc0460c263c84f1fa61\u0026position=695",
+        "message_id": "om_x100b62b4b24ff484df647f5c4d09d23",
+        "message_position": "695",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a87ba89658ba900e",
+          "id_type": "app_id",
+          "name": "数据开发项目",
+          "open_bot_id": "ou_2eeca1219f46eca3ab521293f9fceb47",
+          "sender_i18n_names": {
+            "en_us": "数据开发项目",
+            "ja_jp": "数据开发项目",
+            "zh_cn": "数据开发项目"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_76af1498f71d7cc0460c263c84f1fa61",
+        "content": "\u003ccard title=\"【问题清单】待处理清单，请关注\"\u003e\n@everyone 待处理清单如下：\n| 问题分类 | 业务域 | 问题描述 | 提出人 | 处理人 (人员 ) |\n|------|------|------|------|------|\n| 数据质量 | 采购 | 许多供应商在SRM系统上线前已开始合作，取自SRM的合作起止时间存在严重偏差 |  |   |\n| 数据开发问题 | 采购 | 实体组织有重复，07040019 FPGA 就重复23次。具体重复原因需要确认 |  |  |\n| 数据质量问题 | 采购 | 制造商名称数据质量差 |  |  |\n[去处理](https://inovance.feishu.cn/base/AnH9bCdGKaLWa8silwccgTqLn8b?table=tbllkX353ZGArMhK\u0026view=vewFfBO351\u0026ccm_open_type=im_card_automation_button)\n---\n\u003c/card\u003e",
+        "create_time": "2026-10-21 01:05",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_950d51019cf7deec56341d5c9bf39100",
+            "key": "@_user_1",
+            "name": "徐彭"
+          },
+          {
+            "id": "ou_9968b54f07671b7485ed328120d481e7",
+            "key": "@_user_3",
+            "name": "沈霜"
+          },
+          {
+            "id": "ou_bf15538efcb56bb8499349bf74e843bd",
+            "key": "@_user_4",
+            "name": "汪显辉"
+          },
+          {
+            "id": "ou_5e7cc99fe45cd6c428a302116a59e440",
+            "key": "@_user_5",
+            "name": "杨婷婷"
+          },
+          {
+            "id": "ou_f00fa3f4c27f24de755b0695d3df5e83",
+            "key": "@_user_6",
+            "name": "黄逸峰"
+          },
+          {
+            "id": "ou_330557b732a2aa014463cc86f89eda3a",
+            "key": "@_user_7",
+            "name": "王晓蕾"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_76af1498f71d7cc0460c263c84f1fa61\u0026position=696",
+        "message_id": "om_x100b62b4b0ec24a4c13944007376ae1",
+        "message_position": "696",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a87ba89658ba900e",
+          "id_type": "app_id",
+          "name": "数据开发项目",
+          "open_bot_id": "ou_2eeca1219f46eca3ab521293f9fceb47",
+          "sender_i18n_names": {
+            "en_us": "数据开发项目",
+            "ja_jp": "数据开发项目",
+            "zh_cn": "数据开发项目"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      }
+    ],
+    "page_token": "",
+    "total": 3
+  },
+  "meta": {
+    "pagination": {
+      "complete": true,
+      "pages": 1,
+      "items": 3
+    }
+  }
+}

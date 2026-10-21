@@ -1,0 +1,12 @@
+{
+  "ok": false,
+  "identity": "user",
+  "error": {
+    "type": "api",
+    "subtype": "unknown",
+    "code": 231203,
+    "message": "The chat type is not supported, ext=Chat open Restricted Mode, don't allow copying or forwarding messages",
+    "log_id": "20261022040925B8F251AB8E406AF03BEA",
+    "troubleshooter": "排查建议查看(Troubleshooting suggestions): https://open.feishu.cn/search?from=openapi&log_id=20261022040925B8F251AB8E406AF03BEA&code=231203&method_id=6936075528891187228"
+  }
+}

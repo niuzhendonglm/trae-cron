@@ -1,0 +1,557 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "has_more": false,
+    "messages": [
+      {
+        "chat_id": "oc_5e9e60402ef577d85f47833b193761e0",
+        "content": "万向阳 invited 方智 to the group. New members can view all chat history.",
+        "create_time": "2026-10-21 01:17",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_5e9e60402ef577d85f47833b193761e0\u0026position=1635",
+        "message_id": "om_x100b62b56773e874de91b4ddbcad52a",
+        "message_position": "1635",
+        "msg_type": "system",
+        "sender": {
+          "id": "",
+          "id_type": "",
+          "sender_type": "",
+          "tenant_key": ""
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_5e9e60402ef577d85f47833b193761e0",
+        "content": "\u003cforwarded_messages\u003e\n[2026-10-21T00:56:11Z] 周刚:\n    ![Image](img_v3_0216m_fac755ea-0b87-46ec-973f-9842fc028a3g)\n    万工 现在IOC项目组连解决bug的资源都没了吗 暂无数据和加载性能慢 我这边已经收到多个工厂的投诉了\n[2026-10-21T01:11:55Z] 周刚:\n    业务问预计解决时间  现在已经影响他们开月会复盘了 现在不说开发优化项了 现在是频繁的出现暂无数据和Datawind数据加载性能慢 之前一个指标数据加载出来只需要5-6秒 现在至少30秒以外 数据还不一定能展示出来 感觉最近Daas平台是不是出现了问题\n\u003c/forwarded_messages\u003e",
+        "create_time": "2026-10-21 01:17",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_5e9e60402ef577d85f47833b193761e0\u0026position=1636",
+        "message_id": "om_x100b62b565ccd0a8dffee35be1b2a1f",
+        "message_position": "1636",
+        "msg_type": "merge_forward",
+        "sender": {
+          "id": "ou_4e63341423c72c5725811bb7d839dc1e",
+          "id_type": "open_id",
+          "name": "万向阳",
+          "sender_i18n_names": {
+            "en_us": "wanxiangyang"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_5e9e60402ef577d85f47833b193761e0",
+        "content": "@邱治钧 @牛振东 @方智牛工、方工，设备驾驶舱频繁出现以上问题，你们从技术视角深挖一下到底是什么问题，已经严重影响业务使用了",
+        "create_time": "2026-10-21 01:19",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_ce3b309a1adb865c60cf7c112da25d62",
+            "key": "@_user_1",
+            "name": "邱治钧"
+          },
+          {
+            "id": "ou_635008cc2affc45d23de666f2e7e7446",
+            "key": "@_user_2",
+            "name": "牛振东"
+          },
+          {
+            "id": "ou_a61165efe52b2aa30b25b21441a35aef",
+            "key": "@_user_3",
+            "name": "方智"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_5e9e60402ef577d85f47833b193761e0\u0026position=1637",
+        "message_id": "om_x100b62b57fae7caccd394a390195e79",
+        "message_position": "1637",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_4e63341423c72c5725811bb7d839dc1e",
+          "id_type": "open_id",
+          "name": "万向阳",
+          "sender_i18n_names": {
+            "en_us": "wanxiangyang"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-21 01:19",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_5e9e60402ef577d85f47833b193761e0",
+        "content": "万向阳 invited 金丹芸 to the group. New members can view all chat history.",
+        "create_time": "2026-10-21 01:20",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_5e9e60402ef577d85f47833b193761e0\u0026position=1638",
+        "message_id": "om_x100b62b57b0d34a4df7dfc9914184fa",
+        "message_position": "1638",
+        "msg_type": "system",
+        "sender": {
+          "id": "",
+          "id_type": "",
+          "sender_type": "",
+          "tenant_key": ""
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_5e9e60402ef577d85f47833b193761e0",
+        "content": "@万向阳 好的万工，我们和IT一起来排查下。",
+        "create_time": "2026-10-21 01:24",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_4e63341423c72c5725811bb7d839dc1e",
+            "key": "@_user_1",
+            "name": "万向阳"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_5e9e60402ef577d85f47833b193761e0\u0026position=1639",
+        "message_id": "om_x100b62b50d2bc4b8cf55d224a7d9e92",
+        "message_position": "1639",
+        "msg_type": "text",
+        "reply_to": "om_x100b62b57fae7caccd394a390195e79",
+        "sender": {
+          "id": "ou_635008cc2affc45d23de666f2e7e7446",
+          "id_type": "open_id",
+          "name": "牛振东",
+          "sender_i18n_names": {
+            "en_us": "niuzhendong"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-21 01:24",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_5e9e60402ef577d85f47833b193761e0",
+        "content": "万向阳 invited 张玮 to the group. New members can view all chat history.",
+        "create_time": "2026-10-21 01:24",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_5e9e60402ef577d85f47833b193761e0\u0026position=1640",
+        "message_id": "om_x100b62b50b4f90a0dea427466c207cd",
+        "message_position": "1640",
+        "msg_type": "system",
+        "sender": {
+          "id": "",
+          "id_type": "",
+          "sender_type": "",
+          "tenant_key": ""
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_5e9e60402ef577d85f47833b193761e0",
+        "content": "这是个普遍问题，昨天打开采购驾驶舱也是比较慢",
+        "create_time": "2026-10-21 01:26",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_5e9e60402ef577d85f47833b193761e0\u0026position=1641",
+        "message_id": "om_x100b62b5035fb0b0cf6faa56a00d6e3",
+        "message_position": "1641",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_4e63341423c72c5725811bb7d839dc1e",
+          "id_type": "open_id",
+          "name": "万向阳",
+          "sender_i18n_names": {
+            "en_us": "wanxiangyang"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_5e9e60402ef577d85f47833b193761e0",
+        "content": "ST驾驶舱也有这个问题，加载特别慢",
+        "create_time": "2026-10-21 01:27",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_5e9e60402ef577d85f47833b193761e0\u0026position=1642",
+        "message_id": "om_x100b62b5012ff4b8ce7aa12b208b237",
+        "message_position": "1642",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_c56489eb59865650b63b569a08d20d6a",
+          "id_type": "open_id",
+          "name": "蒋静芳",
+          "sender_i18n_names": {
+            "en_us": "jiangjingfang"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_5e9e60402ef577d85f47833b193761e0",
+        "content": "@黄翔 @牛振东 黄工、牛工，以上问题你们深入挖掘一下原因，快速解决不了的，明确原因、形成对策升级到IT主管及项目组讨论。@方智 方工，请关注以上问题",
+        "create_time": "2026-10-21 02:11",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_096d41a75ccd13dd03c5faf8eb5cd194",
+            "key": "@_user_1",
+            "name": "黄翔"
+          },
+          {
+            "id": "ou_635008cc2affc45d23de666f2e7e7446",
+            "key": "@_user_2",
+            "name": "牛振东"
+          },
+          {
+            "id": "ou_a61165efe52b2aa30b25b21441a35aef",
+            "key": "@_user_3",
+            "name": "方智"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_5e9e60402ef577d85f47833b193761e0\u0026position=1643",
+        "message_id": "om_x100b62b5bdadbd0cce3da7a305a27f3",
+        "message_position": "1643",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_4e63341423c72c5725811bb7d839dc1e",
+          "id_type": "open_id",
+          "name": "万向阳",
+          "sender_i18n_names": {
+            "en_us": "wanxiangyang"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-21 02:11",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_5e9e60402ef577d85f47833b193761e0",
+        "content": "@万向阳 @杜彦永 请杜工关注一下",
+        "create_time": "2026-10-21 02:24",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_4e63341423c72c5725811bb7d839dc1e",
+            "key": "@_user_1",
+            "name": "万向阳"
+          },
+          {
+            "id": "ou_e8afce6057f334dd46762f0047b88c03",
+            "key": "@_user_2",
+            "name": "杜彦永"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_5e9e60402ef577d85f47833b193761e0\u0026position=1644",
+        "message_id": "om_x100b62b6680ee0a0de321032c1d090b",
+        "message_position": "1644",
+        "msg_type": "text",
+        "reply_to": "om_x100b62b5bdadbd0cce3da7a305a27f3",
+        "sender": {
+          "id": "ou_2930f0538c3fec7ad37ceb982df19a92",
+          "id_type": "open_id",
+          "name": "张玮",
+          "sender_i18n_names": {
+            "en_us": "zhangwei"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-21 02:24",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_5e9e60402ef577d85f47833b193761e0",
+        "content": "【针对设备驾驶舱，问题排查总结】\n**事件：用户反馈暂无数据和加载性能慢**\n最终责任人：\n1. 设备：沈敏翔（10067127）\n2. IT：基础设施团队、黄翔（10097007）、陈小亮（10074849），Doris治理：杜彦永（10030187）\n\n根因分析和建议措施，如下：\n![Image](img_v3_0216m_1f6bc87c-7eb3-4a12-b7c7-fdd1a4439f8g)\n![Image](img_v3_0216m_0fc7206c-bfe3-4a14-b752-f6cecd7f58ag)",
+        "create_time": "2026-10-21 03:58",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_5e9e60402ef577d85f47833b193761e0\u0026position=1645",
+        "message_id": "om_x100b62b7cbbc2084ce91d2681276f7b",
+        "message_position": "1645",
+        "msg_type": "post",
+        "sender": {
+          "id": "ou_635008cc2affc45d23de666f2e7e7446",
+          "id_type": "open_id",
+          "name": "牛振东",
+          "sender_i18n_names": {
+            "en_us": "niuzhendong"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-21 03:58",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_5e9e60402ef577d85f47833b193761e0",
+        "content": "大家识别问题很高效，把完成时间明确一下。",
+        "create_time": "2026-10-21 04:01",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_5e9e60402ef577d85f47833b193761e0\u0026position=1646",
+        "message_id": "om_x100b62b7dd9f7cb8cfd0e4d5c6da7cf",
+        "message_position": "1646",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_4e63341423c72c5725811bb7d839dc1e",
+          "id_type": "open_id",
+          "name": "万向阳",
+          "sender_i18n_names": {
+            "en_us": "wanxiangyang"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_5e9e60402ef577d85f47833b193761e0",
+        "content": "@沈敏翔 沈工，针对ODS任务，需要换种策略。\n@杜彦永 杜老师，针对Doris CPU高水位，需要给出专项优化方案。\n@黄翔 @陈小亮 针对物理机硬件故障，需要给出原因，并建立监控告警机制、故障自动迁移机制。",
+        "create_time": "2026-10-21 04:04",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_721ec3e2d894f5ed50fd5bdbb76e6321",
+            "key": "@_user_1",
+            "name": "沈敏翔"
+          },
+          {
+            "id": "ou_e8afce6057f334dd46762f0047b88c03",
+            "key": "@_user_2",
+            "name": "杜彦永"
+          },
+          {
+            "id": "ou_096d41a75ccd13dd03c5faf8eb5cd194",
+            "key": "@_user_3",
+            "name": "黄翔"
+          },
+          {
+            "id": "ou_93790c848ada6a4de22a7ebec866fda4",
+            "key": "@_user_4",
+            "name": "陈小亮"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_5e9e60402ef577d85f47833b193761e0\u0026position=1647",
+        "message_id": "om_x100b62b7d33e48a0cfd938c645275df",
+        "message_position": "1647",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_635008cc2affc45d23de666f2e7e7446",
+          "id_type": "open_id",
+          "name": "牛振东",
+          "sender_i18n_names": {
+            "en_us": "niuzhendong"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-21 04:04",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_5e9e60402ef577d85f47833b193761e0",
+        "content": "\u003cp\u003e@牛振东 ODS任务换种策略 怎么换 谁来换 对现在各层级表的影响和驾驶舱的影响\u003c/p\u003e",
+        "create_time": "2026-10-21 05:40",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_635008cc2affc45d23de666f2e7e7446",
+            "key": "@_user_1",
+            "name": "牛振东"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_5e9e60402ef577d85f47833b193761e0\u0026position=1648",
+        "message_id": "om_x100b62b14d88e0a4b0e3cb5e3a71aaf",
+        "message_position": "1648",
+        "msg_type": "text",
+        "reply_to": "om_x100b62b7d33e48a0cfd938c645275df",
+        "sender": {
+          "id": "ou_b1a90d1912f916b4ef287e3d3948c31f",
+          "id_type": "open_id",
+          "name": "周刚",
+          "sender_i18n_names": {
+            "en_us": "zhougang"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-21 05:40",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_5e9e60402ef577d85f47833b193761e0",
+        "content": "@周刚 此前沈工开发的，他清楚。",
+        "create_time": "2026-10-21 06:08",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_b1a90d1912f916b4ef287e3d3948c31f",
+            "key": "@_user_1",
+            "name": "周刚"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_5e9e60402ef577d85f47833b193761e0\u0026position=1649",
+        "message_id": "om_x100b62b123fa2ca0cebecef39329950",
+        "message_position": "1649",
+        "msg_type": "text",
+        "reply_to": "om_x100b62b14d88e0a4b0e3cb5e3a71aaf",
+        "sender": {
+          "id": "ou_635008cc2affc45d23de666f2e7e7446",
+          "id_type": "open_id",
+          "name": "牛振东",
+          "sender_i18n_names": {
+            "en_us": "niuzhendong"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-21 06:08",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_5e9e60402ef577d85f47833b193761e0",
+        "content": "@牛振东 牛老师，今天对设备驾驶舱数据加载缓慢和暂无数据问题排查中提到的isc_ods.ods_isc_tpm_isc_basicdata_location_flatten_a_min，此表的HIVE2数据源表于去年按照杜老师指导下**入湖后没更改过**；hive2转doris的任务开发是华工玉波，最后一次修改人是杨工润东；\n\n在26年10月15日，邱工治钧发现ods_isc tpm isc_basicdata location a_min表中数据以重复插入的方式更新该表数据，导致该表数据冗余，累计至30G左右，该表开发人为杨工润东，但由于他说\u003cu\u003e**TPM系统非ISC数字化模块的系统，入湖数据运维他那边不负责运维支撑工作**\u003c/u\u003e，\n![Image](img_v3_0216m_abad7f49-5edd-4792-ab42-3be4fe918cdg)\n所有入到daas的设备领域数据运维让沈工敏翔自己承接，于是为了解决ods_isc tpm isc_basicdata location a_min表数据冗余问题，沈工敏翔在孙工奥迪指导的策略下更改了入湖方式（加入了导入前删表操作）；   \n\n针对设备领域数据入湖运维问题，有两点诉求，请杜老师帮忙评估：\n\n1. TPM系统归属于ISC业务领域系统，虽开发是数字化事业部，但**数据运维需Daas平台小组做入湖各层级数据运维支撑，设备办可配合修改执行入湖策略**；@杜彦永 @万向阳 @张玮 \n2. ISC的**数据入湖策略有无最佳实践**，目前已经针对设备领域的数据配合修改过一次入湖策略，此次**问题排查中提到的入湖同步策略变更，**\u003cu\u003e**请帮忙赋能如何变更**\u003c/u\u003e**以及帮忙评估后续是否依然会出现查询无数据的问题**@杜彦永@万向阳 @张玮",
+        "create_time": "2026-10-21 07:27",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_635008cc2affc45d23de666f2e7e7446",
+            "key": "@_user_1",
+            "name": "牛振东"
+          },
+          {
+            "id": "ou_e8afce6057f334dd46762f0047b88c03",
+            "key": "@_user_2",
+            "name": "杜彦永"
+          },
+          {
+            "id": "ou_4e63341423c72c5725811bb7d839dc1e",
+            "key": "@_user_3",
+            "name": "万向阳"
+          },
+          {
+            "id": "ou_2930f0538c3fec7ad37ceb982df19a92",
+            "key": "@_user_4",
+            "name": "张玮"
+          },
+          {
+            "id": "ou_e8afce6057f334dd46762f0047b88c03",
+            "key": "@_user_5",
+            "name": "杜彦永"
+          },
+          {
+            "id": "ou_4e63341423c72c5725811bb7d839dc1e",
+            "key": "@_user_6",
+            "name": "万向阳"
+          },
+          {
+            "id": "ou_2930f0538c3fec7ad37ceb982df19a92",
+            "key": "@_user_7",
+            "name": "张玮"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_5e9e60402ef577d85f47833b193761e0\u0026position=1650",
+        "message_id": "om_x100b62b2da0508a4de35749db28ff0e",
+        "message_position": "1650",
+        "msg_type": "post",
+        "sender": {
+          "id": "ou_721ec3e2d894f5ed50fd5bdbb76e6321",
+          "id_type": "open_id",
+          "name": "沈敏翔",
+          "sender_i18n_names": {
+            "en_us": "shenminxiang"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-21 07:27",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_5e9e60402ef577d85f47833b193761e0",
+        "content": "我等会给你赋能",
+        "create_time": "2026-10-21 07:36",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_5e9e60402ef577d85f47833b193761e0\u0026position=1651",
+        "message_id": "om_x100b62b2f86664a4ce8b91ee330c357",
+        "message_position": "1651",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_6d7296505aad11152c1fa679a46346d1",
+          "id_type": "open_id",
+          "name": "孙奥迪",
+          "sender_i18n_names": {
+            "en_us": "sunaodi"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_5e9e60402ef577d85f47833b193761e0",
+        "content": "\u003cforwarded_messages\u003e\n[2026-10-15T03:44:11Z] 沈敏翔:\n    @杨润东 @孙奥迪 孙工，ods_isc_tpm_isc_basicdata_location_a_min这个任务数据会重复添加，能赋能下这类任务怎么修改么\n[2026-10-15T05:37:00Z] 孙奥迪:\n    方法1：在写入配置导入前语句这个地方加个truncate table 语句\n    ![Image](img_v3_0216m_8d575052-e124-4805-907d-48c468b9c41g)\n    方法2：在doris建表的时候选择unique key(主键) 方式建表(用这个方式有一个点要注意**源表删了数据，Doris 里还默认保留**)\n    ![Image](img_v3_0216m_102c93ad-829a-45ac-bbb4-e0675649608g)\n\u003c/forwarded_messages\u003e",
+        "create_time": "2026-10-21 07:37",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_5e9e60402ef577d85f47833b193761e0\u0026position=1652",
+        "message_id": "om_x100b62b2f70ea484c03f98a7cbf55d4",
+        "message_position": "1652",
+        "msg_type": "merge_forward",
+        "sender": {
+          "id": "ou_6d7296505aad11152c1fa679a46346d1",
+          "id_type": "open_id",
+          "name": "孙奥迪",
+          "sender_i18n_names": {
+            "en_us": "sunaodi"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_5e9e60402ef577d85f47833b193761e0",
+        "content": "@杜彦永  杜老师，按孙工奥迪@孙奥迪 给我们赋能的数据同步策略可以作为短期方法解决来解决导入前删表导致的数据为空问题，但当前**设备驾驶舱的MTBF和故障率指标会消费人岗系统的线体投入工时表**ods_isc_spm_group_a_min，这张表也使用了导入前删表的入湖策略，导致**这两个指标会出现无数据的情况**，帮忙让这个任务的开发也同步修改下数据同步策略，感谢\n![Image](img_v3_0216m_8921b21c-6a39-4a42-83cb-773316a268ag)\n![Image](img_v3_0216m_351261cc-70c1-417e-9407-547b3686445g)",
+        "create_time": "2026-10-21 09:53",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_e8afce6057f334dd46762f0047b88c03",
+            "key": "@_user_1",
+            "name": "杜彦永"
+          },
+          {
+            "id": "ou_6d7296505aad11152c1fa679a46346d1",
+            "key": "@_user_2",
+            "name": "孙奥迪"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_5e9e60402ef577d85f47833b193761e0\u0026position=1653",
+        "message_id": "om_x100b62bcf674a8acb05a3ac268a2292",
+        "message_position": "1653",
+        "msg_type": "post",
+        "sender": {
+          "id": "ou_721ec3e2d894f5ed50fd5bdbb76e6321",
+          "id_type": "open_id",
+          "name": "沈敏翔",
+          "sender_i18n_names": {
+            "en_us": "shenminxiang"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-21 09:53",
+        "updated": true
+      }
+    ],
+    "page_token": "",
+    "total": 19
+  },
+  "meta": {
+    "pagination": {
+      "complete": true,
+      "pages": 1,
+      "items": 19
+    }
+  }
+}

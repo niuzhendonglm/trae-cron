@@ -1,0 +1,47 @@
+[04:47:53] writing batches_qa/qa_batch_01.json attempt=1
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "record_id_list": [
+      "reczz28QCKDWvp1A",
+      "reczz28QCKDWvyCz",
+      "reczz28QCKDWvKMz",
+      "reczz28QCKDWwPYi",
+      "reczz28QCKDWyS48",
+      "reczz28QCKDWyWWa",
+      "reczz28QCKDWvnDv",
+      "reczz28QCKDWv90e",
+      "reczz28QCKDWyKu6",
+      "reczz28QCKDWvQUq",
+      "reczz28QCKDWwzJZ",
+      "reczz28QCKDWwrfa",
+      "reczz28QCKDWvcKj",
+      "reczz28QCKDWuVGS",
+      "reczz28QCKDWwiSO",
+      "reczz28QCKDWxJRo",
+      "reczz28QCKDWxt3l",
+      "reczz28QCKDWxxky",
+      "reczz28QCKDWyG3d",
+      "reczz28QCKDWwT8v",
+      
+[04:47:57] writing batches_qa/qa_batch_02.json attempt=1
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "record_id_list": [
+      "reczz28QCKH4Ir7N",
+      "reczz28QCKH4FwWC",
+      "reczz28QCKH4I5qs",
+      "reczz28QCKH4Inid",
+      "reczz28QCKH4IrbP",
+      "reczz28QCKH4GZLS",
+      "reczz28QCKH4GWpJ",
+      "reczz28QCKH4J44k"
+    ],
+    "rev": 413
+  }
+}
+
+QA_WRITE_DONE fails=0

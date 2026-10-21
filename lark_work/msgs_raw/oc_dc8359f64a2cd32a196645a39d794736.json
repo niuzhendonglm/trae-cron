@@ -1,0 +1,419 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "has_more": false,
+    "messages": [
+      {
+        "chat_id": "oc_dc8359f64a2cd32a196645a39d794736",
+        "content": "柴亚通 invited 何荣福, 崔望 to the chat.",
+        "create_time": "2026-10-21 02:31",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_dc8359f64a2cd32a196645a39d794736\u0026position=1",
+        "message_id": "om_x100b62b6705bb080cf34b4b5341d9a9",
+        "message_position": "1",
+        "msg_type": "system",
+        "sender": {
+          "id": "",
+          "id_type": "",
+          "sender_type": "",
+          "tenant_key": ""
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_dc8359f64a2cd32a196645a39d794736",
+        "content": "The following messages are synced from the chat between {user1} and {user2}.",
+        "create_time": "2026-10-21 02:31",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_dc8359f64a2cd32a196645a39d794736\u0026position=2",
+        "message_id": "om_x100b62b6705a54b4cfc2e81cb71d4f3",
+        "message_position": "2",
+        "msg_type": "system",
+        "sender": {
+          "id": "",
+          "id_type": "",
+          "sender_type": "",
+          "tenant_key": ""
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_dc8359f64a2cd32a196645a39d794736",
+        "content": "hello，亚通",
+        "create_time": "2026-10-21 02:28",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_dc8359f64a2cd32a196645a39d794736\u0026position=3",
+        "message_id": "om_x100b62b67054e880cff63818993be3e",
+        "message_position": "3",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_e41d7538c671ace94d83136352e71f91",
+          "id_type": "open_id",
+          "name": "何荣福",
+          "sender_i18n_names": {
+            "en_us": "herongfu"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_dc8359f64a2cd32a196645a39d794736",
+        "content": "那个2027 AI使能需求调研，我想跟你沟通一下，有时间么？",
+        "create_time": "2026-10-21 02:29",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_dc8359f64a2cd32a196645a39d794736\u0026position=4",
+        "message_id": "om_x100b62b67054e884cff1b58b5c9890f",
+        "message_position": "4",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_e41d7538c671ace94d83136352e71f91",
+          "id_type": "open_id",
+          "name": "何荣福",
+          "sender_i18n_names": {
+            "en_us": "herongfu"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_dc8359f64a2cd32a196645a39d794736",
+        "content": "叫上崔望一起吧，我来看看他的时间。",
+        "create_time": "2026-10-21 02:29",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_dc8359f64a2cd32a196645a39d794736\u0026position=5",
+        "message_id": "om_x100b62b67054e888cffe5d196d86411",
+        "message_position": "5",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_870975b0382c9b0eb131c90e8e5ac81d",
+          "id_type": "open_id",
+          "name": "柴亚通",
+          "sender_i18n_names": {
+            "en_us": "chaiyatong"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_dc8359f64a2cd32a196645a39d794736",
+        "content": "嗯呢，好的",
+        "create_time": "2026-10-21 02:30",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_dc8359f64a2cd32a196645a39d794736\u0026position=6",
+        "message_id": "om_x100b62b67054e88ccff8ddf6c90aba1",
+        "message_position": "6",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_e41d7538c671ace94d83136352e71f91",
+          "id_type": "open_id",
+          "name": "何荣福",
+          "sender_i18n_names": {
+            "en_us": "herongfu"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_dc8359f64a2cd32a196645a39d794736",
+        "content": "柴亚通 同步了 {count} 条消息到本群组",
+        "create_time": "2026-10-21 02:31",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_dc8359f64a2cd32a196645a39d794736\u0026position=7",
+        "message_id": "om_x100b62b6705674a4ce9465dc01ac39c",
+        "message_position": "7",
+        "msg_type": "system",
+        "sender": {
+          "id": "",
+          "id_type": "",
+          "sender_type": "",
+          "tenant_key": ""
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_dc8359f64a2cd32a196645a39d794736",
+        "content": "@崔望 下午有没有空？和何老师谈一下调研的。",
+        "create_time": "2026-10-21 02:31",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_643d94534d32e50d3a2e10a9c24a4068",
+            "key": "@_user_1",
+            "name": "崔望"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_dc8359f64a2cd32a196645a39d794736\u0026position=8",
+        "message_id": "om_x100b62b60ebe50a0de8b1fadb713e75",
+        "message_position": "8",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_870975b0382c9b0eb131c90e8e5ac81d",
+          "id_type": "open_id",
+          "name": "柴亚通",
+          "sender_i18n_names": {
+            "en_us": "chaiyatong"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-21 02:31",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_dc8359f64a2cd32a196645a39d794736",
+        "content": "何荣福 invited 牛振东, 万向阳, 刘宏宇 to the group. New members can view all chat history.",
+        "create_time": "2026-10-21 02:32",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_dc8359f64a2cd32a196645a39d794736\u0026position=9",
+        "message_id": "om_x100b62b60ade5cb8b4cc87365e91980",
+        "message_position": "9",
+        "msg_type": "system",
+        "sender": {
+          "id": "",
+          "id_type": "",
+          "sender_type": "",
+          "tenant_key": ""
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_dc8359f64a2cd32a196645a39d794736",
+        "content": "亚通，麻烦你把这个群的名字改成：2027年AI使能需求调研计划与实施[双手合十]",
+        "create_time": "2026-10-21 02:33",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_dc8359f64a2cd32a196645a39d794736\u0026position=10",
+        "message_id": "om_x100b62b609a2e4b0c08521e40caec80",
+        "message_position": "10",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_e41d7538c671ace94d83136352e71f91",
+          "id_type": "open_id",
+          "name": "何荣福",
+          "sender_i18n_names": {
+            "en_us": "herongfu"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_dc8359f64a2cd32a196645a39d794736",
+        "content": "柴亚通 updated the group name from \"{old_group_name}\" to \"{group_name}\".",
+        "create_time": "2026-10-21 02:36",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_dc8359f64a2cd32a196645a39d794736\u0026position=11",
+        "message_id": "om_x100b62b61c237cb8b07632c57e69808",
+        "message_position": "11",
+        "msg_type": "system",
+        "sender": {
+          "id": "",
+          "id_type": "",
+          "sender_type": "",
+          "tenant_key": ""
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_dc8359f64a2cd32a196645a39d794736",
+        "content": "何荣福 invited 金丹芸 to the group. New members can view all chat history.",
+        "create_time": "2026-10-21 02:38",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_dc8359f64a2cd32a196645a39d794736\u0026position=12",
+        "message_id": "om_x100b62b614ef2c70cf0d6eae3fe5b51",
+        "message_position": "12",
+        "msg_type": "system",
+        "sender": {
+          "id": "",
+          "id_type": "",
+          "sender_type": "",
+          "tenant_key": ""
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_dc8359f64a2cd32a196645a39d794736",
+        "content": "咱们需要确定：\n1、调研方式：Workshop/问卷/访谈...还是有别的方式...\n2、调研内容：调研提纲、问题列表。\n3、调研对象：业务总监/副总监/工厂负责人、业务一线骨干员工。\n4、调研计划：调研时间安排\n@柴亚通 能不能约个会？大家一起讨论一下？定个章程",
+        "create_time": "2026-10-21 02:39",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_870975b0382c9b0eb131c90e8e5ac81d",
+            "key": "@_user_1",
+            "name": "柴亚通"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_dc8359f64a2cd32a196645a39d794736\u0026position=13",
+        "message_id": "om_x100b62b6133110acdeda661927b455b",
+        "message_position": "13",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_e41d7538c671ace94d83136352e71f91",
+          "id_type": "open_id",
+          "name": "何荣福",
+          "sender_i18n_names": {
+            "en_us": "herongfu"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-21 02:39",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_dc8359f64a2cd32a196645a39d794736",
+        "content": "看大家白天都会议冲突，我约今晚6点是否可以？",
+        "create_time": "2026-10-21 02:42",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_dc8359f64a2cd32a196645a39d794736\u0026position=14",
+        "message_id": "om_x100b62b625d0f8b0c0aa580451df6d8",
+        "message_position": "14",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_870975b0382c9b0eb131c90e8e5ac81d",
+          "id_type": "open_id",
+          "name": "柴亚通",
+          "sender_i18n_names": {
+            "en_us": "chaiyatong"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-21 02:42",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_dc8359f64a2cd32a196645a39d794736",
+        "content": "我是可以的，你看看大家的时间哈...明天可以么？",
+        "create_time": "2026-10-21 02:44",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_dc8359f64a2cd32a196645a39d794736\u0026position=15",
+        "message_id": "om_x100b62b63e1f30acde9401a1a3d59ce",
+        "message_position": "15",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_e41d7538c671ace94d83136352e71f91",
+          "id_type": "open_id",
+          "name": "何荣福",
+          "sender_i18n_names": {
+            "en_us": "herongfu"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_dc8359f64a2cd32a196645a39d794736",
+        "content": "白天都是冲突的，就今晚吧。",
+        "create_time": "2026-10-21 02:46",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_dc8359f64a2cd32a196645a39d794736\u0026position=16",
+        "message_id": "om_x100b62b637acd8a0c0697288e44118a",
+        "message_position": "16",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_870975b0382c9b0eb131c90e8e5ac81d",
+          "id_type": "open_id",
+          "name": "柴亚通",
+          "sender_i18n_names": {
+            "en_us": "chaiyatong"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_dc8359f64a2cd32a196645a39d794736",
+        "content": "好",
+        "create_time": "2026-10-21 02:47",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_dc8359f64a2cd32a196645a39d794736\u0026position=17",
+        "message_id": "om_x100b62b63426613cc0fda145c90c458",
+        "message_position": "17",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_e41d7538c671ace94d83136352e71f91",
+          "id_type": "open_id",
+          "name": "何荣福",
+          "sender_i18n_names": {
+            "en_us": "herongfu"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_dc8359f64a2cd32a196645a39d794736",
+        "content": "@柴亚通 晚上吧",
+        "create_time": "2026-10-21 02:48",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_870975b0382c9b0eb131c90e8e5ac81d",
+            "key": "@_user_1",
+            "name": "柴亚通"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_dc8359f64a2cd32a196645a39d794736\u0026position=18",
+        "message_id": "om_x100b62b6cf88c8a4dd20823fcfe67a1",
+        "message_position": "18",
+        "msg_type": "text",
+        "reply_to": "om_x100b62b60ebe50a0de8b1fadb713e75",
+        "sender": {
+          "id": "ou_643d94534d32e50d3a2e10a9c24a4068",
+          "id_type": "open_id",
+          "name": "崔望",
+          "sender_i18n_names": {
+            "en_us": "cuiwang"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-21 02:48",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_dc8359f64a2cd32a196645a39d794736",
+        "content": "晚上我有安排",
+        "create_time": "2026-10-21 02:58",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_dc8359f64a2cd32a196645a39d794736\u0026position=19",
+        "message_id": "om_x100b62b6eb13ecbccf41332a5ebded5",
+        "message_position": "19",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_1a41d422d5434746e6fd206b285bbb3c",
+          "id_type": "open_id",
+          "name": "金丹芸",
+          "sender_i18n_names": {
+            "en_us": "Danny"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      }
+    ],
+    "page_token": "",
+    "total": 19
+  },
+  "meta": {
+    "pagination": {
+      "complete": true,
+      "pages": 1,
+      "items": 19
+    }
+  }
+}

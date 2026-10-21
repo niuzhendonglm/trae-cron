@@ -1,0 +1,270 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "has_more": false,
+    "messages": [
+      {
+        "chat_id": "oc_5c11ab5f3bd43008d8e58cdd2d62199b",
+        "content": "#### 运维日报 - 2026-10-20\n\n##### 📊 今日概览\n- **总问题数**: 49\n- **已回答**: 27\n- **待跟进**: 22\n- **AI 补充回复**: 5\n##### 📋 问题分类统计\n\n| 问题类型 | 数量 | 占比 |\n|----------|------|------|\n| 工具使用 | 13 | 26.5% |\n| 运维问题 | 7 | 14.3% |\n| 技术讨论 | 7 | 14.3% |\n| 工作沟通 | 7 | 14.3% |\n| 产品需求 | 6 | 12.2% |\n| 开发问题 | 5 | 10.2% |\n| 流程咨询 | 4 | 8.2% |\n\n##### 🔔 待办事项（共 22 项，完整方案见云文档）\n- [ ] **高**: 邱治钧、沈敏翔 - 最近是不是改了什么？设备驾驶舱频繁出现暂无数据和数据加载性能慢、指标穿透一直转圈。\n- [ ] **高**: 符之睿 - DataWind 大屏明显比之前慢了、用户体验很差，到底是什么问题？\n- [ ] **高**: 黄翔 - 是否可以用实时入湖的方法把删表造成的空档期问题解决掉？1.18 的新实时入湖方法现在可用吗？\n- [ ] **高**: 高旋 - 本地任务跑了两天一直中断、报 -1 错误码，继续的过程中逐渐跑偏，是怎么回事？\n- [ ] **中**: 牛振东、沈晨晨 - 工时表里没有工位信息，能加上对应的工位字段吗？工位和工序是一一对应的吗？\n- [ ] **中**: 金星 - 这个表头里为什么还有条件格式？会不会有影响？\n- [ ] **中**: 牛振东 - 大明湖看板替换后为什么没有数据？默认值是怎么配的？\n- [ ] **中**: AI助手 - 我没找到 SOLO Agent 的地方，入口在哪里？\n- [ ] **中**: AI助手 - 点击「外部浏览器打开」无效，怎么处理？\n- [ ] **中**: AI助手 - 现在能下载安装 Jev 吗？，目前群里分享的是知…）\n- [ ] **中**: TRAE 宝 - 提示词优化功能没了？\n- [ ] **中**: 高旋 - TRAE 客户端出现异常（附截图），怎么处理？\n- [ ] **低**: 高旋 - 希望文件产物层可以实时与云端同步，这样无论在哪个端使用都能拿到最新产物。\n- [ ] **低**: 高旋 - 在工具面板放大和缩小之后，对话界面从最小化恢复到正常时会回到对话起始位置，体验不好。\n- [ ] **低**: 高旋 - 为什么 TRAE 还不支持按项目管理工作区（一个项目可以随意关联多个目录）？目录改名后历史会话就失效了。\n- [ ] **低**: AI助手 - TRAE 增加第三方模型时，添加同一个服务商的模型需要重复填写 key 和请求地址，能否优化？，复用同一服务商的 ba…）\n- [ ] **低**: AI助手 - 方舟 plan 已经更新 DeepSeek 1017 最新版了，请问 TRAE 什么时候更新？\n- [ ] **低**: 董伯玉 - 上周二提交的一个资产申请，麻烦有空帮忙处理一下。\n- [ ] **中**: 何荣福、刘宏宇、马海峰 - 有两个待办：1）未正常上线、未正常入库、异常告警的消息模板各提供一份；2）整理业务高频问题，怎么推进？\n- [ ] **低**: 宋海峰 - 本周四李工他们来现场沟通多模态解析相关技术方案，周四下午 2 点你们时间方便吗？地点在哪里？\n- [ ] **中**: 李家伟 - 策略已加，麻烦试下访问端口是否连通？今天可以开始采集并传输数据了吗？\n- [ ] **中**: 牛振东 - 能给聪哥开个 DataWind 权限吗？她想探索一下我们仪表盘都有什么功能、能做成什么样。\n##### 📈 趋势分析\n- **问题量环比回落、周同比下降**：当日 49 条，较前日（10-19 周一，62 条）下降 21.0%，较上周二（10-13，63 条）下降 22.2%；近 7 天走势为 10-13:63 → 10-14:49 → 10-15:160（峰值）→ 10-17/18 周末（10-18 仅 1 条）→ 10-19:62 → 10-20:49，10-15 的峰值属偶发放量，工作日整体回落至 50 条上下。\n- **工具使用类升至第一**：当日 13 条（26.5%），高于其历史累计占比（95/524，约 18.1%），主要来自 TRAE 用户群的客户端异常、功能入口（SOLO Agent、提示词优化、外部浏览器）与第三方模型配置咨询；历史第一大类「技术讨论」（累计 203 条）当日 7 条（14.3%），低于其历史占比（约 38.7%），内部技术讨论热度有所回落。\n- **回复力量集中、待跟进率偏高**：TRAE 宝（10）+ 高旋（7）+ AI助手（5）合计承接 44.9% 的回复，高旋成为官方侧主要人工响应人；提问最活跃为牛振东（5）、刘宏宇（4）。待跟进 22 条（44.9%），重点为：设备驾驶舱频繁无数据（ODS/STD 重叠 + 位置建模删表验证）、DataWind 大屏性能变慢定位、本地任务 -1 中断排查、大明湖看板筛选修复（今日替换），需在今日闭环并回填结论。\n---\n📄 完整日报（含 49 条详细问题及回复记录、提问/回复人员统计）：[Inoclaw 群消息总结报告](https://inovance.feishu.cn/docx/SgW7dMmFcoHd3Tx8CoGcgl5VnGg)\n📊 数据明细：[AI学习记录多维表格](https://inovance.feishu.cn/base/KezfbQ2fDaNBonskSTZcM3YVnWf?table=tblrHaPTUI8x71ot)",
+        "create_time": "2026-10-20 20:59",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_5c11ab5f3bd43008d8e58cdd2d62199b\u0026position=248",
+        "message_id": "om_x100b62492d4d3ca0de457d61d2dc174",
+        "message_position": "248",
+        "msg_type": "post",
+        "sender": {
+          "id": "ou_635008cc2affc45d23de666f2e7e7446",
+          "id_type": "open_id",
+          "name": "牛振东",
+          "sender_i18n_names": {
+            "en_us": "niuzhendong"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_5c11ab5f3bd43008d8e58cdd2d62199b",
+        "content": "\u003ccard title=\"Inoclaw 精选消息 · 每日QA精选\"\u003e\n**数据日期**：2026-10-20（周二）\n**本次新增**：8 条QA（含回答要点）\n---\n**一、操作指南**\n**8. TRAE 如何安装本地自定义插件（.vsix）？**\n**回答**：① 插件市场面板右上角点「··· \u003e 从 VSIX 安装」，选择本地 .vsix 文件即可；② Trae v1.3.10 起支持该方式。\n---\n**二、产品动态**\n**5. 提示词优化功能没了，还会回来吗？**\n**回答**：① 官方答复功能「很快回来」，属临时下线；② 具体回归时间暂无定论，可关注后续版本更新。\n---\n**三、技术问答**\n**20. 生成海报用哪个模型比较好用？**\n**回答**：群友推荐 gpt-image 2.5（使用反馈，群里暂无官方对比说明）。\n**21. TRAE 客户端是 Electron 开发的吗？**\n**回答**：官方确认：是的。\n**22. 1024 活动抽中的连续包月优惠券，为什么 Ultra 套餐用不了？**\n**回答**：① 该券只能用于新购会员或升级会员档位时抵扣；② Ultra 已是顶配，两种场景都不适用，故无法使用。\n**23. DaaS SQL 查询结果导出失败（提示内容太多）怎么办？**\n**回答**：① 数据量太大或字段长度很长时直接导出易失败；② 改用 CSV 下载导出，无大小限制。\n**24. 设备驾驶舱频繁「暂无数据」、数据加载慢，根因是什么？**\n**回答**：① 无数据根因：ODS 同步与 STD 任务运行重叠，ODS truncate 后 1 秒 STD 即启动，把 STD 覆盖成空表，需调整抽取方案错开任务；② 加载慢为偶发：后台直连 count 仅 23ms，Doris FE 前一日 15 点前后有短暂抖动；③ 长期拟用 1.18 实时入湖方案解决删表空档期，仍在讨论中。\n**25. DaaS 数据资产发布流程审批人显示 null，还能审批吗？**\n**回答**：① 可以审批，显示 null 不影响流程；② null 来自流程转交备注内容，并非卡流程；③ 紧急可催对应 COE 审批。\n---\n[查看完整文档](https://inovance.feishu.cn/docx/UZqRddDCxoKy0VxxqjjcX4XZnfg)\n\u003c/card\u003e",
+        "create_time": "2026-10-20 22:22",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_5c11ab5f3bd43008d8e58cdd2d62199b\u0026position=249",
+        "message_id": "om_x100b624ad7a498a0cef11fcf0242660",
+        "message_position": "249",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a9630741047a1cb1",
+          "id_type": "app_id",
+          "name": "牛振东的智能助手",
+          "open_bot_id": "ou_c8b9500a3166c6e6e7d2613c870c09d1",
+          "sender_i18n_names": {
+            "en_us": "牛振东的智能助手",
+            "zh_cn": "牛振东的智能助手"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_5c11ab5f3bd43008d8e58cdd2d62199b",
+        "content": "好的~ 数据拿到了，我来整理一下~ 😊\n\n注意到了一个更新提示 ⬆️\n\n🔔 **老板好呀~ 周三早上好！元气满满的一天开始啦~** 🐱\n\n───\n\n📅 今日日程（09:00 起）\n\n```\n| 时间             | 事件                   | 状态    |\n| -------------- | -------------------- | ----- |\n| 🟡 09:00-09:30 | 济南工单异常AI项目每日例会（沈霜组织） | ⏳ 待确认 |\n| 🟢 09:30-10:00 | 【济南AI】高压接线防反进度对齐     | ✅ 已接受 |\n| 🔴 10:00-10:30 | 岳阳预测性维护进度对齐周会（安文斌组织） | ⏳ 待确认 |\n| 🟢 10:00-11:00 | 开发                   | ✅ 已接受 |\n| 🟢 15:00-17:00 | 开发                   | ✅ 已接受 |\n```\n⚠️ **冲突提醒**：10:00-10:30「岳阳预测性维护周会」与「开发」时间重叠，注意安排~\n\n───\n\n📋 今日待办（今日到期的）\n\n暂无今天到期的待办任务。\n\n**进行中的重点待办回顾：**\n\n• 🔴 **运维日报待跟进**（10/15到期，已超期）：济南服务器 https 切换、OMS 授权方案、防反检测 token 跳转等\n• 🟡 **开发看板数据更新**（例行，每周更新）\n• 📌 **高压接线防反检测** — 今天 9:30 对齐进度\n• 📌 **济南工单异常AI项目** — 今天 9:00 例会\n\n───\n\n**小结**：上午连续 3 个会（9:00-11:00），下午 15:00-17:00 开发时间。注意 10:00 那两个会有冲突，可能需要取舍一下~ 加油呀老板！💪🐱",
+        "create_time": "2026-10-21 01:00",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_5c11ab5f3bd43008d8e58cdd2d62199b\u0026position=250",
+        "message_id": "om_x100b62b4a48af8a4c04a1265d1bc0a8",
+        "message_position": "250",
+        "msg_type": "post",
+        "sender": {
+          "id": "cli_a9630741047a1cb1",
+          "id_type": "app_id",
+          "name": "牛振东的智能助手",
+          "open_bot_id": "ou_c8b9500a3166c6e6e7d2613c870c09d1",
+          "sender_i18n_names": {
+            "en_us": "牛振东的智能助手",
+            "zh_cn": "牛振东的智能助手"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_5c11ab5f3bd43008d8e58cdd2d62199b",
+        "content": "📋 日报生成失败 - 正在重试...",
+        "create_time": "2026-10-21 01:04",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_5c11ab5f3bd43008d8e58cdd2d62199b\u0026position=251",
+        "message_id": "om_x100b62b4b452e0a0c0fc8619822abae",
+        "message_position": "251",
+        "msg_type": "text",
+        "sender": {
+          "id": "cli_a9630741047a1cb1",
+          "id_type": "app_id",
+          "name": "牛振东的智能助手",
+          "open_bot_id": "ou_c8b9500a3166c6e6e7d2613c870c09d1",
+          "sender_i18n_names": {
+            "en_us": "牛振东的智能助手",
+            "zh_cn": "牛振东的智能助手"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_5c11ab5f3bd43008d8e58cdd2d62199b",
+        "content": "📋 **手绘日报 - 2026-10-21 星期三**\n\n⏰ **今日日程**\n- 09:00-09:30 🟢 济南工单异常 AI 项目每日例会\n- 09:30-10:00 【济南 AI】高压接线防反进度对齐\n- 10:00-11:00 开发\n- 10:00-10:30 岳阳预测性维护进度对齐周会\n- 15:00-17:00 开发\n\n✅ **昨日完成**\n- 📊 完成济南工单异常 AI 项目每日例会\n- 🤖 高压接线防反检测开发计划推进\n- 📋 岳阳预测性维护进度对齐周会\n\n📌 **今日待办**\n- 🗓️ 济南工单异常 AI 项目每日例会\n- 💻 开发工作\n- 📋 高压接线防反进度对齐\n\n🔔 **需跟进**\n- ⚠️ 开发看板数据更新待完成\n- 🔄 数字化大讲堂课程回顾\n\n⭐ **今日重点**\n济南 AI 项目每日例会 + 高压接线防反检测开发推进\n\n*Nomi 自动生成 🤖 数据来源：飞书日历 + 任务*",
+        "create_time": "2026-10-21 01:05",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_5c11ab5f3bd43008d8e58cdd2d62199b\u0026position=252",
+        "message_id": "om_x100b62b4b2c8c4a0c1b6d1929c82917",
+        "message_position": "252",
+        "msg_type": "text",
+        "sender": {
+          "id": "cli_a9630741047a1cb1",
+          "id_type": "app_id",
+          "name": "牛振东的智能助手",
+          "open_bot_id": "ou_c8b9500a3166c6e6e7d2613c870c09d1",
+          "sender_i18n_names": {
+            "en_us": "牛振东的智能助手",
+            "zh_cn": "牛振东的智能助手"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-21 01:05",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_5c11ab5f3bd43008d8e58cdd2d62199b",
+        "content": "[Image: img_v3_0216m_c1222cbd-d762-45fc-8d42-dbb76ae7e9cg]",
+        "create_time": "2026-10-21 01:05",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_5c11ab5f3bd43008d8e58cdd2d62199b\u0026position=253",
+        "message_id": "om_x100b62b4b2c2b4a4dd9accf90211daf",
+        "message_position": "253",
+        "msg_type": "image",
+        "sender": {
+          "id": "cli_a9630741047a1cb1",
+          "id_type": "app_id",
+          "name": "牛振东的智能助手",
+          "open_bot_id": "ou_c8b9500a3166c6e6e7d2613c870c09d1",
+          "sender_i18n_names": {
+            "en_us": "牛振东的智能助手",
+            "zh_cn": "牛振东的智能助手"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_5c11ab5f3bd43008d8e58cdd2d62199b",
+        "content": "今天数据已获取，我来整理简洁摘要。\n\n现在时间是11:00，今天已发生的会议：上午9:00-11:00的会议都过去了。剩余日程：15:00开发、18:00 AI需求调研讨论。\n\n🔔 **老板好呀~** 星期三啦，忙了一上午，中午好好歇歇🍚\n\n**📌 进行中/待办**\n[会议] 15:00-17:00 开发\n[会议] 18:00-19:00 AI需求调研讨论 B6# 3F-4\n[开发] 开发看板数据更新（11/2 截止）\n\n**✅ 今日已办**\n[会议] 09:00 济南工单异常AI项目每日例会\n[会议] 09:30 高压接线防反进度对齐\n[会议] 10:00 岳阳预测性维护进度对齐周会\n[开发] 上午开发时段（10:00-11:00）\n\n我这就安静退下啦，有需要随时喊我~ 📅",
+        "create_time": "2026-10-21 03:00",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_5c11ab5f3bd43008d8e58cdd2d62199b\u0026position=254",
+        "message_id": "om_x100b62b6e51ec884dff5acf9818d626",
+        "message_position": "254",
+        "msg_type": "post",
+        "sender": {
+          "id": "cli_a9630741047a1cb1",
+          "id_type": "app_id",
+          "name": "牛振东的智能助手",
+          "open_bot_id": "ou_c8b9500a3166c6e6e7d2613c870c09d1",
+          "sender_i18n_names": {
+            "en_us": "牛振东的智能助手",
+            "zh_cn": "牛振东的智能助手"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_5c11ab5f3bd43008d8e58cdd2d62199b",
+        "content": "数据都拉到了~ 今天上午已经开了不少会，来看看完整的情况！\n\n---\n\n🔔 **老板下午好呀~ 午休结束啦！**\n\n**📋 今日已办**（上午已过去的日程）\n- **会议** 🗣️\n  - **09:00-09:30** 济南工单异常AI项目每日例会（沈霜组织）🆕 待确认\n  - **09:30-10:00** 【济南AI】高压接线防反进度对齐 ✅ 你组织的\n  - **10:00-11:00** 开发 ❌ 与岳阳预测性维护进度对齐周会（安文斌组织）时间冲突！\n  - **10:00-10:30** 岳阳预测性维护进度对齐周会（安文斌组织）🆕 待确认\n\n**📌 进行中/即将到来**\n- **会议** 🗣️\n  - **15:00-17:00** 开发 ✅\n  - **18:00-19:00** AI需求调研讨论 B6# 3F-4（柴亚通组织）🆕 待确认\n- **待办** 📝\n  - **开发看板数据更新** 🗓️ 截止 10-26/11-02（每周例行的团队任务）\n  - **济南AI 68服务器飞书权限申请 陈腾** 🗓️ 截止 12-01\n  - **运维日报待跟进事项**（OMS授权方案、防反检测token等问题）\n\n**⚠️ 时间冲突提醒**\n10:00-10:30 「开发」与你创建的「岳阳预测性维护进度对齐周会」重叠，注意调整~\n\n**⏰ 空闲时段** 下午 13:00-15:00 之间可以安排点深度工作哦~",
+        "create_time": "2026-10-21 05:00",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_5c11ab5f3bd43008d8e58cdd2d62199b\u0026position=255",
+        "message_id": "om_x100b62b020e62ca4dfcb3e14d0bea02",
+        "message_position": "255",
+        "msg_type": "post",
+        "sender": {
+          "id": "cli_a9630741047a1cb1",
+          "id_type": "app_id",
+          "name": "牛振东的智能助手",
+          "open_bot_id": "ou_c8b9500a3166c6e6e7d2613c870c09d1",
+          "sender_i18n_names": {
+            "en_us": "牛振东的智能助手",
+            "zh_cn": "牛振东的智能助手"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_5c11ab5f3bd43008d8e58cdd2d62199b",
+        "content": "数据都拿到了，来给老板整理个摘要~ 🐱\n\n---\n\n🔔 **老板下午好呀~ 现在是15:00，来个小铃铛提醒！**\n\n**📋 今日已办（上午的日程）**\n- **会议** 济南工单异常AI项目每日例会 09:00-09:30（待确认）\n- **会议** 【济南AI】高压接线防反进度对齐 09:30-10:00 ✅\n- **开发** 开发 10:00-11:00\n- **会议** 岳阳预测性维护进度对齐周会 10:00-10:30（待确认）\n  ⚠️ 10:00-10:30 开发 vs 岳阳预测性维护周会有冲突！\n\n**📌 进行中/待办（下午及未来）**\n- **开发** 开发 15:00-17:00 ← 正在进行中呢！\n- **会议** AI需求调研讨论 18:00-19:00（待确认）\n- **开发** 运维日报待办中「OMS履行订单表授权方案拉通，需对接IT侧李波」\n- **其他** 济南AI 68服务器飞书权限申请（截止12月1日）\n\n**📝 长期待办（打卡类）**\n- 【团队】开发看板数据更新（本周到期 10/26，上一期已过期 10/19）\n- 指标开发文档整理\n- 经营管报月份参数修改（每月提醒）\n\n**⏰ 温馨提醒**\nlark-cli 有可用更新哦~ 当前1.0.46，最新1.0.98，要不要我帮你升个级呀？",
+        "create_time": "2026-10-21 07:01",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_5c11ab5f3bd43008d8e58cdd2d62199b\u0026position=256",
+        "message_id": "om_x100b62b27b011ca0ddfe8af8dd28cd1",
+        "message_position": "256",
+        "msg_type": "post",
+        "sender": {
+          "id": "cli_a9630741047a1cb1",
+          "id_type": "app_id",
+          "name": "牛振东的智能助手",
+          "open_bot_id": "ou_c8b9500a3166c6e6e7d2613c870c09d1",
+          "sender_i18n_names": {
+            "en_us": "牛振东的智能助手",
+            "zh_cn": "牛振东的智能助手"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_5c11ab5f3bd43008d8e58cdd2d62199b",
+        "content": "老板，每日记忆总结已完成！✅\n\n---\n\n##### 📊 总结结果\n\n**今日状态**：系统首次运行，配置完整\n\n**文件已生成**：\n- 📄 日记文件：`memory/2026-10-21.md`\n- 📄 总结文件：`E:\\Inovance\\AI\\inoclaw\\daily-summary\\daily-summary-2026-10-21.md`\n\n**待办事项**：8 项待跟进（主要是飞书权限修复、MCP 注册、逾期待办清理等）\n\n**备注**：今天是 Nomi 系统正式运行的第一天，所有核心配置已就绪，明天开始正常执行日常任务~\n\n需要我处理任何待办事项吗？🐱",
+        "create_time": "2026-10-21 09:00",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_5c11ab5f3bd43008d8e58cdd2d62199b\u0026position=257",
+        "message_id": "om_x100b62b3bce32cacde8023e376b69bd",
+        "message_position": "257",
+        "msg_type": "post",
+        "sender": {
+          "id": "cli_a9630741047a1cb1",
+          "id_type": "app_id",
+          "name": "牛振东的智能助手",
+          "open_bot_id": "ou_c8b9500a3166c6e6e7d2613c870c09d1",
+          "sender_i18n_names": {
+            "en_us": "牛振东的智能助手",
+            "zh_cn": "牛振东的智能助手"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_5c11ab5f3bd43008d8e58cdd2d62199b",
+        "content": "🔔 **老板下午好呀~** 快下班啦，来看看今天的情况~ 🐱\n\n**📋 今日已办 \u0026 进行中**\n\n**💻 开发**\n- 09:00-09:30 济南工单异常AI项目每日例会\n- 09:30-10:00 【济南AI】高压接线防反进度对齐\n- 10:00-11:00 开发（编码时段）\n- 10:00-10:30 岳阳预测性维护进度对齐周会 ⏰（和开发时段重叠）\n- 15:00-17:00 开发（下午编码时段）\n- 17:00 开发看板数据更新 ✅（本周待更新）\n\n**📌 待办任务**\n- ⏳ 开发看板数据更新（每周重复，今天要做）\n- 📋 济南AI 68服务器飞书权限申请（陈腾）- 截止11月30日\n- 📖 数字化大讲堂·AI工具课程回顾\n- 💡 AI Coding 规范 V1.0 沉淀文档待处理\n\n**🔮 今晚还有一场**\n- **18:00-19:00** AI需求调研讨论 @B6#3F-4（柴亚通邀请，还没回复呢~）\n\n老板辛苦了！今天会议不少，还剩一小时开发时间，18点还有AI调研会~ 加油呀 💪",
+        "create_time": "2026-10-21 09:00",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_5c11ab5f3bd43008d8e58cdd2d62199b\u0026position=258",
+        "message_id": "om_x100b62b3bd7fd8a0c0c8b6d67e55791",
+        "message_position": "258",
+        "msg_type": "post",
+        "sender": {
+          "id": "cli_a9630741047a1cb1",
+          "id_type": "app_id",
+          "name": "牛振东的智能助手",
+          "open_bot_id": "ou_c8b9500a3166c6e6e7d2613c870c09d1",
+          "sender_i18n_names": {
+            "en_us": "牛振东的智能助手",
+            "zh_cn": "牛振东的智能助手"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      }
+    ],
+    "page_token": "",
+    "total": 11
+  },
+  "meta": {
+    "pagination": {
+      "complete": true,
+      "pages": 1,
+      "items": 11
+    }
+  }
+}

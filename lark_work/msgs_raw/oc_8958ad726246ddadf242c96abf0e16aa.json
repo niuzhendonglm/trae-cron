@@ -1,0 +1,50 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "has_more": false,
+    "messages": [
+      {
+        "chat_id": "oc_8958ad726246ddadf242c96abf0e16aa",
+        "content": "\u003ccard title=\"牛振东提交的 “IT需求管理（需求名称：申请发布飞书机器人应用，用于高压接线防反检测登录和通知）” 待你审批\"\u003e\n**申请人**\n@牛振东(ou_635008cc2affc45d23de666f2e7e7446)\n**审批事由**\nIT需求管理（需求名称：申请发布飞书机器人应用，用于高压接线防反检测登录和通知）\n[查看详情](https://applink.feishu.cn/client/web_url/open?mode=sidebar-semi\u0026min_width=1200\u0026reload=false\u0026url=https%3A%2F%2Foa.inovance.com%2Fkm%2Freview%2Fkm_review_main%2FkmReviewMain.do%3Fmethod%3Dview%26fdId%3D1a13435bb4205c0815cac224b70b652c)\n\u003c/card\u003e",
+        "create_time": "2026-10-21 08:58",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_635008cc2affc45d23de666f2e7e7446",
+            "key": "@_user_1",
+            "name": "牛振东"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_8958ad726246ddadf242c96abf0e16aa\u0026position=52",
+        "message_id": "om_x100b62b3a56898e0deffd12aabc7d85",
+        "message_position": "52",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_9cb844403dbb9108",
+          "id_type": "app_id",
+          "name": "审批",
+          "open_bot_id": "ou_3584fc613978d43c9cd0d890b987474b",
+          "sender_i18n_names": {
+            "en_us": "Approval",
+            "ja_jp": "承認",
+            "zh_cn": "审批"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-21 09:13",
+        "updated": true
+      }
+    ],
+    "page_token": "",
+    "total": 1
+  },
+  "meta": {
+    "pagination": {
+      "complete": true,
+      "pages": 1,
+      "items": 1
+    }
+  }
+}

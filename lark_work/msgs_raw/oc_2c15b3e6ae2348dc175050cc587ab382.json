@@ -1,0 +1,64 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "has_more": false,
+    "messages": [
+      {
+        "chat_id": "oc_2c15b3e6ae2348dc175050cc587ab382",
+        "content": "\u003ccard title=\"打卡记录\"\u003e\n**账号**\n10068181\n\n**时间**\n2026-10-21 08:27:14\n\n**地点**\nB5-裙1F-18西门电梯厅2考勤\n📝 10分钟内的多次考勤不会重复提醒\n\u003c/card\u003e",
+        "create_time": "2026-10-21 00:27",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_2c15b3e6ae2348dc175050cc587ab382\u0026position=823",
+        "message_id": "om_x100b62b4209420a0dfd3499b657a0bd",
+        "message_position": "823",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a3a0d2f81839d00b",
+          "id_type": "app_id",
+          "name": "我的HR自助",
+          "open_bot_id": "ou_91e3a8a4be0ba2877a11d558467ce735",
+          "sender_i18n_names": {
+            "en_us": "HR self",
+            "zh_cn": "我的HR自助"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_2c15b3e6ae2348dc175050cc587ab382",
+        "content": "\u003ccard title=\"打卡记录\"\u003e\n**账号**\n10068181\n\n**时间**\n2026-10-21 18:05:28\n\n**地点**\nB5-1F-KQ04裙1F西侧考勤\n📝 10分钟内的多次考勤不会重复提醒\n\u003c/card\u003e",
+        "create_time": "2026-10-21 10:05",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_2c15b3e6ae2348dc175050cc587ab382\u0026position=824",
+        "message_id": "om_x100b62bca87cf4a8c0567edef9504b5",
+        "message_position": "824",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a3a0d2f81839d00b",
+          "id_type": "app_id",
+          "name": "我的HR自助",
+          "open_bot_id": "ou_91e3a8a4be0ba2877a11d558467ce735",
+          "sender_i18n_names": {
+            "en_us": "HR self",
+            "zh_cn": "我的HR自助"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      }
+    ],
+    "page_token": "",
+    "total": 2
+  },
+  "meta": {
+    "pagination": {
+      "complete": true,
+      "pages": 1,
+      "items": 2
+    }
+  }
+}

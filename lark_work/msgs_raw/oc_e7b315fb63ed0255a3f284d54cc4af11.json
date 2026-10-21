@@ -1,0 +1,41 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "has_more": false,
+    "messages": [
+      {
+        "chat_id": "oc_e7b315fb63ed0255a3f284d54cc4af11",
+        "content": "\u003ccard title=\"未完成问卷：（选区1）职工代表选举选票\"\u003e\n您的问卷：“（选区1）职工代表选举选票”还未完成，请点击进入\n---\n[查看详情](https://applink.feishu.cn/client/web_app/open?appId=cli_a3d13b8d6eb8100b\u0026lk_target_url=https%3A%2F%2Fwork.inovance.com%2Fapps%2Finoa%2Finvest%2Fhome%3Fid%3D26409)\n\u003c/card\u003e",
+        "create_time": "2026-10-21 04:00",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_e7b315fb63ed0255a3f284d54cc4af11\u0026position=43",
+        "message_id": "om_x100b62b7c0a280acdde0085f1839927",
+        "message_position": "43",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a3d13b8d6eb8100b",
+          "id_type": "app_id",
+          "name": "问卷调查",
+          "open_bot_id": "ou_0d395c43ef82cc81996f3444e721517b",
+          "sender_i18n_names": {
+            "en_us": "questionnaire",
+            "zh_cn": "问卷调查"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      }
+    ],
+    "page_token": "",
+    "total": 1
+  },
+  "meta": {
+    "pagination": {
+      "complete": true,
+      "pages": 1,
+      "items": 1
+    }
+  }
+}

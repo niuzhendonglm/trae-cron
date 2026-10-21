@@ -1,0 +1,81 @@
+>>> batches_fix/upd_01.json (upd)
+OK batches_fix/upd_01.json: {
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "record_id_list": [
+      "reczz28QBjkBx6av",
+      "reczz28QBjkBx
+>>> batches_fix/upd_02.json (upd)
+OK batches_fix/upd_02.json: {
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "record_id_list": [
+      "reczz28QBjnB34jg",
+      "reczz28QBjnB3
+>>> batches_fix/upd_03.json (upd)
+OK batches_fix/upd_03.json: {
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "record_id_list": [
+      "reczz28QBjprb3Q0",
+      "reczz28QBjprb
+>>> batches_fix/upd_04.json (upd)
+OK batches_fix/upd_04.json: {
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "record_id_list": [
+      "reczz28QBjscCxQj",
+      "reczz28QBjscC
+>>> batches_fix/upd_05.json (upd)
+OK batches_fix/upd_05.json: {
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "record_id_list": [
+      "reczz28QBjvJ61wE",
+      "reczz28QBjvJ6
+>>> batches_fix/upd_06.json (upd)
+OK batches_fix/upd_06.json: {
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "record_id_list": [
+      "reczz28QBjy18Qj4",
+      "reczz28QBjy18
+>>> batches_fix/upd_07.json (upd)
+OK batches_fix/upd_07.json: {
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "record_id_list": [
+      "reczz28QBk0ht3pL",
+      "reczz28QBk0ht
+>>> batches_fix/upd_08.json (upd)
+OK batches_fix/upd_08.json: {
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "record_id_list": [
+      "reczz28QBk3S5owf",
+      "reczz28QBk3S5
+>>> batches_fix/upd_09.json (upd)
+OK batches_fix/upd_09.json: {
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "record_id_list": [
+      "reczz28QBk6FPrAl",
+      "reczz28QBk6FQ
+>>> batches_fix/new_01.json (create)
+OK batches_fix/new_01.json: {
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "record_id_list": [
+      "reczz28QC5Tyyw5y",
+      "reczz28QC5Tyz
+FIX_WRITE_DONE fails=0

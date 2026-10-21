@@ -1,0 +1,476 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "has_more": false,
+    "messages": [
+      {
+        "chat_id": "oc_79af426fe8f195f1099fb204333f7285",
+        "content": "\u003ccard title=\"本地长期记忆系统 HL-Mem 的设计\"\u003e\n🖼️ Image(img_key:img_v3_0216m_db1def42-e01a-4b42-9d5b-f06515cf7c9g)\n💡HL-Mem 是一套让 AI Agent 像人一样长期记忆的系统——保留证据、追踪时间、新信息能修正旧认知。\n🚀它的核心是把记忆当受治理的认知系统，而非简单存储——记得住、想得起、忘得掉、能改口、有依据。\n[阅读全文](https://inovance.feishu.cn/docx/UsN0dgJkHoERZgx9jbAcVMZundc)\n\u003c/card\u003e",
+        "create_time": "2026-10-21 01:02",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_79af426fe8f195f1099fb204333f7285\u0026position=4713",
+        "message_id": "om_x100b62b4be1e6ca0c0ece63c66004be",
+        "message_position": "4713",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "ou_2fe94d835d6a2e7194cb071c365283d8",
+          "id_type": "open_id",
+          "name": "朱萸",
+          "sender_i18n_names": {
+            "en_us": "Yu Zhu"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_79af426fe8f195f1099fb204333f7285",
+        "content": "@InoAI 我想使用inoclaw修改飞书文档，该如何授权，参考哪些文档操作",
+        "create_time": "2026-10-21 01:16",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_c07ea47f247dd9910ace099eb9725088",
+            "key": "@_user_1",
+            "name": "InoAI"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_79af426fe8f195f1099fb204333f7285\u0026position=4714",
+        "message_id": "om_x100b62b568ec14acdf0bb75a81015c4",
+        "message_position": "4714",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_05c961b5edc4ad8be2adca14a64605cf",
+          "id_type": "open_id",
+          "name": "陈语唐",
+          "sender_i18n_names": {
+            "en_us": "chenyutang"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-21 01:16",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_79af426fe8f195f1099fb204333f7285",
+        "content": "\u003ccard\u003e\n我来帮你解答如何在Inclaw中授权飞书文档的修改。让我先搜索相关文档。让我再搜索一下更具体的授权流程和相关的飞书文档操作文档。让我再搜索一下相关的具体授权操作文档。根据搜索结果和知识库中的信息，我来为你整理关于使用 **InoClaw** 修改飞书文档的授权方法及参考文档。---## InoClaw 修改飞书文档的授权方法### 一、授权方式根据知识库中的信息，在 InoClaw 中使用飞书相关功能（包括修改飞书文档）时，**需要通过飞书扫码授权**。具体流程如下：\n1. **在 InoClaw 中触发飞书文档相关操作**（如创建、读取、更新飞书文档）时，系统会提示你进行授权。\n2. **页面会展示飞书扫码二维码**，使用你的飞书 App 扫码即可完成授权。\n3. 授权成功后，系统会自动回到操作界面，可以正常使用飞书文档功能。\u003e 💡 如果是知识库中的飞书云文档上传，未授权时也会提示去授权，**扫码后自动回到页面**；在已授权状态下，知识库列表页顶部会出现「飞书」Tab。### 二、参考文档根据知识库信息，以下是需要参考的核心文档：| 文档 | 链接 |\n|------|------|\n| InoClaw 平台产品文档 | https://inovance.feishu.cn/wiki/GJ5xwR6SbiSa9TkgkVyckp6WnLf |\n| InoClaw 飞书机器人配置文档 | https://inovance.feishu.cn/wiki/YgAowqnVliwTPekjYTfcP6bMnbd#doxcnfnW8NbY2JO9XzNlmEKPVcc |### 三、涉及的飞书文档相关技能InoClaw 中与修改飞书文档直接相关的技能包括：\n1. **飞书云文档（Docx）**：这是新版飞书文档（`.docx` 格式）的主要操作工具，支持：\n  - **创建文档**：从 Markdown 内容创建新文档\n  - **读取内容**：全文读取、按目录/块ID/关键词/标题范围读取，支持提取图片、文件等富媒体\n  - **更新文档**：支持 8 种更新模式（覆盖、追加、定位替换、全文替换、插入、删除等）\n2. **飞书文档更新**：支持 7 种更新模式——追加、覆盖、定位替换、全文替换、前/后插入、删除\n3. **飞书文档创建**：从 Lark-flavored Markdown 创建新的飞书云文档### 四、操作的技能注册/使用条件要使用 InoClaw 修改飞书文档，前提是你已经配置了**飞书机器人**。如果还没有机器人，可以参考 **InoClaw 飞书机器人配置文档**（第二个链接）进行配置，或者联系 **覃群（17844）** 咨询。---**总结**：授权主要通过**飞书扫码**完成，首次使用飞书文档相关功能时按提示扫码授权即可。详细操作请参考 **InoClaw 平台产品文档** 和 **飞书机器人配置文档** 两个链接。\n\n如果你在授权过程中遇到问题，还可以使用 InoClaw 的 **飞书故障排查** 技能（包含 `/feishu_doctor` 诊断命令）来排查授权失败的问题。\n\u003c/card\u003e",
+        "create_time": "2026-10-21 01:16",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_79af426fe8f195f1099fb204333f7285\u0026position=4715",
+        "message_id": "om_x100b62b568f054b8c08af9a901b9b72",
+        "message_position": "4715",
+        "msg_type": "interactive",
+        "reply_to": "om_x100b62b568ec14acdf0bb75a81015c4",
+        "sender": {
+          "id": "cli_a6923266569a900b",
+          "id_type": "app_id",
+          "name": "InoAI",
+          "open_bot_id": "ou_c07ea47f247dd9910ace099eb9725088",
+          "sender_i18n_names": {
+            "en_us": "InoAI",
+            "zh_cn": "InoAI"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-21 01:16",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_79af426fe8f195f1099fb204333f7285",
+        "content": "![Image](img_v3_0216m_7c5e9c21-572c-4ba9-b834-108f4c3ffb5g)\n@InoAI 为什么我的inoclaw修改创建文档没有弹出扫码授权，而是跳转到了飞书开放平台，授权需要企业管理员审核",
+        "create_time": "2026-10-21 01:26",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_c07ea47f247dd9910ace099eb9725088",
+            "key": "@_user_1",
+            "name": "InoAI"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_79af426fe8f195f1099fb204333f7285\u0026position=4716",
+        "message_id": "om_x100b62b50271e0b0c30300ffa4b9e28",
+        "message_position": "4716",
+        "msg_type": "post",
+        "sender": {
+          "id": "ou_05c961b5edc4ad8be2adca14a64605cf",
+          "id_type": "open_id",
+          "name": "陈语唐",
+          "sender_i18n_names": {
+            "en_us": "chenyutang"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-21 01:26",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_79af426fe8f195f1099fb204333f7285",
+        "content": "\u003ccard\u003e\n我来帮您分析这个问题。首先让我查看您上传的截图，并搜索相关知识库。\n\n根据截图和知识库的信息，我来为您解释这个问题。## 问题原因分析从您的截图中可以看到，提示您需要申请 `docx:document:create` 权限（即创建飞书云文档的权限），并且需要跳转到飞书开放平台去申请。### 为什么会这样？根据知识库中的说明，InoClaw 中新建飞书机器人和应用时，权限授权是一个**分级**的过程：\n1. **首次绑定机器人**时，通过**扫码**完成基础授权，可以选择\"新建应用\"或\"选择已有应用\"。\n2. **后续使用中如果遇到新的接口权限**（比如您这里新增的**创建文档** `docx:document:create` 权限），这属于**增量权限申请**，**不会**再次触发扫码授权流程。根据知识库中的关键说明：\u003e **后续权限变更**：应用已创建后的增量权限申请（如补开接口权限）**不会再次触发审批流**，由汇川飞书管理员**覃群（17844）统一审批通过**。### 也就是说您的 InoClaw 应用在创建时可能没有申请 `docx:document:create`（创建云文档）这个权限，现在第一次使用\"创建文档\"功能时，飞书开放平台会要求补充申请该权限。由于这是增量权限，需要走**企业管理员审批**流程，而不会像首次扫码那样自动完成授权。## 解决方法按照截图提示执行即可：\n1. **第一步**：点击\"**去申请**\"按钮，跳转到飞书开放平台申请 `docx:document:create` 权限。\n2. **第二步**：申请提交后，等待企业管理员审批通过，然后点击\"**已完成**\"按钮确认。如果审核等待时间较长，也可以联系**汇川飞书管理员覃群（工号17844）** 加速审批，因为根据知识库说明，增量权限由他统一审批。---**简单总结**：不是所有权限都通过扫码就能拿到。创建文档权限属于**增量权限**，必须走飞书开放平台的企业管理员审批流程，这是正常现象，审批通过后即可正常使用创建文档功能。\n\u003c/card\u003e",
+        "create_time": "2026-10-21 01:26",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_79af426fe8f195f1099fb204333f7285\u0026position=4717",
+        "message_id": "om_x100b62b5022e38acc13094e2a7bce57",
+        "message_position": "4717",
+        "msg_type": "interactive",
+        "reply_to": "om_x100b62b50271e0b0c30300ffa4b9e28",
+        "sender": {
+          "id": "cli_a6923266569a900b",
+          "id_type": "app_id",
+          "name": "InoAI",
+          "open_bot_id": "ou_c07ea47f247dd9910ace099eb9725088",
+          "sender_i18n_names": {
+            "en_us": "InoAI",
+            "zh_cn": "InoAI"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-21 01:26",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_79af426fe8f195f1099fb204333f7285",
+        "content": "![Image](img_v3_0216m_2aebcc67-9b0e-40a9-8c0a-79b732ec113g)\n@InoAI 为什么打开InoClaw跳出来的是这个界面",
+        "create_time": "2026-10-21 01:56",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_c07ea47f247dd9910ace099eb9725088",
+            "key": "@_user_1",
+            "name": "InoAI"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_79af426fe8f195f1099fb204333f7285\u0026position=4719",
+        "message_id": "om_x100b62b5f5661c9cb4b57b63d12b4f7",
+        "message_position": "4719",
+        "msg_type": "post",
+        "sender": {
+          "id": "ou_37867b2efe9610cc8185c6e91c6f2114",
+          "id_type": "open_id",
+          "name": "陈景",
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-21 01:56",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_79af426fe8f195f1099fb204333f7285",
+        "content": "\u003ccard\u003e\n我先查看用户提供的图片，了解具体界面内容。\n\u003c/card\u003e",
+        "create_time": "2026-10-21 01:56",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_79af426fe8f195f1099fb204333f7285\u0026position=4720",
+        "message_id": "om_x100b62b5f51b88a8c060deb05a5ca62",
+        "message_position": "4720",
+        "msg_type": "interactive",
+        "reply_to": "om_x100b62b5f5661c9cb4b57b63d12b4f7",
+        "sender": {
+          "id": "cli_a6923266569a900b",
+          "id_type": "app_id",
+          "name": "InoAI",
+          "open_bot_id": "ou_c07ea47f247dd9910ace099eb9725088",
+          "sender_i18n_names": {
+            "en_us": "InoAI",
+            "zh_cn": "InoAI"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-21 02:56",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_79af426fe8f195f1099fb204333f7285",
+        "content": "@陈景 重新安装下",
+        "create_time": "2026-10-21 02:01",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_37867b2efe9610cc8185c6e91c6f2114",
+            "key": "@_user_1",
+            "name": "陈景"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_79af426fe8f195f1099fb204333f7285\u0026position=4721",
+        "message_id": "om_x100b62b59e56b0a0cecd8fc30fe1c0d",
+        "message_position": "4721",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_692aaa0a6c9c7fa178d04b4b942483cf",
+          "id_type": "open_id",
+          "name": "雷嘉勋",
+          "sender_i18n_names": {
+            "en_us": "lei"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-21 02:01",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_79af426fe8f195f1099fb204333f7285",
+        "content": "@InoAI 公司计划什么时候允许使用deepseek Harness桌面客户端",
+        "create_time": "2026-10-21 07:14",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_c07ea47f247dd9910ace099eb9725088",
+            "key": "@_user_1",
+            "name": "InoAI"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_79af426fe8f195f1099fb204333f7285\u0026position=4725",
+        "message_id": "om_x100b62b229c6cc8cc1f7473c7bc3592",
+        "message_position": "4725",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_36d5a074f185781051d3bda21bf8a1ac",
+          "id_type": "open_id",
+          "name": "何东克",
+          "sender_i18n_names": {
+            "en_us": "hedongke"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-21 07:14",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_79af426fe8f195f1099fb204333f7285",
+        "content": "\u003ccard\u003e\n我在知识库中搜索了关于\"DeepSeek Harness桌面客户端\"的相关信息，但知识库中并没有找到相关内容。\n\n需要说明的是：\n1. **知识库中查到的信息**：InoAI知识库主要包含 **InoAI** 和 **InoClaw**（InoAI的桌面客户端）的相关资料，其中提到了详细的安装、配置、更新日志等信息（当前最新版本为V1.8.0，发布于2026年8月28日）。\n2. **关于DeepSeek Harness**：知识库中**没有**找到关于\"DeepSeek Harness桌面客户端\"的任何信息，也没有提到公司计划何时允许使用该客户端。---**我无法回答你的问题**，目前的情况是：\n- ❌ 知识库中没有关于 **DeepSeek Harness桌面客户端** 的使用计划或开放时间安排\n- ❓ 我不知道公司是否有允许使用该客户端的计划**建议你**：\n- 如果有相关的内部通知或公告，可以查看公司的信息安全/IT合规部门发布的政策\n- 可以联系IT部门或信息安全负责人确认此工具的准入计划\n- 需要谨慎使用未经公司批准的AI工具，以避免数据安全合规风险如果你有更多背景信息（比如这个通知发布在哪个渠道），我可以帮你进一步查找。\n\u003c/card\u003e",
+        "create_time": "2026-10-21 07:14",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_79af426fe8f195f1099fb204333f7285\u0026position=4726",
+        "message_id": "om_x100b62b229fd94a0de3fdfa4531c6ff",
+        "message_position": "4726",
+        "msg_type": "interactive",
+        "reply_to": "om_x100b62b229c6cc8cc1f7473c7bc3592",
+        "sender": {
+          "id": "cli_a6923266569a900b",
+          "id_type": "app_id",
+          "name": "InoAI",
+          "open_bot_id": "ou_c07ea47f247dd9910ace099eb9725088",
+          "sender_i18n_names": {
+            "en_us": "InoAI",
+            "zh_cn": "InoAI"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-21 07:15",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_79af426fe8f195f1099fb204333f7285",
+        "content": "@InoAI 你的deepseek 模型是哪个版本，是4.1-1017吗",
+        "create_time": "2026-10-21 07:26",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_c07ea47f247dd9910ace099eb9725088",
+            "key": "@_user_1",
+            "name": "InoAI"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_79af426fe8f195f1099fb204333f7285\u0026position=4727",
+        "message_id": "om_x100b62b2daecaca4cf82ed145af5590",
+        "message_position": "4727",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_aeaf7441a6d04b5bc6a4c4c163e95a5d",
+          "id_type": "open_id",
+          "name": "邓小其",
+          "sender_i18n_names": {
+            "en_us": "Shawnk Deng"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-21 07:26",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_79af426fe8f195f1099fb204333f7285",
+        "content": "\u003ccard\u003e\n我正在查找关于 deepseek 模型版本的相关信息。\n\n让我搜索一下相关的知识库和资料。我搜索了InoAI知识库，但没有找到关于DeepSeek模型具体版本号的信息。让我再查看一下相关的内容，确认是否能找到更详细的信息。\n\n不过，根据知识库中的信息，我需要坦诚地告诉您：\n\n**我无法确认我所使用的DeepSeek模型具体是哪个版本（比如是否4.1-1017）。**\n\n作为InoAI助手，我本身并不直接是DeepSeek模型。我的底层模型信息可能由InoAI平台配置决定，而知识库中并没有记录当前具体使用的DeepSeek模型版本号。\n\n从更新日志中我了解到，InoClaw平台支持切换的大模型包括 **Qwen 3.5** 和 **DeepSeek V4 Flash**，但这只是平台层面的模型选项，并非我当前实际运行的模型版本。\n\n如果您需要确认当前InoAI服务使用的是哪个具体模型版本，建议您：\n1. 查看InoAI平台的控制台或设置页面中的模型配置信息\n2. 联系InoAI平台的技术支持（如更新日志中提到的联系人）获取准确的模型版本信息我无法凭空编造或猜测这个版本号，抱歉无法直接回答这个问题。您还有其他需要帮助的吗？\n\u003c/card\u003e",
+        "create_time": "2026-10-21 07:27",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_79af426fe8f195f1099fb204333f7285\u0026position=4728",
+        "message_id": "om_x100b62b2daf1f8a0ddd2fcbdf57f6d7",
+        "message_position": "4728",
+        "msg_type": "interactive",
+        "reply_to": "om_x100b62b2daecaca4cf82ed145af5590",
+        "sender": {
+          "id": "cli_a6923266569a900b",
+          "id_type": "app_id",
+          "name": "InoAI",
+          "open_bot_id": "ou_c07ea47f247dd9910ace099eb9725088",
+          "sender_i18n_names": {
+            "en_us": "InoAI",
+            "zh_cn": "InoAI"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-21 07:27",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_79af426fe8f195f1099fb204333f7285",
+        "content": "@汤明峰",
+        "create_time": "2026-10-21 13:49",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_6a5d0770735a1e67a9ce6940cd0f1bb2",
+            "key": "@_user_1",
+            "name": "汤明峰"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_79af426fe8f195f1099fb204333f7285\u0026position=4731",
+        "message_id": "om_x100b62b861a814a4c0c96a0342425cc",
+        "message_position": "4731",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_129e012b6734bb46ae7502a3be32018a",
+          "id_type": "open_id",
+          "name": "刘宇",
+          "sender_i18n_names": {
+            "en_us": "RAYNLIU"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-21 13:49",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_79af426fe8f195f1099fb204333f7285",
+        "content": "@汤明峰",
+        "create_time": "2026-10-21 13:50",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_6a5d0770735a1e67a9ce6940cd0f1bb2",
+            "key": "@_user_1",
+            "name": "汤明峰"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_79af426fe8f195f1099fb204333f7285\u0026position=4733",
+        "message_id": "om_x100b62b87e2bccacdf11ae342c8a4d4",
+        "message_position": "4733",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_129e012b6734bb46ae7502a3be32018a",
+          "id_type": "open_id",
+          "name": "刘宇",
+          "sender_i18n_names": {
+            "en_us": "RAYNLIU"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-21 13:50",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_79af426fe8f195f1099fb204333f7285",
+        "content": "@InoAI 如何下载？Inno claw？",
+        "create_time": "2026-10-21 13:50",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_c07ea47f247dd9910ace099eb9725088",
+            "key": "@_user_1",
+            "name": "InoAI"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_79af426fe8f195f1099fb204333f7285\u0026position=4734",
+        "message_id": "om_x100b62b87c9d2538c1d13263b760fea",
+        "message_position": "4734",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_129e012b6734bb46ae7502a3be32018a",
+          "id_type": "open_id",
+          "name": "刘宇",
+          "sender_i18n_names": {
+            "en_us": "RAYNLIU"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-21 13:50",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_79af426fe8f195f1099fb204333f7285",
+        "content": "\u003ccard\u003e\n我来帮你查询关于 Inno Claw 的下载方法。让我先搜索一下相关知识库和网络信息。\n\n让我同时查询知识库和搜索网络。\n\n根据搜索结果和知识库信息，我来为您解答关于 **InoClaw（Inno Claw）** 的下载方法。---## InoClaw 下载方式根据知识库信息，**InoClaw 是汇川（Inovance）内部使用的 AI 智能体客户端平台**，不是公开的开源项目。以下是最常见的下载方式：### 1️⃣ 通过客户端内检查更新（如果已安装）如果您已经安装了 InoClaw 客户端，可以直接在 **设置 → 通用 → 检查更新** 中下载最新版本。客户端会自动联网检测新版本并完成下载安装。### 2️⃣ 从公司内部渠道获取安装包- **产品文档地址**：访问 InoClaw 平台的飞书文档获取下载入口：[InoClaw 产品文档](https://inovance.feishu.cn/wiki/GJ5xwR6SbiSa9TkgkVyckp6WnLf)\n- 通常公司会通过**飞书群、内部邮件或 IT 部门**发布最新安装包的下载链接。### 3️⃣ 使用\"预览下载脚本\"如果遇到扫码登录问题，知识库提到可以通过**预览下载脚本**来解决，这也是获取相关工具的方式之一。---### ⚠️ 注意- 搜索结果中出现的 **innoClaw（www.gitee.com/innosun/ScienceClaw）** 是一个基于 ScienceClaw 二次开发的开源项目，**并非**汇川的 InoClaw 客户端，请注意区分。\n- InoClaw 是公司内部产品，建议优先通过**内部文档或 IT 部门**获取官方下载链接。---**建议**：如果您还没有安装，最直接的方式是通过公司内部的飞书群或 IT 支持获取安装包下载链接。您也可以让我帮忙查询更多内部信息。需要我帮您进一步查找吗？\n\u003c/card\u003e",
+        "create_time": "2026-10-21 13:50",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_79af426fe8f195f1099fb204333f7285\u0026position=4735",
+        "message_id": "om_x100b62b87ca17500df0132b082c2c48",
+        "message_position": "4735",
+        "msg_type": "interactive",
+        "reply_to": "om_x100b62b87c9d2538c1d13263b760fea",
+        "sender": {
+          "id": "cli_a6923266569a900b",
+          "id_type": "app_id",
+          "name": "InoAI",
+          "open_bot_id": "ou_c07ea47f247dd9910ace099eb9725088",
+          "sender_i18n_names": {
+            "en_us": "InoAI",
+            "zh_cn": "InoAI"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-21 13:50",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_79af426fe8f195f1099fb204333f7285",
+        "content": "@刘亚超",
+        "create_time": "2026-10-21 13:51",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_1ce9fb963e8c0f62e274978d7188d462",
+            "key": "@_user_1",
+            "name": "刘亚超"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_79af426fe8f195f1099fb204333f7285\u0026position=4737",
+        "message_id": "om_x100b62b878e158a0dea12117d50efb4",
+        "message_position": "4737",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_129e012b6734bb46ae7502a3be32018a",
+          "id_type": "open_id",
+          "name": "刘宇",
+          "sender_i18n_names": {
+            "en_us": "RAYNLIU"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-21 13:51",
+        "updated": true
+      }
+    ],
+    "page_token": "",
+    "total": 17
+  },
+  "meta": {
+    "pagination": {
+      "complete": true,
+      "pages": 1,
+      "items": 17
+    }
+  }
+}

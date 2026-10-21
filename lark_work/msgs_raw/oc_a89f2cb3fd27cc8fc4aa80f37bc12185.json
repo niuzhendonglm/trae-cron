@@ -1,0 +1,77 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "has_more": false,
+    "messages": [
+      {
+        "chat_id": "oc_a89f2cb3fd27cc8fc4aa80f37bc12185",
+        "content": "@方智 方工，高密区无法对接daas 的数据服务嘛",
+        "create_time": "2026-10-21 08:53",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_a61165efe52b2aa30b25b21441a35aef",
+            "key": "@_user_1",
+            "name": "方智"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_a89f2cb3fd27cc8fc4aa80f37bc12185\u0026position=428",
+        "message_id": "om_x100b62b399d00ca4c3c706f06ee29a3",
+        "message_position": "428",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_c8afe8aab3f80a020c356c0ca46a12ce",
+          "id_type": "open_id",
+          "name": "刘宏宇",
+          "sender_i18n_names": {
+            "en_us": "liuhongyu"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-21 08:53",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_a89f2cb3fd27cc8fc4aa80f37bc12185",
+        "content": "@刘宏宇 可以对接",
+        "create_time": "2026-10-21 08:54",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_c8afe8aab3f80a020c356c0ca46a12ce",
+            "key": "@_user_1",
+            "name": "刘宏宇"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_a89f2cb3fd27cc8fc4aa80f37bc12185\u0026position=429",
+        "message_id": "om_x100b62b3927ae8a8b0e6bddfb4e5db1",
+        "message_position": "429",
+        "msg_type": "text",
+        "reply_to": "om_x100b62b399d00ca4c3c706f06ee29a3",
+        "sender": {
+          "id": "ou_252c43af63ca5514e989f5d4f47d7cba",
+          "id_type": "open_id",
+          "name": "武销南",
+          "sender_i18n_names": {
+            "en_us": "wuxiaonan"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-21 08:54",
+        "updated": true
+      }
+    ],
+    "page_token": "",
+    "total": 2
+  },
+  "meta": {
+    "pagination": {
+      "complete": true,
+      "pages": 1,
+      "items": 2
+    }
+  }
+}
