@@ -1,0 +1,41 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "has_more": false,
+    "messages": [
+      {
+        "chat_id": "oc_74b75545dc8a70324842210cdfef20ed",
+        "content": "\u003ccard title=\"国际物流形势洞察2026年10月\"\u003e\n🎉 **内容摘要**\n\n---\n[查看详情](https://oa.inovance.com/sys/notify/sys_notify_todo/sysNotifyTodo.do?method=view\u0026fdId=1a177ecd29228e7cc40c88b462f8a936\u0026oauth=fs2ekp)\n📝 💡发布时间2026-10-26 19:16\n\u003c/card\u003e",
+        "create_time": "2026-10-26 19:16",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_74b75545dc8a70324842210cdfef20ed\u0026position=636",
+        "message_id": "om_x100b62c724a1b8a8c0155262bededc3",
+        "message_position": "636",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a3e1eec6f43b900e",
+          "id_type": "app_id",
+          "name": "资料纪要",
+          "open_bot_id": "ou_725b2f346a8b89dc2cb6dfb503de963d",
+          "sender_i18n_names": {
+            "en_us": "Data summary",
+            "zh_cn": "资料纪要"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      }
+    ],
+    "page_token": "",
+    "total": 1
+  },
+  "meta": {
+    "pagination": {
+      "complete": true,
+      "pages": 1,
+      "items": 1
+    }
+  }
+}

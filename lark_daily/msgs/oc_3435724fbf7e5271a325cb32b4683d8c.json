@@ -1,0 +1,73 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "has_more": false,
+    "messages": [
+      {
+        "chat_id": "oc_3435724fbf7e5271a325cb32b4683d8c",
+        "content": "\u003ccard title=\"【新增功能需求部署完成，进入用户验收】——试制3条线\"\u003e\n**所属看板**：试制3条线\n**所属模块**：\n**访问链接**：\n**需求提出人**：@李树德(ou_7d5c6d6cefdab60f4ab9f414b6c3d9bf)\n\n**提示：**** 勾选“验收完成” **\n[查看效果]\n[查看详情](https://inovance.feishu.cn/record/D5F4r67CeeH9ykcHUbacUsv7n7e?ccm_open_type=im_card_automation_button)\n---\n\u003c/card\u003e",
+        "create_time": "2026-10-26 17:09",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_7d5c6d6cefdab60f4ab9f414b6c3d9bf",
+            "key": "@_user_1",
+            "name": "李树德"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_3435724fbf7e5271a325cb32b4683d8c\u0026position=55",
+        "message_id": "om_x100b62c5c599c8a4dd02e2186d9a993",
+        "message_position": "55",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a9f869168d3adcc7",
+          "id_type": "app_id",
+          "name": "数据应用需求收集表",
+          "open_bot_id": "ou_882adb9c6d5fec435df3163526a3095c",
+          "sender_i18n_names": {
+            "en_us": "数据应用需求收集表",
+            "ja_jp": "数据应用需求收集表",
+            "zh_cn": "数据应用需求收集表"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_3435724fbf7e5271a325cb32b4683d8c",
+        "content": "\u003ccard title=\"【新增功能需求验收完成】——试制3条线\"\u003e\n**  💝💝  合作愉快！期待下次相遇！💝💝**\n\n**所属看板**：试制3条线\n**期望效果**：先调整展示，使用起来\n**访问链接**：\n[查看效果]\n[查看详情](https://inovance.feishu.cn/record/D5F4r67CeeH9ykcHUbacUsv7n7e?ccm_open_type=im_card_automation_button)\n---\n\u003c/card\u003e",
+        "create_time": "2026-10-26 17:18",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_3435724fbf7e5271a325cb32b4683d8c\u0026position=56",
+        "message_id": "om_x100b62c5e0bc68b8de6f7f349cbfa2d",
+        "message_position": "56",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a9f869168d3adcc7",
+          "id_type": "app_id",
+          "name": "数据应用需求收集表",
+          "open_bot_id": "ou_882adb9c6d5fec435df3163526a3095c",
+          "sender_i18n_names": {
+            "en_us": "数据应用需求收集表",
+            "ja_jp": "数据应用需求收集表",
+            "zh_cn": "数据应用需求收集表"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      }
+    ],
+    "page_token": "",
+    "total": 2
+  },
+  "meta": {
+    "pagination": {
+      "complete": true,
+      "pages": 1,
+      "items": 2
+    }
+  }
+}

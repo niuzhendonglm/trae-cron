@@ -1,0 +1,59 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "has_more": false,
+    "messages": [
+      {
+        "chat_id": "oc_f3b3a738e414b51c3695e48514062968",
+        "content": "\u003ccard title=\"【平台问题】待处理清单，请关注\"\u003e\n@everyone 待处理清单如下：\n| 问题编号 | 问题分类 | 问题描述 | 提出人 | 处理人 |\n|------|------|------|------|------|\n| P-Datawind-2609-0001 | Datawind平台功能问题 | 大屏字体异动加载，进入大屏后指标卡字体会出现显示原始默认字体的情况，待10s左右后会恢复到预设的字体 |  |  |\n| P-Datawind-2610-0001 | Datawind平台功能问题 | Datawind平台加载过慢，打开报表要1分钟以上才能刷新出来 |  |  |\n[去处理](https://inovance.feishu.cn/base/AnH9bCdGKaLWa8silwccgTqLn8b?table=tblwQVOXtSFomK9X\u0026view=vewUGqRRdu\u0026ccm_open_type=im_card_automation_button)\n---\n\u003c/card\u003e",
+        "create_time": "2026-10-26 09:05",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_93790c848ada6a4de22a7ebec866fda4",
+            "key": "@_user_2",
+            "name": "陈小亮"
+          },
+          {
+            "id": "ou_635008cc2affc45d23de666f2e7e7446",
+            "key": "@_user_3",
+            "name": "牛振东"
+          },
+          {
+            "id": "ou_9a014b8b8c8ac89789d87895edaee4c4",
+            "key": "@_user_4",
+            "name": "金星"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_f3b3a738e414b51c3695e48514062968\u0026position=390",
+        "message_id": "om_x100b62de3a9630a0b01810ac71142c0",
+        "message_position": "390",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a87ba89658ba900e",
+          "id_type": "app_id",
+          "name": "数据开发项目",
+          "open_bot_id": "ou_2eeca1219f46eca3ab521293f9fceb47",
+          "sender_i18n_names": {
+            "en_us": "数据开发项目",
+            "ja_jp": "数据开发项目",
+            "zh_cn": "数据开发项目"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      }
+    ],
+    "page_token": "",
+    "total": 1
+  },
+  "meta": {
+    "pagination": {
+      "complete": true,
+      "pages": 1,
+      "items": 1
+    }
+  }
+}

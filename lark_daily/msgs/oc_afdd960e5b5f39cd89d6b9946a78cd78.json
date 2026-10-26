@@ -1,0 +1,570 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "has_more": false,
+    "messages": [
+      {
+        "chat_id": "oc_afdd960e5b5f39cd89d6b9946a78cd78",
+        "content": "叮咚～新的一周从签到开始！今日100积分等你领，动动手指就入账，愿你新的一周万事顺意！🌟 （由豆包发送）",
+        "create_time": "2026-10-26 12:23",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/thread/open?open_chat_id=oc_afdd960e5b5f39cd89d6b9946a78cd78\u0026open_thread_id=omt_19bb5d02684e1a77\u0026openchatid=oc_afdd960e5b5f39cd89d6b9946a78cd78\u0026openthreadid=omt_19bb5d02684e1a77\u0026thread_position=-1",
+        "message_id": "om_x100b62d9127968b0ddb8670bb5f021a",
+        "message_position": "16633",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_be6596d0943e67e9c82918b84b0af18c",
+          "id_type": "open_id",
+          "name": "吴于飞",
+          "sender_i18n_names": {
+            "en_us": "Yufei Wu",
+            "zh_cn": "吴于飞"
+          },
+          "sender_type": "user",
+          "tenant_key": "736588c9260f175d"
+        },
+        "thread_id": "omt_19bb5d02684e1a77",
+        "thread_message_position": "-1",
+        "thread_replies": [
+          {
+            "chat_id": "oc_afdd960e5b5f39cd89d6b9946a78cd78",
+            "content": "\u003ccard\u003e\n收到啦～新的一周也祝你顺顺利利 🌟\n---\n💡 更多使用问题请转移至 [TRAE 官方社区「帮助与支持」板块](https://forum.trae.cn/c/7-category/7) 发帖询问 \n · 021792988619969fdbddc0200190532c659cb53af00005d4e546f · \n[已解决]\n[更多问题请到「官方社区」提问](https://forum.trae.cn/c/7-category/7)\n\u003c/card\u003e",
+            "create_time": "2026-10-26 12:23",
+            "deleted": false,
+            "message_app_link": "https://applink.feishu.cn/client/thread/open?open_chat_id=oc_afdd960e5b5f39cd89d6b9946a78cd78\u0026open_thread_id=omt_19bb5d02684e1a77\u0026openchatid=oc_afdd960e5b5f39cd89d6b9946a78cd78\u0026openthreadid=omt_19bb5d02684e1a77\u0026thread_position=0",
+            "message_id": "om_x100b62d91203f0acb089aee5cebeed5",
+            "message_position": "-3",
+            "msg_type": "interactive",
+            "sender": {
+              "id": "cli_a9c7f80599f8dbc4",
+              "id_type": "app_id",
+              "name": "TRAE 宝",
+              "open_bot_id": "ou_dfae499a31a17e270c3cc86c7275f2bd",
+              "sender_i18n_names": {
+                "en_us": "TRAE 宝",
+                "zh_cn": "TRAE 宝"
+              },
+              "sender_type": "app",
+              "tenant_key": "15d6d1e6e508d75e"
+            },
+            "thread_id": "omt_19bb5d02684e1a77",
+            "thread_message_position": "0",
+            "update_time": "2026-10-26 12:23",
+            "updated": true
+          }
+        ],
+        "updated": false
+      },
+      {
+        "chat_id": "oc_afdd960e5b5f39cd89d6b9946a78cd78",
+        "content": "「我的 Builder 高光时刻」获奖名单公布\n感谢大家分享自己与 TRAE Builder 的高光时刻。我们看到了很多真实、有趣，也很有参考价值的实践。恭喜以下小伙伴获奖🎉，记得联系@吴于飞 领奖哦：\n🏆群像代表（10位）\n @小当家 、@用户008208 、@周艳红 、@codeniu 、@大毛 \n @李存宇 、@HBHLKT-IT-沈宝鑫 、@用户169354 、@吴于飞0 、@吴长普 \n🏆积极参与奖（50位）\n @吴于飞2 、@用户718917 、@Wiki 、@吴于飞5 、@用户124516 、@陈磊 、@用户408001 、@吴于飞9 、@小当家0 、@小当家1 、@小当家2 、@用户596151 、@小当家4 、@atyo21 、@小当家6 、@石曼言 、@张斌 、@时间的记忆 、@用户0082080 、@冯梦龙 、@用户0082082 、@刘恒燊 、@用户0082084 、@用户0082085 、@用户0082086 、 @用户0082087 、@用户0082088 、@用户0082089 、@用户304536 、@用户304586 、@用户961750 、@陶 、@李泽源 、@用户880137 、@Hugo 、@用户456741 、@于佳琦 、@陈香伟 、@codeniu0 、@codeniu1 、@codeniu2 、@codeniu3 、@codeniu4 、@codeniu5 、@codeniu6 、@codeniu7 、@codeniu8 、@codeniu9 、@钱琦 、@张阅 \n\n感谢每一位认真分享的朋友。期待在群里看到更多属于你们的 Builder 高光时刻！",
+        "create_time": "2026-10-26 15:34",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_be6596d0943e67e9c82918b84b0af18c",
+            "key": "@_user_1",
+            "name": "吴于飞"
+          },
+          {
+            "id": "ou_6e1a93c525d467278c2330f3af6547f4",
+            "key": "@_user_2",
+            "name": "小当家"
+          },
+          {
+            "id": "ou_4e869641bf8c7455b6acfbf8aedc7b0b",
+            "key": "@_user_3",
+            "name": "用户008208"
+          },
+          {
+            "id": "ou_1d1be81630dacbea9df739634dbab138",
+            "key": "@_user_4",
+            "name": "周艳红"
+          },
+          {
+            "id": "ou_f2ecd4e01f11af4bb9fc0621a8eef464",
+            "key": "@_user_5",
+            "name": "codeniu"
+          },
+          {
+            "id": "ou_bd3e1662c21d26d515aba4b405223306",
+            "key": "@_user_6",
+            "name": "大毛"
+          },
+          {
+            "id": "ou_e3df10ad352abc2b938ad74c7745f2e7",
+            "key": "@_user_7",
+            "name": "李存宇"
+          },
+          {
+            "id": "ou_cd7e18870e2eed3cda06aacbed3f6df4",
+            "key": "@_user_8",
+            "name": "HBHLKT-IT-沈宝鑫"
+          },
+          {
+            "id": "ou_45666a9b7a4cec823dea361cf939efe0",
+            "key": "@_user_9",
+            "name": "用户169354"
+          },
+          {
+            "id": "ou_62b5297a2ef855e17269d94d505d8812",
+            "key": "@_user_10",
+            "name": "刘贺"
+          },
+          {
+            "id": "ou_6c1dadcbd656a89f4ec5be3ba9970afd",
+            "key": "@_user_11",
+            "name": "吴长普"
+          },
+          {
+            "id": "ou_15e6bbab37850dd3eccc94072798da9e",
+            "key": "@_user_12",
+            "name": "用户924813"
+          },
+          {
+            "id": "ou_d4fcefed2f4c2c4a29cd1d41f13c52cf",
+            "key": "@_user_13",
+            "name": "用户718917"
+          },
+          {
+            "id": "ou_b929c2c815c856aaf8fd59d876fe5051",
+            "key": "@_user_14",
+            "name": "Wiki"
+          },
+          {
+            "id": "ou_16b8df21b1b1c4cce4ac5cbf7a59cb05",
+            "key": "@_user_15",
+            "name": "James"
+          },
+          {
+            "id": "ou_3297909e751800350bbefe9d92160a82",
+            "key": "@_user_16",
+            "name": "用户124516"
+          },
+          {
+            "id": "ou_6379ddac7afa8c29bb3c0baa6c96964d",
+            "key": "@_user_17",
+            "name": "陈磊"
+          },
+          {
+            "id": "ou_a132168ba4348859aee335fce8130c60",
+            "key": "@_user_18",
+            "name": "用户408001"
+          },
+          {
+            "id": "ou_4d6debef4939ba2d8bf4135da8b62e82",
+            "key": "@_user_19",
+            "name": "付鹏宇"
+          },
+          {
+            "id": "ou_71a035038b6ba158c1f328ff2f203d74",
+            "key": "@_user_20",
+            "name": "刘虎光"
+          },
+          {
+            "id": "ou_f1f22986d641c39f36426e9f0f6663e6",
+            "key": "@_user_21",
+            "name": "岳鹏"
+          },
+          {
+            "id": "ou_36d332e36adf9377d38310398685061f",
+            "key": "@_user_22",
+            "name": "用户428431"
+          },
+          {
+            "id": "ou_f6846fa42f11f7a2d4b0957891822861",
+            "key": "@_user_23",
+            "name": "用户596151"
+          },
+          {
+            "id": "ou_954506e2e02c3e4ec3f8a2f010312948",
+            "key": "@_user_24",
+            "name": "用户111378"
+          },
+          {
+            "id": "ou_307d9502a3ffc88a7bf0017f7b0093d1",
+            "key": "@_user_25",
+            "name": "atyo21"
+          },
+          {
+            "id": "ou_25d70e2f7e761a24fa01086fb778094c",
+            "key": "@_user_26",
+            "name": "用户542718"
+          },
+          {
+            "id": "ou_66ac8eb496c96214de0ebc83e42eaed7",
+            "key": "@_user_27",
+            "name": "石曼言"
+          },
+          {
+            "id": "ou_86ac3e43bb423e25ff4329a49dc3458e",
+            "key": "@_user_28",
+            "name": "张斌"
+          },
+          {
+            "id": "ou_95f9f4dd102757b8cf077d8d352fb5fb",
+            "key": "@_user_29",
+            "name": "时间的记忆"
+          },
+          {
+            "id": "ou_a8227d22139ae3261b719ea82d30b93e",
+            "key": "@_user_30",
+            "name": "电商用户3025"
+          },
+          {
+            "id": "ou_a47790a5531251273834274fb05bd682",
+            "key": "@_user_31",
+            "name": "冯梦龙"
+          },
+          {
+            "id": "ou_ec4ba70dedffacf0e06730ddb718efc4",
+            "key": "@_user_32",
+            "name": "嗯"
+          },
+          {
+            "id": "ou_916ae0a8d8fd38ffed0c214371b3fc91",
+            "key": "@_user_33",
+            "name": "刘恒燊"
+          },
+          {
+            "id": "ou_a2ad3af2db9f546ca07ff20b3e7860e5",
+            "key": "@_user_34",
+            "name": "用户932496"
+          },
+          {
+            "id": "ou_6adcdf96c1ef5b2e1763824be2044480",
+            "key": "@_user_35",
+            "name": "Tom"
+          },
+          {
+            "id": "ou_ab420649bb11d14e69299925e35e8c4e",
+            "key": "@_user_36",
+            "name": "林会龙"
+          },
+          {
+            "id": "ou_55724c0609e9f9e4607e56137ae05d4c",
+            "key": "@_user_37",
+            "name": "顾泽民"
+          },
+          {
+            "id": "ou_b3c9590c9016cbed8f90a0bb4187397a",
+            "key": "@_user_38",
+            "name": "FYF"
+          },
+          {
+            "id": "ou_9eee095fa14a8fa3a93118bc6ef8a2c4",
+            "key": "@_user_39",
+            "name": "王华龙"
+          },
+          {
+            "id": "ou_4abdbd1c9ccb5063aa63e1ec7bb1d693",
+            "key": "@_user_40",
+            "name": "用户304536"
+          },
+          {
+            "id": "ou_b74da41d3591a4d4b737cf5b1ea61cd2",
+            "key": "@_user_41",
+            "name": "用户304586"
+          },
+          {
+            "id": "ou_1ce4dfcf427eb6efbc39d150d857c5cc",
+            "key": "@_user_42",
+            "name": "用户961750"
+          },
+          {
+            "id": "ou_2c2d9fe9d21dcf9af32243d127cd0860",
+            "key": "@_user_43",
+            "name": "陶"
+          },
+          {
+            "id": "ou_58e51d93e5a12f1ed35e10a0f3341bc1",
+            "key": "@_user_44",
+            "name": "李泽源"
+          },
+          {
+            "id": "ou_274e962ea32f2e08453dbde6f9236808",
+            "key": "@_user_45",
+            "name": "用户880137"
+          },
+          {
+            "id": "ou_e5ba45a4b59f66e59d46ddf925fd110c",
+            "key": "@_user_46",
+            "name": "Hugo"
+          },
+          {
+            "id": "ou_a2261e8296918fdbb9133edaec862822",
+            "key": "@_user_47",
+            "name": "用户456741"
+          },
+          {
+            "id": "ou_9be034aeca7ec415e7bd6c6db1ac701c",
+            "key": "@_user_48",
+            "name": "于佳琦"
+          },
+          {
+            "id": "ou_24190bb1d1eebd4f07edba01e9f6d95b",
+            "key": "@_user_49",
+            "name": "陈香伟"
+          },
+          {
+            "id": "ou_69e35184bb9240b1b2012ab08848b868",
+            "key": "@_user_50",
+            "name": "梁靖平"
+          },
+          {
+            "id": "ou_39b0c4719568a3d18c535ab4e8de605c",
+            "key": "@_user_51",
+            "name": "用户705284"
+          },
+          {
+            "id": "ou_c492d8b3957fb75e1ce59e02a1f01593",
+            "key": "@_user_52",
+            "name": "飞书用户6776MQ"
+          },
+          {
+            "id": "ou_201c617c8180e3a801c22a702d94700a",
+            "key": "@_user_53",
+            "name": "漫川"
+          },
+          {
+            "id": "ou_ecc36f58838d495014094ab7e144bf86",
+            "key": "@_user_54",
+            "name": "cici"
+          },
+          {
+            "id": "ou_530a1c7bd08379a5884c2cdf8c2f4dcc",
+            "key": "@_user_55",
+            "name": "用户030912"
+          },
+          {
+            "id": "ou_01f1c7c93f7d6baac625c73d5a6ce3da",
+            "key": "@_user_56",
+            "name": "朱胤陈"
+          },
+          {
+            "id": "ou_c18795d229a2ecd8b68dbe2eb3cbf96f",
+            "key": "@_user_57",
+            "name": "刘丽娜"
+          },
+          {
+            "id": "ou_aaa49f8ef6aca587eed61d70433cf98d",
+            "key": "@_user_58",
+            "name": "张朕羿"
+          },
+          {
+            "id": "ou_487d5089fc6ae98614572d3a6fed2997",
+            "key": "@_user_59",
+            "name": "李巍"
+          },
+          {
+            "id": "ou_b8447b97ccb82b3f697e5909365eb50a",
+            "key": "@_user_60",
+            "name": "钱琦"
+          },
+          {
+            "id": "ou_dd33e44f674a1828ce341566f9032ad2",
+            "key": "@_user_61",
+            "name": "张阅"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/thread/open?open_chat_id=oc_afdd960e5b5f39cd89d6b9946a78cd78\u0026open_thread_id=omt_19ba8aa0770f1a54\u0026openchatid=oc_afdd960e5b5f39cd89d6b9946a78cd78\u0026openthreadid=omt_19ba8aa0770f1a54\u0026thread_position=-1",
+        "message_id": "om_x100b62c468589ca0df8f5769ae48f0a",
+        "message_position": "16635",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_be6596d0943e67e9c82918b84b0af18c",
+          "id_type": "open_id",
+          "name": "吴于飞",
+          "sender_i18n_names": {
+            "en_us": "Yufei Wu",
+            "zh_cn": "吴于飞"
+          },
+          "sender_type": "user",
+          "tenant_key": "736588c9260f175d"
+        },
+        "thread_id": "omt_19ba8aa0770f1a54",
+        "thread_message_position": "-1",
+        "thread_replies": [
+          {
+            "chat_id": "oc_afdd960e5b5f39cd89d6b9946a78cd78",
+            "content": "\u003ccard\u003e\n收到～ 恭喜名单上的各位 Builder 🎉 也谢谢分享实践的朋友们，期待群里后续更多高光时刻。\n---\n💡 更多使用问题请转移至 [TRAE 官方社区「帮助与支持」板块](https://forum.trae.cn/c/7-category/7) 发帖询问 \n · 021793000043449fdbddc02001405304b59cb53af0000e969820e · \n[已解决]\n[更多问题请到「官方社区」提问](https://forum.trae.cn/c/7-category/7)\n\u003c/card\u003e",
+            "create_time": "2026-10-26 15:34",
+            "deleted": false,
+            "message_app_link": "https://applink.feishu.cn/client/thread/open?open_chat_id=oc_afdd960e5b5f39cd89d6b9946a78cd78\u0026open_thread_id=omt_19ba8aa0770f1a54\u0026openchatid=oc_afdd960e5b5f39cd89d6b9946a78cd78\u0026openthreadid=omt_19ba8aa0770f1a54\u0026thread_position=0",
+            "message_id": "om_x100b62c46804c4b4cff5162fdb9e2b3",
+            "message_position": "-3",
+            "msg_type": "interactive",
+            "sender": {
+              "id": "cli_a9c7f80599f8dbc4",
+              "id_type": "app_id",
+              "name": "TRAE 宝",
+              "open_bot_id": "ou_dfae499a31a17e270c3cc86c7275f2bd",
+              "sender_i18n_names": {
+                "en_us": "TRAE 宝",
+                "zh_cn": "TRAE 宝"
+              },
+              "sender_type": "app",
+              "tenant_key": "15d6d1e6e508d75e"
+            },
+            "thread_id": "omt_19ba8aa0770f1a54",
+            "thread_message_position": "0",
+            "update_time": "2026-10-26 15:34",
+            "updated": true
+          },
+          {
+            "chat_id": "oc_afdd960e5b5f39cd89d6b9946a78cd78",
+            "content": "哇  金色传说",
+            "create_time": "2026-10-26 15:51",
+            "deleted": false,
+            "message_app_link": "https://applink.feishu.cn/client/thread/open?open_chat_id=oc_afdd960e5b5f39cd89d6b9946a78cd78\u0026open_thread_id=omt_19ba8aa0770f1a54\u0026openchatid=oc_afdd960e5b5f39cd89d6b9946a78cd78\u0026openthreadid=omt_19ba8aa0770f1a54\u0026thread_position=1",
+            "message_id": "om_x100b62c4275fc8a8df22292b6905e12",
+            "message_position": "-3",
+            "msg_type": "text",
+            "sender": {
+              "id": "ou_4abdbd1c9ccb5063aa63e1ec7bb1d693",
+              "id_type": "open_id",
+              "name": "用户304536",
+              "sender_type": "user",
+              "tenant_key": "1bac9ef2b01e1758"
+            },
+            "thread_id": "omt_19ba8aa0770f1a54",
+            "thread_message_position": "1",
+            "updated": false
+          }
+        ],
+        "update_time": "2026-10-26 15:34",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_afdd960e5b5f39cd89d6b9946a78cd78",
+        "content": "https://mp.weixin.qq.com/s/kIHzJWzUIu8GMPZF6cyXDg",
+        "create_time": "2026-10-26 16:39",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/thread/open?open_chat_id=oc_afdd960e5b5f39cd89d6b9946a78cd78\u0026open_thread_id=omt_19ba9977134edca5\u0026openchatid=oc_afdd960e5b5f39cd89d6b9946a78cd78\u0026openthreadid=omt_19ba9977134edca5\u0026thread_position=-1",
+        "message_id": "om_x100b62c5552ed8bcb09a2a727c7b9ff",
+        "message_position": "16636",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_a2261e8296918fdbb9133edaec862822",
+          "id_type": "open_id",
+          "name": "用户456741",
+          "sender_i18n_names": {
+            "zh_cn": "小木"
+          },
+          "sender_type": "user",
+          "tenant_key": "148bb84b409b574f"
+        },
+        "thread_id": "omt_19ba9977134edca5",
+        "thread_message_position": "-1",
+        "thread_replies": [
+          {
+            "chat_id": "oc_afdd960e5b5f39cd89d6b9946a78cd78",
+            "content": "\u003ccard\u003e\n收到你分享的这篇文章，我这边打不开外部链接、看不到里面的内容~\n\n如果里面提到了具体的 TRAE 问题或使用疑惑，你把要点直接说给我，或去 TRAE 论坛「帮助与支持」板块发帖就行：🔗 [https://forum.trae.cn/c/7-category/7](https://forum.trae.cn/c/7-category/7)\n---\n💡 更多使用问题请转移至 [TRAE 官方社区「帮助与支持」板块](https://forum.trae.cn/c/7-category/7) 发帖询问 \n · 021793003967514fdbddc02000a02664559cb53af0000a6ce5002 · \n[已解决]\n[更多问题请到「官方社区」提问](https://forum.trae.cn/c/7-category/7)\n\u003c/card\u003e",
+            "create_time": "2026-10-26 16:39",
+            "deleted": false,
+            "message_app_link": "https://applink.feishu.cn/client/thread/open?open_chat_id=oc_afdd960e5b5f39cd89d6b9946a78cd78\u0026open_thread_id=omt_19ba9977134edca5\u0026openchatid=oc_afdd960e5b5f39cd89d6b9946a78cd78\u0026openthreadid=omt_19ba9977134edca5\u0026thread_position=0",
+            "message_id": "om_x100b62c552c17ca0b01b8d4c58b3bf8",
+            "message_position": "-3",
+            "msg_type": "interactive",
+            "sender": {
+              "id": "cli_a9c7f80599f8dbc4",
+              "id_type": "app_id",
+              "name": "TRAE 宝",
+              "open_bot_id": "ou_dfae499a31a17e270c3cc86c7275f2bd",
+              "sender_i18n_names": {
+                "en_us": "TRAE 宝",
+                "zh_cn": "TRAE 宝"
+              },
+              "sender_type": "app",
+              "tenant_key": "15d6d1e6e508d75e"
+            },
+            "thread_id": "omt_19ba9977134edca5",
+            "thread_message_position": "0",
+            "update_time": "2026-10-26 16:39",
+            "updated": true
+          }
+        ],
+        "updated": false
+      },
+      {
+        "chat_id": "oc_afdd960e5b5f39cd89d6b9946a78cd78",
+        "content": "【有奖征集】TRAE宝表情包小赛开赛啦！\n\n@_all   用 TRAE 创作一套不少于6张的 TRAE宝表情包，静态图、GIF 都可以。入选官方表情包可得 Insta360 麦克风，还有100元京东卡、TRAE会员积分等奖励。\n\n⏰投稿截止：11月8日\n👉活动详情： https://forum.trae.cn/t/topic/462975，快来参与吧[冲！]",
+        "create_time": "2026-10-26 18:37",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/thread/open?open_chat_id=oc_afdd960e5b5f39cd89d6b9946a78cd78\u0026open_thread_id=omt_19baa5a115cfdca5\u0026openchatid=oc_afdd960e5b5f39cd89d6b9946a78cd78\u0026openthreadid=omt_19baa5a115cfdca5\u0026thread_position=-1",
+        "message_id": "om_x100b62c6984eb0acb09a04ec056920b",
+        "message_position": "16638",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_be6596d0943e67e9c82918b84b0af18c",
+          "id_type": "open_id",
+          "name": "吴于飞",
+          "sender_i18n_names": {
+            "en_us": "Yufei Wu",
+            "zh_cn": "吴于飞"
+          },
+          "sender_type": "user",
+          "tenant_key": "736588c9260f175d"
+        },
+        "thread_id": "omt_19baa5a115cfdca5",
+        "thread_message_position": "-1",
+        "thread_replies": [
+          {
+            "chat_id": "oc_afdd960e5b5f39cd89d6b9946a78cd78",
+            "content": "\u003ccard\u003e\n收到~ 表情包小赛的投稿截止到 11 月 8 日，感兴趣的同学可以戳活动详情看看：🔗 [https://forum.trae.cn/t/topic/462975](https://forum.trae.cn/t/topic/462975)，期待大家的 TRAE宝 作品 😊\n---\n💡 更多使用问题请转移至 [TRAE 官方社区「帮助与支持」板块](https://forum.trae.cn/c/7-category/7) 发帖询问 \n · 021793011049191fdbddc0200190532c659cb53af00005d68eb1f · \n[已解决]\n[更多问题请到「官方社区」提问](https://forum.trae.cn/c/7-category/7)\n\u003c/card\u003e",
+            "create_time": "2026-10-26 18:37",
+            "deleted": false,
+            "message_app_link": "https://applink.feishu.cn/client/thread/open?open_chat_id=oc_afdd960e5b5f39cd89d6b9946a78cd78\u0026open_thread_id=omt_19baa5a115cfdca5\u0026openchatid=oc_afdd960e5b5f39cd89d6b9946a78cd78\u0026openthreadid=omt_19baa5a115cfdca5\u0026thread_position=0",
+            "message_id": "om_x100b62c6986914b0de59e5b598252df",
+            "message_position": "-3",
+            "msg_type": "interactive",
+            "sender": {
+              "id": "cli_a9c7f80599f8dbc4",
+              "id_type": "app_id",
+              "name": "TRAE 宝",
+              "open_bot_id": "ou_dfae499a31a17e270c3cc86c7275f2bd",
+              "sender_i18n_names": {
+                "en_us": "TRAE 宝",
+                "zh_cn": "TRAE 宝"
+              },
+              "sender_type": "app",
+              "tenant_key": "15d6d1e6e508d75e"
+            },
+            "thread_id": "omt_19baa5a115cfdca5",
+            "thread_message_position": "0",
+            "update_time": "2026-10-26 18:37",
+            "updated": true
+          }
+        ],
+        "updated": false
+      },
+      {
+        "chat_id": "oc_afdd960e5b5f39cd89d6b9946a78cd78",
+        "content": "{name} clipped content to top.",
+        "create_time": "2026-10-26 18:37",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_afdd960e5b5f39cd89d6b9946a78cd78\u0026position=16639",
+        "message_id": "om_x100b62c698054cacdf1e79ba57920ad",
+        "message_position": "16639",
+        "msg_type": "system",
+        "sender": {
+          "id": "",
+          "id_type": "",
+          "sender_type": "",
+          "tenant_key": ""
+        },
+        "updated": false
+      }
+    ],
+    "page_token": "",
+    "total": 5
+  },
+  "meta": {
+    "pagination": {
+      "complete": true,
+      "pages": 1,
+      "items": 5
+    }
+  }
+}

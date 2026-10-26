@@ -1,0 +1,150 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "has_more": false,
+    "messages": [
+      {
+        "chat_id": "oc_ddb207dfdbea1a36df88de256cc045aa",
+        "content": "@刘宏宇 @牛振东 明天跟驱控宋海峰约了一下，跟宋海峰和刘吉勤一起沟通一下驱控对AI使能的需求（今天中午吃饭的时候，跟于工聊了一下，他指定了宋海峰和刘吉勤，作为驱控数字化的接口人。同时，于工也指出了AI使能驱控的方向：AI场景实现，不能仅仅是点状场景的赋能，应该是全面规划，逐渐“切片式”推进。\n具体跟宋工和刘工沟通的时间未定，我明天上午10点会到B2 4层，跟宋工确定好需求沟通时间后，我再通知一下你们。你们看行不？\n\n另外，@牛振东 你啥时候到济南？我想咱们能不能也跟济南工厂宋厂长沟通一下：他对2027年AI使能的方向性期望。然后也指定一下AI需求调研接口人。同样约一下时间进行沟通...",
+        "create_time": "2026-10-26 17:55",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_c8afe8aab3f80a020c356c0ca46a12ce",
+            "key": "@_user_1",
+            "name": "刘宏宇"
+          },
+          {
+            "id": "ou_635008cc2affc45d23de666f2e7e7446",
+            "key": "@_user_2",
+            "name": "牛振东"
+          },
+          {
+            "id": "ou_635008cc2affc45d23de666f2e7e7446",
+            "key": "@_user_3",
+            "name": "牛振东"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_ddb207dfdbea1a36df88de256cc045aa\u0026position=130",
+        "message_id": "om_x100b62c6762fb894c0132d61a55780b",
+        "message_position": "130",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_e41d7538c671ace94d83136352e71f91",
+          "id_type": "open_id",
+          "name": "何荣福",
+          "sender_i18n_names": {
+            "en_us": "herongfu"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-26 17:55",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_ddb207dfdbea1a36df88de256cc045aa",
+        "content": "\u003cfile key=\"file_v3_0016r_111366ae-d649-4a78-aa2d-1d1ce711cc5g\" name=\"ISC_AI使能各层现状及痛点调研问题列表.xlsx\"/\u003e",
+        "create_time": "2026-10-26 17:58",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_ddb207dfdbea1a36df88de256cc045aa\u0026position=131",
+        "message_id": "om_x100b62c60af73ca8dd6f21ab50d18a9",
+        "message_position": "131",
+        "msg_type": "file",
+        "sender": {
+          "id": "ou_e41d7538c671ace94d83136352e71f91",
+          "id_type": "open_id",
+          "name": "何荣福",
+          "sender_i18n_names": {
+            "en_us": "herongfu"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_ddb207dfdbea1a36df88de256cc045aa",
+        "content": "我简单列了一下调研问题大纲",
+        "create_time": "2026-10-26 17:58",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_ddb207dfdbea1a36df88de256cc045aa\u0026position=132",
+        "message_id": "om_x100b62c60be300a0c4832935e8e8c60",
+        "message_position": "132",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_e41d7538c671ace94d83136352e71f91",
+          "id_type": "open_id",
+          "name": "何荣福",
+          "sender_i18n_names": {
+            "en_us": "herongfu"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_ddb207dfdbea1a36df88de256cc045aa",
+        "content": "但是，按照我的经验，这些问题仅仅是个引子...[呲牙]",
+        "create_time": "2026-10-26 17:59",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_ddb207dfdbea1a36df88de256cc045aa\u0026position=133",
+        "message_id": "om_x100b62c60823acacdeabdb2b23346e7",
+        "message_position": "133",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_e41d7538c671ace94d83136352e71f91",
+          "id_type": "open_id",
+          "name": "何荣福",
+          "sender_i18n_names": {
+            "en_us": "herongfu"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_ddb207dfdbea1a36df88de256cc045aa",
+        "content": "@何荣福 何老师，计划下周二到济南，具体要看本周整体测试情况，加急中",
+        "create_time": "2026-10-26 18:50",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_e41d7538c671ace94d83136352e71f91",
+            "key": "@_user_1",
+            "name": "何荣福"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_ddb207dfdbea1a36df88de256cc045aa\u0026position=134",
+        "message_id": "om_x100b62c74986b8b0ce5d2598aa3edd2",
+        "message_position": "134",
+        "msg_type": "text",
+        "reply_to": "om_x100b62c6762fb894c0132d61a55780b",
+        "sender": {
+          "id": "ou_635008cc2affc45d23de666f2e7e7446",
+          "id_type": "open_id",
+          "name": "牛振东",
+          "sender_i18n_names": {
+            "en_us": "niuzhendong"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-26 18:50",
+        "updated": true
+      }
+    ],
+    "page_token": "",
+    "total": 5
+  },
+  "meta": {
+    "pagination": {
+      "complete": true,
+      "pages": 1,
+      "items": 5
+    }
+  }
+}

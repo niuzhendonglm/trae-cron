@@ -1,0 +1,60 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "has_more": false,
+    "messages": [
+      {
+        "chat_id": "oc_d66a5da4c22743c4fd1b510ed02913d1",
+        "content": "\u003cfile key=\"file_v3_0016r_57d67d66-3b1b-421a-b01d-8ad3aa749e1g\" name=\"汇川总裁办〔2026〕15号 关于开展2026年度员工（含职员、部分技能人才、重阳节父母、优秀员工父母）体检工作安排的通知.pdf\"/\u003e",
+        "create_time": "2026-10-26 17:07",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_d66a5da4c22743c4fd1b510ed02913d1\u0026position=1984",
+        "message_id": "om_x100b62c5ca8e8ca8c1b8b52b106a7e4",
+        "message_position": "1984",
+        "msg_type": "file",
+        "sender": {
+          "id": "ou_cc336af9805c2ee2870ac41ff56c6985",
+          "id_type": "open_id",
+          "name": "徐会",
+          "sender_i18n_names": {
+            "en_us": "xuhui"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_d66a5da4c22743c4fd1b510ed02913d1",
+        "content": "\u003cp\u003e【重要提醒】\u003c/p\u003e\u003cp\u003e享有重阳节父母体检福利的同事请注意：体检截止10月31日\u003c/p\u003e\u003cp\u003e如已完成需要报销的，请填写下表格，提交报销材料哈~\u003c/p\u003e\u003cp\u003ehttps://inovance.feishu.cn/base/IkCgbbgU9amcm6saMmZcTuvpnYc?from=from_copylink\u003c/p\u003e",
+        "create_time": "2026-10-26 17:07",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_d66a5da4c22743c4fd1b510ed02913d1\u0026position=1985",
+        "message_id": "om_x100b62c5ca8ead14df8e6fdd350a2b5",
+        "message_position": "1985",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_cc336af9805c2ee2870ac41ff56c6985",
+          "id_type": "open_id",
+          "name": "徐会",
+          "sender_i18n_names": {
+            "en_us": "xuhui"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      }
+    ],
+    "page_token": "",
+    "total": 2
+  },
+  "meta": {
+    "pagination": {
+      "complete": true,
+      "pages": 1,
+      "items": 2
+    }
+  }
+}

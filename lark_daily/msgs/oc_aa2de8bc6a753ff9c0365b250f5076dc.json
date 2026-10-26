@@ -1,0 +1,179 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "has_more": false,
+    "messages": [
+      {
+        "chat_id": "oc_aa2de8bc6a753ff9c0365b250f5076dc",
+        "content": "欢迎入职 [烟花]",
+        "create_time": "2026-10-26 17:13",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_aa2de8bc6a753ff9c0365b250f5076dc\u0026position=0",
+        "message_id": "om_x100b62c5d2c594bccff34b819d92ec6",
+        "message_position": "0",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_635008cc2affc45d23de666f2e7e7446",
+          "id_type": "open_id",
+          "name": "牛振东",
+          "sender_i18n_names": {
+            "en_us": "niuzhendong"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-26 17:13",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_aa2de8bc6a753ff9c0365b250f5076dc",
+        "content": "工作上，有啥需要的，可以联系我哈",
+        "create_time": "2026-10-26 17:14",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_aa2de8bc6a753ff9c0365b250f5076dc\u0026position=1",
+        "message_id": "om_x100b62c5d1e5408cb0ecff284190dea",
+        "message_position": "1",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_635008cc2affc45d23de666f2e7e7446",
+          "id_type": "open_id",
+          "name": "牛振东",
+          "sender_i18n_names": {
+            "en_us": "niuzhendong"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_aa2de8bc6a753ff9c0365b250f5076dc",
+        "content": "你好，多多指教~",
+        "create_time": "2026-10-26 17:15",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_aa2de8bc6a753ff9c0365b250f5076dc\u0026position=2",
+        "message_id": "om_x100b62c5eaf688b4dc07b8349c04111",
+        "message_position": "2",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_510f5c2851991ed329ba2cad34fb26f8",
+          "id_type": "open_id",
+          "name": "陈雨洁",
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_aa2de8bc6a753ff9c0365b250f5076dc",
+        "content": "嗯，你的初面 面试官",
+        "create_time": "2026-10-26 17:16",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_aa2de8bc6a753ff9c0365b250f5076dc\u0026position=3",
+        "message_id": "om_x100b62c5e8f36c84b01e2be97423152",
+        "message_position": "3",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_635008cc2affc45d23de666f2e7e7446",
+          "id_type": "open_id",
+          "name": "牛振东",
+          "sender_i18n_names": {
+            "en_us": "niuzhendong"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_aa2de8bc6a753ff9c0365b250f5076dc",
+        "content": "有需要就提",
+        "create_time": "2026-10-26 17:16",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_aa2de8bc6a753ff9c0365b250f5076dc\u0026position=4",
+        "message_id": "om_x100b62c5e6fd1c88b0ec0f8dd4ef9cc",
+        "message_position": "4",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_635008cc2affc45d23de666f2e7e7446",
+          "id_type": "open_id",
+          "name": "牛振东",
+          "sender_i18n_names": {
+            "en_us": "niuzhendong"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_aa2de8bc6a753ff9c0365b250f5076dc",
+        "content": "好滴",
+        "create_time": "2026-10-26 17:18",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_aa2de8bc6a753ff9c0365b250f5076dc\u0026position=5",
+        "message_id": "om_x100b62c5e375d0bcc1f6a03a79e85eb",
+        "message_position": "5",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_510f5c2851991ed329ba2cad34fb26f8",
+          "id_type": "open_id",
+          "name": "陈雨洁",
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_aa2de8bc6a753ff9c0365b250f5076dc",
+        "content": "谢谢",
+        "create_time": "2026-10-26 17:18",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_aa2de8bc6a753ff9c0365b250f5076dc\u0026position=6",
+        "message_id": "om_x100b62c5e3018088c06988c712e0f91",
+        "message_position": "6",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_510f5c2851991ed329ba2cad34fb26f8",
+          "id_type": "open_id",
+          "name": "陈雨洁",
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-26 17:18",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_aa2de8bc6a753ff9c0365b250f5076dc",
+        "content": "[Sticker]",
+        "create_time": "2026-10-26 17:18",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_aa2de8bc6a753ff9c0365b250f5076dc\u0026position=7",
+        "message_id": "om_x100b62c5e149e8b0cffdc7161609321",
+        "message_position": "7",
+        "msg_type": "sticker",
+        "sender": {
+          "id": "ou_635008cc2affc45d23de666f2e7e7446",
+          "id_type": "open_id",
+          "name": "牛振东",
+          "sender_i18n_names": {
+            "en_us": "niuzhendong"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      }
+    ],
+    "page_token": "",
+    "total": 8
+  },
+  "meta": {
+    "pagination": {
+      "complete": true,
+      "pages": 1,
+      "items": 8
+    }
+  }
+}

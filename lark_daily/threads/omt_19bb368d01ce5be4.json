@@ -1,0 +1,469 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "has_more": false,
+    "messages": [
+      {
+        "chat_id": "oc_116045b976a58256400df3e6c4a57c1b",
+        "content": "\u003ccard\u003e\n不能。TRAE 会员积分只在 TRAE 自家产品内使用：通用积分适用于 TRAE IDE 和 TRAE Work，Work 专属积分仅限 TRAE Work；飞书的豆包助手是另一款独立产品，两边的权益和积分体系不互通，无法把 TRAE 会员积分用过去。\n\n如果你是想减少订阅，可以只保留一个还在用的 TRAE 产品；具体套餐和积分范围可以看 TRAE 官网的会员套餐说明。\n---\n💡 更多使用问题请转移至 [TRAE 官方社区「帮助与支持」板块](https://forum.trae.cn/c/7-category/7) 发帖询问 \n · 021792982597589fdbddc02000a02664559cb53af0000a6971c2e · \n[已解决]\n[更多问题请到「官方社区」提问](https://forum.trae.cn/c/7-category/7)\n\u003c/card\u003e",
+        "create_time": "2026-10-26 10:43",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/thread/open?open_chat_id=oc_116045b976a58256400df3e6c4a57c1b\u0026open_thread_id=omt_19bb368d01ce5be4\u0026openchatid=oc_116045b976a58256400df3e6c4a57c1b\u0026openthreadid=omt_19bb368d01ce5be4\u0026thread_position=0",
+        "message_id": "om_x100b62dfaaa614a0ce3490e1eb62b21",
+        "message_position": "-3",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a9c7f80599f8dbc4",
+          "id_type": "app_id",
+          "name": "TRAE 宝",
+          "open_bot_id": "ou_dfae499a31a17e270c3cc86c7275f2bd",
+          "sender_i18n_names": {
+            "en_us": "TRAE 宝",
+            "zh_cn": "TRAE 宝"
+          },
+          "sender_type": "app",
+          "tenant_key": "15d6d1e6e508d75e"
+        },
+        "thread_id": "omt_19bb368d01ce5be4",
+        "thread_message_position": "0",
+        "update_time": "2026-10-26 10:43",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_116045b976a58256400df3e6c4a57c1b",
+        "content": "不可以",
+        "create_time": "2026-10-26 10:52",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/thread/open?open_chat_id=oc_116045b976a58256400df3e6c4a57c1b\u0026open_thread_id=omt_19bb368d01ce5be4\u0026openchatid=oc_116045b976a58256400df3e6c4a57c1b\u0026openthreadid=omt_19bb368d01ce5be4\u0026thread_position=1",
+        "message_id": "om_x100b62d848f178b0dfc5d74e52f7c6d",
+        "message_position": "-3",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_a552c63951dac34ec7c6e6a87c65d4f3",
+          "id_type": "open_id",
+          "name": "张人元",
+          "sender_i18n_names": {
+            "en_us": "张人元",
+            "zh_cn": "张人元"
+          },
+          "sender_type": "user",
+          "tenant_key": "149d56ea30869758"
+        },
+        "thread_id": "omt_19bb368d01ce5be4",
+        "thread_message_position": "1",
+        "updated": false
+      },
+      {
+        "chat_id": "oc_116045b976a58256400df3e6c4a57c1b",
+        "content": "不能",
+        "create_time": "2026-10-26 11:03",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/thread/open?open_chat_id=oc_116045b976a58256400df3e6c4a57c1b\u0026open_thread_id=omt_19bb368d01ce5be4\u0026openchatid=oc_116045b976a58256400df3e6c4a57c1b\u0026openthreadid=omt_19bb368d01ce5be4\u0026thread_position=2",
+        "message_id": "om_x100b62d87fe028b0c05d0a8801038fe",
+        "message_position": "-3",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_201c617c8180e3a801c22a702d94700a",
+          "id_type": "open_id",
+          "name": "漫川",
+          "sender_i18n_names": {
+            "zh_cn": "汤圆"
+          },
+          "sender_type": "user",
+          "tenant_key": "11f46eabf147175e"
+        },
+        "thread_id": "omt_19bb368d01ce5be4",
+        "thread_message_position": "2",
+        "updated": false
+      },
+      {
+        "chat_id": "oc_116045b976a58256400df3e6c4a57c1b",
+        "content": "直接api不就解决了",
+        "create_time": "2026-10-26 12:19",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/thread/open?open_chat_id=oc_116045b976a58256400df3e6c4a57c1b\u0026open_thread_id=omt_19bb368d01ce5be4\u0026openchatid=oc_116045b976a58256400df3e6c4a57c1b\u0026openthreadid=omt_19bb368d01ce5be4\u0026thread_position=3",
+        "message_id": "om_x100b62d902bbd0a0df1aa60a32941f0",
+        "message_position": "-3",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_530a1c7bd08379a5884c2cdf8c2f4dcc",
+          "id_type": "open_id",
+          "name": "用户030912",
+          "sender_type": "user",
+          "tenant_key": "1b88717cd7e8d758"
+        },
+        "thread_id": "omt_19bb368d01ce5be4",
+        "thread_message_position": "3",
+        "updated": false
+      },
+      {
+        "chat_id": "oc_116045b976a58256400df3e6c4a57c1b",
+        "content": "@用户030912 大神，教下？",
+        "create_time": "2026-10-26 13:07",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_530a1c7bd08379a5884c2cdf8c2f4dcc",
+            "key": "@_user_1",
+            "name": "用户030912"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/thread/open?open_chat_id=oc_116045b976a58256400df3e6c4a57c1b\u0026open_thread_id=omt_19bb368d01ce5be4\u0026openchatid=oc_116045b976a58256400df3e6c4a57c1b\u0026openthreadid=omt_19bb368d01ce5be4\u0026thread_position=4",
+        "message_id": "om_x100b62da4cfd70a0c1d3c2eef83cea4",
+        "message_position": "-3",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_f9da66b4ba81a8b3e7812d0104022630",
+          "id_type": "open_id",
+          "name": "张文杰",
+          "sender_type": "user",
+          "tenant_key": "12bfcd02bfcf175e"
+        },
+        "thread_id": "omt_19bb368d01ce5be4",
+        "thread_message_position": "4",
+        "update_time": "2026-10-26 13:07",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_116045b976a58256400df3e6c4a57c1b",
+        "content": "去其他第三方，买个api",
+        "create_time": "2026-10-26 13:13",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/thread/open?open_chat_id=oc_116045b976a58256400df3e6c4a57c1b\u0026open_thread_id=omt_19bb368d01ce5be4\u0026openchatid=oc_116045b976a58256400df3e6c4a57c1b\u0026openthreadid=omt_19bb368d01ce5be4\u0026thread_position=5",
+        "message_id": "om_x100b62da5893f4acc06b4d90e0fb20d",
+        "message_position": "-3",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_530a1c7bd08379a5884c2cdf8c2f4dcc",
+          "id_type": "open_id",
+          "name": "用户030912",
+          "sender_type": "user",
+          "tenant_key": "1b88717cd7e8d758"
+        },
+        "thread_id": "omt_19bb368d01ce5be4",
+        "thread_message_position": "5",
+        "updated": false
+      },
+      {
+        "chat_id": "oc_116045b976a58256400df3e6c4a57c1b",
+        "content": "接到软件上面",
+        "create_time": "2026-10-26 13:13",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/thread/open?open_chat_id=oc_116045b976a58256400df3e6c4a57c1b\u0026open_thread_id=omt_19bb368d01ce5be4\u0026openchatid=oc_116045b976a58256400df3e6c4a57c1b\u0026openthreadid=omt_19bb368d01ce5be4\u0026thread_position=6",
+        "message_id": "om_x100b62da594294a0c307facb3152cee",
+        "message_position": "-3",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_530a1c7bd08379a5884c2cdf8c2f4dcc",
+          "id_type": "open_id",
+          "name": "用户030912",
+          "sender_type": "user",
+          "tenant_key": "1b88717cd7e8d758"
+        },
+        "thread_id": "omt_19bb368d01ce5be4",
+        "thread_message_position": "6",
+        "updated": false
+      },
+      {
+        "chat_id": "oc_116045b976a58256400df3e6c4a57c1b",
+        "content": "不用每个都开会员",
+        "create_time": "2026-10-26 13:13",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/thread/open?open_chat_id=oc_116045b976a58256400df3e6c4a57c1b\u0026open_thread_id=omt_19bb368d01ce5be4\u0026openchatid=oc_116045b976a58256400df3e6c4a57c1b\u0026openthreadid=omt_19bb368d01ce5be4\u0026thread_position=7",
+        "message_id": "om_x100b62da56d8d0a8de5202088a45ef4",
+        "message_position": "-3",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_530a1c7bd08379a5884c2cdf8c2f4dcc",
+          "id_type": "open_id",
+          "name": "用户030912",
+          "sender_type": "user",
+          "tenant_key": "1b88717cd7e8d758"
+        },
+        "thread_id": "omt_19bb368d01ce5be4",
+        "thread_message_position": "7",
+        "updated": false
+      },
+      {
+        "chat_id": "oc_116045b976a58256400df3e6c4a57c1b",
+        "content": "[Image: img_v3_0216r_f84f5ae5-1cd4-488b-8b11-d74b4f798d0g]",
+        "create_time": "2026-10-26 13:14",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/thread/open?open_chat_id=oc_116045b976a58256400df3e6c4a57c1b\u0026open_thread_id=omt_19bb368d01ce5be4\u0026openchatid=oc_116045b976a58256400df3e6c4a57c1b\u0026openthreadid=omt_19bb368d01ce5be4\u0026thread_position=8",
+        "message_id": "om_x100b62da5755eca0c1e0c09548e6b89",
+        "message_position": "-3",
+        "msg_type": "image",
+        "sender": {
+          "id": "ou_530a1c7bd08379a5884c2cdf8c2f4dcc",
+          "id_type": "open_id",
+          "name": "用户030912",
+          "sender_type": "user",
+          "tenant_key": "1b88717cd7e8d758"
+        },
+        "thread_id": "omt_19bb368d01ce5be4",
+        "thread_message_position": "8",
+        "updated": false
+      },
+      {
+        "chat_id": "oc_116045b976a58256400df3e6c4a57c1b",
+        "content": "还可以这样啊，一直不明白，比如在TRAE里用KIMI模型与直接用KIMI模型有什么不同",
+        "create_time": "2026-10-26 13:42",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/thread/open?open_chat_id=oc_116045b976a58256400df3e6c4a57c1b\u0026open_thread_id=omt_19bb368d01ce5be4\u0026openchatid=oc_116045b976a58256400df3e6c4a57c1b\u0026openthreadid=omt_19bb368d01ce5be4\u0026thread_position=9",
+        "message_id": "om_x100b62dacc4330a4dd0fe4b48e07f0c",
+        "message_position": "-3",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_18a0ac403fcd33273788c4c6c5967b1a",
+          "id_type": "open_id",
+          "name": "黄丽",
+          "sender_type": "user",
+          "tenant_key": "104762a2c81b5740"
+        },
+        "thread_id": "omt_19bb368d01ce5be4",
+        "thread_message_position": "9",
+        "updated": false
+      },
+      {
+        "chat_id": "oc_116045b976a58256400df3e6c4a57c1b",
+        "content": "现在是两个会员都买了，以TRAE为主",
+        "create_time": "2026-10-26 13:43",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/thread/open?open_chat_id=oc_116045b976a58256400df3e6c4a57c1b\u0026open_thread_id=omt_19bb368d01ce5be4\u0026openchatid=oc_116045b976a58256400df3e6c4a57c1b\u0026openthreadid=omt_19bb368d01ce5be4\u0026thread_position=10",
+        "message_id": "om_x100b62dac9c85ca0c43bec9241a1031",
+        "message_position": "-3",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_18a0ac403fcd33273788c4c6c5967b1a",
+          "id_type": "open_id",
+          "name": "黄丽",
+          "sender_type": "user",
+          "tenant_key": "104762a2c81b5740"
+        },
+        "thread_id": "omt_19bb368d01ce5be4",
+        "thread_message_position": "10",
+        "updated": false
+      },
+      {
+        "chat_id": "oc_116045b976a58256400df3e6c4a57c1b",
+        "content": "如果是开源，很有可能是trae自己部署的",
+        "create_time": "2026-10-26 13:45",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/thread/open?open_chat_id=oc_116045b976a58256400df3e6c4a57c1b\u0026open_thread_id=omt_19bb368d01ce5be4\u0026openchatid=oc_116045b976a58256400df3e6c4a57c1b\u0026openthreadid=omt_19bb368d01ce5be4\u0026thread_position=11",
+        "message_id": "om_x100b62dac1e040acdf6734966e2cfa6",
+        "message_position": "-3",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_530a1c7bd08379a5884c2cdf8c2f4dcc",
+          "id_type": "open_id",
+          "name": "用户030912",
+          "sender_type": "user",
+          "tenant_key": "1b88717cd7e8d758"
+        },
+        "thread_id": "omt_19bb368d01ce5be4",
+        "thread_message_position": "11",
+        "updated": false
+      },
+      {
+        "chat_id": "oc_116045b976a58256400df3e6c4a57c1b",
+        "content": "使用效果有什么不同，一直担心TRAE的上下文不够，我有个长任务一直要迭代",
+        "create_time": "2026-10-26 13:46",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/thread/open?open_chat_id=oc_116045b976a58256400df3e6c4a57c1b\u0026open_thread_id=omt_19bb368d01ce5be4\u0026openchatid=oc_116045b976a58256400df3e6c4a57c1b\u0026openthreadid=omt_19bb368d01ce5be4\u0026thread_position=12",
+        "message_id": "om_x100b62dadd4514a0c0b91f06820e68e",
+        "message_position": "-3",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_18a0ac403fcd33273788c4c6c5967b1a",
+          "id_type": "open_id",
+          "name": "黄丽",
+          "sender_type": "user",
+          "tenant_key": "104762a2c81b5740"
+        },
+        "thread_id": "omt_19bb368d01ce5be4",
+        "thread_message_position": "12",
+        "updated": false
+      },
+      {
+        "chat_id": "oc_116045b976a58256400df3e6c4a57c1b",
+        "content": "这个要看算力吧",
+        "create_time": "2026-10-26 13:57",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/thread/open?open_chat_id=oc_116045b976a58256400df3e6c4a57c1b\u0026open_thread_id=omt_19bb368d01ce5be4\u0026openchatid=oc_116045b976a58256400df3e6c4a57c1b\u0026openthreadid=omt_19bb368d01ce5be4\u0026thread_position=13",
+        "message_id": "om_x100b62daf52bed04c0c2fd16d5ba14e",
+        "message_position": "-3",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_530a1c7bd08379a5884c2cdf8c2f4dcc",
+          "id_type": "open_id",
+          "name": "用户030912",
+          "sender_type": "user",
+          "tenant_key": "1b88717cd7e8d758"
+        },
+        "thread_id": "omt_19bb368d01ce5be4",
+        "thread_message_position": "13",
+        "updated": false
+      },
+      {
+        "chat_id": "oc_116045b976a58256400df3e6c4a57c1b",
+        "content": "晚上效果可能会好点",
+        "create_time": "2026-10-26 13:57",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/thread/open?open_chat_id=oc_116045b976a58256400df3e6c4a57c1b\u0026open_thread_id=omt_19bb368d01ce5be4\u0026openchatid=oc_116045b976a58256400df3e6c4a57c1b\u0026openthreadid=omt_19bb368d01ce5be4\u0026thread_position=14",
+        "message_id": "om_x100b62daf2ae44a4de934f9f6a77cdd",
+        "message_position": "-3",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_530a1c7bd08379a5884c2cdf8c2f4dcc",
+          "id_type": "open_id",
+          "name": "用户030912",
+          "sender_type": "user",
+          "tenant_key": "1b88717cd7e8d758"
+        },
+        "thread_id": "omt_19bb368d01ce5be4",
+        "thread_message_position": "14",
+        "updated": false
+      },
+      {
+        "chat_id": "oc_116045b976a58256400df3e6c4a57c1b",
+        "content": "@用户030912 想着Trae的模型能打折0.xx，现在是开得TRAE会员，并主力用这个",
+        "create_time": "2026-10-26 14:27",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_530a1c7bd08379a5884c2cdf8c2f4dcc",
+            "key": "@_user_1",
+            "name": "用户030912"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/thread/open?open_chat_id=oc_116045b976a58256400df3e6c4a57c1b\u0026open_thread_id=omt_19bb368d01ce5be4\u0026openchatid=oc_116045b976a58256400df3e6c4a57c1b\u0026openthreadid=omt_19bb368d01ce5be4\u0026thread_position=15",
+        "message_id": "om_x100b62db63132cb0dddfa19e62c8812",
+        "message_position": "-3",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_f9da66b4ba81a8b3e7812d0104022630",
+          "id_type": "open_id",
+          "name": "张文杰",
+          "sender_type": "user",
+          "tenant_key": "12bfcd02bfcf175e"
+        },
+        "thread_id": "omt_19bb368d01ce5be4",
+        "thread_message_position": "15",
+        "update_time": "2026-10-26 14:27",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_116045b976a58256400df3e6c4a57c1b",
+        "content": "我是那个便宜用那个",
+        "create_time": "2026-10-26 14:28",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/thread/open?open_chat_id=oc_116045b976a58256400df3e6c4a57c1b\u0026open_thread_id=omt_19bb368d01ce5be4\u0026openchatid=oc_116045b976a58256400df3e6c4a57c1b\u0026openthreadid=omt_19bb368d01ce5be4\u0026thread_position=16",
+        "message_id": "om_x100b62db7f67f8a0c0897370e0a9e67",
+        "message_position": "-3",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_530a1c7bd08379a5884c2cdf8c2f4dcc",
+          "id_type": "open_id",
+          "name": "用户030912",
+          "sender_type": "user",
+          "tenant_key": "1b88717cd7e8d758"
+        },
+        "thread_id": "omt_19bb368d01ce5be4",
+        "thread_message_position": "16",
+        "updated": false
+      },
+      {
+        "chat_id": "oc_116045b976a58256400df3e6c4a57c1b",
+        "content": "\u003cp\u003e从没考虑过那个系数，感觉TRAE的积分很扛用，KIMI的一会就烧完了\u003c/p\u003e",
+        "create_time": "2026-10-26 14:30",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/thread/open?open_chat_id=oc_116045b976a58256400df3e6c4a57c1b\u0026open_thread_id=omt_19bb368d01ce5be4\u0026openchatid=oc_116045b976a58256400df3e6c4a57c1b\u0026openthreadid=omt_19bb368d01ce5be4\u0026thread_position=17",
+        "message_id": "om_x100b62db798ac0a4c489cabcfcbccbf",
+        "message_position": "-3",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_18a0ac403fcd33273788c4c6c5967b1a",
+          "id_type": "open_id",
+          "name": "黄丽",
+          "sender_type": "user",
+          "tenant_key": "104762a2c81b5740"
+        },
+        "thread_id": "omt_19bb368d01ce5be4",
+        "thread_message_position": "17",
+        "update_time": "2026-10-26 14:30",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_116045b976a58256400df3e6c4a57c1b",
+        "content": "kimi原价",
+        "create_time": "2026-10-26 14:38",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/thread/open?open_chat_id=oc_116045b976a58256400df3e6c4a57c1b\u0026open_thread_id=omt_19bb368d01ce5be4\u0026openchatid=oc_116045b976a58256400df3e6c4a57c1b\u0026openthreadid=omt_19bb368d01ce5be4\u0026thread_position=18",
+        "message_id": "om_x100b62db1a4b1cb4defbc21a0868336",
+        "message_position": "-3",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_530a1c7bd08379a5884c2cdf8c2f4dcc",
+          "id_type": "open_id",
+          "name": "用户030912",
+          "sender_type": "user",
+          "tenant_key": "1b88717cd7e8d758"
+        },
+        "thread_id": "omt_19bb368d01ce5be4",
+        "thread_message_position": "18",
+        "updated": false
+      },
+      {
+        "chat_id": "oc_116045b976a58256400df3e6c4a57c1b",
+        "content": "本地部署是不是和直接用KIMI一样，那就经济多了，后面就不买KIMI了",
+        "create_time": "2026-10-26 14:42",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/thread/open?open_chat_id=oc_116045b976a58256400df3e6c4a57c1b\u0026open_thread_id=omt_19bb368d01ce5be4\u0026openchatid=oc_116045b976a58256400df3e6c4a57c1b\u0026openthreadid=omt_19bb368d01ce5be4\u0026thread_position=19",
+        "message_id": "om_x100b62db2d5584bcddb8152929aa191",
+        "message_position": "-3",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_18a0ac403fcd33273788c4c6c5967b1a",
+          "id_type": "open_id",
+          "name": "黄丽",
+          "sender_type": "user",
+          "tenant_key": "104762a2c81b5740"
+        },
+        "thread_id": "omt_19bb368d01ce5be4",
+        "thread_message_position": "19",
+        "updated": false
+      },
+      {
+        "chat_id": "oc_116045b976a58256400df3e6c4a57c1b",
+        "content": "字节家大业大，补贴扛得住",
+        "create_time": "2026-10-26 14:43",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/thread/open?open_chat_id=oc_116045b976a58256400df3e6c4a57c1b\u0026open_thread_id=omt_19bb368d01ce5be4\u0026openchatid=oc_116045b976a58256400df3e6c4a57c1b\u0026openthreadid=omt_19bb368d01ce5be4\u0026thread_position=20",
+        "message_id": "om_x100b62db296f24b4def98288d1c0443",
+        "message_position": "-3",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_530a1c7bd08379a5884c2cdf8c2f4dcc",
+          "id_type": "open_id",
+          "name": "用户030912",
+          "sender_type": "user",
+          "tenant_key": "1b88717cd7e8d758"
+        },
+        "thread_id": "omt_19bb368d01ce5be4",
+        "thread_message_position": "20",
+        "updated": false
+      }
+    ],
+    "page_token": "",
+    "thread_id": "omt_19bb368d01ce5be4",
+    "total": 21
+  },
+  "meta": {
+    "pagination": {
+      "complete": true,
+      "pages": 1,
+      "items": 21
+    }
+  }
+}

@@ -1,0 +1,397 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "has_more": false,
+    "messages": [
+      {
+        "chat_id": "oc_76af1498f71d7cc0460c263c84f1fa61",
+        "content": "\u003ccard title=\"【需求】待处理清单，请关注\"\u003e\n@everyone 待处理清单如下：\n| 需求类型 | 所属看板/报表名称 | 所属模块/页面 | 现状描述 | 期望效果 | 期望完成时间 | 需求提出人 | 访问链接 | 开发负责人 | 计划开始时间 | 计划完成时间 | 需求状态 | 产品负责人 |\n|------|------|------|------|------|------|------|------|------|------|------|------|------|\n| 逻辑调整 | 计划侧库存可视数据集 |  | 计划侧库存可视数据集 没有海外公司的库存数据 | 添加海外公司的库存数据，当前主要添加韩国汇川 | 2026/09/25 |  |  |  |  |  | 已提交 |  |\n| 新增功能 | 试制3条线 |  | 未显示 | 先调整展示，使用起来 | 2026/08/14 |  |  |  |  | 2026/09/10 | 已排期 |  |\n| 新增功能 | 供应链设备管理驾驶舱 | OEE | 当前设备驾驶舱缺少南京OEE数据 | 基于DAAS平台已开发完成的DWD表，开发ADS建模和UI开发，补充OEE南京工厂数据 | 2026/09/30 |  |  |  | 2026/10/19 | 2026/10/30 | 已排期 |  |\n| 新增功能 | 驱控中心线体看板\u0026人员技能矩阵 |  | 新增展示线头看板，对应人员岗位及产出直通率等信息 | 中心的线体看板及人员技能矩阵能够正常展示 | 2026/10/14 |  |  |  | 2026/10/12 | 2026/10/23 | 等待部署 |  |\n| 新增功能 | 供应链设备管理驾驶舱 | 设备维修 | 维修模块环形图欠缺维修工单明细数据，不利于业务定位具体工单 | 维修模块环形图根据工单状态跳转出来的界面补充维修工单明细数据，和上方柱形图联动，新增明细字段包含：维修工单编号、设备状态、设备明码、设备名称、设备位置、设备型号、工单状态、工单发生时间、报修人、维修人 | 2026/09/30 |  | https://ssda.inovance.com/bi/#/dashboard/36689?appId=3\u0026sheetId=1209 |    | 2026/10/10 | 2026/10/16 | 等待用户验收 |  |\n[去处理](https://inovance.feishu.cn/wiki/CKohwVm44i2kBlkHMYmcC9IknDc?table=tblt4Dt9YqqeGj2T\u0026view=vewvVET71z\u0026ccm_open_type=im_card_automation_button)\n---\n\u003c/card\u003e",
+        "create_time": "2026-10-26 08:45",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_ce3b309a1adb865c60cf7c112da25d62",
+            "key": "@_user_1",
+            "name": "邱治钧"
+          },
+          {
+            "id": "ou_c8afe8aab3f80a020c356c0ca46a12ce",
+            "key": "@_user_2",
+            "name": "刘宏宇"
+          },
+          {
+            "id": "ou_eb77726d5be78939100bd6cdb6ae96aa",
+            "key": "@_user_3",
+            "name": "赵甫"
+          },
+          {
+            "id": "ou_7d5c6d6cefdab60f4ab9f414b6c3d9bf",
+            "key": "@_user_4",
+            "name": "李树德"
+          },
+          {
+            "id": "ou_fda3a0c958ec0bae56b699596da5a87d",
+            "key": "@_user_5",
+            "name": "黄新明"
+          },
+          {
+            "id": "ou_b1a90d1912f916b4ef287e3d3948c31f",
+            "key": "@_user_6",
+            "name": "周刚"
+          },
+          {
+            "id": "ou_9a014b8b8c8ac89789d87895edaee4c4",
+            "key": "@_user_8",
+            "name": "金星"
+          },
+          {
+            "id": "ou_c1a8a63bf361f1163e28cdf9dc77b49e",
+            "key": "@_user_9",
+            "name": "穆潇"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_76af1498f71d7cc0460c263c84f1fa61\u0026position=709",
+        "message_id": "om_x100b62de67cc48acc3cca8106d13b7d",
+        "message_position": "709",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a87ba89658ba900e",
+          "id_type": "app_id",
+          "name": "数据开发项目",
+          "open_bot_id": "ou_2eeca1219f46eca3ab521293f9fceb47",
+          "sender_i18n_names": {
+            "en_us": "数据开发项目",
+            "ja_jp": "数据开发项目",
+            "zh_cn": "数据开发项目"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_76af1498f71d7cc0460c263c84f1fa61",
+        "content": "\u003ccard title=\"【测试问题】待处理清单，请关注\"\u003e\n@everyone 待处理清单如下：\n| 问题描述 | 所属应用 | 访问链接 | 问题状态 | 测试时间 | 处理人 | 测试人 |\n|------|------|------|------|------|------|------|\n| 30分钟强制授权过去了，正在做的检测任务，出现异常，并且退回查看记录页面有几个为空的任务记录 | 制造_AI_高压测试电缆接线防反检测_济南_系统 | http://hvrd.inovance.com/ | 创建 | 2026/10/23 |  |  |\n| 数据看板---1，柱状图已经把年月周的文字盖住了2、 今日（10.20）4个合格的，10.20 怎么柱状图全是红色--（重点看）3、这个年月日还要不要？还要不要做 | 制造_AI_高压测试电缆接线防反检测_济南_系统 | http://hvrd.inovance.com/ | 修复中 |  |  |  |\n| 检测报告----不是ai检测的机型，被拒接的次数也放在报告明细中了，但是这种情况没有算在ai识别那三次中，明细中还放具体的详情吗 | 制造_AI_高压测试电缆接线防反检测_济南_系统 | http://hvrd.inovance.com/ | 创建 | 2026/10/23 |  |  |\n| 检测编码的编码规则，参考设计文档中，如图 | 制造_AI_高压测试电缆接线防反检测_济南_系统 | http://hvrd.inovance.com/ | 待确认需求 |  |  |  |\n| AI互检给出的状态是不合格，但是报告明细中，6条线的AI的判定结果是全部合格（看录屏） | 制造_AI_高压测试电缆接线防反检测_济南_系统 | http://hvrd.inovance.com/ | 创建 | 2026/10/23 |  |  |\n| AI互检不合格，点击【人工互检整改】，提交照片，AI自动判断合格了，但是明细中显示的还是人工判断合格AI自动判断又出现一个小细节问题：1、点击提交检测，显示调整到ai上传6张ai检测照片的老爷们中；2、在跳转到合格页面期望：点击提交，应该跳转到人工判断合格或者不合格页面，不是ai自动判断是否合格 | 制造_AI_高压测试电缆接线防反检测_济南_系统 | http://hvrd.inovance.com/ | 创建 | 2026/10/23 |  |  |\n| AI检测---ai检测识别通过后，没有人工确认退出页面则还在状态还在待检测页面，但是这个SN号已经被记住成功了，无论上传什么照片都是识别通过期望：应该再次进入该检测任务下，应该回到退出前的页面；删除上传照片的X，不在上传新的照片，因为不管上传什么照片，这个都会默认成功需确认：当前状态是待检测，需要加状态吗 | 制造_AI_高压测试电缆接线防反检测_济南_系统 | http://hvrd.inovance.com/ | 创建 | 2026/10/23 |  |  |\n| AI整改3次不合格，会先提示转待互检状态，然后强制跳转到人工检测页面，提交人工检测，又提示你不能互检自己的检测任务 | 制造_AI_高压测试电缆接线防反检测_济南_系统 | http://hvrd.inovance.com/ | 创建 | 2026/10/23 |  |  |\n| 在上传照片和上传铭牌的时候，显示效果如图所示，照片无法预览，都无法确实上传的照片是否正确 | 制造_AI_高压测试电缆接线防反检测_济南_系统 | http://hvrd.inovance.com/ | 修复中 |  |  |  |\n| AI检测无法识别，然后再继续上传照片全部通过，点击人工确认是否合格，选择：否，但是状态是：无法识别 | 制造_AI_高压测试电缆接线防反检测_济南_系统 | http://hvrd.inovance.com/ | 创建 | 2026/10/22 |  |  |\n| AI检测第一次就合格，人工确认否，提示待重新拍照，但是没有进入记录中，也没有进入待处理中还在待检测页面 | 制造_AI_高压测试电缆接线防反检测_济南_系统 | http://hvrd.inovance.com/ | 创建 | 2026/10/22 |  |  |\n| AI检测----场景：1、通过待检测进入到扫码页面，自动带出所有信息； 2，点击拍照检测，进入上传照片；3、在点击返上一页，信息全部丢失了，需要重新填写数据信息 | 制造_AI_高压测试电缆接线防反检测_济南_系统 | http://hvrd.inovance.com/ | 待确认需求 |  |  |  |\n| 日志管理，1. 客户端类型、操作类型没有值， log.data.ts 2. 操作日志内容，缺少请求方法、请求参数，非Online表单操作缺少这些信息3. 检查所有接口，导入导出缺少操作日志记录，4.日志管理-操作日志，在修改角色或角色添加用户时，请求方法和请求参数都没有内容 | 制造_AI_高压测试电缆接线防反检测_济南_系统 | http://hvrd.inovance.com/ | 已修复 |  |  |  |\n| AI检测记录中，置信度的值为空 | 制造_AI_高压测试电缆接线防反检测_济南_系统 | http://hvrd.inovance.com/ | 创建 | 2026/10/22 |  |  |\n| 人工检测合格后，到待互检状态下，互检人ai互检不合格，不合格页面展示的检测人不对。当前的互检人：曹丽； 检测人： 但是页面显示的是：检测人：曹丽因为是互检状态下，提交不合格的任务是互检人：曹丽，应该显示的是：互检人：曹丽 | 制造_AI_高压测试电缆接线防反检测_济南_系统 | http://hvrd.inovance.com/ | 创建 | 2026/10/23 |  |  |\n| 检测记录中， 检测列表是【任务令号】+【SN号】展示，应该是产品编码吧 | 制造_AI_高压测试电缆接线防反检测_济南_系统 | http://hvrd.inovance.com/ | 待确认需求 |  |  |  |\n| AI检测不合格，待整改的页面不一样，直接跳转【待整改】如图2，退出从【待处理】页进入待整改，如图1 | 制造_AI_高压测试电缆接线防反检测_济南_系统 | http://hvrd.inovance.com/ | 创建 | 2026/10/23 |  |  |\n| AI第一次互检不合格，人工整改合格，但是记录中是没有互检人，是待互检状态，但是【待处理】页面没有这个“待互检”的任务 | 制造_AI_高压测试电缆接线防反检测_济南_系统 | http://hvrd.inovance.com/ | 创建 | 2026/10/23 |  |  |\n| 激活：这个问题没有改动呀，还和原来一样 | 制造_AI_高压测试电缆接线防反检测_济南_系统 | http://hvrd.inovance.com/ | 激活 | 2026/10/23 |  |  |\n| 人工检测流程---检测人提交检测结果，记录页面生产一条记录；互检人新增复核人工互检通过，只是是在原来检测人的记录上更新了状态，记录列表中时间没有更新。如10.8 10:00 合格，下午10.8  13:30； 人工互检通过，时间还是10:00。 | 制造_AI_高压测试电缆接线防反检测_济南_系统 | http://hvrd.inovance.com/ | 待确认需求 |  |  |  |\n| ai检测不合格，整改检测下面的2处参考图没有加进去 | 制造_AI_高压测试电缆接线防反检测_济南_系统 | http://hvrd.inovance.com/ | 创建 | 2026/10/23 |  |  |\n| 数据看板中---互检人没有记录在人员分析，只记录了检测人的检测记录 | 制造_AI_高压测试电缆接线防反检测_济南_系统 | http://hvrd.inovance.com/ | 待确认需求 |  |  |  |\n| 检测记录中的时间排序不对，10:22号在最上面，今天10.23号在下面，10.21号又在10.23下面。复现场景：正常当天任务当天做完不会出现，如果昨天检测的任务，今天才完成互检通过，就会出现该问题。 | 制造_AI_高压测试电缆接线防反检测_济南_系统 | http://hvrd.inovance.com/ | 创建 | 2026/10/23 |  |  |\n| AI检测合格后，自动弹出人工确认，但是记录报告中，缺少人工确认 | 制造_AI_高压测试电缆接线防反检测_济南_系统 | http://hvrd.inovance.com/ | 创建 | 2026/10/22 |  |  |\n| 检测报告--同一个人提交不合格后，到了“待人工互检”，检测人重复检测，报告里没有每次检测的记录，只有一条，只覆盖更新最新的记录 | 制造_AI_高压测试电缆接线防反检测_济南_系统 | http://hvrd.inovance.com/ | 修复中 |  |  |  |\n| 我的里面的【任务令列表】和【检测任务列表】还要吗？里面显示的状态数据都不对 | 制造_AI_高压测试电缆接线防反检测_济南_系统 | http://hvrd.inovance.com/ | 待确认需求 |  |  |  |\n| AI检测报告----（1）ai上传的图片的能否参考人工图片，目前钻头都则盖住了，（如图2）（2）上传一张照片识别全部内容，其他接线无法正常显示 | 制造_AI_高压测试电缆接线防反检测_济南_系统 | http://hvrd.inovance.com/ | 修复中 | 2026/10/22 |  |  |\n| AI检测不合格，跳到待整改，进行整改时，上传合格的状态一直都是不合格。初期判断：第一次检测的时候，ai已经记录这个sn号是不合格了整改上传照片ai复检时，应该还是记录不合格的状态，应该重置SN号，重新识别 | 制造_AI_高压测试电缆接线防反检测_济南_系统 | http://hvrd.inovance.com/ | 创建 | 2026/10/23 |  |  |\n| ai无法识别时，点击【人工检测】，系统提示生成待互检任务，到待处理页面，但是待处理状态是：待重新拍照；  期望：点击人工检测，直接跳转到人工检测操作页面 | 制造_AI_高压测试电缆接线防反检测_济南_系统 | http://hvrd.inovance.com/ | 创建 |  |  |  |\n[去处理](https://inovance.feishu.cn/base/AnH9bCdGKaLWa8silwccgTqLn8b?table=tblQdIGfZOL2IhUa\u0026view=vewL6AYKDe\u0026ccm_open_type=im_card_automation_button)\n---\n\u003c/card\u003e",
+        "create_time": "2026-10-26 09:05",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_271c27ad206c31bf2b533474db2d9ef5",
+            "key": "@_user_1",
+            "name": "蔺雨桐"
+          },
+          {
+            "id": "ou_0fc158dbde9024d8ab66a892734e1196",
+            "key": "@_user_2",
+            "name": "曹丽"
+          },
+          {
+            "id": "ou_b65f0fe76c977aeb934b207a067ac8d5",
+            "key": "@_user_4",
+            "name": "石峰"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_76af1498f71d7cc0460c263c84f1fa61\u0026position=710",
+        "message_id": "om_x100b62de3a9f58a8b05c2dba6a8b8ab",
+        "message_position": "710",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a87ba89658ba900e",
+          "id_type": "app_id",
+          "name": "数据开发项目",
+          "open_bot_id": "ou_2eeca1219f46eca3ab521293f9fceb47",
+          "sender_i18n_names": {
+            "en_us": "数据开发项目",
+            "ja_jp": "数据开发项目",
+            "zh_cn": "数据开发项目"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_76af1498f71d7cc0460c263c84f1fa61",
+        "content": "\u003ccard title=\"【问题清单】待处理清单，请关注\"\u003e\n@everyone 待处理清单如下：\n| 问题分类 | 业务域 | 问题描述 | 提出人 | 处理人 (人员 ) |\n|------|------|------|------|------|\n| 数据质量 | 采购 | 许多供应商在SRM系统上线前已开始合作，取自SRM的合作起止时间存在严重偏差 |  |   |\n| 数据开发问题 | 采购 | 实体组织有重复，07040019 FPGA 就重复23次。具体重复原因需要确认 |  |  |\n| 数据质量问题 | 采购 | 制造商名称数据质量差 |  |  |\n[去处理](https://inovance.feishu.cn/base/AnH9bCdGKaLWa8silwccgTqLn8b?table=tbllkX353ZGArMhK\u0026view=vewFfBO351\u0026ccm_open_type=im_card_automation_button)\n---\n\u003c/card\u003e",
+        "create_time": "2026-10-26 09:05",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_9968b54f07671b7485ed328120d481e7",
+            "key": "@_user_1",
+            "name": "沈霜"
+          },
+          {
+            "id": "ou_330557b732a2aa014463cc86f89eda3a",
+            "key": "@_user_2",
+            "name": "王晓蕾"
+          },
+          {
+            "id": "ou_950d51019cf7deec56341d5c9bf39100",
+            "key": "@_user_3",
+            "name": "徐彭"
+          },
+          {
+            "id": "ou_5e7cc99fe45cd6c428a302116a59e440",
+            "key": "@_user_4",
+            "name": "杨婷婷"
+          },
+          {
+            "id": "ou_f00fa3f4c27f24de755b0695d3df5e83",
+            "key": "@_user_5",
+            "name": "黄逸峰"
+          },
+          {
+            "id": "ou_bf15538efcb56bb8499349bf74e843bd",
+            "key": "@_user_6",
+            "name": "汪显辉"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_76af1498f71d7cc0460c263c84f1fa61\u0026position=711",
+        "message_id": "om_x100b62de3a97c8b0b0f7e198cd4450f",
+        "message_position": "711",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a87ba89658ba900e",
+          "id_type": "app_id",
+          "name": "数据开发项目",
+          "open_bot_id": "ou_2eeca1219f46eca3ab521293f9fceb47",
+          "sender_i18n_names": {
+            "en_us": "数据开发项目",
+            "ja_jp": "数据开发项目",
+            "zh_cn": "数据开发项目"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_76af1498f71d7cc0460c263c84f1fa61",
+        "content": "\u003ccard title=\"【平台问题】待处理清单，请关注\"\u003e\n@everyone 待处理清单如下：\n| 问题编号 | 问题分类 | 问题描述 | 提出人 | 处理人 |\n|------|------|------|------|------|\n| P-Datawind-2609-0001 | Datawind平台功能问题 | 大屏字体异动加载，进入大屏后指标卡字体会出现显示原始默认字体的情况，待10s左右后会恢复到预设的字体 |  |  |\n| P-Datawind-2610-0001 | Datawind平台功能问题 | Datawind平台加载过慢，打开报表要1分钟以上才能刷新出来 |  |  |\n[去处理](https://inovance.feishu.cn/base/AnH9bCdGKaLWa8silwccgTqLn8b?table=tblwQVOXtSFomK9X\u0026view=vewUGqRRdu\u0026ccm_open_type=im_card_automation_button)\n---\n\u003c/card\u003e",
+        "create_time": "2026-10-26 09:05",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_635008cc2affc45d23de666f2e7e7446",
+            "key": "@_user_1",
+            "name": "牛振东"
+          },
+          {
+            "id": "ou_93790c848ada6a4de22a7ebec866fda4",
+            "key": "@_user_3",
+            "name": "陈小亮"
+          },
+          {
+            "id": "ou_9a014b8b8c8ac89789d87895edaee4c4",
+            "key": "@_user_4",
+            "name": "金星"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_76af1498f71d7cc0460c263c84f1fa61\u0026position=712",
+        "message_id": "om_x100b62de3a9620accee5ac72d335563",
+        "message_position": "712",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a87ba89658ba900e",
+          "id_type": "app_id",
+          "name": "数据开发项目",
+          "open_bot_id": "ou_2eeca1219f46eca3ab521293f9fceb47",
+          "sender_i18n_names": {
+            "en_us": "数据开发项目",
+            "ja_jp": "数据开发项目",
+            "zh_cn": "数据开发项目"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_76af1498f71d7cc0460c263c84f1fa61",
+        "content": "\u003ccard title=\"【测试问题】待处理清单，请关注\"\u003e\n@everyone 待处理清单如下：\n| 问题描述 | 所属应用 | 访问链接 | 问题状态 | 测试时间 | 处理人 | 测试人 |\n|------|------|------|------|------|------|------|\n| 人工检测流程---检测人提交检测结果，记录页面生产一条记录；互检人新增复核人工互检通过，只是是在原来检测人的记录上更新了状态，记录列表中时间没有更新。如10.8 10:00 合格，下午10.8  13:30； 人工互检通过，时间还是10:00。 | 制造_AI_高压测试电缆接线防反检测_济南_系统 | http://hvrd.inovance.com/ | 待确认需求 |  |  |  |\n| 数据看板中---互检人没有记录在人员分析，只记录了检测人的检测记录 | 制造_AI_高压测试电缆接线防反检测_济南_系统 | http://hvrd.inovance.com/ | 待确认需求 |  |  |  |\n| AI检测记录中，置信度的值为空 | 制造_AI_高压测试电缆接线防反检测_济南_系统 | http://hvrd.inovance.com/ | 创建 | 2026/10/22 |  |  |\n| 检测记录中的时间排序不对，10:22号在最上面，今天10.23号在下面，10.21号又在10.23下面。复现场景：正常当天任务当天做完不会出现，如果昨天检测的任务，今天才完成互检通过，就会出现该问题。 | 制造_AI_高压测试电缆接线防反检测_济南_系统 | http://hvrd.inovance.com/ | 修复中 | 2026/10/23 |  |  |\n| AI互检给出的状态是不合格，但是报告明细中，6条线的AI的判定结果是全部合格（看录屏） | 制造_AI_高压测试电缆接线防反检测_济南_系统 | http://hvrd.inovance.com/ | 创建 | 2026/10/23 |  |  |\n| AI检测不合格，待整改的页面不一样，直接跳转【待整改】如图2，退出从【待处理】页进入待整改，如图1 | 制造_AI_高压测试电缆接线防反检测_济南_系统 | http://hvrd.inovance.com/ | 修复中 | 2026/10/23 |  |  |\n| ai无法识别时，还未满三次，点击【人互检测】，系统提示生成待互检任务，到待处理页面，但是待处理状态是：待重新拍照；  期望未满3次，检测人也可以手动改为【人工检测】，应该直接跳转到人工检测页面 | 制造_AI_高压测试电缆接线防反检测_济南_系统 | http://hvrd.inovance.com/ | 修复中 |  |  |  |\n| AI检测----场景：1、通过待检测进入到扫码页面，自动带出所有信息； 2，点击拍照检测，进入上传照片；3、在点击返上一页，信息全部丢失了，需要重新填写数据信息 | 制造_AI_高压测试电缆接线防反检测_济南_系统 | http://hvrd.inovance.com/ | 待确认需求 |  |  |  |\n| 检测记录中， 检测列表是【任务令号】+【SN号】展示，应该是产品编码吧 | 制造_AI_高压测试电缆接线防反检测_济南_系统 | http://hvrd.inovance.com/ | 待确认需求 |  |  |  |\n| 人工检测合格后，到待互检状态下，互检人ai互检不合格，不合格页面展示的检测人不对。当前的互检人：曹丽； 检测人： 但是页面显示的是：检测人：曹丽因为是互检状态下，提交不合格的任务是互检人：曹丽，应该显示的是：互检人：曹丽 | 制造_AI_高压测试电缆接线防反检测_济南_系统 | http://hvrd.inovance.com/ | 修复中 | 2026/10/23 |  |  |\n| 30分钟强制授权过去了，正在做的检测任务，出现异常，并且退回查看记录页面有几个为空的任务记录 | 制造_AI_高压测试电缆接线防反检测_济南_系统 | http://hvrd.inovance.com/ | 创建 | 2026/10/23 |  |  |\n| 检测编码的编码规则，参考设计文档中，如图 | 制造_AI_高压测试电缆接线防反检测_济南_系统 | http://hvrd.inovance.com/ | 待确认需求 |  |  |  |\n| 检测报告--同一个人提交不合格后，到了“待人工互检”，检测人重复检测，报告里没有每次检测的记录，只有一条，只覆盖更新最新的记录 | 制造_AI_高压测试电缆接线防反检测_济南_系统 | http://hvrd.inovance.com/ | 修复中 |  |  |  |\n| AI检测不合格，跳到待整改，进行整改时，上传合格的状态一直都是不合格。初期判断：第一次检测的时候，ai已经记录这个sn号是不合格了整改上传照片ai复检时，应该还是记录不合格的状态，应该重置SN号，重新识别 | 制造_AI_高压测试电缆接线防反检测_济南_系统 | http://hvrd.inovance.com/ | 创建 | 2026/10/23 |  |  |\n| AI互检不合格，点击【人工互检整改】，提交照片，AI自动判断合格了，但是明细中显示的还是人工判断合格AI自动判断又出现一个小细节问题：1、点击提交检测，显示调整到ai上传6张ai检测照片的老爷们中；2、在跳转到合格页面期望：点击提交，应该跳转到人工判断合格或者不合格页面，不是ai自动判断是否合格 | 制造_AI_高压测试电缆接线防反检测_济南_系统 | http://hvrd.inovance.com/ | 修复中 | 2026/10/23 |  |  |\n| AI检测报告----（1）ai上传的图片的能否参考人工图片，目前钻头都则盖住了，（如图2）（2）上传一张照片识别全部内容，其他接线无法正常显示 | 制造_AI_高压测试电缆接线防反检测_济南_系统 | http://hvrd.inovance.com/ | 修复中 | 2026/10/22 |  |  |\n| AI检测---ai检测识别通过后，没有人工确认退出页面则还在状态还在待检测页面，但是这个SN号已经被记住成功了，无论上传什么照片都是识别通过期望：应该再次进入该检测任务下，应该回到退出前的页面；删除上传照片的X，不在上传新的照片，因为不管上传什么照片，这个都会默认成功需确认：当前状态是待检测，需要加状态吗 | 制造_AI_高压测试电缆接线防反检测_济南_系统 | http://hvrd.inovance.com/ | 创建 | 2026/10/23 |  |  |\n| AI检测第一次就合格，人工确认否，提示待重新拍照，但是没有进入记录中，也没有进入待处理中还在待检测页面 | 制造_AI_高压测试电缆接线防反检测_济南_系统 | http://hvrd.inovance.com/ | 待确认需求 | 2026/10/22 |  |  |\n| 检测报告----不是ai检测的机型，被拒接的次数也放在报告明细中了，但是这种情况没有算在ai识别那三次中，明细中还放具体的详情吗 | 制造_AI_高压测试电缆接线防反检测_济南_系统 | http://hvrd.inovance.com/ | 创建 | 2026/10/23 |  |  |\n| 激活：这个问题没有改动呀，还和原来一样 | 制造_AI_高压测试电缆接线防反检测_济南_系统 | http://hvrd.inovance.com/ | 激活 | 2026/10/23 |  |  |\n| 数据看板---1，柱状图已经把年月周的文字盖住了2、 今日（10.20）4个合格的，10.20 怎么柱状图全是红色--（重点看）3、这个年月日还要不要？还要不要做 | 制造_AI_高压测试电缆接线防反检测_济南_系统 | http://hvrd.inovance.com/ | 修复中 |  |  |  |\n| 我的里面的【任务令列表】和【检测任务列表】还要吗？里面显示的状态数据都不对 | 制造_AI_高压测试电缆接线防反检测_济南_系统 | http://hvrd.inovance.com/ | 待确认需求 |  |  |  |\n| AI检测合格后，自动弹出人工确认，但是记录报告中，缺少人工确认 | 制造_AI_高压测试电缆接线防反检测_济南_系统 | http://hvrd.inovance.com/ | 待确认需求 | 2026/10/22 |  |  |\n| ai检测不合格，整改检测下面的2处参考图没有加进去 | 制造_AI_高压测试电缆接线防反检测_济南_系统 | http://hvrd.inovance.com/ | 创建 | 2026/10/23 |  |  |\n| AI第一次互检不合格，人工整改合格，但是记录中是没有互检人，是待互检状态，但是【待处理】页面没有这个“待互检”的任务 | 制造_AI_高压测试电缆接线防反检测_济南_系统 | http://hvrd.inovance.com/ | 修复中 | 2026/10/23 |  |  |\n| AI检测无法识别，然后再继续上传照片全部通过，点击人工确认是否合格，选择：否，但是状态是：无法识别 | 制造_AI_高压测试电缆接线防反检测_济南_系统 | http://hvrd.inovance.com/ | 待确认需求 | 2026/10/22 |  |  |\n| 日志管理，1. 客户端类型、操作类型没有值， log.data.ts 2. 操作日志内容，缺少请求方法、请求参数，非Online表单操作缺少这些信息3. 检查所有接口，导入导出缺少操作日志记录，4.日志管理-操作日志，在修改角色或角色添加用户时，请求方法和请求参数都没有内容 | 制造_AI_高压测试电缆接线防反检测_济南_系统 | http://hvrd.inovance.com/ | 已修复 |  |  |  |\n| AI整改3次不合格，会先提示转待互检状态，然后强制跳转到人工检测页面，提交人工检测，又提示你不能互检自己的检测任务 | 制造_AI_高压测试电缆接线防反检测_济南_系统 | http://hvrd.inovance.com/ | 修复中 | 2026/10/23 |  |  |\n[去处理](https://inovance.feishu.cn/base/AnH9bCdGKaLWa8silwccgTqLn8b?table=tblQdIGfZOL2IhUa\u0026view=vewL6AYKDe\u0026ccm_open_type=im_card_automation_button)\n---\n\u003c/card\u003e",
+        "create_time": "2026-10-26 14:00",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_271c27ad206c31bf2b533474db2d9ef5",
+            "key": "@_user_1",
+            "name": "蔺雨桐"
+          },
+          {
+            "id": "ou_0fc158dbde9024d8ab66a892734e1196",
+            "key": "@_user_2",
+            "name": "曹丽"
+          },
+          {
+            "id": "ou_b65f0fe76c977aeb934b207a067ac8d5",
+            "key": "@_user_3",
+            "name": "石峰"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_76af1498f71d7cc0460c263c84f1fa61\u0026position=713",
+        "message_id": "om_x100b62da897c7cb4c1f3401a3f6ec9b",
+        "message_position": "713",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a87ba89658ba900e",
+          "id_type": "app_id",
+          "name": "数据开发项目",
+          "open_bot_id": "ou_2eeca1219f46eca3ab521293f9fceb47",
+          "sender_i18n_names": {
+            "en_us": "数据开发项目",
+            "ja_jp": "数据开发项目",
+            "zh_cn": "数据开发项目"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_76af1498f71d7cc0460c263c84f1fa61",
+        "content": "\u003ccard title=\"【新增功能需求开发完成，进入测试】——试制3条线\"\u003e\n**所属看板**：试制3条线\n**所属模块**：\n**产品设计PRD**：\n[查看效果]\n[查看详情](https://inovance.feishu.cn/record/D5F4r67CeeH9ykcHUbacUsv7n7e?ccm_open_type=im_card_automation_button)\n---\n\u003c/card\u003e",
+        "create_time": "2026-10-26 17:08",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_76af1498f71d7cc0460c263c84f1fa61\u0026position=714",
+        "message_id": "om_x100b62c5c9dc5d3cde63fb22b45ff30",
+        "message_position": "714",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a9f869168d3adcc7",
+          "id_type": "app_id",
+          "name": "数据应用需求收集表",
+          "open_bot_id": "ou_882adb9c6d5fec435df3163526a3095c",
+          "sender_i18n_names": {
+            "en_us": "数据应用需求收集表",
+            "ja_jp": "数据应用需求收集表",
+            "zh_cn": "数据应用需求收集表"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_76af1498f71d7cc0460c263c84f1fa61",
+        "content": "\u003ccard title=\"【新增功能需求测试完成，进入部署】——试制3条线\"\u003e\n**所属看板**：试制3条线\n**所属模块**：\n**产品设计PRD**：\n[查看效果]\n[查看详情](https://inovance.feishu.cn/record/D5F4r67CeeH9ykcHUbacUsv7n7e?ccm_open_type=im_card_automation_button)\n---\n\u003c/card\u003e",
+        "create_time": "2026-10-26 17:08",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_76af1498f71d7cc0460c263c84f1fa61\u0026position=715",
+        "message_id": "om_x100b62c5c9ec78b4dff8831133fd8fb",
+        "message_position": "715",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a9f869168d3adcc7",
+          "id_type": "app_id",
+          "name": "数据应用需求收集表",
+          "open_bot_id": "ou_882adb9c6d5fec435df3163526a3095c",
+          "sender_i18n_names": {
+            "en_us": "数据应用需求收集表",
+            "ja_jp": "数据应用需求收集表",
+            "zh_cn": "数据应用需求收集表"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_76af1498f71d7cc0460c263c84f1fa61",
+        "content": "\u003ccard title=\"【新增功能需求部署完成，进入用户验收】——试制3条线\"\u003e\n**所属看板**：试制3条线\n**所属模块**：\n**访问链接**：\n**需求提出人**：@李树德(ou_7d5c6d6cefdab60f4ab9f414b6c3d9bf)\n\n**提示：**** 勾选“验收完成” **\n[查看效果]\n[查看详情](https://inovance.feishu.cn/record/D5F4r67CeeH9ykcHUbacUsv7n7e?ccm_open_type=im_card_automation_button)\n---\n\u003c/card\u003e",
+        "create_time": "2026-10-26 17:08",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_7d5c6d6cefdab60f4ab9f414b6c3d9bf",
+            "key": "@_user_1",
+            "name": "李树德"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_76af1498f71d7cc0460c263c84f1fa61\u0026position=716",
+        "message_id": "om_x100b62c5c71c1ca4ddb2e79fe749959",
+        "message_position": "716",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a9f869168d3adcc7",
+          "id_type": "app_id",
+          "name": "数据应用需求收集表",
+          "open_bot_id": "ou_882adb9c6d5fec435df3163526a3095c",
+          "sender_i18n_names": {
+            "en_us": "数据应用需求收集表",
+            "ja_jp": "数据应用需求收集表",
+            "zh_cn": "数据应用需求收集表"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_76af1498f71d7cc0460c263c84f1fa61",
+        "content": "\u003ccard title=\"【新增功能需求部署完成，进入用户验收】——试制3条线\"\u003e\n**所属看板**：试制3条线\n**所属模块**：\n**访问链接**：\n**需求提出人**：@李树德(ou_7d5c6d6cefdab60f4ab9f414b6c3d9bf)\n\n**提示：**** 勾选“验收完成” **\n[查看效果]\n[查看详情](https://inovance.feishu.cn/record/D5F4r67CeeH9ykcHUbacUsv7n7e?ccm_open_type=im_card_automation_button)\n---\n\u003c/card\u003e",
+        "create_time": "2026-10-26 17:09",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_7d5c6d6cefdab60f4ab9f414b6c3d9bf",
+            "key": "@_user_1",
+            "name": "李树德"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_76af1498f71d7cc0460c263c84f1fa61\u0026position=717",
+        "message_id": "om_x100b62c5c599bcb8c06eefe0bf78c76",
+        "message_position": "717",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a9f869168d3adcc7",
+          "id_type": "app_id",
+          "name": "数据应用需求收集表",
+          "open_bot_id": "ou_882adb9c6d5fec435df3163526a3095c",
+          "sender_i18n_names": {
+            "en_us": "数据应用需求收集表",
+            "ja_jp": "数据应用需求收集表",
+            "zh_cn": "数据应用需求收集表"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_76af1498f71d7cc0460c263c84f1fa61",
+        "content": "\u003ccard title=\"【新增功能需求验收完成】——试制3条线\"\u003e\n**  💝💝  合作愉快！期待下次相遇！💝💝**\n\n**所属看板**：试制3条线\n**期望效果**：先调整展示，使用起来\n**访问链接**：\n[查看效果]\n[查看详情](https://inovance.feishu.cn/record/D5F4r67CeeH9ykcHUbacUsv7n7e?ccm_open_type=im_card_automation_button)\n---\n\u003c/card\u003e",
+        "create_time": "2026-10-26 17:18",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_76af1498f71d7cc0460c263c84f1fa61\u0026position=718",
+        "message_id": "om_x100b62c5e0bc74a0ddf1df446ea36cd",
+        "message_position": "718",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a9f869168d3adcc7",
+          "id_type": "app_id",
+          "name": "数据应用需求收集表",
+          "open_bot_id": "ou_882adb9c6d5fec435df3163526a3095c",
+          "sender_i18n_names": {
+            "en_us": "数据应用需求收集表",
+            "ja_jp": "数据应用需求收集表",
+            "zh_cn": "数据应用需求收集表"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      }
+    ],
+    "page_token": "",
+    "total": 10
+  },
+  "meta": {
+    "pagination": {
+      "complete": true,
+      "pages": 1,
+      "items": 10
+    }
+  }
+}

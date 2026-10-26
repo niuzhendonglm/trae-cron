@@ -1,0 +1,1831 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "has_more": false,
+    "messages": [
+      {
+        "chat_id": "oc_45ca7327f3dfe981b3b1c5f380645266",
+        "content": "这个任务不知道为啥前置任务都成功了他自己也不跑\n![Image](img_v3_0216r_39151bbd-6978-4e2b-9924-ab0d4603e5ag)",
+        "create_time": "2026-10-26 08:57",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_45ca7327f3dfe981b3b1c5f380645266\u0026position=172",
+        "message_id": "om_x100b62de16839450cf50af0cc103f09",
+        "message_position": "172",
+        "msg_type": "post",
+        "sender": {
+          "id": "ou_c1a8a63bf361f1163e28cdf9dc77b49e",
+          "id_type": "open_id",
+          "name": "穆潇",
+          "sender_i18n_names": {
+            "en_us": "Michel"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_45ca7327f3dfe981b3b1c5f380645266",
+        "content": "[Image: img_v3_0216r_19e94f9e-4732-4531-9b44-0d7a2425d54g]",
+        "create_time": "2026-10-26 08:58",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_45ca7327f3dfe981b3b1c5f380645266\u0026position=173",
+        "message_id": "om_x100b62de14d538a0ceff557fd725dec",
+        "message_position": "173",
+        "msg_type": "image",
+        "sender": {
+          "id": "ou_c1a8a63bf361f1163e28cdf9dc77b49e",
+          "id_type": "open_id",
+          "name": "穆潇",
+          "sender_i18n_names": {
+            "en_us": "Michel"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_45ca7327f3dfe981b3b1c5f380645266",
+        "content": "我们看下",
+        "create_time": "2026-10-26 09:01",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_45ca7327f3dfe981b3b1c5f380645266\u0026position=174",
+        "message_id": "om_x100b62de26fef0b8cf1ed42cc5a1795",
+        "message_position": "174",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_096d41a75ccd13dd03c5faf8eb5cd194",
+          "id_type": "open_id",
+          "name": "黄翔",
+          "sender_i18n_names": {
+            "en_us": "Xiang Huang"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_45ca7327f3dfe981b3b1c5f380645266",
+        "content": "@黄翔 周末让我关了 我现在开一下",
+        "create_time": "2026-10-26 09:02",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_096d41a75ccd13dd03c5faf8eb5cd194",
+            "key": "@_user_1",
+            "name": "黄翔"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_45ca7327f3dfe981b3b1c5f380645266\u0026position=175",
+        "message_id": "om_x100b62de248a2cb4c1e16f8db773dcd",
+        "message_position": "175",
+        "msg_type": "text",
+        "reply_to": "om_x100b628634bd80accff28351fdf2938",
+        "sender": {
+          "id": "ou_ce3b309a1adb865c60cf7c112da25d62",
+          "id_type": "open_id",
+          "name": "邱治钧",
+          "sender_i18n_names": {
+            "en_us": "qiuzhijun"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-26 09:02",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_45ca7327f3dfe981b3b1c5f380645266",
+        "content": "@穆潇  正常跑啦\n![Image](img_v3_0216r_574f9b39-0f4c-4e62-b053-73bce98ffb4g)",
+        "create_time": "2026-10-26 09:47",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_c1a8a63bf361f1163e28cdf9dc77b49e",
+            "key": "@_user_1",
+            "name": "穆潇"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_45ca7327f3dfe981b3b1c5f380645266\u0026position=176",
+        "message_id": "om_x100b62df5dd398a0b4b82744421e170",
+        "message_position": "176",
+        "msg_type": "post",
+        "sender": {
+          "id": "ou_93790c848ada6a4de22a7ebec866fda4",
+          "id_type": "open_id",
+          "name": "陈小亮",
+          "sender_i18n_names": {
+            "en_us": "chenxiaoliang"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-26 09:47",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_45ca7327f3dfe981b3b1c5f380645266",
+        "content": "早上BI那边正常吗沈工@沈敏翔",
+        "create_time": "2026-10-26 09:58",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_721ec3e2d894f5ed50fd5bdbb76e6321",
+            "key": "@_user_1",
+            "name": "沈敏翔"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_45ca7327f3dfe981b3b1c5f380645266\u0026position=177",
+        "message_id": "om_x100b62df727134a4cf47f08449a2b71",
+        "message_position": "177",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_096d41a75ccd13dd03c5faf8eb5cd194",
+          "id_type": "open_id",
+          "name": "黄翔",
+          "sender_i18n_names": {
+            "en_us": "Xiang Huang"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-26 09:58",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_45ca7327f3dfe981b3b1c5f380645266",
+        "content": "早上观察了下，暂时没发现数据为空",
+        "create_time": "2026-10-26 09:59",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_45ca7327f3dfe981b3b1c5f380645266\u0026position=178",
+        "message_id": "om_x100b62df708c084ccefa918a40626a1",
+        "message_position": "178",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_721ec3e2d894f5ed50fd5bdbb76e6321",
+          "id_type": "open_id",
+          "name": "沈敏翔",
+          "sender_i18n_names": {
+            "en_us": "shenminxiang"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_45ca7327f3dfe981b3b1c5f380645266",
+        "content": "查询卡吗",
+        "create_time": "2026-10-26 09:59",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_45ca7327f3dfe981b3b1c5f380645266\u0026position=179",
+        "message_id": "om_x100b62df0f4ca0a8cf9c5539e894262",
+        "message_position": "179",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_096d41a75ccd13dd03c5faf8eb5cd194",
+          "id_type": "open_id",
+          "name": "黄翔",
+          "sender_i18n_names": {
+            "en_us": "Xiang Huang"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_45ca7327f3dfe981b3b1c5f380645266",
+        "content": "还是比较卡",
+        "create_time": "2026-10-26 10:01",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_45ca7327f3dfe981b3b1c5f380645266\u0026position=180",
+        "message_id": "om_x100b62df09e738a4ce9c6dd7de3ff5d",
+        "message_position": "180",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_721ec3e2d894f5ed50fd5bdbb76e6321",
+          "id_type": "open_id",
+          "name": "沈敏翔",
+          "sender_i18n_names": {
+            "en_us": "shenminxiang"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_45ca7327f3dfe981b3b1c5f380645266",
+        "content": "现在看下",
+        "create_time": "2026-10-26 10:03",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_45ca7327f3dfe981b3b1c5f380645266\u0026position=181",
+        "message_id": "om_x100b62df010994a8b4fe8fd7960c0ee",
+        "message_position": "181",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_096d41a75ccd13dd03c5faf8eb5cd194",
+          "id_type": "open_id",
+          "name": "黄翔",
+          "sender_i18n_names": {
+            "en_us": "Xiang Huang"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_45ca7327f3dfe981b3b1c5f380645266",
+        "content": "刚刚还能进去，这会进不去了，卡在这个界面\n![Image](img_v3_0216r_cfeaccc6-1146-4eac-a332-cd1ca8f8fe5g)",
+        "create_time": "2026-10-26 10:04",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_45ca7327f3dfe981b3b1c5f380645266\u0026position=182",
+        "message_id": "om_x100b62df1c5508a4ce7b217a717bc1f",
+        "message_position": "182",
+        "msg_type": "post",
+        "sender": {
+          "id": "ou_721ec3e2d894f5ed50fd5bdbb76e6321",
+          "id_type": "open_id",
+          "name": "沈敏翔",
+          "sender_i18n_names": {
+            "en_us": "shenminxiang"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_45ca7327f3dfe981b3b1c5f380645266",
+        "content": "@黄翔 进去了以后数据加载了20s，还有一个查询失败\n![Image](img_v3_0216r_e3393aee-0d44-43e2-837a-06014544e09g)",
+        "create_time": "2026-10-26 10:06",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_096d41a75ccd13dd03c5faf8eb5cd194",
+            "key": "@_user_1",
+            "name": "黄翔"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_45ca7327f3dfe981b3b1c5f380645266\u0026position=183",
+        "message_id": "om_x100b62df150b3480b32a7ebcf1648d2",
+        "message_position": "183",
+        "msg_type": "post",
+        "sender": {
+          "id": "ou_721ec3e2d894f5ed50fd5bdbb76e6321",
+          "id_type": "open_id",
+          "name": "沈敏翔",
+          "sender_i18n_names": {
+            "en_us": "shenminxiang"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-26 10:06",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_45ca7327f3dfe981b3b1c5f380645266",
+        "content": "[requestId]: 3faee8cf-d205-4e00-89f1-66b144e912a2.qhGtBsaozu01Y7Rt3qWZri.bi.79\n[detail]: 未知错误",
+        "create_time": "2026-10-26 10:07",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_45ca7327f3dfe981b3b1c5f380645266\u0026position=184",
+        "message_id": "om_x100b62df122cb0accd0f5cc3d903cc6",
+        "message_position": "184",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_721ec3e2d894f5ed50fd5bdbb76e6321",
+          "id_type": "open_id",
+          "name": "沈敏翔",
+          "sender_i18n_names": {
+            "en_us": "shenminxiang"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_45ca7327f3dfe981b3b1c5f380645266",
+        "content": "@沈敏翔 这个应该是datawind，我让字节看下",
+        "create_time": "2026-10-26 10:07",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_721ec3e2d894f5ed50fd5bdbb76e6321",
+            "key": "@_user_1",
+            "name": "沈敏翔"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_45ca7327f3dfe981b3b1c5f380645266\u0026position=185",
+        "message_id": "om_x100b62df1149208cce56629d54797d0",
+        "message_position": "185",
+        "msg_type": "text",
+        "reply_to": "om_x100b62df122cb0accd0f5cc3d903cc6",
+        "sender": {
+          "id": "ou_096d41a75ccd13dd03c5faf8eb5cd194",
+          "id_type": "open_id",
+          "name": "黄翔",
+          "sender_i18n_names": {
+            "en_us": "Xiang Huang"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-26 10:07",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_45ca7327f3dfe981b3b1c5f380645266",
+        "content": "@黄翔 黄工，工装保养这会没数据了\n![Image](img_v3_0216r_fc55de08-70ec-4c11-abb9-2b1fd854806g)",
+        "create_time": "2026-10-26 10:10",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_096d41a75ccd13dd03c5faf8eb5cd194",
+            "key": "@_user_1",
+            "name": "黄翔"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_45ca7327f3dfe981b3b1c5f380645266\u0026position=186",
+        "message_id": "om_x100b62df25d5bca0b4c2e21308fe421",
+        "message_position": "186",
+        "msg_type": "post",
+        "sender": {
+          "id": "ou_721ec3e2d894f5ed50fd5bdbb76e6321",
+          "id_type": "open_id",
+          "name": "沈敏翔",
+          "sender_i18n_names": {
+            "en_us": "shenminxiang"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-26 10:10",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_45ca7327f3dfe981b3b1c5f380645266",
+        "content": "应该还是有问题，刷新了下后保养有数据但是呆滞没数据了\n![Image](img_v3_0216r_f12a3e29-4d61-4e1b-b031-1e474530215g)",
+        "create_time": "2026-10-26 10:13",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_45ca7327f3dfe981b3b1c5f380645266\u0026position=187",
+        "message_id": "om_x100b62df3c26e938cf65b1990b6809b",
+        "message_position": "187",
+        "msg_type": "post",
+        "sender": {
+          "id": "ou_721ec3e2d894f5ed50fd5bdbb76e6321",
+          "id_type": "open_id",
+          "name": "沈敏翔",
+          "sender_i18n_names": {
+            "en_us": "shenminxiang"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-26 10:13",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_45ca7327f3dfe981b3b1c5f380645266",
+        "content": "@沈敏翔 点检呢",
+        "create_time": "2026-10-26 10:16",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_721ec3e2d894f5ed50fd5bdbb76e6321",
+            "key": "@_user_1",
+            "name": "沈敏翔"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_45ca7327f3dfe981b3b1c5f380645266\u0026position=188",
+        "message_id": "om_x100b62df30e6c4b8ce9df583906d377",
+        "message_position": "188",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_ce3b309a1adb865c60cf7c112da25d62",
+          "id_type": "open_id",
+          "name": "邱治钧",
+          "sender_i18n_names": {
+            "en_us": "qiuzhijun"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-26 10:16",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_45ca7327f3dfe981b3b1c5f380645266",
+        "content": "@邱治钧  你们的看板依赖了几个物理表",
+        "create_time": "2026-10-26 10:17",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_ce3b309a1adb865c60cf7c112da25d62",
+            "key": "@_user_1",
+            "name": "邱治钧"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_45ca7327f3dfe981b3b1c5f380645266\u0026position=189",
+        "message_id": "om_x100b62dfcd166ca0df015365bff809a",
+        "message_position": "189",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_70551c5eab0d745615fff1d870b031cd",
+          "id_type": "open_id",
+          "name": "王敬宇",
+          "sender_i18n_names": {
+            "en_us": "jingyu"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-26 10:17",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_45ca7327f3dfe981b3b1c5f380645266",
+        "content": "差不多每个模块一个",
+        "create_time": "2026-10-26 10:18",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_45ca7327f3dfe981b3b1c5f380645266\u0026position=190",
+        "message_id": "om_x100b62dfc81728a4b0e3eeb944062b0",
+        "message_position": "190",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_ce3b309a1adb865c60cf7c112da25d62",
+          "id_type": "open_id",
+          "name": "邱治钧",
+          "sender_i18n_names": {
+            "en_us": "qiuzhijun"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-26 10:18",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_45ca7327f3dfe981b3b1c5f380645266",
+        "content": "把刷新不出来对应模块的sql发出来看下",
+        "create_time": "2026-10-26 10:19",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_45ca7327f3dfe981b3b1c5f380645266\u0026position=191",
+        "message_id": "om_x100b62dfc79158a4dfc0aa2fb9dbe03",
+        "message_position": "191",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_70551c5eab0d745615fff1d870b031cd",
+          "id_type": "open_id",
+          "name": "王敬宇",
+          "sender_i18n_names": {
+            "en_us": "jingyu"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-26 10:19",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_45ca7327f3dfe981b3b1c5f380645266",
+        "content": "@邱治钧 点检暂时都正常",
+        "create_time": "2026-10-26 10:22",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_ce3b309a1adb865c60cf7c112da25d62",
+            "key": "@_user_1",
+            "name": "邱治钧"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_45ca7327f3dfe981b3b1c5f380645266\u0026position=192",
+        "message_id": "om_x100b62dfd9da98b0cd17d2c5e6d1b03",
+        "message_position": "192",
+        "msg_type": "text",
+        "reply_to": "om_x100b62df30e6c4b8ce9df583906d377",
+        "sender": {
+          "id": "ou_721ec3e2d894f5ed50fd5bdbb76e6321",
+          "id_type": "open_id",
+          "name": "沈敏翔",
+          "sender_i18n_names": {
+            "en_us": "shenminxiang"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-26 10:22",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_45ca7327f3dfe981b3b1c5f380645266",
+        "content": "\u003cp\u003e@王敬宇 工装保养\u003c/p\u003e\u003cp\u003eSELECT\u003c/p\u003e\u003cp\u003e  _col_5\u003c/p\u003e\u003cp\u003eFROM\u003c/p\u003e\u003cp\u003e  (\u003c/p\u003e\u003cp\u003e    SELECT\u003c/p\u003e\u003cp\u003e      sum(`total_man_hours`) AS _col_5\u003c/p\u003e\u003cp\u003e    FROM\u003c/p\u003e\u003cp\u003e      (\u003c/p\u003e\u003cp\u003e        select\u003c/p\u003e\u003cp\u003e          `period_d` as `period_d`,\u003c/p\u003e\u003cp\u003e          `work_order_type` as `work_order_type`,\u003c/p\u003e\u003cp\u003e          `org_code1` as `org_code1`,\u003c/p\u003e\u003cp\u003e          `org_name1` as `org_name1`,\u003c/p\u003e\u003cp\u003e          `org_code2` as `org_code2`,\u003c/p\u003e\u003cp\u003e          `org_name2` as `org_name2`,\u003c/p\u003e\u003cp\u003e          `warehouse_name` as `warehouse_name`,\u003c/p\u003e\u003cp\u003e          `order_cnt` as `order_cnt`,\u003c/p\u003e\u003cp\u003e          `tooling_cnt` as `tooling_cnt`,\u003c/p\u003e\u003cp\u003e          `total_man_hours` as `total_man_hours`,\u003c/p\u003e\u003cp\u003e          `order_status` as `order_status`,\u003c/p\u003e\u003cp\u003e          `is_normal_summary` as `is_normal_summary`,\u003c/p\u003e\u003cp\u003e          `inbound_type` as `inbound_type`,\u003c/p\u003e\u003cp\u003e          `data_crt_time` as `data_crt_time`,\u003c/p\u003e\u003cp\u003e          `data_upd_time` as `data_upd_time`\u003c/p\u003e\u003cp\u003e        from\u003c/p\u003e\u003cp\u003e          `isc_ads`.`ads_isc_mgf_tooling_work_order_a_min`\u003c/p\u003e\u003cp\u003e        where\u003c/p\u003e\u003cp\u003e          1=1\u003c/p\u003e\u003cp\u003e          and `org_name1`!=('机加中心')\u003c/p\u003e\u003cp\u003e          and `org_name1`!=('机加中心')\u003c/p\u003e\u003cp\u003e      ) as dc_1\u003c/p\u003e\u003cp\u003e    WHERE\u003c/p\u003e\u003cp\u003e      (`work_order_type`='保养工单')\u003c/p\u003e\u003cp\u003e      and (\u003c/p\u003e\u003cp\u003e        `period_d`\u003e='2026-10-01'\u003c/p\u003e\u003cp\u003e        AND `period_d`\u003c='2026-10-26'\u003c/p\u003e\u003cp\u003e      )\u003c/p\u003e\u003cp\u003e    LIMIT\u003c/p\u003e\u003cp\u003e      1000\u003c/p\u003e\u003cp\u003e  ) AS dc_2\u003c/p\u003e",
+        "create_time": "2026-10-26 10:25",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_70551c5eab0d745615fff1d870b031cd",
+            "key": "@_user_1",
+            "name": "王敬宇"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_45ca7327f3dfe981b3b1c5f380645266\u0026position=193",
+        "message_id": "om_x100b62dfede1a8acc06fc10828ffcf7",
+        "message_position": "193",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_ce3b309a1adb865c60cf7c112da25d62",
+          "id_type": "open_id",
+          "name": "邱治钧",
+          "sender_i18n_names": {
+            "en_us": "qiuzhijun"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-26 10:27",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_45ca7327f3dfe981b3b1c5f380645266",
+        "content": "@邱治钧 邱工，设备保养暂时没有问题，上面的保养是工装保养",
+        "create_time": "2026-10-26 10:26",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_ce3b309a1adb865c60cf7c112da25d62",
+            "key": "@_user_1",
+            "name": "邱治钧"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_45ca7327f3dfe981b3b1c5f380645266\u0026position=194",
+        "message_id": "om_x100b62dfeb76093ccff7cd347291dc5",
+        "message_position": "194",
+        "msg_type": "text",
+        "reply_to": "om_x100b62dfede1a8acc06fc10828ffcf7",
+        "sender": {
+          "id": "ou_721ec3e2d894f5ed50fd5bdbb76e6321",
+          "id_type": "open_id",
+          "name": "沈敏翔",
+          "sender_i18n_names": {
+            "en_us": "shenminxiang"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-26 10:26",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_45ca7327f3dfe981b3b1c5f380645266",
+        "content": "\u003cp\u003e哦是工装保养，上面那个就是\u003c/p\u003e",
+        "create_time": "2026-10-26 10:27",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_45ca7327f3dfe981b3b1c5f380645266\u0026position=195",
+        "message_id": "om_x100b62dfe946a074b012e0336b456f3",
+        "message_position": "195",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_ce3b309a1adb865c60cf7c112da25d62",
+          "id_type": "open_id",
+          "name": "邱治钧",
+          "sender_i18n_names": {
+            "en_us": "qiuzhijun"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-26 10:27",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_45ca7327f3dfe981b3b1c5f380645266",
+        "content": "@邱治钧  邱工，方便语音吗",
+        "create_time": "2026-10-26 10:30",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_ce3b309a1adb865c60cf7c112da25d62",
+            "key": "@_user_1",
+            "name": "邱治钧"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_45ca7327f3dfe981b3b1c5f380645266\u0026position=196",
+        "message_id": "om_x100b62dff8de60b4ddd1d460fe8cd8e",
+        "message_position": "196",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_70551c5eab0d745615fff1d870b031cd",
+          "id_type": "open_id",
+          "name": "王敬宇",
+          "sender_i18n_names": {
+            "en_us": "jingyu"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-26 10:30",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_45ca7327f3dfe981b3b1c5f380645266",
+        "content": "方便",
+        "create_time": "2026-10-26 10:31",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_45ca7327f3dfe981b3b1c5f380645266\u0026position=197",
+        "message_id": "om_x100b62dff8b324a8b07427ae6597a97",
+        "message_position": "197",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_ce3b309a1adb865c60cf7c112da25d62",
+          "id_type": "open_id",
+          "name": "邱治钧",
+          "sender_i18n_names": {
+            "en_us": "qiuzhijun"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_45ca7327f3dfe981b3b1c5f380645266",
+        "content": "@邱治钧 这个表在哪个项目空间 ads_isc_mgf_tooling_work_order_a_min",
+        "create_time": "2026-10-26 10:41",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_ce3b309a1adb865c60cf7c112da25d62",
+            "key": "@_user_1",
+            "name": "邱治钧"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_45ca7327f3dfe981b3b1c5f380645266\u0026position=198",
+        "message_id": "om_x100b62df901db0a8ddf7c6ff8ce4791",
+        "message_position": "198",
+        "msg_type": "text",
+        "reply_to": "om_x100b62dfede1a8acc06fc10828ffcf7",
+        "sender": {
+          "id": "ou_70551c5eab0d745615fff1d870b031cd",
+          "id_type": "open_id",
+          "name": "王敬宇",
+          "sender_i18n_names": {
+            "en_us": "jingyu"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-26 10:41",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_45ca7327f3dfe981b3b1c5f380645266",
+        "content": "数据消费",
+        "create_time": "2026-10-26 10:58",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_45ca7327f3dfe981b3b1c5f380645266\u0026position=199",
+        "message_id": "om_x100b62d8525fb4bccd0aef0bbee0b8f",
+        "message_position": "199",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_ce3b309a1adb865c60cf7c112da25d62",
+          "id_type": "open_id",
+          "name": "邱治钧",
+          "sender_i18n_names": {
+            "en_us": "qiuzhijun"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_45ca7327f3dfe981b3b1c5f380645266",
+        "content": "@邱治钧 调度停了？\n![Image](img_v3_0216r_c3be65ca-83c9-4be3-a3c8-ee4182ed396g)",
+        "create_time": "2026-10-26 10:59",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_ce3b309a1adb865c60cf7c112da25d62",
+            "key": "@_user_1",
+            "name": "邱治钧"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_45ca7327f3dfe981b3b1c5f380645266\u0026position=200",
+        "message_id": "om_x100b62d86f837ca4dc1fa5cc661853d",
+        "message_position": "200",
+        "msg_type": "post",
+        "reply_to": "om_x100b62d8525fb4bccd0aef0bbee0b8f",
+        "sender": {
+          "id": "ou_70551c5eab0d745615fff1d870b031cd",
+          "id_type": "open_id",
+          "name": "王敬宇",
+          "sender_i18n_names": {
+            "en_us": "jingyu"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-26 10:59",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_45ca7327f3dfe981b3b1c5f380645266",
+        "content": "这个表后面改成视图了，前置任务天天卡 跑不起来",
+        "create_time": "2026-10-26 11:03",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_45ca7327f3dfe981b3b1c5f380645266\u0026position=201",
+        "message_id": "om_x100b62d861cac4a4cf653a79bcfa1a7",
+        "message_position": "201",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_ce3b309a1adb865c60cf7c112da25d62",
+          "id_type": "open_id",
+          "name": "邱治钧",
+          "sender_i18n_names": {
+            "en_us": "qiuzhijun"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_45ca7327f3dfe981b3b1c5f380645266",
+        "content": "sql还是这个sql",
+        "create_time": "2026-10-26 11:03",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_45ca7327f3dfe981b3b1c5f380645266\u0026position=202",
+        "message_id": "om_x100b62d87ed744b0b0e6e903bd7889c",
+        "message_position": "202",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_ce3b309a1adb865c60cf7c112da25d62",
+          "id_type": "open_id",
+          "name": "邱治钧",
+          "sender_i18n_names": {
+            "en_us": "qiuzhijun"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_45ca7327f3dfe981b3b1c5f380645266",
+        "content": "【数据告警】\n查询开始时间: 2026-10-26 11:03:12.281\n查询结束时间: 2026-10-26 11:03:45.124\n检测到以下表计数为 0:\n- STD工装点检2 (std_isc_tpm_tooling_spotcheck_item_a_min2) 计数=0",
+        "create_time": "2026-10-26 11:03",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_45ca7327f3dfe981b3b1c5f380645266\u0026position=203",
+        "message_id": "om_x100b62d87ff974a0dd6936a63b25f8c",
+        "message_position": "203",
+        "msg_type": "text",
+        "sender": {
+          "id": "cli_c08abc1da138d00f",
+          "id_type": "app_id",
+          "name": "数据异常提醒",
+          "open_bot_id": "ou_cea473db66d9452f3ade416f12aa9949",
+          "sender_i18n_names": {
+            "en_us": "数据异常提醒",
+            "zh_cn": "数据异常提醒"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-26 11:03",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_45ca7327f3dfe981b3b1c5f380645266",
+        "content": "@黄翔",
+        "create_time": "2026-10-26 11:04",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_096d41a75ccd13dd03c5faf8eb5cd194",
+            "key": "@_user_1",
+            "name": "黄翔"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_45ca7327f3dfe981b3b1c5f380645266\u0026position=204",
+        "message_id": "om_x100b62d87cfa88b8b08467de3300044",
+        "message_position": "204",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_ce3b309a1adb865c60cf7c112da25d62",
+          "id_type": "open_id",
+          "name": "邱治钧",
+          "sender_i18n_names": {
+            "en_us": "qiuzhijun"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-26 11:04",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_45ca7327f3dfe981b3b1c5f380645266",
+        "content": "看着最新一次查询 数据已经恢复了 \n![Image](img_v3_0216r_b319e613-3f10-4df8-b94a-c86d29ad4ffg)",
+        "create_time": "2026-10-26 11:05",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_45ca7327f3dfe981b3b1c5f380645266\u0026position=205",
+        "message_id": "om_x100b62d879b09884cfd167c48f3666d",
+        "message_position": "205",
+        "msg_type": "post",
+        "sender": {
+          "id": "ou_ce3b309a1adb865c60cf7c112da25d62",
+          "id_type": "open_id",
+          "name": "邱治钧",
+          "sender_i18n_names": {
+            "en_us": "qiuzhijun"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_45ca7327f3dfe981b3b1c5f380645266",
+        "content": "@邱治钧 最近平台加了资源，可以先把调度任务跑起来看看时效（需要改下物理表名）。用视图这种方式，在频繁查看报表的情况下对资源消耗比较大，会影响doris的稳定",
+        "create_time": "2026-10-26 11:36",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_ce3b309a1adb865c60cf7c112da25d62",
+            "key": "@_user_1",
+            "name": "邱治钧"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_45ca7327f3dfe981b3b1c5f380645266\u0026position=206",
+        "message_id": "om_x100b62d8e3e10ca0c0c284cadb7c8c7",
+        "message_position": "206",
+        "msg_type": "text",
+        "reply_to": "om_x100b62d861cac4a4cf653a79bcfa1a7",
+        "sender": {
+          "id": "ou_70551c5eab0d745615fff1d870b031cd",
+          "id_type": "open_id",
+          "name": "王敬宇",
+          "sender_i18n_names": {
+            "en_us": "jingyu"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-26 11:36",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_45ca7327f3dfe981b3b1c5f380645266",
+        "content": "【数据告警】\n查询开始时间: 2026-10-26 12:06:29.797\n查询结束时间: 2026-10-26 12:06:42.449\n检测到以下表计数为 0:\n- STD工装点检1 (std_isc_tpm_tooling_spotcheck_item_a_min) 计数=0\n- STD工装点检2 (std_isc_tpm_tooling_spotcheck_item_a_min2) 计数=0",
+        "create_time": "2026-10-26 12:06",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_45ca7327f3dfe981b3b1c5f380645266\u0026position=207",
+        "message_id": "om_x100b62d953f5a0a8c04296ab24145f4",
+        "message_position": "207",
+        "msg_type": "text",
+        "sender": {
+          "id": "cli_c08abc1da138d00f",
+          "id_type": "app_id",
+          "name": "数据异常提醒",
+          "open_bot_id": "ou_cea473db66d9452f3ade416f12aa9949",
+          "sender_i18n_names": {
+            "en_us": "数据异常提醒",
+            "zh_cn": "数据异常提醒"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-26 12:06",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_45ca7327f3dfe981b3b1c5f380645266",
+        "content": "【数据告警】\n查询开始时间: 2026-10-26 12:11:29.994\n查询结束时间: 2026-10-26 12:11:48.332\n检测到以下表计数为 0:\n- STD工装点检1 (std_isc_tpm_tooling_spotcheck_item_a_min) 计数=0\n- STD工装点检2 (std_isc_tpm_tooling_spotcheck_item_a_min2) 计数=0",
+        "create_time": "2026-10-26 12:11",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_45ca7327f3dfe981b3b1c5f380645266\u0026position=208",
+        "message_id": "om_x100b62d97e9e48a0de446c724df3658",
+        "message_position": "208",
+        "msg_type": "text",
+        "sender": {
+          "id": "cli_c08abc1da138d00f",
+          "id_type": "app_id",
+          "name": "数据异常提醒",
+          "open_bot_id": "ou_cea473db66d9452f3ade416f12aa9949",
+          "sender_i18n_names": {
+            "en_us": "数据异常提醒",
+            "zh_cn": "数据异常提醒"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-26 12:11",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_45ca7327f3dfe981b3b1c5f380645266",
+        "content": "【数据告警】\n查询开始时间: 2026-10-26 12:46:31.253\n查询结束时间: 2026-10-26 12:46:43.116\n检测到以下表计数为 0:\n- STD工装点检1 (std_isc_tpm_tooling_spotcheck_item_a_min) 计数=0\n- STD工装点检2 (std_isc_tpm_tooling_spotcheck_item_a_min2) 计数=0",
+        "create_time": "2026-10-26 12:46",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_45ca7327f3dfe981b3b1c5f380645266\u0026position=209",
+        "message_id": "om_x100b62d9fd8e18a0de5560e7c906990",
+        "message_position": "209",
+        "msg_type": "text",
+        "sender": {
+          "id": "cli_c08abc1da138d00f",
+          "id_type": "app_id",
+          "name": "数据异常提醒",
+          "open_bot_id": "ou_cea473db66d9452f3ade416f12aa9949",
+          "sender_i18n_names": {
+            "en_us": "数据异常提醒",
+            "zh_cn": "数据异常提醒"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-26 12:46",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_45ca7327f3dfe981b3b1c5f380645266",
+        "content": "【数据告警】\n查询开始时间: 2026-10-26 12:51:31.357\n查询结束时间: 2026-10-26 12:51:42.881\n检测到以下表计数为 0:\n- STD工装点检1 (std_isc_tpm_tooling_spotcheck_item_a_min) 计数=0",
+        "create_time": "2026-10-26 12:51",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_45ca7327f3dfe981b3b1c5f380645266\u0026position=210",
+        "message_id": "om_x100b62d988c290a0de996d73fd0f349",
+        "message_position": "210",
+        "msg_type": "text",
+        "sender": {
+          "id": "cli_c08abc1da138d00f",
+          "id_type": "app_id",
+          "name": "数据异常提醒",
+          "open_bot_id": "ou_cea473db66d9452f3ade416f12aa9949",
+          "sender_i18n_names": {
+            "en_us": "数据异常提醒",
+            "zh_cn": "数据异常提醒"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-26 12:51",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_45ca7327f3dfe981b3b1c5f380645266",
+        "content": "【数据告警】\n查询开始时间: 2026-10-26 13:07:05.942\n查询结束时间: 2026-10-26 13:07:19.593\n检测到以下表计数为 0:\n- STD工装点检1 (std_isc_tpm_tooling_spotcheck_item_a_min) 计数=0\n- STD工装点检2 (std_isc_tpm_tooling_spotcheck_item_a_min2) 计数=0",
+        "create_time": "2026-10-26 13:07",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_45ca7327f3dfe981b3b1c5f380645266\u0026position=211",
+        "message_id": "om_x100b62da4e1da8a0c01dde7d202c2cf",
+        "message_position": "211",
+        "msg_type": "text",
+        "sender": {
+          "id": "cli_c08abc1da138d00f",
+          "id_type": "app_id",
+          "name": "数据异常提醒",
+          "open_bot_id": "ou_cea473db66d9452f3ade416f12aa9949",
+          "sender_i18n_names": {
+            "en_us": "数据异常提醒",
+            "zh_cn": "数据异常提醒"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-26 13:07",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_45ca7327f3dfe981b3b1c5f380645266",
+        "content": "【数据告警】\n查询开始时间: 2026-10-26 13:13:23.497\n查询结束时间: 2026-10-26 13:13:54.921\n检测到以下表计数为 0:\n- STD工装点检2 (std_isc_tpm_tooling_spotcheck_item_a_min2) 计数=0",
+        "create_time": "2026-10-26 13:13",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_45ca7327f3dfe981b3b1c5f380645266\u0026position=212",
+        "message_id": "om_x100b62da57f664bcdd28f1fd273a3f3",
+        "message_position": "212",
+        "msg_type": "text",
+        "sender": {
+          "id": "cli_c08abc1da138d00f",
+          "id_type": "app_id",
+          "name": "数据异常提醒",
+          "open_bot_id": "ou_cea473db66d9452f3ade416f12aa9949",
+          "sender_i18n_names": {
+            "en_us": "数据异常提醒",
+            "zh_cn": "数据异常提醒"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-26 13:13",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_45ca7327f3dfe981b3b1c5f380645266",
+        "content": "【数据告警】\n查询开始时间: 2026-10-26 14:03:12.226\n查询结束时间: 2026-10-26 14:03:34.498\n检测到以下表计数为 0:\n- STD工装点检1 (std_isc_tpm_tooling_spotcheck_item_a_min) 计数=0\n- STD工装点检2 (std_isc_tpm_tooling_spotcheck_item_a_min2) 计数=0",
+        "create_time": "2026-10-26 14:03",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_45ca7327f3dfe981b3b1c5f380645266\u0026position=213",
+        "message_id": "om_x100b62da9a5d38b0dd10869881ffb36",
+        "message_position": "213",
+        "msg_type": "text",
+        "sender": {
+          "id": "cli_c08abc1da138d00f",
+          "id_type": "app_id",
+          "name": "数据异常提醒",
+          "open_bot_id": "ou_cea473db66d9452f3ade416f12aa9949",
+          "sender_i18n_names": {
+            "en_us": "数据异常提醒",
+            "zh_cn": "数据异常提醒"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-26 14:03",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_45ca7327f3dfe981b3b1c5f380645266",
+        "content": "【数据告警】\n查询开始时间: 2026-10-26 14:08:18.318\n查询结束时间: 2026-10-26 14:09:09.165\n检测到以下表计数为 0:\n- STD工装点检1 (std_isc_tpm_tooling_spotcheck_item_a_min) 计数=0\n- STD工装点检2 (std_isc_tpm_tooling_spotcheck_item_a_min2) 计数=0",
+        "create_time": "2026-10-26 14:09",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_45ca7327f3dfe981b3b1c5f380645266\u0026position=214",
+        "message_id": "om_x100b62daa70a60acddb8d0099d5f164",
+        "message_position": "214",
+        "msg_type": "text",
+        "sender": {
+          "id": "cli_c08abc1da138d00f",
+          "id_type": "app_id",
+          "name": "数据异常提醒",
+          "open_bot_id": "ou_cea473db66d9452f3ade416f12aa9949",
+          "sender_i18n_names": {
+            "en_us": "数据异常提醒",
+            "zh_cn": "数据异常提醒"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-26 14:09",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_45ca7327f3dfe981b3b1c5f380645266",
+        "content": "【数据告警】\n查询开始时间: 2026-10-26 14:22:15.016\n查询结束时间: 2026-10-26 14:22:17.958\n检测到以下表计数为 0:\n- STD工装点检1 (std_isc_tpm_tooling_spotcheck_item_a_min) 计数=0\n- STD工装点检2 (std_isc_tpm_tooling_spotcheck_item_a_min2) 计数=0",
+        "create_time": "2026-10-26 14:22",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_45ca7327f3dfe981b3b1c5f380645266\u0026position=215",
+        "message_id": "om_x100b62db5573e8b0c1c54f45fb1f910",
+        "message_position": "215",
+        "msg_type": "text",
+        "sender": {
+          "id": "cli_c08abc1da138d00f",
+          "id_type": "app_id",
+          "name": "数据异常提醒",
+          "open_bot_id": "ou_cea473db66d9452f3ade416f12aa9949",
+          "sender_i18n_names": {
+            "en_us": "数据异常提醒",
+            "zh_cn": "数据异常提醒"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-26 14:22",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_45ca7327f3dfe981b3b1c5f380645266",
+        "content": "@黄翔 黄工，下午daas平台这边是有什么发版测试么，设备和工装驾驶舱这会大量模块没数据，帮忙看下啥情况\n![Image](img_v3_0216r_6cd12fc9-92e1-46fd-a139-d94da2d9132g)\n![Image](img_v3_0216r_468ce596-b6c9-4162-8013-b6150b113c2g)",
+        "create_time": "2026-10-26 14:29",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_096d41a75ccd13dd03c5faf8eb5cd194",
+            "key": "@_user_1",
+            "name": "黄翔"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_45ca7327f3dfe981b3b1c5f380645266\u0026position=216",
+        "message_id": "om_x100b62db7d6360a4cfe47e1730cfa62",
+        "message_position": "216",
+        "msg_type": "post",
+        "sender": {
+          "id": "ou_721ec3e2d894f5ed50fd5bdbb76e6321",
+          "id_type": "open_id",
+          "name": "沈敏翔",
+          "sender_i18n_names": {
+            "en_us": "shenminxiang"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-26 14:29",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_45ca7327f3dfe981b3b1c5f380645266",
+        "content": "没发版",
+        "create_time": "2026-10-26 14:30",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_45ca7327f3dfe981b3b1c5f380645266\u0026position=217",
+        "message_id": "om_x100b62db76af90a8cf3e2f0ef1fec6d",
+        "message_position": "217",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_096d41a75ccd13dd03c5faf8eb5cd194",
+          "id_type": "open_id",
+          "name": "黄翔",
+          "sender_i18n_names": {
+            "en_us": "Xiang Huang"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_45ca7327f3dfe981b3b1c5f380645266",
+        "content": "@沈敏翔 这地址发我下",
+        "create_time": "2026-10-26 14:39",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_721ec3e2d894f5ed50fd5bdbb76e6321",
+            "key": "@_user_1",
+            "name": "沈敏翔"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_45ca7327f3dfe981b3b1c5f380645266\u0026position=218",
+        "message_id": "om_x100b62db14740090cf2ad5f077f0521",
+        "message_position": "218",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_096d41a75ccd13dd03c5faf8eb5cd194",
+          "id_type": "open_id",
+          "name": "黄翔",
+          "sender_i18n_names": {
+            "en_us": "Xiang Huang"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-26 14:39",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_45ca7327f3dfe981b3b1c5f380645266",
+        "content": "@黄翔 \n设备：https://ssda.inovance.com/bi/pages/dashboard/36689?appId=3\u0026sheetId=1209\n工装：https://ssda.inovance.com/bi/pages/dashboard/36842?appId=3\u0026isDefault=1\u0026sheetId=1252\n@邱治钧 邱工，帮忙给黄工开下查看权限",
+        "create_time": "2026-10-26 14:40",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_096d41a75ccd13dd03c5faf8eb5cd194",
+            "key": "@_user_1",
+            "name": "黄翔"
+          },
+          {
+            "id": "ou_ce3b309a1adb865c60cf7c112da25d62",
+            "key": "@_user_2",
+            "name": "邱治钧"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_45ca7327f3dfe981b3b1c5f380645266\u0026position=219",
+        "message_id": "om_x100b62db1317e0a4cffc8640f4ab5d6",
+        "message_position": "219",
+        "msg_type": "text",
+        "reply_to": "om_x100b62db14740090cf2ad5f077f0521",
+        "sender": {
+          "id": "ou_721ec3e2d894f5ed50fd5bdbb76e6321",
+          "id_type": "open_id",
+          "name": "沈敏翔",
+          "sender_i18n_names": {
+            "en_us": "shenminxiang"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-26 14:40",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_45ca7327f3dfe981b3b1c5f380645266",
+        "content": "@沈敏翔 沈工可以暂时把他加到管理用户组里面 不然他也看不见数据",
+        "create_time": "2026-10-26 14:41",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_721ec3e2d894f5ed50fd5bdbb76e6321",
+            "key": "@_user_1",
+            "name": "沈敏翔"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_45ca7327f3dfe981b3b1c5f380645266\u0026position=220",
+        "message_id": "om_x100b62db2f5974b4ce795434f83fea1",
+        "message_position": "220",
+        "msg_type": "text",
+        "reply_to": "om_x100b62db1317e0a4cffc8640f4ab5d6",
+        "sender": {
+          "id": "ou_c1a8a63bf361f1163e28cdf9dc77b49e",
+          "id_type": "open_id",
+          "name": "穆潇",
+          "sender_i18n_names": {
+            "en_us": "Michel"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-26 14:41",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_45ca7327f3dfe981b3b1c5f380645266",
+        "content": "【数据告警】\n查询开始时间: 2026-10-26 14:40:41.527\n查询结束时间: 2026-10-26 14:40:56.249\n检测到以下表计数为 0:\n- STD工装点检1 (std_isc_tpm_tooling_spotcheck_item_a_min) 计数=0\n- STD工装点检2 (std_isc_tpm_tooling_spotcheck_item_a_min2) 计数=0",
+        "create_time": "2026-10-26 14:41",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_45ca7327f3dfe981b3b1c5f380645266\u0026position=221",
+        "message_id": "om_x100b62db2f774c80c1d153ec86f17c1",
+        "message_position": "221",
+        "msg_type": "text",
+        "sender": {
+          "id": "cli_c08abc1da138d00f",
+          "id_type": "app_id",
+          "name": "数据异常提醒",
+          "open_bot_id": "ou_cea473db66d9452f3ade416f12aa9949",
+          "sender_i18n_names": {
+            "en_us": "数据异常提醒",
+            "zh_cn": "数据异常提醒"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-26 14:41",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_45ca7327f3dfe981b3b1c5f380645266",
+        "content": "@穆潇 我这边没有权限[捂脸]，只给周刚开了，他今天出差了",
+        "create_time": "2026-10-26 14:42",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_c1a8a63bf361f1163e28cdf9dc77b49e",
+            "key": "@_user_1",
+            "name": "穆潇"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_45ca7327f3dfe981b3b1c5f380645266\u0026position=222",
+        "message_id": "om_x100b62db2aff1ca4ce538780e8a8498",
+        "message_position": "222",
+        "msg_type": "text",
+        "reply_to": "om_x100b62db2f5974b4ce795434f83fea1",
+        "sender": {
+          "id": "ou_721ec3e2d894f5ed50fd5bdbb76e6321",
+          "id_type": "open_id",
+          "name": "沈敏翔",
+          "sender_i18n_names": {
+            "en_us": "shenminxiang"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-26 14:42",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_45ca7327f3dfe981b3b1c5f380645266",
+        "content": "@黄翔 黄工，可以了，你这边尝试下登陆看看",
+        "create_time": "2026-10-26 14:47",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_096d41a75ccd13dd03c5faf8eb5cd194",
+            "key": "@_user_1",
+            "name": "黄翔"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_45ca7327f3dfe981b3b1c5f380645266\u0026position=223",
+        "message_id": "om_x100b62db366280b8cebfe96ed93a141",
+        "message_position": "223",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_721ec3e2d894f5ed50fd5bdbb76e6321",
+          "id_type": "open_id",
+          "name": "沈敏翔",
+          "sender_i18n_names": {
+            "en_us": "shenminxiang"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-26 14:47",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_45ca7327f3dfe981b3b1c5f380645266",
+        "content": "【数据告警】\n查询开始时间: 2026-10-26 15:04:08.663\n查询结束时间: 2026-10-26 15:04:20.346\n检测到以下表计数为 0:\n- STD工装点检1 (std_isc_tpm_tooling_spotcheck_item_a_min) 计数=0",
+        "create_time": "2026-10-26 15:04",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_45ca7327f3dfe981b3b1c5f380645266\u0026position=224",
+        "message_id": "om_x100b62dbf9958484c06639607390b28",
+        "message_position": "224",
+        "msg_type": "text",
+        "sender": {
+          "id": "cli_c08abc1da138d00f",
+          "id_type": "app_id",
+          "name": "数据异常提醒",
+          "open_bot_id": "ou_cea473db66d9452f3ade416f12aa9949",
+          "sender_i18n_names": {
+            "en_us": "数据异常提醒",
+            "zh_cn": "数据异常提醒"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-26 15:04",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_45ca7327f3dfe981b3b1c5f380645266",
+        "content": "我把这个改成1秒了\n![Image](img_v3_0216r_b1a4351f-645f-463b-8ebc-695c8b4a3e0g)",
+        "create_time": "2026-10-26 15:41",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_45ca7327f3dfe981b3b1c5f380645266\u0026position=225",
+        "message_id": "om_x100b62c40e3e74b4ce4d5ffd3553c6c",
+        "message_position": "225",
+        "msg_type": "post",
+        "sender": {
+          "id": "ou_096d41a75ccd13dd03c5faf8eb5cd194",
+          "id_type": "open_id",
+          "name": "黄翔",
+          "sender_i18n_names": {
+            "en_us": "Xiang Huang"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_45ca7327f3dfe981b3b1c5f380645266",
+        "content": "看看效果",
+        "create_time": "2026-10-26 15:41",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_45ca7327f3dfe981b3b1c5f380645266\u0026position=226",
+        "message_id": "om_x100b62c40e31dcb4b0539430148525d",
+        "message_position": "226",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_096d41a75ccd13dd03c5faf8eb5cd194",
+          "id_type": "open_id",
+          "name": "黄翔",
+          "sender_i18n_names": {
+            "en_us": "Xiang Huang"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-26 15:41",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_45ca7327f3dfe981b3b1c5f380645266",
+        "content": "这是哪个表",
+        "create_time": "2026-10-26 15:45",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_45ca7327f3dfe981b3b1c5f380645266\u0026position=227",
+        "message_id": "om_x100b62c41e181cbccd330e713b4462e",
+        "message_position": "227",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_ce3b309a1adb865c60cf7c112da25d62",
+          "id_type": "open_id",
+          "name": "邱治钧",
+          "sender_i18n_names": {
+            "en_us": "qiuzhijun"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_45ca7327f3dfe981b3b1c5f380645266",
+        "content": "ALTER TABLE isc_std.std_isc_tpm_tooling_spotcheck_item_a_min2 SET (\"group_commit_interval_ms\" = \"1000\");",
+        "create_time": "2026-10-26 15:51",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_45ca7327f3dfe981b3b1c5f380645266\u0026position=228",
+        "message_id": "om_x100b62c426e9c4a0b0b50a7817d1193",
+        "message_position": "228",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_096d41a75ccd13dd03c5faf8eb5cd194",
+          "id_type": "open_id",
+          "name": "黄翔",
+          "sender_i18n_names": {
+            "en_us": "Xiang Huang"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_45ca7327f3dfe981b3b1c5f380645266",
+        "content": "【数据告警】\n查询开始时间: 2026-10-26 16:18:10.588\n查询结束时间: 2026-10-26 16:18:51.708\n检测到以下表计数为 0:\n- STD工装点检1 (std_isc_tpm_tooling_spotcheck_item_a_min) 计数=0\n- STD工装点检2 (std_isc_tpm_tooling_spotcheck_item_a_min2) 计数=0",
+        "create_time": "2026-10-26 16:20",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_45ca7327f3dfe981b3b1c5f380645266\u0026position=229",
+        "message_id": "om_x100b62c49d4d4ca8de0114e8af2a8f0",
+        "message_position": "229",
+        "msg_type": "text",
+        "sender": {
+          "id": "cli_c08abc1da138d00f",
+          "id_type": "app_id",
+          "name": "数据异常提醒",
+          "open_bot_id": "ou_cea473db66d9452f3ade416f12aa9949",
+          "sender_i18n_names": {
+            "en_us": "数据异常提醒",
+            "zh_cn": "数据异常提醒"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-26 16:20",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_45ca7327f3dfe981b3b1c5f380645266",
+        "content": "孙奥迪 invited 武销南 to the group. New members can view all chat history.",
+        "create_time": "2026-10-26 16:41",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_45ca7327f3dfe981b3b1c5f380645266\u0026position=230",
+        "message_id": "om_x100b62c56c0508b0de6e0c12be1fb67",
+        "message_position": "230",
+        "msg_type": "system",
+        "sender": {
+          "id": "",
+          "id_type": "",
+          "sender_type": "",
+          "tenant_key": ""
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_45ca7327f3dfe981b3b1c5f380645266",
+        "content": "【数据告警】\n查询开始时间: 2026-10-26 16:49:13.576\n查询结束时间: 2026-10-26 16:49:41.639\n检测到以下表计数为 0:\n- STD工装点检1 (std_isc_tpm_tooling_spotcheck_item_a_min) 计数=0\n- STD工装点检2 (std_isc_tpm_tooling_spotcheck_item_a_min2) 计数=0",
+        "create_time": "2026-10-26 16:49",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_45ca7327f3dfe981b3b1c5f380645266\u0026position=231",
+        "message_id": "om_x100b62c50d9758a0de0deff667d10c7",
+        "message_position": "231",
+        "msg_type": "text",
+        "sender": {
+          "id": "cli_c08abc1da138d00f",
+          "id_type": "app_id",
+          "name": "数据异常提醒",
+          "open_bot_id": "ou_cea473db66d9452f3ade416f12aa9949",
+          "sender_i18n_names": {
+            "en_us": "数据异常提醒",
+            "zh_cn": "数据异常提醒"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-26 16:49",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_45ca7327f3dfe981b3b1c5f380645266",
+        "content": "detailMessage = Not allowed running Insert Overwrite on same table: isc_dwd.dwd_isc_mgf_tpm_tooling_maint_item_a_min",
+        "create_time": "2026-10-26 16:50",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_45ca7327f3dfe981b3b1c5f380645266\u0026position=232",
+        "message_id": "om_x100b62c50b95a8a8b014565b5113633",
+        "message_position": "232",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_ce3b309a1adb865c60cf7c112da25d62",
+          "id_type": "open_id",
+          "name": "邱治钧",
+          "sender_i18n_names": {
+            "en_us": "qiuzhijun"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-26 16:50",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_45ca7327f3dfe981b3b1c5f380645266",
+        "content": "@孙奥迪 @武销南 @黄翔 \n这个表也有刚才说的问题，执行INSERT正常 \n![Image](img_v3_0216r_4fc1c9ed-3630-4ab6-958c-19cec50ddbcg)\n，插入后再查 表里是0\n![Image](img_v3_0216r_9106f0fd-ed11-4f29-b6e2-85f74d1630eg)",
+        "create_time": "2026-10-26 17:35",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_6d7296505aad11152c1fa679a46346d1",
+            "key": "@_user_1",
+            "name": "孙奥迪"
+          },
+          {
+            "id": "ou_252c43af63ca5514e989f5d4f47d7cba",
+            "key": "@_user_2",
+            "name": "武销南"
+          },
+          {
+            "id": "ou_096d41a75ccd13dd03c5faf8eb5cd194",
+            "key": "@_user_3",
+            "name": "黄翔"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_45ca7327f3dfe981b3b1c5f380645266\u0026position=233",
+        "message_id": "om_x100b62c5a16450c4cd1354eab89df0a",
+        "message_position": "233",
+        "msg_type": "post",
+        "sender": {
+          "id": "ou_ce3b309a1adb865c60cf7c112da25d62",
+          "id_type": "open_id",
+          "name": "邱治钧",
+          "sender_i18n_names": {
+            "en_us": "qiuzhijun"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-26 17:35",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_45ca7327f3dfe981b3b1c5f380645266",
+        "content": "【数据告警】\n查询开始时间: 2026-10-26 17:49:33.693\n查询结束时间: 2026-10-26 17:49:49.779\n检测到以下表计数为 0:\n- STD工装点检1 (std_isc_tpm_tooling_spotcheck_item_a_min) 计数=0\n- STD工装点检2 (std_isc_tpm_tooling_spotcheck_item_a_min2) 计数=0",
+        "create_time": "2026-10-26 17:50",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_45ca7327f3dfe981b3b1c5f380645266\u0026position=234",
+        "message_id": "om_x100b62c66a4c78a8c43774b8552de9e",
+        "message_position": "234",
+        "msg_type": "text",
+        "sender": {
+          "id": "cli_c08abc1da138d00f",
+          "id_type": "app_id",
+          "name": "数据异常提醒",
+          "open_bot_id": "ou_cea473db66d9452f3ade416f12aa9949",
+          "sender_i18n_names": {
+            "en_us": "数据异常提醒",
+            "zh_cn": "数据异常提醒"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-26 17:50",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_45ca7327f3dfe981b3b1c5f380645266",
+        "content": "【数据告警】\n查询开始时间: 2026-10-26 17:58:35.658\n查询结束时间: 2026-10-26 17:58:58.395\n检测到以下表计数为 0:\n- STD工装点检1 (std_isc_tpm_tooling_spotcheck_item_a_min) 计数=0\n- STD工装点检2 (std_isc_tpm_tooling_spotcheck_item_a_min2) 计数=0",
+        "create_time": "2026-10-26 17:59",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_45ca7327f3dfe981b3b1c5f380645266\u0026position=235",
+        "message_id": "om_x100b62c6084fd8b8df0aef2ce8afe94",
+        "message_position": "235",
+        "msg_type": "text",
+        "sender": {
+          "id": "cli_c08abc1da138d00f",
+          "id_type": "app_id",
+          "name": "数据异常提醒",
+          "open_bot_id": "ou_cea473db66d9452f3ade416f12aa9949",
+          "sender_i18n_names": {
+            "en_us": "数据异常提醒",
+            "zh_cn": "数据异常提醒"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-26 17:59",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_45ca7327f3dfe981b3b1c5f380645266",
+        "content": "【数据告警】\n查询开始时间: 2026-10-26 18:04:50.311\n查询结束时间: 2026-10-26 18:05:11.137\n检测到以下表计数为 0:\n- STD工装点检1 (std_isc_tpm_tooling_spotcheck_item_a_min) 计数=0\n- STD工装点检2 (std_isc_tpm_tooling_spotcheck_item_a_min2) 计数=0",
+        "create_time": "2026-10-26 18:05",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_45ca7327f3dfe981b3b1c5f380645266\u0026position=236",
+        "message_id": "om_x100b62c6132ed0b8c1c87f6fdcd70ca",
+        "message_position": "236",
+        "msg_type": "text",
+        "sender": {
+          "id": "cli_c08abc1da138d00f",
+          "id_type": "app_id",
+          "name": "数据异常提醒",
+          "open_bot_id": "ou_cea473db66d9452f3ade416f12aa9949",
+          "sender_i18n_names": {
+            "en_us": "数据异常提醒",
+            "zh_cn": "数据异常提醒"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-26 18:05",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_45ca7327f3dfe981b3b1c5f380645266",
+        "content": "dwd_isc_mgf_tpm_maintain_task_a_min这个任务总失败，需要排查一下\n![Image](img_v3_0216r_1d955eb6-87fa-4063-a73c-9bdac4a478ag)\n![Image](img_v3_0216r_e93e61d3-460d-4a9e-b8df-74f52c89a0fg)",
+        "create_time": "2026-10-26 18:07",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_45ca7327f3dfe981b3b1c5f380645266\u0026position=237",
+        "message_id": "om_x100b62c62bb328b4cf08b9991a680cc",
+        "message_position": "237",
+        "msg_type": "post",
+        "sender": {
+          "id": "ou_c1a8a63bf361f1163e28cdf9dc77b49e",
+          "id_type": "open_id",
+          "name": "穆潇",
+          "sender_i18n_names": {
+            "en_us": "Michel"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_45ca7327f3dfe981b3b1c5f380645266",
+        "content": "[Invalid text JSON]",
+        "create_time": "2026-10-26 18:30",
+        "deleted": true,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_45ca7327f3dfe981b3b1c5f380645266\u0026position=238",
+        "message_id": "om_x100b62c6f40d64a0b0e1a56c587f418",
+        "message_position": "238",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_6d7296505aad11152c1fa679a46346d1",
+          "id_type": "open_id",
+          "name": "孙奥迪",
+          "sender_i18n_names": {
+            "en_us": "sunaodi"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_45ca7327f3dfe981b3b1c5f380645266",
+        "content": "【数据告警】\n查询开始时间: 2026-10-26 19:33:19.881\n查询结束时间: 2026-10-26 19:34:04.003\n检测到以下表计数为 0:\n- STD工装点检1 (std_isc_tpm_tooling_spotcheck_item_a_min) 计数=0\n- STD工装点检2 (std_isc_tpm_tooling_spotcheck_item_a_min2) 计数=0",
+        "create_time": "2026-10-26 19:35",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_45ca7327f3dfe981b3b1c5f380645266\u0026position=239",
+        "message_id": "om_x100b62c7e0255cacc0baf0a9c535435",
+        "message_position": "239",
+        "msg_type": "text",
+        "sender": {
+          "id": "cli_c08abc1da138d00f",
+          "id_type": "app_id",
+          "name": "数据异常提醒",
+          "open_bot_id": "ou_cea473db66d9452f3ade416f12aa9949",
+          "sender_i18n_names": {
+            "en_us": "数据异常提醒",
+            "zh_cn": "数据异常提醒"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-26 19:35",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_45ca7327f3dfe981b3b1c5f380645266",
+        "content": "【数据告警】\n查询开始时间: 2026-10-26 19:54:17.839\n查询结束时间: 2026-10-26 19:54:41.531\n检测到以下表计数为 0:\n- STD工装点检1 (std_isc_tpm_tooling_spotcheck_item_a_min) 计数=0\n- STD工装点检2 (std_isc_tpm_tooling_spotcheck_item_a_min2) 计数=0",
+        "create_time": "2026-10-26 19:55",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_45ca7327f3dfe981b3b1c5f380645266\u0026position=240",
+        "message_id": "om_x100b62c7b79990a4c057d99123dabb3",
+        "message_position": "240",
+        "msg_type": "text",
+        "sender": {
+          "id": "cli_c08abc1da138d00f",
+          "id_type": "app_id",
+          "name": "数据异常提醒",
+          "open_bot_id": "ou_cea473db66d9452f3ade416f12aa9949",
+          "sender_i18n_names": {
+            "en_us": "数据异常提醒",
+            "zh_cn": "数据异常提醒"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-26 19:55",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_45ca7327f3dfe981b3b1c5f380645266",
+        "content": "【数据告警】\n查询开始时间: 2026-10-26 21:03:18.588\n查询结束时间: 2026-10-26 21:03:24.270\n检测到以下表计数为 0:\n- STD工装点检1 (std_isc_tpm_tooling_spotcheck_item_a_min) 计数=0\n- STD工装点检2 (std_isc_tpm_tooling_spotcheck_item_a_min2) 计数=0",
+        "create_time": "2026-10-26 21:03",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_45ca7327f3dfe981b3b1c5f380645266\u0026position=241",
+        "message_id": "om_x100b62c0b70198a8c06c2df5cc6bdc1",
+        "message_position": "241",
+        "msg_type": "text",
+        "sender": {
+          "id": "cli_c08abc1da138d00f",
+          "id_type": "app_id",
+          "name": "数据异常提醒",
+          "open_bot_id": "ou_cea473db66d9452f3ade416f12aa9949",
+          "sender_i18n_names": {
+            "en_us": "数据异常提醒",
+            "zh_cn": "数据异常提醒"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-26 21:03",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_45ca7327f3dfe981b3b1c5f380645266",
+        "content": "【数据告警】\n查询开始时间: 2026-10-26 22:51:23.994\n查询结束时间: 2026-10-26 22:51:45.508\n检测到以下表计数为 0:\n- STD工装点检1 (std_isc_tpm_tooling_spotcheck_item_a_min) 计数=0\n- STD工装点检2 (std_isc_tpm_tooling_spotcheck_item_a_min2) 计数=0",
+        "create_time": "2026-10-26 22:52",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_45ca7327f3dfe981b3b1c5f380645266\u0026position=242",
+        "message_id": "om_x100b62c2dfdd2ca4dd1f5130e30cee5",
+        "message_position": "242",
+        "msg_type": "text",
+        "sender": {
+          "id": "cli_c08abc1da138d00f",
+          "id_type": "app_id",
+          "name": "数据异常提醒",
+          "open_bot_id": "ou_cea473db66d9452f3ade416f12aa9949",
+          "sender_i18n_names": {
+            "en_us": "数据异常提醒",
+            "zh_cn": "数据异常提醒"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-26 22:52",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_45ca7327f3dfe981b3b1c5f380645266",
+        "content": "【数据告警】\n查询开始时间: 2026-10-26 23:05:49.880\n查询结束时间: 2026-10-26 23:06:01.689\n检测到以下表计数为 0:\n- STD工装点检1 (std_isc_tpm_tooling_spotcheck_item_a_min) 计数=0\n- STD工装点检2 (std_isc_tpm_tooling_spotcheck_item_a_min2) 计数=0",
+        "create_time": "2026-10-26 23:06",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_45ca7327f3dfe981b3b1c5f380645266\u0026position=243",
+        "message_id": "om_x100b62c28b61fca0de80582e509b709",
+        "message_position": "243",
+        "msg_type": "text",
+        "sender": {
+          "id": "cli_c08abc1da138d00f",
+          "id_type": "app_id",
+          "name": "数据异常提醒",
+          "open_bot_id": "ou_cea473db66d9452f3ade416f12aa9949",
+          "sender_i18n_names": {
+            "en_us": "数据异常提醒",
+            "zh_cn": "数据异常提醒"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-26 23:06",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_45ca7327f3dfe981b3b1c5f380645266",
+        "content": "【数据告警】\n查询开始时间: 2026-10-26 23:25:50.693\n查询结束时间: 2026-10-26 23:26:06.045\n检测到以下表计数为 0:\n- STD工装点检1 (std_isc_tpm_tooling_spotcheck_item_a_min) 计数=0",
+        "create_time": "2026-10-26 23:26",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_45ca7327f3dfe981b3b1c5f380645266\u0026position=244",
+        "message_id": "om_x100b62c35e2490acc1c4494ff9192cc",
+        "message_position": "244",
+        "msg_type": "text",
+        "sender": {
+          "id": "cli_c08abc1da138d00f",
+          "id_type": "app_id",
+          "name": "数据异常提醒",
+          "open_bot_id": "ou_cea473db66d9452f3ade416f12aa9949",
+          "sender_i18n_names": {
+            "en_us": "数据异常提醒",
+            "zh_cn": "数据异常提醒"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-26 23:26",
+        "updated": true
+      }
+    ],
+    "page_token": "",
+    "total": 73
+  },
+  "meta": {
+    "pagination": {
+      "complete": true,
+      "pages": 2,
+      "items": 73
+    }
+  }
+}

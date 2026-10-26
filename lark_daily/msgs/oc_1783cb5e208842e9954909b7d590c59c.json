@@ -1,0 +1,106 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "has_more": false,
+    "messages": [
+      {
+        "chat_id": "oc_1783cb5e208842e9954909b7d590c59c",
+        "content": "[Image: img_v3_0216r_29a0ad31-9e57-44f3-ad89-3dbe6406badg]",
+        "create_time": "2026-10-26 08:38",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_1783cb5e208842e9954909b7d590c59c\u0026position=840",
+        "message_id": "om_x100b62de5ebfe8a0cd0b01d06205317",
+        "message_position": "840",
+        "msg_type": "image",
+        "sender": {
+          "id": "ou_cc336af9805c2ee2870ac41ff56c6985",
+          "id_type": "open_id",
+          "name": "徐会",
+          "sender_i18n_names": {
+            "en_us": "xuhui"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-26 08:38",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_1783cb5e208842e9954909b7d590c59c",
+        "content": "[Image: img_v3_0216r_48a0438f-0814-4908-ab14-5236fbab64ag]",
+        "create_time": "2026-10-26 08:38",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_1783cb5e208842e9954909b7d590c59c\u0026position=841",
+        "message_id": "om_x100b62de5e64c8a0b0bbbb0e9049225",
+        "message_position": "841",
+        "msg_type": "image",
+        "sender": {
+          "id": "ou_cc336af9805c2ee2870ac41ff56c6985",
+          "id_type": "open_id",
+          "name": "徐会",
+          "sender_i18n_names": {
+            "en_us": "xuhui"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-26 08:38",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_1783cb5e208842e9954909b7d590c59c",
+        "content": "以上考勤异常，请于今天12点前处理完毕",
+        "create_time": "2026-10-26 08:39",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_1783cb5e208842e9954909b7d590c59c\u0026position=842",
+        "message_id": "om_x100b62de5c88a4b4cfb78bc86d3b3bf",
+        "message_position": "842",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_cc336af9805c2ee2870ac41ff56c6985",
+          "id_type": "open_id",
+          "name": "徐会",
+          "sender_i18n_names": {
+            "en_us": "xuhui"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-26 08:39",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_1783cb5e208842e9954909b7d590c59c",
+        "content": "[Image: img_v3_0216r_441071ae-a9a0-4edf-ab55-09ff37c51b5g]",
+        "create_time": "2026-10-26 10:55",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_1783cb5e208842e9954909b7d590c59c\u0026position=843",
+        "message_id": "om_x100b62d85f50d880cea8b1d819f7cdb",
+        "message_position": "843",
+        "msg_type": "image",
+        "sender": {
+          "id": "ou_cc336af9805c2ee2870ac41ff56c6985",
+          "id_type": "open_id",
+          "name": "徐会",
+          "sender_i18n_names": {
+            "en_us": "xuhui"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-26 10:55",
+        "updated": true
+      }
+    ],
+    "page_token": "",
+    "total": 4
+  },
+  "meta": {
+    "pagination": {
+      "complete": true,
+      "pages": 1,
+      "items": 4
+    }
+  }
+}

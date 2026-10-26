@@ -1,0 +1,112 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "has_more": false,
+    "messages": [
+      {
+        "chat_id": "oc_2c15b3e6ae2348dc175050cc587ab382",
+        "content": "您好：系统检测到您2026-10-16考勤存在迟到，请及时处理。",
+        "create_time": "2026-10-26 09:17",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_2c15b3e6ae2348dc175050cc587ab382\u0026position=833",
+        "message_id": "om_x100b62deed4544bccfdffc25845dd33",
+        "message_position": "833",
+        "msg_type": "text",
+        "sender": {
+          "id": "cli_a3a0d2f81839d00b",
+          "id_type": "app_id",
+          "name": "我的HR自助",
+          "open_bot_id": "ou_91e3a8a4be0ba2877a11d558467ce735",
+          "sender_i18n_names": {
+            "en_us": "HR self",
+            "zh_cn": "我的HR自助"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-26 09:17",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_2c15b3e6ae2348dc175050cc587ab382",
+        "content": "您好：系统检测到您2026-10-12考勤存在迟到，请及时处理。",
+        "create_time": "2026-10-26 09:18",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_2c15b3e6ae2348dc175050cc587ab382\u0026position=834",
+        "message_id": "om_x100b62deeb9d24a8dfdb44be48f3617",
+        "message_position": "834",
+        "msg_type": "text",
+        "sender": {
+          "id": "cli_a3a0d2f81839d00b",
+          "id_type": "app_id",
+          "name": "我的HR自助",
+          "open_bot_id": "ou_91e3a8a4be0ba2877a11d558467ce735",
+          "sender_i18n_names": {
+            "en_us": "HR self",
+            "zh_cn": "我的HR自助"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-26 09:18",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_2c15b3e6ae2348dc175050cc587ab382",
+        "content": "\u003ccard title=\"打卡记录\"\u003e\n**账号**\n10068181\n\n**时间**\n2026-10-26 12:08:25\n\n**地点**\nB3-1F东南角考勤\n📝 10分钟内的多次考勤不会重复提醒\n\u003c/card\u003e",
+        "create_time": "2026-10-26 12:08",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_2c15b3e6ae2348dc175050cc587ab382\u0026position=835",
+        "message_id": "om_x100b62d96d7340a8de321340b61b7be",
+        "message_position": "835",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a3a0d2f81839d00b",
+          "id_type": "app_id",
+          "name": "我的HR自助",
+          "open_bot_id": "ou_91e3a8a4be0ba2877a11d558467ce735",
+          "sender_i18n_names": {
+            "en_us": "HR self",
+            "zh_cn": "我的HR自助"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_2c15b3e6ae2348dc175050cc587ab382",
+        "content": "\u003ccard title=\"打卡记录\"\u003e\n**账号**\n10068181\n\n**时间**\n2026-10-26 19:38:16\n\n**地点**\nB5-B1F-22南楼电梯厅闸机出口考勤\n📝 10分钟内的多次考勤不会重复提醒\n\u003c/card\u003e",
+        "create_time": "2026-10-26 19:38",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_2c15b3e6ae2348dc175050cc587ab382\u0026position=836",
+        "message_id": "om_x100b62c7f47fcca4de02e9e5806a99b",
+        "message_position": "836",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a3a0d2f81839d00b",
+          "id_type": "app_id",
+          "name": "我的HR自助",
+          "open_bot_id": "ou_91e3a8a4be0ba2877a11d558467ce735",
+          "sender_i18n_names": {
+            "en_us": "HR self",
+            "zh_cn": "我的HR自助"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      }
+    ],
+    "page_token": "",
+    "total": 4
+  },
+  "meta": {
+    "pagination": {
+      "complete": true,
+      "pages": 1,
+      "items": 4
+    }
+  }
+}

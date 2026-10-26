@@ -1,0 +1,385 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "has_more": false,
+    "messages": [
+      {
+        "chat_id": "oc_0aee5f0afd30757c8834359ef941be1d",
+        "content": "@李俊",
+        "create_time": "2026-10-26 15:19",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_3806afde5762d30e75ee55287dc3836b",
+            "key": "@_user_1",
+            "name": "李俊"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_0aee5f0afd30757c8834359ef941be1d\u0026position=56",
+        "message_id": "om_x100b62dba1fb24bcb0141d2a2a82836",
+        "message_position": "56",
+        "msg_type": "text",
+        "reply_to": "om_x100b64951e9714bcb114ef42bbdd891",
+        "sender": {
+          "id": "ou_6e83d7770d6715848033736090bba3ce",
+          "id_type": "open_id",
+          "name": "李家伟",
+          "sender_i18n_names": {
+            "en_us": "lijiawei"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-26 15:19",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_0aee5f0afd30757c8834359ef941be1d",
+        "content": "@宋海峰",
+        "create_time": "2026-10-26 15:21",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_bad9fa308d164639768020eb8810499f",
+            "key": "@_user_1",
+            "name": "宋海峰"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_0aee5f0afd30757c8834359ef941be1d\u0026position=57",
+        "message_id": "om_x100b62dbb9e3bca8cefe555d9595e46",
+        "message_position": "57",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_6e83d7770d6715848033736090bba3ce",
+          "id_type": "open_id",
+          "name": "李家伟",
+          "sender_i18n_names": {
+            "en_us": "lijiawei"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-26 15:21",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_0aee5f0afd30757c8834359ef941be1d",
+        "content": "宋工，在这个群里",
+        "create_time": "2026-10-26 15:21",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_0aee5f0afd30757c8834359ef941be1d\u0026position=58",
+        "message_id": "om_x100b62dbb95444accfff314479deb76",
+        "message_position": "58",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_6e83d7770d6715848033736090bba3ce",
+          "id_type": "open_id",
+          "name": "李家伟",
+          "sender_i18n_names": {
+            "en_us": "lijiawei"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_0aee5f0afd30757c8834359ef941be1d",
+        "content": "李家伟 invited 刘进 to the group. New members can view all chat history.",
+        "create_time": "2026-10-26 15:22",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_0aee5f0afd30757c8834359ef941be1d\u0026position=59",
+        "message_id": "om_x100b62dbb40fb094b0919d0afd5c4e7",
+        "message_position": "59",
+        "msg_type": "system",
+        "sender": {
+          "id": "",
+          "id_type": "",
+          "sender_type": "",
+          "tenant_key": ""
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_0aee5f0afd30757c8834359ef941be1d",
+        "content": "\u003cforwarded_messages\u003e\n[2026-10-26T15:54:11+08:00] 张鲁丹:\n    \u003cvideo key=\"file_v3_0016r_e72a4d09-9eba-464e-b2bc-ac38c177abcg\" name=\"928309135045406591.mp4\" duration=\"431s\" cover_image_key=\"img_v3_0216r_98ad3a3f-2558-4ab1-832f-b3efd07318cg\"/\u003e\n[2026-10-26T15:54:19+08:00] 张鲁丹:\n    \u003cvideo key=\"file_v3_0016r_4a8eb484-2fa9-476e-b3cc-20aa4e31dc1g\" name=\"3211067653590359164.mp4\" duration=\"501s\" cover_image_key=\"img_v3_0216r_0b8db4b1-f042-4566-89d7-fa6c30b5392g\"/\u003e\n\u003c/forwarded_messages\u003e",
+        "create_time": "2026-10-26 17:04",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_0aee5f0afd30757c8834359ef941be1d\u0026position=60",
+        "message_id": "om_x100b62c53627b080c052f52f75227e4",
+        "message_position": "60",
+        "msg_type": "merge_forward",
+        "sender": {
+          "id": "ou_c8afe8aab3f80a020c356c0ca46a12ce",
+          "id_type": "open_id",
+          "name": "刘宏宇",
+          "sender_i18n_names": {
+            "en_us": "liuhongyu"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_0aee5f0afd30757c8834359ef941be1d",
+        "content": "@刘宏宇 宏宇，这个是默纳克摄像头的数据？",
+        "create_time": "2026-10-26 17:05",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_c8afe8aab3f80a020c356c0ca46a12ce",
+            "key": "@_user_1",
+            "name": "刘宏宇"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_0aee5f0afd30757c8834359ef941be1d\u0026position=61",
+        "message_id": "om_x100b62c533a5acb0b0b8f58459cdd27",
+        "message_position": "61",
+        "msg_type": "text",
+        "reply_to": "om_x100b62c53627b080c052f52f75227e4",
+        "sender": {
+          "id": "ou_6e83d7770d6715848033736090bba3ce",
+          "id_type": "open_id",
+          "name": "李家伟",
+          "sender_i18n_names": {
+            "en_us": "lijiawei"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-26 17:05",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_0aee5f0afd30757c8834359ef941be1d",
+        "content": "这个是MNK录的视频，因为是手扶着摄像头录的，不太确定是否能符合要求",
+        "create_time": "2026-10-26 17:05",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_0aee5f0afd30757c8834359ef941be1d\u0026position=62",
+        "message_id": "om_x100b62c533b69cacde0eb4be800efb5",
+        "message_position": "62",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_c8afe8aab3f80a020c356c0ca46a12ce",
+          "id_type": "open_id",
+          "name": "刘宏宇",
+          "sender_i18n_names": {
+            "en_us": "liuhongyu"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_0aee5f0afd30757c8834359ef941be1d",
+        "content": "是的[捂脸]",
+        "create_time": "2026-10-26 17:05",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_0aee5f0afd30757c8834359ef941be1d\u0026position=63",
+        "message_id": "om_x100b62c530fa2ca0df1e523d99c840b",
+        "message_position": "63",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_c8afe8aab3f80a020c356c0ca46a12ce",
+          "id_type": "open_id",
+          "name": "刘宏宇",
+          "sender_i18n_names": {
+            "en_us": "liuhongyu"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_0aee5f0afd30757c8834359ef941be1d",
+        "content": "有对应的SOP生产工单么",
+        "create_time": "2026-10-26 17:05",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_0aee5f0afd30757c8834359ef941be1d\u0026position=64",
+        "message_id": "om_x100b62c531fed4a8cfc12fde000b02d",
+        "message_position": "64",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_6e83d7770d6715848033736090bba3ce",
+          "id_type": "open_id",
+          "name": "李家伟",
+          "sender_i18n_names": {
+            "en_us": "lijiawei"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-26 17:05",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_0aee5f0afd30757c8834359ef941be1d",
+        "content": "@邹敏 邹工，帮忙看下这个对应的SOP",
+        "create_time": "2026-10-26 17:06",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_aec1a4a8df77d97068949335c93f39a9",
+            "key": "@_user_1",
+            "name": "邹敏"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_0aee5f0afd30757c8834359ef941be1d\u0026position=65",
+        "message_id": "om_x100b62c5cf4a60a8ddf2c9a63486d3c",
+        "message_position": "65",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_c8afe8aab3f80a020c356c0ca46a12ce",
+          "id_type": "open_id",
+          "name": "刘宏宇",
+          "sender_i18n_names": {
+            "en_us": "liuhongyu"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-26 17:06",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_0aee5f0afd30757c8834359ef941be1d",
+        "content": "邹敏 invited 李申 to the group. New members can view all chat history.",
+        "create_time": "2026-10-26 17:11",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_0aee5f0afd30757c8834359ef941be1d\u0026position=66",
+        "message_id": "om_x100b62c5db5180a0de00e15b16d807a",
+        "message_position": "66",
+        "msg_type": "system",
+        "sender": {
+          "id": "",
+          "id_type": "",
+          "sender_type": "",
+          "tenant_key": ""
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_0aee5f0afd30757c8834359ef941be1d",
+        "content": "\u003cp\u003e小申，帮忙提供一下工程电机MNK拍视屏的包装的SOP，不用全部提供，文件太大。@李申\u003c/p\u003e",
+        "create_time": "2026-10-26 17:12",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_c25096fe2c77a68bb71f3a992ca1cf5a",
+            "key": "@_user_1",
+            "name": "李申"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_0aee5f0afd30757c8834359ef941be1d\u0026position=67",
+        "message_id": "om_x100b62c5d92f2ca8cfee7b36ebef800",
+        "message_position": "67",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_aec1a4a8df77d97068949335c93f39a9",
+          "id_type": "open_id",
+          "name": "邹敏",
+          "sender_i18n_names": {
+            "en_us": "zoumin"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-26 17:12",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_0aee5f0afd30757c8834359ef941be1d",
+        "content": "\u003cfile key=\"file_v3_0016r_d45ff026-bae3-4b70-84da-b168ee280f1g\" name=\"低压叉车包装.xlsx\"/\u003e",
+        "create_time": "2026-10-26 17:19",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_0aee5f0afd30757c8834359ef941be1d\u0026position=68",
+        "message_id": "om_x100b62c5fd3c8cbcc43636b279490a8",
+        "message_position": "68",
+        "msg_type": "file",
+        "sender": {
+          "id": "ou_c25096fe2c77a68bb71f3a992ca1cf5a",
+          "id_type": "open_id",
+          "name": "李申",
+          "sender_i18n_names": {
+            "en_us": "lishen"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_0aee5f0afd30757c8834359ef941be1d",
+        "content": "@刘宏宇 看一下",
+        "create_time": "2026-10-26 17:20",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_c8afe8aab3f80a020c356c0ca46a12ce",
+            "key": "@_user_1",
+            "name": "刘宏宇"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_0aee5f0afd30757c8834359ef941be1d\u0026position=69",
+        "message_id": "om_x100b62c5f8a1b4b8c1d78c4fc8be293",
+        "message_position": "69",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_c25096fe2c77a68bb71f3a992ca1cf5a",
+          "id_type": "open_id",
+          "name": "李申",
+          "sender_i18n_names": {
+            "en_us": "lishen"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-26 17:20",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_0aee5f0afd30757c8834359ef941be1d",
+        "content": "@李俊 李工，看下。会后我再看",
+        "create_time": "2026-10-26 17:27",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_3806afde5762d30e75ee55287dc3836b",
+            "key": "@_user_1",
+            "name": "李俊"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_0aee5f0afd30757c8834359ef941be1d\u0026position=70",
+        "message_id": "om_x100b62c5802070a8b1ebfd8dd510201",
+        "message_position": "70",
+        "msg_type": "text",
+        "reply_to": "om_x100b62c5f8a1b4b8c1d78c4fc8be293",
+        "sender": {
+          "id": "ou_6e83d7770d6715848033736090bba3ce",
+          "id_type": "open_id",
+          "name": "李家伟",
+          "sender_i18n_names": {
+            "en_us": "lijiawei"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-26 17:27",
+        "updated": true
+      }
+    ],
+    "page_token": "",
+    "total": 15
+  },
+  "meta": {
+    "pagination": {
+      "complete": true,
+      "pages": 1,
+      "items": 15
+    }
+  }
+}

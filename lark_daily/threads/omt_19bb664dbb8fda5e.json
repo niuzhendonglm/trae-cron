@@ -1,0 +1,97 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "has_more": false,
+    "messages": [
+      {
+        "chat_id": "oc_116045b976a58256400df3e6c4a57c1b",
+        "content": "\u003ccard\u003e\n目前官方对 TRAE Work 移动版的说明是：**移动版支持预览智能体生成的产物（文档、代码、Web 页面等）**，但 **Web 页面仅支持云端任务生成的**，本地任务生成的 Web 页面需要到桌面版或网页版查看；另外跨设备同步的只有在云端保存的对话内容和产物。\n\n从你的截图看，移动端只剩文字描述、产物没有可直接打开的入口，而桌面端正常。官方资料里我目前没有查到关于近期这类变动的说明，所以**无法确认是版本更新、任务运行环境（云端/电脑）还是服务端调整导致的**，也不便凭经验猜原因。\n\n如果确实是这几天才出现的回归，建议带下面信息到 TRAE 社区论坛的「帮助与支持」板块发帖，方便定位：\n- App 版本号、手机系统（iOS / 安卓及版本）\n- 该任务的运行环境（云端还是电脑）\n- 截图里这个任务 ID / 现象描述论坛入口：[https://forum.trae.cn/](https://forum.trae.cn/)\n\n参考文档：[TRAE Work 移动版快速开始](https://docs.trae.cn/solo/get-started-with-trae-solo-mobile)\n---\n💡 更多使用问题请转移至 [TRAE 官方社区「帮助与支持」板块](https://forum.trae.cn/c/7-category/7) 发帖询问 \n · 021792994949969fdbddc02001405304b59cb53af0000e9042b91 · \n[已解决]\n[更多问题请到「官方社区」提问](https://forum.trae.cn/c/7-category/7)\n\u003c/card\u003e",
+        "create_time": "2026-10-26 14:09",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/thread/open?open_chat_id=oc_116045b976a58256400df3e6c4a57c1b\u0026open_thread_id=omt_19bb664dbb8fda5e\u0026openchatid=oc_116045b976a58256400df3e6c4a57c1b\u0026openthreadid=omt_19bb664dbb8fda5e\u0026thread_position=0",
+        "message_id": "om_x100b62daa6a288b4dd0fc8d44adfb60",
+        "message_position": "-3",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a9c7f80599f8dbc4",
+          "id_type": "app_id",
+          "name": "TRAE 宝",
+          "open_bot_id": "ou_dfae499a31a17e270c3cc86c7275f2bd",
+          "sender_i18n_names": {
+            "en_us": "TRAE 宝",
+            "zh_cn": "TRAE 宝"
+          },
+          "sender_type": "app",
+          "tenant_key": "15d6d1e6e508d75e"
+        },
+        "thread_id": "omt_19bb664dbb8fda5e",
+        "thread_message_position": "0",
+        "update_time": "2026-10-26 14:09",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_116045b976a58256400df3e6c4a57c1b",
+        "content": "@郝星 移动端升级后，目前不支持查看产物哈，这边记录反馈一下这个需求",
+        "create_time": "2026-10-26 16:59",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_15b7c789649f3ae73359de0c8569181d",
+            "key": "@_user_1",
+            "name": "郝星"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/thread/open?open_chat_id=oc_116045b976a58256400df3e6c4a57c1b\u0026open_thread_id=omt_19bb664dbb8fda5e\u0026openchatid=oc_116045b976a58256400df3e6c4a57c1b\u0026openthreadid=omt_19bb664dbb8fda5e\u0026thread_position=1",
+        "message_id": "om_x100b62c5280b6ca8b4f319f54ee3c92",
+        "message_position": "-3",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_f66233ee586f17ab9817ff3c41de6505",
+          "id_type": "open_id",
+          "name": "高旋",
+          "sender_i18n_names": {
+            "en_us": "Xuan Gao",
+            "zh_cn": "高旋"
+          },
+          "sender_type": "user",
+          "tenant_key": "736588c9260f175d"
+        },
+        "thread_id": "omt_19bb664dbb8fda5e",
+        "thread_message_position": "1",
+        "update_time": "2026-10-26 16:59",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_116045b976a58256400df3e6c4a57c1b",
+        "content": "为啥老干这些反向优化的事情[脸红]",
+        "create_time": "2026-10-26 17:00",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/thread/open?open_chat_id=oc_116045b976a58256400df3e6c4a57c1b\u0026open_thread_id=omt_19bb664dbb8fda5e\u0026openchatid=oc_116045b976a58256400df3e6c4a57c1b\u0026openthreadid=omt_19bb664dbb8fda5e\u0026thread_position=2",
+        "message_id": "om_x100b62c52466c0b8c1c82d0e1c925a2",
+        "message_position": "-3",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_15b7c789649f3ae73359de0c8569181d",
+          "id_type": "open_id",
+          "name": "郝星",
+          "sender_type": "user",
+          "tenant_key": "100ded4cac5f5740"
+        },
+        "thread_id": "omt_19bb664dbb8fda5e",
+        "thread_message_position": "2",
+        "updated": false
+      }
+    ],
+    "page_token": "",
+    "thread_id": "omt_19bb664dbb8fda5e",
+    "total": 3
+  },
+  "meta": {
+    "pagination": {
+      "complete": true,
+      "pages": 1,
+      "items": 3
+    }
+  }
+}

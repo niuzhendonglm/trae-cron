@@ -1,0 +1,292 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "has_more": false,
+    "messages": [
+      {
+        "chat_id": "oc_79af426fe8f195f1099fb204333f7285",
+        "content": "![Image](img_v3_0216r_606759fc-1f6e-4155-8541-ddbf9b9e960g)\n输入啥都不反应了，是为什@InoAI",
+        "create_time": "2026-10-26 09:31",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_c07ea47f247dd9910ace099eb9725088",
+            "key": "@_user_1",
+            "name": "InoAI"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_79af426fe8f195f1099fb204333f7285\u0026position=4814",
+        "message_id": "om_x100b62de96f954accf40513dde5988a",
+        "message_position": "4814",
+        "msg_type": "post",
+        "sender": {
+          "id": "ou_78ccb04112365f5bad598d8db0af07d2",
+          "id_type": "open_id",
+          "name": "范成成",
+          "sender_i18n_names": {
+            "en_us": "fanchengcheng"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-26 09:32",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_79af426fe8f195f1099fb204333f7285",
+        "content": "稍等 我们在排查",
+        "create_time": "2026-10-26 09:58",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_79af426fe8f195f1099fb204333f7285\u0026position=4815",
+        "message_id": "om_x100b62df737dc4a8cfd46ce75e236e1",
+        "message_position": "4815",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_509e6c0dd49deec5ebea6f705f881e81",
+          "id_type": "open_id",
+          "name": "李炎杰",
+          "sender_i18n_names": {
+            "en_us": "liyanjie"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_79af426fe8f195f1099fb204333f7285",
+        "content": "上午能救回来吗？[泪奔]",
+        "create_time": "2026-10-26 10:24",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_79af426fe8f195f1099fb204333f7285\u0026position=4818",
+        "message_id": "om_x100b62dfd382b4a8dd3950b87a20273",
+        "message_position": "4818",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_0db2f32caf16282348e84b5620209b59",
+          "id_type": "open_id",
+          "name": "余梦圆",
+          "sender_i18n_names": {
+            "en_us": "yumengyuan"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_79af426fe8f195f1099fb204333f7285",
+        "content": "@余梦圆 余工，现在再试下",
+        "create_time": "2026-10-26 10:26",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_0db2f32caf16282348e84b5620209b59",
+            "key": "@_user_1",
+            "name": "余梦圆"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_79af426fe8f195f1099fb204333f7285\u0026position=4819",
+        "message_id": "om_x100b62dfe8f4c0a4dfcbd647e45d923",
+        "message_position": "4819",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_9b33b8bbe9a3b2dcf0ea2a1e580c2c8d",
+          "id_type": "open_id",
+          "name": "孙浩",
+          "sender_i18n_names": {
+            "en_us": "sunhao"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-26 10:26",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_79af426fe8f195f1099fb204333f7285",
+        "content": "小龙虾保存的文件无法飞书转发，会触发信息安全@李炎杰 \n![Image](img_v3_0216r_bc96d74c-2359-4dad-95cb-8f92dc6d5e7g)",
+        "create_time": "2026-10-26 11:31",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_509e6c0dd49deec5ebea6f705f881e81",
+            "key": "@_user_1",
+            "name": "李炎杰"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_79af426fe8f195f1099fb204333f7285\u0026position=4820",
+        "message_id": "om_x100b62d8d9a0dcacdd382a3e93336c0",
+        "message_position": "4820",
+        "msg_type": "post",
+        "sender": {
+          "id": "ou_cd7aacdb3d32b853e2747b2f6f0e2a38",
+          "id_type": "open_id",
+          "name": "段起",
+          "sender_i18n_names": {
+            "en_us": "duanqi"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-26 11:32",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_79af426fe8f195f1099fb204333f7285",
+        "content": "段工，这个和AI工具没关系，我私聊你一下。@段起",
+        "create_time": "2026-10-26 11:34",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_cd7aacdb3d32b853e2747b2f6f0e2a38",
+            "key": "@_user_1",
+            "name": "段起"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_79af426fe8f195f1099fb204333f7285\u0026position=4821",
+        "message_id": "om_x100b62d8edeaa4accfe9791c3a6cdfe",
+        "message_position": "4821",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_fbfd83c4cf55fe127b31bb82c1511716",
+          "id_type": "open_id",
+          "name": "刘横",
+          "sender_i18n_names": {
+            "en_us": "Jeff"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-26 11:34",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_79af426fe8f195f1099fb204333f7285",
+        "content": "[Invalid rich text JSON]",
+        "create_time": "2026-10-26 14:02",
+        "deleted": true,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_79af426fe8f195f1099fb204333f7285\u0026position=4824",
+        "message_id": "om_x100b62da9e2098b8cf4b7bf68c70013",
+        "message_position": "4824",
+        "msg_type": "post",
+        "sender": {
+          "id": "ou_195769a85dbae25e0fedc83394aee278",
+          "id_type": "open_id",
+          "name": "高美",
+          "sender_i18n_names": {
+            "en_us": "gaomei"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_79af426fe8f195f1099fb204333f7285",
+        "content": "\u003cfile key=\"file_v3_0016r_4f06647c-7265-4f1d-bccc-14e04e876ecg\" name=\"AI行业趋势洞察周报_2026.10.19-10.25.pdf\"/\u003e",
+        "create_time": "2026-10-26 14:25",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_79af426fe8f195f1099fb204333f7285\u0026position=4825",
+        "message_id": "om_x100b62db6bf364acdc19134c8ee0cb6",
+        "message_position": "4825",
+        "msg_type": "file",
+        "sender": {
+          "id": "cli_a6923266569a900b",
+          "id_type": "app_id",
+          "name": "InoAI",
+          "open_bot_id": "ou_c07ea47f247dd9910ace099eb9725088",
+          "sender_i18n_names": {
+            "en_us": "InoAI",
+            "zh_cn": "InoAI"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_79af426fe8f195f1099fb204333f7285",
+        "content": "\u003ccard title=\"数字化大讲堂第41讲：IFG平台及其应用案例\"\u003e\n🖼️ Image(img_key:img_v3_0216r_3088d8ff-9b0c-46c3-be8b-10ed7b3327eg)\n[点击加入日程](https://www.feishu.cn/calendar/share?token=febdde096606a47018af7c40bdf2d778)\n📝 🖼️ Image(img_key:img_v3_0216r_6376c8bd-af77-41b2-b3ea-0fad7fa08c8g) 数字化变革专栏\n\u003c/card\u003e",
+        "create_time": "2026-10-26 16:16",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_79af426fe8f195f1099fb204333f7285\u0026position=4828",
+        "message_id": "om_x100b62c48b35b8acdde5738d56033d2",
+        "message_position": "4828",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "ou_74369e1ffa56d38e4c22034cd6d843c6",
+          "id_type": "open_id",
+          "name": "祁婷婷",
+          "sender_i18n_names": {
+            "en_us": "Cooli"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_79af426fe8f195f1099fb204333f7285",
+        "content": "![Image](img_v3_0216r_8939a50e-cad4-4bf8-ab11-80b22e8ab9eg)\n![Image](img_v3_0216r_d2ba0aaa-ca2f-4317-a133-ff1f98282a6g)\n生成的PNG总是显示这个如何处理呀@李炎杰",
+        "create_time": "2026-10-26 19:52",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_509e6c0dd49deec5ebea6f705f881e81",
+            "key": "@_user_1",
+            "name": "李炎杰"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_79af426fe8f195f1099fb204333f7285\u0026position=4830",
+        "message_id": "om_x100b62c7be0ec8bcb07bab6bd31fbe6",
+        "message_position": "4830",
+        "msg_type": "post",
+        "sender": {
+          "id": "ou_f6f58bd6b527de9680e1cdf44cdf8be8",
+          "id_type": "open_id",
+          "name": "黄玉洁",
+          "sender_i18n_names": {
+            "en_us": "huangyujie"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-26 19:53",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_79af426fe8f195f1099fb204333f7285",
+        "content": "拉群 我们看下",
+        "create_time": "2026-10-26 20:13",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_79af426fe8f195f1099fb204333f7285\u0026position=4831",
+        "message_id": "om_x100b62c0734c30b0b4f22f90b863be1",
+        "message_position": "4831",
+        "msg_type": "text",
+        "reply_to": "om_x100b62c7be0ec8bcb07bab6bd31fbe6",
+        "sender": {
+          "id": "ou_509e6c0dd49deec5ebea6f705f881e81",
+          "id_type": "open_id",
+          "name": "李炎杰",
+          "sender_i18n_names": {
+            "en_us": "liyanjie"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      }
+    ],
+    "page_token": "",
+    "total": 11
+  },
+  "meta": {
+    "pagination": {
+      "complete": true,
+      "pages": 1,
+      "items": 11
+    }
+  }
+}

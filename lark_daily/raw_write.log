@@ -1,0 +1,12 @@
+SKIP raw_00.json already done
+OK raw_01.json rc=0 created=50
+OK raw_02.json rc=0 created=50
+OK raw_03.json rc=0 created=50
+OK raw_04.json rc=0 created=50
+OK raw_05.json rc=0 created=50
+OK raw_06.json rc=0 created=50
+OK raw_07.json rc=0 created=50
+OK raw_08.json rc=0 created=50
+OK raw_09.json rc=0 created=50
+OK raw_10.json rc=0 created=24
+RAW_WRITE_DONE ok=11 failed=0

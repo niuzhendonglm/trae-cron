@@ -1,0 +1,41 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "has_more": false,
+    "messages": [
+      {
+        "chat_id": "oc_c528f9c797d4ef6d9e4fa3cfc3fc0135",
+        "content": "\u003ccard title=\"员工预入场通知\"\u003e\n您好，以下外包同事受供应商指派来汇川工作，以下为详细入场信息：\n姓名：徐明志\n工号：60020765\n入场日期：2026-10-28\n岗位：流程管理工程师\n入场组织：汇川集团/总裁/总部/集成供应链管理部/ISC数字化使能中心/变革与流程部\n入场工作地：苏州\n\n注：①请您及时确认外包员工的入场固资型号与工位； ②外包员工入场当天将有秘书伙伴引领入场，需您及时在系统中点击确认入场。\n\u003c/card\u003e",
+        "create_time": "2026-10-26 10:20",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_c528f9c797d4ef6d9e4fa3cfc3fc0135\u0026position=0",
+        "message_id": "om_x100b62dfc1eb54a8de0bce599f08948",
+        "message_position": "0",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a73564961add101c",
+          "id_type": "app_id",
+          "name": "InoHR-外包管理",
+          "open_bot_id": "ou_2f22ac39805fd6bd1259f7004b7f65d6",
+          "sender_i18n_names": {
+            "en_us": "InoHR-外包管理",
+            "zh_cn": "InoHR-外包管理"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      }
+    ],
+    "page_token": "",
+    "total": 1
+  },
+  "meta": {
+    "pagination": {
+      "complete": true,
+      "pages": 1,
+      "items": 1
+    }
+  }
+}

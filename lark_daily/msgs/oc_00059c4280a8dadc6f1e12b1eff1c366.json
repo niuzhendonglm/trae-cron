@@ -1,0 +1,324 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "has_more": false,
+    "messages": [
+      {
+        "chat_id": "oc_00059c4280a8dadc6f1e12b1eff1c366",
+        "content": "\u003ccard\u003e\n欢迎来到💖一站式服务台💖，很高兴为您服务！\n🖼️ img_v3_0211u_330436a9-f059-4f7a-b97e-51083b0b125g(img_key:img_v3_0211u_330436a9-f059-4f7a-b97e-51083b0b125g)\nPS.小E会在海量知识库翻阅资料为您解答，请您耐心等待，答案输出过程中无需重复发送问题哦∼ \n\n\u003c/card\u003e",
+        "create_time": "2026-10-26 15:08",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_00059c4280a8dadc6f1e12b1eff1c366\u0026position=496",
+        "message_id": "om_x100b62db89f330a8c1c4d8d38d27571",
+        "message_position": "496",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a2871b819db8d013",
+          "id_type": "app_id",
+          "name": "一站式服务台",
+          "open_bot_id": "ou_bfc10150edbdaaf3fc9c13d4a17f2a82",
+          "sender_i18n_names": {
+            "en_us": "One-stop Service Desk",
+            "zh_cn": "一站式服务台"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_00059c4280a8dadc6f1e12b1eff1c366",
+        "content": "linux安装mysql8",
+        "create_time": "2026-10-26 15:08",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_00059c4280a8dadc6f1e12b1eff1c366\u0026position=497",
+        "message_id": "om_x100b62db8907b484cfded8a399bd49d",
+        "message_position": "497",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_635008cc2affc45d23de666f2e7e7446",
+          "id_type": "open_id",
+          "name": "牛振东",
+          "sender_i18n_names": {
+            "en_us": "niuzhendong"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_00059c4280a8dadc6f1e12b1eff1c366",
+        "content": "\u003ccard\u003e\n您好! 牛工：\n暂未搜索到相关知识。如果有其他问题，欢迎继续咨询！\n本答案由 AI 生成，可能存在错误，仅供参考。如仍有疑问，可以尝试换种问法或输入【转人工服务】咨询。\n\u003c/card\u003e",
+        "create_time": "2026-10-26 15:08",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_00059c4280a8dadc6f1e12b1eff1c366\u0026position=498",
+        "message_id": "om_x100b62db893b34acceaf846f20964fb",
+        "message_position": "498",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a2871b819db8d013",
+          "id_type": "app_id",
+          "name": "一站式服务台",
+          "open_bot_id": "ou_bfc10150edbdaaf3fc9c13d4a17f2a82",
+          "sender_i18n_names": {
+            "en_us": "One-stop Service Desk",
+            "zh_cn": "一站式服务台"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-26 15:09",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_00059c4280a8dadc6f1e12b1eff1c366",
+        "content": "转人工服务",
+        "create_time": "2026-10-26 15:09",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_00059c4280a8dadc6f1e12b1eff1c366\u0026position=499",
+        "message_id": "om_x100b62db85e2b8a8cf0f3cc25f226c2",
+        "message_position": "499",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_635008cc2affc45d23de666f2e7e7446",
+          "id_type": "open_id",
+          "name": "牛振东",
+          "sender_i18n_names": {
+            "en_us": "niuzhendong"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_00059c4280a8dadc6f1e12b1eff1c366",
+        "content": "\u003ccard title=\"您的人工服务通道已开启\"\u003e\n[点击转接人工客服](https://applink.feishu.cn/T978QOduDFPZ)\n💡 人工客服在线时间：08:00-22:00\n\u003c/card\u003e",
+        "create_time": "2026-10-26 15:09",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_00059c4280a8dadc6f1e12b1eff1c366\u0026position=500",
+        "message_id": "om_x100b62db858448b0cf45db69dc1af5d",
+        "message_position": "500",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a2871b819db8d013",
+          "id_type": "app_id",
+          "name": "一站式服务台",
+          "open_bot_id": "ou_bfc10150edbdaaf3fc9c13d4a17f2a82",
+          "sender_i18n_names": {
+            "en_us": "One-stop Service Desk",
+            "zh_cn": "一站式服务台"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-26 15:09",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_00059c4280a8dadc6f1e12b1eff1c366",
+        "content": "You are connected to agent service with @汇小晴. How can we help you?",
+        "create_time": "2026-10-26 15:15",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "",
+            "key": "@_user_1",
+            "name": "汇小晴"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_00059c4280a8dadc6f1e12b1eff1c366\u0026position=501",
+        "message_id": "om_x100b62dbaeb74d00c0415e4d774f19c",
+        "message_position": "501",
+        "msg_type": "post",
+        "sender": {
+          "id": "cli_a2871b819db8d013",
+          "id_type": "app_id",
+          "name": "一站式服务台",
+          "open_bot_id": "ou_bfc10150edbdaaf3fc9c13d4a17f2a82",
+          "sender_i18n_names": {
+            "en_us": "One-stop Service Desk",
+            "zh_cn": "一站式服务台"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-26 15:15",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_00059c4280a8dadc6f1e12b1eff1c366",
+        "content": "您好",
+        "create_time": "2026-10-26 15:15",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_00059c4280a8dadc6f1e12b1eff1c366\u0026position=502",
+        "message_id": "om_x100b62dbaf4704a0ddfa922e3f2b919",
+        "message_position": "502",
+        "msg_type": "text",
+        "sender": {
+          "id": "",
+          "id_type": "",
+          "name": "汇小晴",
+          "sender_type": "anonymous"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_00059c4280a8dadc6f1e12b1eff1c366",
+        "content": "你好，linux离线安装mysql8",
+        "create_time": "2026-10-26 15:15",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_00059c4280a8dadc6f1e12b1eff1c366\u0026position=503",
+        "message_id": "om_x100b62dbaf254cb0cffda22935016c2",
+        "message_position": "503",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_635008cc2affc45d23de666f2e7e7446",
+          "id_type": "open_id",
+          "name": "牛振东",
+          "sender_i18n_names": {
+            "en_us": "niuzhendong"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_00059c4280a8dadc6f1e12b1eff1c366",
+        "content": "\u003cp\u003e有下载源吗\u003c/p\u003e",
+        "create_time": "2026-10-26 15:15",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_00059c4280a8dadc6f1e12b1eff1c366\u0026position=504",
+        "message_id": "om_x100b62dbace200a4b08802c32a50f0e",
+        "message_position": "504",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_635008cc2affc45d23de666f2e7e7446",
+          "id_type": "open_id",
+          "name": "牛振东",
+          "sender_i18n_names": {
+            "en_us": "niuzhendong"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-26 15:15",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_00059c4280a8dadc6f1e12b1eff1c366",
+        "content": "是linux云桌面吗",
+        "create_time": "2026-10-26 15:17",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_00059c4280a8dadc6f1e12b1eff1c366\u0026position=506",
+        "message_id": "om_x100b62dba9ef2cb4ddfb62597bd75ee",
+        "message_position": "506",
+        "msg_type": "text",
+        "sender": {
+          "id": "",
+          "id_type": "",
+          "name": "汇小晴",
+          "sender_type": "anonymous"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_00059c4280a8dadc6f1e12b1eff1c366",
+        "content": "这个没有，可以问下内部同事是否有",
+        "create_time": "2026-10-26 15:17",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_00059c4280a8dadc6f1e12b1eff1c366\u0026position=507",
+        "message_id": "om_x100b62dba918c4a0de1d38fd319e29a",
+        "message_position": "507",
+        "msg_type": "text",
+        "sender": {
+          "id": "",
+          "id_type": "",
+          "name": "汇小晴",
+          "sender_type": "anonymous"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_00059c4280a8dadc6f1e12b1eff1c366",
+        "content": "好的👌",
+        "create_time": "2026-10-26 15:17",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_00059c4280a8dadc6f1e12b1eff1c366\u0026position=508",
+        "message_id": "om_x100b62dba6bb09a0cd3cabc30351d60",
+        "message_position": "508",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_635008cc2affc45d23de666f2e7e7446",
+          "id_type": "open_id",
+          "name": "牛振东",
+          "sender_i18n_names": {
+            "en_us": "niuzhendong"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_00059c4280a8dadc6f1e12b1eff1c366",
+        "content": "\u003ccard title=\"评价本次服务\"\u003e\n本次服务已结束。如有更多问题，欢迎继续提问。请对我的服务做出评价。\n[😄 满意] [😐 一般] [😞 不满意]\n\u003c/card\u003e",
+        "create_time": "2026-10-26 15:17",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_00059c4280a8dadc6f1e12b1eff1c366\u0026position=509",
+        "message_id": "om_x100b62dba63c14b8dfb4b33eafba9b9",
+        "message_position": "509",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a2871b819db8d013",
+          "id_type": "app_id",
+          "name": "一站式服务台",
+          "open_bot_id": "ou_bfc10150edbdaaf3fc9c13d4a17f2a82",
+          "sender_i18n_names": {
+            "en_us": "One-stop Service Desk",
+            "zh_cn": "一站式服务台"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-26 15:17",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_00059c4280a8dadc6f1e12b1eff1c366",
+        "content": "\u003ccard title=\"你的打分为: 😄 满意\"\u003e\n感谢你的宝贵意见！\n\u003c/card\u003e",
+        "create_time": "2026-10-26 15:17",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_00059c4280a8dadc6f1e12b1eff1c366\u0026position=510",
+        "message_id": "om_x100b62dba7d2c0b0b01faae93f94137",
+        "message_position": "510",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a2871b819db8d013",
+          "id_type": "app_id",
+          "name": "一站式服务台",
+          "open_bot_id": "ou_bfc10150edbdaaf3fc9c13d4a17f2a82",
+          "sender_i18n_names": {
+            "en_us": "One-stop Service Desk",
+            "zh_cn": "一站式服务台"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      }
+    ],
+    "page_token": "",
+    "total": 14
+  },
+  "meta": {
+    "pagination": {
+      "complete": true,
+      "pages": 1,
+      "items": 14
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "has_more": false,
+    "messages": [
+      {
+        "chat_id": "oc_31957aa05e0a5a6ee106b4afc4fc346c",
+        "content": "蔺雨桐 invited 邱治钧 to the group. New members can view all chat history.",
+        "create_time": "2026-10-26 08:35",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_31957aa05e0a5a6ee106b4afc4fc346c\u0026position=142",
+        "message_id": "om_x100b62de4a4fb4a0dd2770fbdc99941",
+        "message_position": "142",
+        "msg_type": "system",
+        "sender": {
+          "id": "",
+          "id_type": "",
+          "sender_type": "",
+          "tenant_key": ""
+        },
+        "updated": false
+      }
+    ],
+    "page_token": "",
+    "total": 1
+  },
+  "meta": {
+    "pagination": {
+      "complete": true,
+      "pages": 1,
+      "items": 1
+    }
+  }
+}

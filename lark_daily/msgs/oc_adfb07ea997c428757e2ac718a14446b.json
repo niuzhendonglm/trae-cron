@@ -1,0 +1,150 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "has_more": false,
+    "messages": [
+      {
+        "chat_id": "oc_adfb07ea997c428757e2ac718a14446b",
+        "content": "**背景**\n为解决 Doris 资源混用、缺少资源队列管控的问题，Daas平台计划对 Doris 实施读写分离改造，隔离读写负载，避免读写请求相互抢占资源、彼此干扰。\n平台会给BE节点打上标签，建表语句中如果带了副本参数设置会使用默认标签导致建表失败\n**需要做什么**\n1. 新建的doris任务，建表语句禁止使用 \"replication_allocation\" = \"xx\"/\"replication_num\"=\"X\"，读写分离上线后建表时设置副本会报错（已经创建的表，平台会进行改造）。\n2. 检查线上是否有每次调度都会删表重建的任务带\"replication_allocation\" = \"xx\"/\"replication_num\"=\"X\"，如有请去掉副本设置。\n**预计上线时间：**2026年11月初\n\u003cat user_id=\"all\"\u003e\u003c/at\u003e 请大家知悉并配合整改，如有疑问欢迎联系黄工沟通@黄翔",
+        "create_time": "2026-10-26 09:05",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_096d41a75ccd13dd03c5faf8eb5cd194",
+            "key": "@_user_1",
+            "name": "黄翔"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_adfb07ea997c428757e2ac718a14446b\u0026position=408",
+        "message_id": "om_x100b62de3827ec80c3c62f3648ac878",
+        "message_position": "408",
+        "msg_type": "post",
+        "sender": {
+          "id": "ou_70551c5eab0d745615fff1d870b031cd",
+          "id_type": "open_id",
+          "name": "王敬宇",
+          "sender_i18n_names": {
+            "en_us": "jingyu"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-26 09:05",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_adfb07ea997c428757e2ac718a14446b",
+        "content": "{name} clipped content to top.",
+        "create_time": "2026-10-26 09:15",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_adfb07ea997c428757e2ac718a14446b\u0026position=409",
+        "message_id": "om_x100b62ded51964b4b098359108ef35d",
+        "message_position": "409",
+        "msg_type": "system",
+        "sender": {
+          "id": "",
+          "id_type": "",
+          "sender_type": "",
+          "tenant_key": ""
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_adfb07ea997c428757e2ac718a14446b",
+        "content": "@王敬宇 @黄翔  hi，王工、黄工，现在doris的怎么查询那，之前走api服务走doris的接口好像查询不了了，ISC_DORIS_PROD这个数据源也查不了数据了哈，能帮忙尽快排查下吗，业务上午问的，当时我以为是数据链路堵塞了，现在看好像是咱们doris改造的问题\n![Image](img_v3_0216r_8ec55a64-8db5-49a8-9d98-1e8c510199dg)\n![Image](img_v3_0216r_88f320df-aab1-4569-8d34-647acf12ac6g)\n![Image](img_v3_0216r_f209036f-8c6b-43b7-8635-4f375dd2648g)\n![Image](img_v3_0216r_6d4f4090-23ef-4b43-89df-f96fe1cb628g)",
+        "create_time": "2026-10-26 14:01",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_70551c5eab0d745615fff1d870b031cd",
+            "key": "@_user_1",
+            "name": "王敬宇"
+          },
+          {
+            "id": "ou_096d41a75ccd13dd03c5faf8eb5cd194",
+            "key": "@_user_2",
+            "name": "黄翔"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_adfb07ea997c428757e2ac718a14446b\u0026position=410",
+        "message_id": "om_x100b62da83dba0bcb08958407279204",
+        "message_position": "410",
+        "msg_type": "post",
+        "sender": {
+          "id": "ou_271c27ad206c31bf2b533474db2d9ef5",
+          "id_type": "open_id",
+          "name": "蔺雨桐",
+          "sender_i18n_names": {
+            "en_us": "linyutong"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-26 14:01",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_adfb07ea997c428757e2ac718a14446b",
+        "content": "麻烦帮忙排查下原因，目前在之前doris的数据源我没法查询了 ，任务执行成功但是好像没同步过去数据  [泪奔]",
+        "create_time": "2026-10-26 14:02",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_adfb07ea997c428757e2ac718a14446b\u0026position=411",
+        "message_id": "om_x100b62da9eb0b8b0cfb89257d5e1fef",
+        "message_position": "411",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_271c27ad206c31bf2b533474db2d9ef5",
+          "id_type": "open_id",
+          "name": "蔺雨桐",
+          "sender_i18n_names": {
+            "en_us": "linyutong"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-26 14:02",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_adfb07ea997c428757e2ac718a14446b",
+        "content": "@蔺雨桐 我拉个小群，和平台一起看下",
+        "create_time": "2026-10-26 14:05",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_271c27ad206c31bf2b533474db2d9ef5",
+            "key": "@_user_1",
+            "name": "蔺雨桐"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_adfb07ea997c428757e2ac718a14446b\u0026position=412",
+        "message_id": "om_x100b62da97189890dd0e9e46eef9e96",
+        "message_position": "412",
+        "msg_type": "text",
+        "reply_to": "om_x100b62da9eb0b8b0cfb89257d5e1fef",
+        "sender": {
+          "id": "ou_70551c5eab0d745615fff1d870b031cd",
+          "id_type": "open_id",
+          "name": "王敬宇",
+          "sender_i18n_names": {
+            "en_us": "jingyu"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-26 14:05",
+        "updated": true
+      }
+    ],
+    "page_token": "",
+    "total": 5
+  },
+  "meta": {
+    "pagination": {
+      "complete": true,
+      "pages": 1,
+      "items": 5
+    }
+  }
+}

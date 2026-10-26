@@ -1,0 +1,68 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "has_more": false,
+    "messages": [
+      {
+        "chat_id": "oc_116045b976a58256400df3e6c4a57c1b",
+        "content": "\u003ccard\u003e\n目前我在 TRAE 官方文档里没查到能直接对应「AI 剪辑 + TRAE 配合使用」的说明，所以没法给你一套准确的步骤，怕说错反而误导你。\n\n这种情况建议直接到 TRAE 社区论坛的「帮助与支持」板块发帖，那里有官方和社区的实操经验可以帮你：\n\n🔗 [https://forum.trae.cn/c/7-category/7](https://forum.trae.cn/c/7-category/7)\n\n发帖时补上这几项，别人更容易帮到你：你用的是 TRAE IDE 还是其他形态、版本号、操作系统，以及你手头的素材情况和想剪成什么样（比如多段短视频拼 vlog、加字幕配乐等）。这样得到的方案会比泛泛问「怎么剪」靠谱得多。\n---\n💡 更多使用问题请转移至 [TRAE 官方社区「帮助与支持」板块](https://forum.trae.cn/c/7-category/7) 发帖询问 \n · 021792990007507fdbddc02000a02664559cb53af0000a6974d56 · \n[已解决]\n[更多问题请到「官方社区」提问](https://forum.trae.cn/c/7-category/7)\n\u003c/card\u003e",
+        "create_time": "2026-10-26 12:46",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/thread/open?open_chat_id=oc_116045b976a58256400df3e6c4a57c1b\u0026open_thread_id=omt_19bb53ff508fdb5a\u0026openchatid=oc_116045b976a58256400df3e6c4a57c1b\u0026openthreadid=omt_19bb53ff508fdb5a\u0026thread_position=0",
+        "message_id": "om_x100b62d9fd4520a4c1346212231305f",
+        "message_position": "-3",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a9c7f80599f8dbc4",
+          "id_type": "app_id",
+          "name": "TRAE 宝",
+          "open_bot_id": "ou_dfae499a31a17e270c3cc86c7275f2bd",
+          "sender_i18n_names": {
+            "en_us": "TRAE 宝",
+            "zh_cn": "TRAE 宝"
+          },
+          "sender_type": "app",
+          "tenant_key": "15d6d1e6e508d75e"
+        },
+        "thread_id": "omt_19bb53ff508fdb5a",
+        "thread_message_position": "0",
+        "update_time": "2026-10-26 12:47",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_116045b976a58256400df3e6c4a57c1b",
+        "content": "你可以去Githup上去找一下star比较多的，能够用来剪辑视频的技能，然后把这个技能安装到你的agent上，让你的agent调用这个技能去帮你剪辑视频",
+        "create_time": "2026-10-26 12:54",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/thread/open?open_chat_id=oc_116045b976a58256400df3e6c4a57c1b\u0026open_thread_id=omt_19bb53ff508fdb5a\u0026openchatid=oc_116045b976a58256400df3e6c4a57c1b\u0026openthreadid=omt_19bb53ff508fdb5a\u0026thread_position=1",
+        "message_id": "om_x100b62d980081504cfb3e953566783f",
+        "message_position": "-3",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_85268d8e457add33cb8d87ddd31164f4",
+          "id_type": "open_id",
+          "name": "用户926318",
+          "sender_i18n_names": {
+            "zh_cn": "阿迪"
+          },
+          "sender_type": "user",
+          "tenant_key": "1bda279dff8a175d"
+        },
+        "thread_id": "omt_19bb53ff508fdb5a",
+        "thread_message_position": "1",
+        "updated": false
+      }
+    ],
+    "page_token": "",
+    "thread_id": "omt_19bb53ff508fdb5a",
+    "total": 2
+  },
+  "meta": {
+    "pagination": {
+      "complete": true,
+      "pages": 1,
+      "items": 2
+    }
+  }
+}

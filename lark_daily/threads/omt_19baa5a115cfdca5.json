@@ -1,0 +1,45 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "has_more": false,
+    "messages": [
+      {
+        "chat_id": "oc_afdd960e5b5f39cd89d6b9946a78cd78",
+        "content": "\u003ccard\u003e\n收到~ 表情包小赛的投稿截止到 11 月 8 日，感兴趣的同学可以戳活动详情看看：🔗 [https://forum.trae.cn/t/topic/462975](https://forum.trae.cn/t/topic/462975)，期待大家的 TRAE宝 作品 😊\n---\n💡 更多使用问题请转移至 [TRAE 官方社区「帮助与支持」板块](https://forum.trae.cn/c/7-category/7) 发帖询问 \n · 021793011049191fdbddc0200190532c659cb53af00005d68eb1f · \n[已解决]\n[更多问题请到「官方社区」提问](https://forum.trae.cn/c/7-category/7)\n\u003c/card\u003e",
+        "create_time": "2026-10-26 18:37",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/thread/open?open_chat_id=oc_afdd960e5b5f39cd89d6b9946a78cd78\u0026open_thread_id=omt_19baa5a115cfdca5\u0026openchatid=oc_afdd960e5b5f39cd89d6b9946a78cd78\u0026openthreadid=omt_19baa5a115cfdca5\u0026thread_position=0",
+        "message_id": "om_x100b62c6986914b0de59e5b598252df",
+        "message_position": "-3",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a9c7f80599f8dbc4",
+          "id_type": "app_id",
+          "name": "TRAE 宝",
+          "open_bot_id": "ou_dfae499a31a17e270c3cc86c7275f2bd",
+          "sender_i18n_names": {
+            "en_us": "TRAE 宝",
+            "zh_cn": "TRAE 宝"
+          },
+          "sender_type": "app",
+          "tenant_key": "15d6d1e6e508d75e"
+        },
+        "thread_id": "omt_19baa5a115cfdca5",
+        "thread_message_position": "0",
+        "update_time": "2026-10-26 18:37",
+        "updated": true
+      }
+    ],
+    "page_token": "",
+    "thread_id": "omt_19baa5a115cfdca5",
+    "total": 1
+  },
+  "meta": {
+    "pagination": {
+      "complete": true,
+      "pages": 1,
+      "items": 1
+    }
+  }
+}

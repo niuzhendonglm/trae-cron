@@ -1,0 +1,69 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "has_more": false,
+    "messages": [
+      {
+        "chat_id": "oc_116045b976a58256400df3e6c4a57c1b",
+        "content": "\u003ccard\u003e\n关于“包月自动续费后是否发放积分”，我目前没有查到能直接对应的官方说明，所以无法给你一个确定的规则结论。\n\n如果你是在说自己账号的情况——续费扣款成功但积分没到账，这属于个人账号权益问题，需要由支付/账号团队核实，可以邮件联系 **feedback@mail.trae.cn**（国际版用 **feedback@mail.trae.ai**）。\n\n另外，你也可以先在官网订阅管理里确认一下当前周期和订单状态，方便邮件时把订单时间、套餐名称一并说明。\n---\n💡 更多使用问题请转移至 [TRAE 官方社区「帮助与支持」板块](https://forum.trae.cn/c/7-category/7) 发帖询问 \n · 021792979380835fdbddc02000a02664559cb53af0000a68b541b · \n[已解决]\n[更多问题请到「官方社区」提问](https://forum.trae.cn/c/7-category/7)\n\u003c/card\u003e",
+        "create_time": "2026-10-26 09:49",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/thread/open?open_chat_id=oc_116045b976a58256400df3e6c4a57c1b\u0026open_thread_id=omt_19bb397a670d1b5a\u0026openchatid=oc_116045b976a58256400df3e6c4a57c1b\u0026openthreadid=omt_19bb397a670d1b5a\u0026thread_position=0",
+        "message_id": "om_x100b62df55adac84df6ed57b266cbd2",
+        "message_position": "-3",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a9c7f80599f8dbc4",
+          "id_type": "app_id",
+          "name": "TRAE 宝",
+          "open_bot_id": "ou_dfae499a31a17e270c3cc86c7275f2bd",
+          "sender_i18n_names": {
+            "en_us": "TRAE 宝",
+            "zh_cn": "TRAE 宝"
+          },
+          "sender_type": "app",
+          "tenant_key": "15d6d1e6e508d75e"
+        },
+        "thread_id": "omt_19bb397a670d1b5a",
+        "thread_message_position": "0",
+        "update_time": "2026-10-26 09:50",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_116045b976a58256400df3e6c4a57c1b",
+        "content": "您好，截图看下订阅管理，可能是提前续费",
+        "create_time": "2026-10-26 13:04",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/thread/open?open_chat_id=oc_116045b976a58256400df3e6c4a57c1b\u0026open_thread_id=omt_19bb397a670d1b5a\u0026openchatid=oc_116045b976a58256400df3e6c4a57c1b\u0026openthreadid=omt_19bb397a670d1b5a\u0026thread_position=1",
+        "message_id": "om_x100b62d9b82284a0b0f912e415e7aec",
+        "message_position": "-3",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_6efdc1dcce0904f9f7c1dac4902627d0",
+          "id_type": "open_id",
+          "name": "赵娇娇",
+          "sender_i18n_names": {
+            "en_us": "zhaojiaojiao",
+            "zh_cn": "赵娇娇"
+          },
+          "sender_type": "user",
+          "tenant_key": "736588c9260f175d"
+        },
+        "thread_id": "omt_19bb397a670d1b5a",
+        "thread_message_position": "1",
+        "updated": false
+      }
+    ],
+    "page_token": "",
+    "thread_id": "omt_19bb397a670d1b5a",
+    "total": 2
+  },
+  "meta": {
+    "pagination": {
+      "complete": true,
+      "pages": 1,
+      "items": 2
+    }
+  }
+}

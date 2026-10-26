@@ -1,0 +1,47 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "has_more": false,
+    "messages": [
+      {
+        "chat_id": "oc_d633a2a3952cb125c8d9a2a9d36f911b",
+        "content": "\u003cp\u003e@张隆灿 灿总，电装优化的，整理一下描述，填一条到这里吧，\u003c/p\u003e\u003cp\u003ehttps://inovance.feishu.cn/wiki/CKohwVm44i2kBlkHMYmcC9IknDc?table=tblt4Dt9YqqeGj2T\u0026view=vewvVET71z\u003c/p\u003e",
+        "create_time": "2026-10-26 17:11",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_bea951464fdca49318929ded56731834",
+            "key": "@_user_1",
+            "name": "张隆灿"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_d633a2a3952cb125c8d9a2a9d36f911b\u0026position=169",
+        "message_id": "om_x100b62c5da1358a4cfbde9868d79f9d",
+        "message_position": "169",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_635008cc2affc45d23de666f2e7e7446",
+          "id_type": "open_id",
+          "name": "牛振东",
+          "sender_i18n_names": {
+            "en_us": "niuzhendong"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-26 17:11",
+        "updated": true
+      }
+    ],
+    "page_token": "",
+    "total": 1
+  },
+  "meta": {
+    "pagination": {
+      "complete": true,
+      "pages": 1,
+      "items": 1
+    }
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "has_more": false,
+    "messages": [
+      {
+        "chat_id": "oc_9ebf1608d5be3a0561147e4e68c65dca",
+        "content": "@姚成鹏 姚工，对接inoclaw目前有什么问题吗，这条路通不通",
+        "create_time": "2026-10-26 10:45",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_62b50b73747cf9098500fbcf293b763b",
+            "key": "@_user_1",
+            "name": "姚成鹏"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_9ebf1608d5be3a0561147e4e68c65dca\u0026position=245",
+        "message_id": "om_x100b62dfa2b068b0dfde38b005f96c3",
+        "message_position": "245",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_c8afe8aab3f80a020c356c0ca46a12ce",
+          "id_type": "open_id",
+          "name": "刘宏宇",
+          "sender_i18n_names": {
+            "en_us": "liuhongyu"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-26 10:45",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_9ebf1608d5be3a0561147e4e68c65dca",
+        "content": "@刘宏宇 目前通的，但是后续具体落地我们内部还要讨论一下",
+        "create_time": "2026-10-26 13:56",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_c8afe8aab3f80a020c356c0ca46a12ce",
+            "key": "@_user_1",
+            "name": "刘宏宇"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_9ebf1608d5be3a0561147e4e68c65dca\u0026position=246",
+        "message_id": "om_x100b62daf45fd4a0b056479fa41e840",
+        "message_position": "246",
+        "msg_type": "text",
+        "reply_to": "om_x100b62dfa2b068b0dfde38b005f96c3",
+        "sender": {
+          "id": "ou_62b50b73747cf9098500fbcf293b763b",
+          "id_type": "open_id",
+          "name": "姚成鹏",
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-26 13:56",
+        "updated": true
+      }
+    ],
+    "page_token": "",
+    "total": 2
+  },
+  "meta": {
+    "pagination": {
+      "complete": true,
+      "pages": 1,
+      "items": 2
+    }
+  }
+}

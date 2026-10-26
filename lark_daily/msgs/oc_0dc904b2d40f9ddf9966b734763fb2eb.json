@@ -1,0 +1,115 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "has_more": false,
+    "messages": [
+      {
+        "chat_id": "oc_0dc904b2d40f9ddf9966b734763fb2eb",
+        "content": "[nonsupport]",
+        "create_time": "2026-10-26 10:03",
+        "deleted": true,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_0dc904b2d40f9ddf9966b734763fb2eb\u0026position=917",
+        "message_id": "om_x100b62df03aee044dd6ef8d360f6fe5",
+        "message_position": "917",
+        "msg_type": "nonsupport",
+        "sender": {
+          "id": "cli_a83f807b6c3bd00c",
+          "id_type": "app_id",
+          "name": "工业AI",
+          "open_bot_id": "ou_2cda784d6ae666df5022abc93eca9139",
+          "sender_i18n_names": {
+            "en_us": "工业AI",
+            "zh_cn": "工业AI"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_0dc904b2d40f9ddf9966b734763fb2eb",
+        "content": "鲁升芳 joined the group via a QR Code shared by 高晨. New members can view all chat history.",
+        "create_time": "2026-10-26 10:11",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_0dc904b2d40f9ddf9966b734763fb2eb\u0026position=918",
+        "message_id": "om_x100b62df202ea844b4f1c110027589a",
+        "message_position": "918",
+        "msg_type": "system",
+        "sender": {
+          "id": "",
+          "id_type": "",
+          "sender_type": "",
+          "tenant_key": ""
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_0dc904b2d40f9ddf9966b734763fb2eb",
+        "content": "\u003ccard title=\"🎯版本升级|问知能力升级\"\u003e\n「版本更新」\n🖼️ Image(img_key:img_v3_0216m_f2a41096-173c-4a8a-9333-99de850e7fag)\n📿 **全新升级：问知知识库\u0026问知智能体**\n📚 **自研工控大模型升级**：上线 wenzhi-cpt2.0模型\n🧠 **智能体能力全量迭代**：完善配置、调试、分享（API-KEY调用）全流程，提升智能体搭建与运维效率\n🏵 **落地知识图谱全流程能力**，优化文件异常报错展示，支持图文分片管理、图片召回、图谱渲染，补齐多模态检索核心能力\n📆 **运营体系完善**：上线会话日志、用户反馈、QA管理功能，支持问题修正并联动知识库更新，完善 QA 库编辑、批量管理、智能问法推荐能力，支撑精细化业务运营\n💡 **性能与体验全面优化**：统一 UI 视觉样式，重构知识库入库逻辑，优化入库及智能体算法时延\n工业AI模块IFG项目组开发\n---\n[点击立即体验](https://ifg-ide.inovance.com) [查看详情](https://inovance.feishu.cn/docx/RCrYdyHELoBrQdx7Cikc7hzqnEg) [一键直达IDE管理员](https://www.feishu.cn/invitation/page/add_contact/?token=56et0827-a3f7-43c0-9109-fb75591566fe\u0026amp;unique_id=bfckyoi-BbI1I5AsFFkxtw==)\n\u003c/card\u003e",
+        "create_time": "2026-10-26 11:52",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_0dc904b2d40f9ddf9966b734763fb2eb\u0026position=919",
+        "message_id": "om_x100b62d8a75f7ca0de11fac02bb49cb",
+        "message_position": "919",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a83f807b6c3bd00c",
+          "id_type": "app_id",
+          "name": "工业AI",
+          "open_bot_id": "ou_2cda784d6ae666df5022abc93eca9139",
+          "sender_i18n_names": {
+            "en_us": "工业AI",
+            "zh_cn": "工业AI"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_0dc904b2d40f9ddf9966b734763fb2eb",
+        "content": "吕厚辰 joined the group via a QR Code shared by 高晨. New members can view all chat history.",
+        "create_time": "2026-10-26 13:44",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_0dc904b2d40f9ddf9966b734763fb2eb\u0026position=920",
+        "message_id": "om_x100b62dac5cf206cc13df69142240d4",
+        "message_position": "920",
+        "msg_type": "system",
+        "sender": {
+          "id": "",
+          "id_type": "",
+          "sender_type": "",
+          "tenant_key": ""
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_0dc904b2d40f9ddf9966b734763fb2eb",
+        "content": "唐宇乐 joined the group via a QR Code shared by 高晨. New members can view all chat history.",
+        "create_time": "2026-10-26 13:59",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_0dc904b2d40f9ddf9966b734763fb2eb\u0026position=921",
+        "message_id": "om_x100b62da8a6b088cb0e3f7b411e6d5f",
+        "message_position": "921",
+        "msg_type": "system",
+        "sender": {
+          "id": "",
+          "id_type": "",
+          "sender_type": "",
+          "tenant_key": ""
+        },
+        "updated": false
+      }
+    ],
+    "page_token": "",
+    "total": 5
+  },
+  "meta": {
+    "pagination": {
+      "complete": true,
+      "pages": 1,
+      "items": 5
+    }
+  }
+}

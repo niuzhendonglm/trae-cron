@@ -1,0 +1,117 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "has_more": false,
+    "messages": [
+      {
+        "chat_id": "oc_7c4af7b0fc3e28845708962b0c2cf58f",
+        "content": "@曾凡荣 @牛振东 @刘宏宇 @吕志明 @邱治钧 @柴亚通 @滕菲 @崔望 @赵海燕 @吴永定 @杨润东 @曾凡荣2@李守东  @杜彦永 @邱治钧 大家好，请各责任人刷新下IOC周报内容，谢谢！",
+        "create_time": "2026-10-26 09:48",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_bbfd0293d32b6cf58bf3aa51ddab4cb5",
+            "key": "@_user_1",
+            "name": "曾凡荣"
+          },
+          {
+            "id": "ou_635008cc2affc45d23de666f2e7e7446",
+            "key": "@_user_2",
+            "name": "牛振东"
+          },
+          {
+            "id": "ou_c8afe8aab3f80a020c356c0ca46a12ce",
+            "key": "@_user_3",
+            "name": "刘宏宇"
+          },
+          {
+            "id": "ou_a212ec959936c0f755c7446e659f9ec0",
+            "key": "@_user_4",
+            "name": "吕志明"
+          },
+          {
+            "id": "ou_ce3b309a1adb865c60cf7c112da25d62",
+            "key": "@_user_5",
+            "name": "邱治钧"
+          },
+          {
+            "id": "ou_870975b0382c9b0eb131c90e8e5ac81d",
+            "key": "@_user_6",
+            "name": "柴亚通"
+          },
+          {
+            "id": "ou_e2510747905656522763a62a6cce0520",
+            "key": "@_user_7",
+            "name": "滕菲"
+          },
+          {
+            "id": "ou_643d94534d32e50d3a2e10a9c24a4068",
+            "key": "@_user_8",
+            "name": "崔望"
+          },
+          {
+            "id": "ou_d17b70f7f3ef0855ab6dd5f3a24607a3",
+            "key": "@_user_9",
+            "name": "赵海燕"
+          },
+          {
+            "id": "ou_6bf0b1af8b28e6e2d7b8b1a54ed98bec",
+            "key": "@_user_10",
+            "name": "吴永定"
+          },
+          {
+            "id": "ou_e7fccc3af163cd1e5b59c4241cb9b574",
+            "key": "@_user_11",
+            "name": "杨润东"
+          },
+          {
+            "id": "ou_81c29721acf454ac727a80623cab8fcb",
+            "key": "@_user_12",
+            "name": "黄金钢"
+          },
+          {
+            "id": "ou_8f2cde744f5d1fb938c98ce559a66d6b",
+            "key": "@_user_13",
+            "name": "李守东"
+          },
+          {
+            "id": "ou_e8afce6057f334dd46762f0047b88c03",
+            "key": "@_user_14",
+            "name": "杜彦永"
+          },
+          {
+            "id": "ou_ce3b309a1adb865c60cf7c112da25d62",
+            "key": "@_user_15",
+            "name": "邱治钧"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_7c4af7b0fc3e28845708962b0c2cf58f\u0026position=305",
+        "message_id": "om_x100b62df5883b8acb0199c041c0fbd0",
+        "message_position": "305",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_c56489eb59865650b63b569a08d20d6a",
+          "id_type": "open_id",
+          "name": "蒋静芳",
+          "sender_i18n_names": {
+            "en_us": "jiangjingfang"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-26 09:48",
+        "updated": true
+      }
+    ],
+    "page_token": "",
+    "total": 1
+  },
+  "meta": {
+    "pagination": {
+      "complete": true,
+      "pages": 1,
+      "items": 1
+    }
+  }
+}

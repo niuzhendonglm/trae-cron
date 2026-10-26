@@ -1,0 +1,270 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "has_more": false,
+    "messages": [
+      {
+        "chat_id": "oc_116045b976a58256400df3e6c4a57c1b",
+        "content": "\u003ccard\u003e\n收到～这波表情包活动挺有意思，用 TRAE 画一整套 TRAE宝表情包，静态图和 GIF 都收，投稿到 11 月 8 日截止，感兴趣的朋友可以点活动详情看看：[https://forum.trae.cn/t/topic/462975](https://forum.trae.cn/t/topic/462975)\n\n有想参赛但不确定怎么用 TRAE 出图或做动图的，也可以随时问我。\n---\n💡 更多使用问题请转移至 [TRAE 官方社区「帮助与支持」板块](https://forum.trae.cn/c/7-category/7) 发帖询问 \n · 021793010863629fdbddc0200190532c659cb53af00005d882502 · \n[已解决]\n[更多问题请到「官方社区」提问](https://forum.trae.cn/c/7-category/7)\n\u003c/card\u003e",
+        "create_time": "2026-10-26 18:34",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/thread/open?open_chat_id=oc_116045b976a58256400df3e6c4a57c1b\u0026open_thread_id=omt_19baa4677dcf1bb1\u0026openchatid=oc_116045b976a58256400df3e6c4a57c1b\u0026openthreadid=omt_19baa4677dcf1bb1\u0026thread_position=0",
+        "message_id": "om_x100b62c685c154a4cf95a14e64f1e00",
+        "message_position": "-3",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a9c7f80599f8dbc4",
+          "id_type": "app_id",
+          "name": "TRAE 宝",
+          "open_bot_id": "ou_dfae499a31a17e270c3cc86c7275f2bd",
+          "sender_i18n_names": {
+            "en_us": "TRAE 宝",
+            "zh_cn": "TRAE 宝"
+          },
+          "sender_type": "app",
+          "tenant_key": "15d6d1e6e508d75e"
+        },
+        "thread_id": "omt_19baa4677dcf1bb1",
+        "thread_message_position": "0",
+        "update_time": "2026-10-26 18:34",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_116045b976a58256400df3e6c4a57c1b",
+        "content": "@星宸H [新月脸]",
+        "create_time": "2026-10-26 18:35",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_b2f1538be5bc66c56efaf9e526608133",
+            "key": "@_user_1",
+            "name": "星宸H"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/thread/open?open_chat_id=oc_116045b976a58256400df3e6c4a57c1b\u0026open_thread_id=omt_19baa4677dcf1bb1\u0026openchatid=oc_116045b976a58256400df3e6c4a57c1b\u0026openthreadid=omt_19baa4677dcf1bb1\u0026thread_position=1",
+        "message_id": "om_x100b62c6839e1cb4ce3225e9d1c28f9",
+        "message_position": "-3",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_6c69d81896f9428f262b2bc4555a3cf7",
+          "id_type": "open_id",
+          "name": "用户196353",
+          "sender_i18n_names": {
+            "en_us": "棠璃",
+            "zh_cn": "棠璃"
+          },
+          "sender_type": "user",
+          "tenant_key": "1a0eed1dcf1e1c97"
+        },
+        "thread_id": "omt_19baa4677dcf1bb1",
+        "thread_message_position": "1",
+        "update_time": "2026-10-26 18:35",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_116045b976a58256400df3e6c4a57c1b",
+        "content": "@用户196353 干嘛",
+        "create_time": "2026-10-26 18:35",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_6c69d81896f9428f262b2bc4555a3cf7",
+            "key": "@_user_1",
+            "name": "用户196353"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/thread/open?open_chat_id=oc_116045b976a58256400df3e6c4a57c1b\u0026open_thread_id=omt_19baa4677dcf1bb1\u0026openchatid=oc_116045b976a58256400df3e6c4a57c1b\u0026openthreadid=omt_19baa4677dcf1bb1\u0026thread_position=2",
+        "message_id": "om_x100b62c68328b4a8ce36c86d03eb737",
+        "message_position": "-3",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_b2f1538be5bc66c56efaf9e526608133",
+          "id_type": "open_id",
+          "name": "星宸H",
+          "sender_type": "user",
+          "tenant_key": "1a42ee4df2019b94"
+        },
+        "thread_id": "omt_19baa4677dcf1bb1",
+        "thread_message_position": "2",
+        "update_time": "2026-10-26 18:35",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_116045b976a58256400df3e6c4a57c1b",
+        "content": "@用户456741 @曹翔 @冯梦龙 @用户906102 @况伟 这些你们最在行[看]",
+        "create_time": "2026-10-26 18:37",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_a2261e8296918fdbb9133edaec862822",
+            "key": "@_user_1",
+            "name": "用户456741"
+          },
+          {
+            "id": "ou_587b97fdc71701ed72934d8fae0b8cbc",
+            "key": "@_user_2",
+            "name": "曹翔"
+          },
+          {
+            "id": "ou_a47790a5531251273834274fb05bd682",
+            "key": "@_user_3",
+            "name": "冯梦龙"
+          },
+          {
+            "id": "ou_a58d07739eb4e5d9d79c80d2543c141c",
+            "key": "@_user_4",
+            "name": "用户906102"
+          },
+          {
+            "id": "ou_4cfb3a44f88268e2af3bf49c62504488",
+            "key": "@_user_5",
+            "name": "况伟"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/thread/open?open_chat_id=oc_116045b976a58256400df3e6c4a57c1b\u0026open_thread_id=omt_19baa4677dcf1bb1\u0026openchatid=oc_116045b976a58256400df3e6c4a57c1b\u0026openthreadid=omt_19baa4677dcf1bb1\u0026thread_position=3",
+        "message_id": "om_x100b62c6996928a0dd14d1df7f003d9",
+        "message_position": "-3",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_f7c1d047112bcada3ec1fbbf6c98a9c3",
+          "id_type": "open_id",
+          "name": "哈基宸",
+          "sender_type": "user",
+          "tenant_key": "1a055c8d6c1cdbbc"
+        },
+        "thread_id": "omt_19baa4677dcf1bb1",
+        "thread_message_position": "3",
+        "update_time": "2026-10-26 18:37",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_116045b976a58256400df3e6c4a57c1b",
+        "content": "[Sticker]",
+        "create_time": "2026-10-26 18:38",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/thread/open?open_chat_id=oc_116045b976a58256400df3e6c4a57c1b\u0026open_thread_id=omt_19baa4677dcf1bb1\u0026openchatid=oc_116045b976a58256400df3e6c4a57c1b\u0026openthreadid=omt_19baa4677dcf1bb1\u0026thread_position=4",
+        "message_id": "om_x100b62c6974dc8b0cefcd660badfc56",
+        "message_position": "-3",
+        "msg_type": "sticker",
+        "sender": {
+          "id": "ou_587b97fdc71701ed72934d8fae0b8cbc",
+          "id_type": "open_id",
+          "name": "曹翔",
+          "sender_i18n_names": {
+            "en_us": "cc",
+            "zh_cn": "cc"
+          },
+          "sender_type": "user",
+          "tenant_key": "1484e1b221425740"
+        },
+        "thread_id": "omt_19baa4677dcf1bb1",
+        "thread_message_position": "4",
+        "updated": false
+      },
+      {
+        "chat_id": "oc_116045b976a58256400df3e6c4a57c1b",
+        "content": "[Sticker]",
+        "create_time": "2026-10-26 18:39",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/thread/open?open_chat_id=oc_116045b976a58256400df3e6c4a57c1b\u0026open_thread_id=omt_19baa4677dcf1bb1\u0026openchatid=oc_116045b976a58256400df3e6c4a57c1b\u0026openthreadid=omt_19baa4677dcf1bb1\u0026thread_position=5",
+        "message_id": "om_x100b62c69154e4a4c0b30ec52b107e7",
+        "message_position": "-3",
+        "msg_type": "sticker",
+        "sender": {
+          "id": "ou_a2261e8296918fdbb9133edaec862822",
+          "id_type": "open_id",
+          "name": "用户456741",
+          "sender_i18n_names": {
+            "zh_cn": "小木"
+          },
+          "sender_type": "user",
+          "tenant_key": "148bb84b409b574f"
+        },
+        "thread_id": "omt_19baa4677dcf1bb1",
+        "thread_message_position": "5",
+        "updated": false
+      },
+      {
+        "chat_id": "oc_116045b976a58256400df3e6c4a57c1b",
+        "content": "[Sticker]",
+        "create_time": "2026-10-26 19:29",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/thread/open?open_chat_id=oc_116045b976a58256400df3e6c4a57c1b\u0026open_thread_id=omt_19baa4677dcf1bb1\u0026openchatid=oc_116045b976a58256400df3e6c4a57c1b\u0026openthreadid=omt_19baa4677dcf1bb1\u0026thread_position=6",
+        "message_id": "om_x100b62c7d499acbcb09e97898fa910a",
+        "message_position": "-3",
+        "msg_type": "sticker",
+        "sender": {
+          "id": "ou_4cfb3a44f88268e2af3bf49c62504488",
+          "id_type": "open_id",
+          "name": "况伟",
+          "sender_i18n_names": {
+            "zh_cn": "肥肥3鸭鸭"
+          },
+          "sender_type": "user",
+          "tenant_key": "1be6081c5e55574f"
+        },
+        "thread_id": "omt_19baa4677dcf1bb1",
+        "thread_message_position": "6",
+        "updated": false
+      },
+      {
+        "chat_id": "oc_116045b976a58256400df3e6c4a57c1b",
+        "content": "[Sticker]",
+        "create_time": "2026-10-26 19:29",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/thread/open?open_chat_id=oc_116045b976a58256400df3e6c4a57c1b\u0026open_thread_id=omt_19baa4677dcf1bb1\u0026openchatid=oc_116045b976a58256400df3e6c4a57c1b\u0026openthreadid=omt_19baa4677dcf1bb1\u0026thread_position=7",
+        "message_id": "om_x100b62c7d58564acce488c89f54bdf9",
+        "message_position": "-3",
+        "msg_type": "sticker",
+        "sender": {
+          "id": "ou_a2261e8296918fdbb9133edaec862822",
+          "id_type": "open_id",
+          "name": "用户456741",
+          "sender_i18n_names": {
+            "zh_cn": "小木"
+          },
+          "sender_type": "user",
+          "tenant_key": "148bb84b409b574f"
+        },
+        "thread_id": "omt_19baa4677dcf1bb1",
+        "thread_message_position": "7",
+        "updated": false
+      },
+      {
+        "chat_id": "oc_116045b976a58256400df3e6c4a57c1b",
+        "content": "[Sticker]",
+        "create_time": "2026-10-26 19:35",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/thread/open?open_chat_id=oc_116045b976a58256400df3e6c4a57c1b\u0026open_thread_id=omt_19baa4677dcf1bb1\u0026openchatid=oc_116045b976a58256400df3e6c4a57c1b\u0026openthreadid=omt_19baa4677dcf1bb1\u0026thread_position=8",
+        "message_id": "om_x100b62c7e15f9ca8cf04895aab2d366",
+        "message_position": "-3",
+        "msg_type": "sticker",
+        "sender": {
+          "id": "ou_a47790a5531251273834274fb05bd682",
+          "id_type": "open_id",
+          "name": "冯梦龙",
+          "sender_i18n_names": {
+            "en_us": "冯梦龙",
+            "zh_cn": "冯梦龙"
+          },
+          "sender_type": "user",
+          "tenant_key": "2c04f6f39bcf575e"
+        },
+        "thread_id": "omt_19baa4677dcf1bb1",
+        "thread_message_position": "8",
+        "updated": false
+      }
+    ],
+    "page_token": "",
+    "thread_id": "omt_19baa4677dcf1bb1",
+    "total": 9
+  },
+  "meta": {
+    "pagination": {
+      "complete": true,
+      "pages": 1,
+      "items": 9
+    }
+  }
+}

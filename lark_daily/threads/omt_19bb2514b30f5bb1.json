@@ -1,0 +1,194 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "has_more": false,
+    "messages": [
+      {
+        "chat_id": "oc_116045b976a58256400df3e6c4a57c1b",
+        "content": "\u003ccard\u003e\n自己的项目文件保存在本地磁盘，和是否卸载 TRAE 无关，不会被删除。但 TRAE 自身的配置、插件、历史对话等数据，在**完全卸载后再重装**的情况下能否保留，目前没有查到足够明确、能直接对应这一场景的官方说明。\n\n如需确认，建议到 TRAE 社区论坛的「帮助与支持」板块发帖：🔗 [https://forum.trae.cn/c/7-category/7](https://forum.trae.cn/c/7-category/7)\n\n发帖时写上 **TRAE IDE 版本、操作系统和具体现象**，方便定位。\n---\n💡 更多使用问题请转移至 [TRAE 官方社区「帮助与支持」板块](https://forum.trae.cn/c/7-category/7) 发帖询问 \n · 021792978399036fdbddc02001405304b59cb53af0000e96684c1 · \n[已解决]\n[更多问题请到「官方社区」提问](https://forum.trae.cn/c/7-category/7)\n\u003c/card\u003e",
+        "create_time": "2026-10-26 09:33",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/thread/open?open_chat_id=oc_116045b976a58256400df3e6c4a57c1b\u0026open_thread_id=omt_19bb2514b30f5bb1\u0026openchatid=oc_116045b976a58256400df3e6c4a57c1b\u0026openthreadid=omt_19bb2514b30f5bb1\u0026thread_position=0",
+        "message_id": "om_x100b62de90cfe4b8c06809f78e187da",
+        "message_position": "-3",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a9c7f80599f8dbc4",
+          "id_type": "app_id",
+          "name": "TRAE 宝",
+          "open_bot_id": "ou_dfae499a31a17e270c3cc86c7275f2bd",
+          "sender_i18n_names": {
+            "en_us": "TRAE 宝",
+            "zh_cn": "TRAE 宝"
+          },
+          "sender_type": "app",
+          "tenant_key": "15d6d1e6e508d75e"
+        },
+        "thread_id": "omt_19bb2514b30f5bb1",
+        "thread_message_position": "0",
+        "update_time": "2026-10-26 09:34",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_116045b976a58256400df3e6c4a57c1b",
+        "content": "\u003cp\u003e有可能数据丢失，请谨慎卸载重新安装\u003c/p\u003e",
+        "create_time": "2026-10-26 11:57",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/thread/open?open_chat_id=oc_116045b976a58256400df3e6c4a57c1b\u0026open_thread_id=omt_19bb2514b30f5bb1\u0026openchatid=oc_116045b976a58256400df3e6c4a57c1b\u0026openthreadid=omt_19bb2514b30f5bb1\u0026thread_position=1",
+        "message_id": "om_x100b62d8b70b30b0ce5d3875e494609",
+        "message_position": "-3",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_f7c1d047112bcada3ec1fbbf6c98a9c3",
+          "id_type": "open_id",
+          "name": "哈基宸",
+          "sender_type": "user",
+          "tenant_key": "1a055c8d6c1cdbbc"
+        },
+        "thread_id": "omt_19bb2514b30f5bb1",
+        "thread_message_position": "1",
+        "update_time": "2026-10-26 11:57",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_116045b976a58256400df3e6c4a57c1b",
+        "content": "对话和以前对话里创建的文件 也可能丢掉是吧",
+        "create_time": "2026-10-26 12:58",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/thread/open?open_chat_id=oc_116045b976a58256400df3e6c4a57c1b\u0026open_thread_id=omt_19bb2514b30f5bb1\u0026openchatid=oc_116045b976a58256400df3e6c4a57c1b\u0026openthreadid=omt_19bb2514b30f5bb1\u0026thread_position=2",
+        "message_id": "om_x100b62d9afcd60a4c01cafec11efb61",
+        "message_position": "-3",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_18a0ac403fcd33273788c4c6c5967b1a",
+          "id_type": "open_id",
+          "name": "黄丽",
+          "sender_type": "user",
+          "tenant_key": "104762a2c81b5740"
+        },
+        "thread_id": "omt_19bb2514b30f5bb1",
+        "thread_message_position": "2",
+        "updated": false
+      },
+      {
+        "chat_id": "oc_116045b976a58256400df3e6c4a57c1b",
+        "content": "@黄丽 您好，项目代码文件还在您本地不会丢失哈\n但是AI 对话记录、本地任务数据\n- 存在 TRAE 本地缓存里（路径：~/Library/Application Support/Trae/ 或 %USERPROFILE%\\AppData\\Roaming\\Trae\\）\n- 如果你只是**普通卸载重装**（不手动删缓存文件夹），数据一般还在\n- 如果你是**完全卸载 + 手动删除了 Trae 数据文件夹**，那本地的历史对话、未接受的代码变更、回退快照这些都会丢哈\n\n如果您想保险一点，卸载前先做这两件事：\n1. **导出重要对话**：历史对话里有价值的内容，先保存\n2. **确认项目文件位置**：您的代码项目本来就在哪个文件夹，重装后直接打开那个文件夹就好",
+        "create_time": "2026-10-26 15:50",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_18a0ac403fcd33273788c4c6c5967b1a",
+            "key": "@_user_1",
+            "name": "黄丽"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/thread/open?open_chat_id=oc_116045b976a58256400df3e6c4a57c1b\u0026open_thread_id=omt_19bb2514b30f5bb1\u0026openchatid=oc_116045b976a58256400df3e6c4a57c1b\u0026openthreadid=omt_19bb2514b30f5bb1\u0026thread_position=3",
+        "message_id": "om_x100b62c428fdd884b08b1d85b13b5ee",
+        "message_position": "-3",
+        "msg_type": "post",
+        "sender": {
+          "id": "ou_f66233ee586f17ab9817ff3c41de6505",
+          "id_type": "open_id",
+          "name": "高旋",
+          "sender_i18n_names": {
+            "en_us": "Xuan Gao",
+            "zh_cn": "高旋"
+          },
+          "sender_type": "user",
+          "tenant_key": "736588c9260f175d"
+        },
+        "thread_id": "omt_19bb2514b30f5bb1",
+        "thread_message_position": "3",
+        "update_time": "2026-10-26 15:51",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_116045b976a58256400df3e6c4a57c1b",
+        "content": "怎么卸载才是普通卸载，导出重要对话就是导成WORD本地文档再时候到喂一遍是吗",
+        "create_time": "2026-10-26 15:53",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/thread/open?open_chat_id=oc_116045b976a58256400df3e6c4a57c1b\u0026open_thread_id=omt_19bb2514b30f5bb1\u0026openchatid=oc_116045b976a58256400df3e6c4a57c1b\u0026openthreadid=omt_19bb2514b30f5bb1\u0026thread_position=4",
+        "message_id": "om_x100b62c43fc774a8c1cca2c010de494",
+        "message_position": "-3",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_18a0ac403fcd33273788c4c6c5967b1a",
+          "id_type": "open_id",
+          "name": "黄丽",
+          "sender_type": "user",
+          "tenant_key": "104762a2c81b5740"
+        },
+        "thread_id": "omt_19bb2514b30f5bb1",
+        "thread_message_position": "4",
+        "updated": false
+      },
+      {
+        "chat_id": "oc_116045b976a58256400df3e6c4a57c1b",
+        "content": "卸载后检查一下本地缓存文件还在不，若是在数据一般都在的，若是不在数据就没了哈",
+        "create_time": "2026-10-26 15:55",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/thread/open?open_chat_id=oc_116045b976a58256400df3e6c4a57c1b\u0026open_thread_id=omt_19bb2514b30f5bb1\u0026openchatid=oc_116045b976a58256400df3e6c4a57c1b\u0026openthreadid=omt_19bb2514b30f5bb1\u0026thread_position=5",
+        "message_id": "om_x100b62c43b738888cfc55586d94152c",
+        "message_position": "-3",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_f66233ee586f17ab9817ff3c41de6505",
+          "id_type": "open_id",
+          "name": "高旋",
+          "sender_i18n_names": {
+            "en_us": "Xuan Gao",
+            "zh_cn": "高旋"
+          },
+          "sender_type": "user",
+          "tenant_key": "736588c9260f175d"
+        },
+        "thread_id": "omt_19bb2514b30f5bb1",
+        "thread_message_position": "5",
+        "updated": false
+      },
+      {
+        "chat_id": "oc_116045b976a58256400df3e6c4a57c1b",
+        "content": "@黄丽 这个位置可以导出会话，导出后，新开任务后先读取在执行\n![Image](img_v3_0216r_c32a2961-cd6c-42a5-9534-28f138cf82eg)",
+        "create_time": "2026-10-26 15:56",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_18a0ac403fcd33273788c4c6c5967b1a",
+            "key": "@_user_1",
+            "name": "黄丽"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/thread/open?open_chat_id=oc_116045b976a58256400df3e6c4a57c1b\u0026open_thread_id=omt_19bb2514b30f5bb1\u0026openchatid=oc_116045b976a58256400df3e6c4a57c1b\u0026openthreadid=omt_19bb2514b30f5bb1\u0026thread_position=6",
+        "message_id": "om_x100b62c4374970accf1fa58b79e5318",
+        "message_position": "-3",
+        "msg_type": "post",
+        "sender": {
+          "id": "ou_f66233ee586f17ab9817ff3c41de6505",
+          "id_type": "open_id",
+          "name": "高旋",
+          "sender_i18n_names": {
+            "en_us": "Xuan Gao",
+            "zh_cn": "高旋"
+          },
+          "sender_type": "user",
+          "tenant_key": "736588c9260f175d"
+        },
+        "thread_id": "omt_19bb2514b30f5bb1",
+        "thread_message_position": "6",
+        "update_time": "2026-10-26 15:56",
+        "updated": true
+      }
+    ],
+    "page_token": "",
+    "thread_id": "omt_19bb2514b30f5bb1",
+    "total": 7
+  },
+  "meta": {
+    "pagination": {
+      "complete": true,
+      "pages": 1,
+      "items": 7
+    }
+  }
+}

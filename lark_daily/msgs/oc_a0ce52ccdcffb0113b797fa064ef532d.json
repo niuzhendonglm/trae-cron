@@ -1,0 +1,181 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "has_more": false,
+    "messages": [
+      {
+        "chat_id": "oc_a0ce52ccdcffb0113b797fa064ef532d",
+        "content": "\u003ccard title=\"【测试问题】待处理清单，请关注\"\u003e\n@everyone 待处理清单如下：\n| 问题描述 | 所属应用 | 访问链接 | 问题状态 | 测试时间 | 处理人 | 测试人 |\n|------|------|------|------|------|------|------|\n| 30分钟强制授权过去了，正在做的检测任务，出现异常，并且退回查看记录页面有几个为空的任务记录 | 制造_AI_高压测试电缆接线防反检测_济南_系统 | http://hvrd.inovance.com/ | 创建 | 2026/10/23 |  |  |\n| 数据看板---1，柱状图已经把年月周的文字盖住了2、 今日（10.20）4个合格的，10.20 怎么柱状图全是红色--（重点看）3、这个年月日还要不要？还要不要做 | 制造_AI_高压测试电缆接线防反检测_济南_系统 | http://hvrd.inovance.com/ | 修复中 |  |  |  |\n| 检测报告----不是ai检测的机型，被拒接的次数也放在报告明细中了，但是这种情况没有算在ai识别那三次中，明细中还放具体的详情吗 | 制造_AI_高压测试电缆接线防反检测_济南_系统 | http://hvrd.inovance.com/ | 创建 | 2026/10/23 |  |  |\n| 检测编码的编码规则，参考设计文档中，如图 | 制造_AI_高压测试电缆接线防反检测_济南_系统 | http://hvrd.inovance.com/ | 待确认需求 |  |  |  |\n| AI互检给出的状态是不合格，但是报告明细中，6条线的AI的判定结果是全部合格（看录屏） | 制造_AI_高压测试电缆接线防反检测_济南_系统 | http://hvrd.inovance.com/ | 创建 | 2026/10/23 |  |  |\n| AI互检不合格，点击【人工互检整改】，提交照片，AI自动判断合格了，但是明细中显示的还是人工判断合格AI自动判断又出现一个小细节问题：1、点击提交检测，显示调整到ai上传6张ai检测照片的老爷们中；2、在跳转到合格页面期望：点击提交，应该跳转到人工判断合格或者不合格页面，不是ai自动判断是否合格 | 制造_AI_高压测试电缆接线防反检测_济南_系统 | http://hvrd.inovance.com/ | 创建 | 2026/10/23 |  |  |\n| AI检测---ai检测识别通过后，没有人工确认退出页面则还在状态还在待检测页面，但是这个SN号已经被记住成功了，无论上传什么照片都是识别通过期望：应该再次进入该检测任务下，应该回到退出前的页面；删除上传照片的X，不在上传新的照片，因为不管上传什么照片，这个都会默认成功需确认：当前状态是待检测，需要加状态吗 | 制造_AI_高压测试电缆接线防反检测_济南_系统 | http://hvrd.inovance.com/ | 创建 | 2026/10/23 |  |  |\n| AI整改3次不合格，会先提示转待互检状态，然后强制跳转到人工检测页面，提交人工检测，又提示你不能互检自己的检测任务 | 制造_AI_高压测试电缆接线防反检测_济南_系统 | http://hvrd.inovance.com/ | 创建 | 2026/10/23 |  |  |\n| 在上传照片和上传铭牌的时候，显示效果如图所示，照片无法预览，都无法确实上传的照片是否正确 | 制造_AI_高压测试电缆接线防反检测_济南_系统 | http://hvrd.inovance.com/ | 修复中 |  |  |  |\n| AI检测无法识别，然后再继续上传照片全部通过，点击人工确认是否合格，选择：否，但是状态是：无法识别 | 制造_AI_高压测试电缆接线防反检测_济南_系统 | http://hvrd.inovance.com/ | 创建 | 2026/10/22 |  |  |\n| AI检测第一次就合格，人工确认否，提示待重新拍照，但是没有进入记录中，也没有进入待处理中还在待检测页面 | 制造_AI_高压测试电缆接线防反检测_济南_系统 | http://hvrd.inovance.com/ | 创建 | 2026/10/22 |  |  |\n| AI检测----场景：1、通过待检测进入到扫码页面，自动带出所有信息； 2，点击拍照检测，进入上传照片；3、在点击返上一页，信息全部丢失了，需要重新填写数据信息 | 制造_AI_高压测试电缆接线防反检测_济南_系统 | http://hvrd.inovance.com/ | 待确认需求 |  |  |  |\n| 日志管理，1. 客户端类型、操作类型没有值， log.data.ts 2. 操作日志内容，缺少请求方法、请求参数，非Online表单操作缺少这些信息3. 检查所有接口，导入导出缺少操作日志记录，4.日志管理-操作日志，在修改角色或角色添加用户时，请求方法和请求参数都没有内容 | 制造_AI_高压测试电缆接线防反检测_济南_系统 | http://hvrd.inovance.com/ | 已修复 |  |  |  |\n| AI检测记录中，置信度的值为空 | 制造_AI_高压测试电缆接线防反检测_济南_系统 | http://hvrd.inovance.com/ | 创建 | 2026/10/22 |  |  |\n| 人工检测合格后，到待互检状态下，互检人ai互检不合格，不合格页面展示的检测人不对。当前的互检人：曹丽； 检测人： 但是页面显示的是：检测人：曹丽因为是互检状态下，提交不合格的任务是互检人：曹丽，应该显示的是：互检人：曹丽 | 制造_AI_高压测试电缆接线防反检测_济南_系统 | http://hvrd.inovance.com/ | 创建 | 2026/10/23 |  |  |\n| 检测记录中， 检测列表是【任务令号】+【SN号】展示，应该是产品编码吧 | 制造_AI_高压测试电缆接线防反检测_济南_系统 | http://hvrd.inovance.com/ | 待确认需求 |  |  |  |\n| AI检测不合格，待整改的页面不一样，直接跳转【待整改】如图2，退出从【待处理】页进入待整改，如图1 | 制造_AI_高压测试电缆接线防反检测_济南_系统 | http://hvrd.inovance.com/ | 创建 | 2026/10/23 |  |  |\n| AI第一次互检不合格，人工整改合格，但是记录中是没有互检人，是待互检状态，但是【待处理】页面没有这个“待互检”的任务 | 制造_AI_高压测试电缆接线防反检测_济南_系统 | http://hvrd.inovance.com/ | 创建 | 2026/10/23 |  |  |\n| 激活：这个问题没有改动呀，还和原来一样 | 制造_AI_高压测试电缆接线防反检测_济南_系统 | http://hvrd.inovance.com/ | 激活 | 2026/10/23 |  |  |\n| 人工检测流程---检测人提交检测结果，记录页面生产一条记录；互检人新增复核人工互检通过，只是是在原来检测人的记录上更新了状态，记录列表中时间没有更新。如10.8 10:00 合格，下午10.8  13:30； 人工互检通过，时间还是10:00。 | 制造_AI_高压测试电缆接线防反检测_济南_系统 | http://hvrd.inovance.com/ | 待确认需求 |  |  |  |\n| ai检测不合格，整改检测下面的2处参考图没有加进去 | 制造_AI_高压测试电缆接线防反检测_济南_系统 | http://hvrd.inovance.com/ | 创建 | 2026/10/23 |  |  |\n| 数据看板中---互检人没有记录在人员分析，只记录了检测人的检测记录 | 制造_AI_高压测试电缆接线防反检测_济南_系统 | http://hvrd.inovance.com/ | 待确认需求 |  |  |  |\n| 检测记录中的时间排序不对，10:22号在最上面，今天10.23号在下面，10.21号又在10.23下面。复现场景：正常当天任务当天做完不会出现，如果昨天检测的任务，今天才完成互检通过，就会出现该问题。 | 制造_AI_高压测试电缆接线防反检测_济南_系统 | http://hvrd.inovance.com/ | 创建 | 2026/10/23 |  |  |\n| AI检测合格后，自动弹出人工确认，但是记录报告中，缺少人工确认 | 制造_AI_高压测试电缆接线防反检测_济南_系统 | http://hvrd.inovance.com/ | 创建 | 2026/10/22 |  |  |\n| 检测报告--同一个人提交不合格后，到了“待人工互检”，检测人重复检测，报告里没有每次检测的记录，只有一条，只覆盖更新最新的记录 | 制造_AI_高压测试电缆接线防反检测_济南_系统 | http://hvrd.inovance.com/ | 修复中 |  |  |  |\n| 我的里面的【任务令列表】和【检测任务列表】还要吗？里面显示的状态数据都不对 | 制造_AI_高压测试电缆接线防反检测_济南_系统 | http://hvrd.inovance.com/ | 待确认需求 |  |  |  |\n| AI检测报告----（1）ai上传的图片的能否参考人工图片，目前钻头都则盖住了，（如图2）（2）上传一张照片识别全部内容，其他接线无法正常显示 | 制造_AI_高压测试电缆接线防反检测_济南_系统 | http://hvrd.inovance.com/ | 修复中 | 2026/10/22 |  |  |\n| AI检测不合格，跳到待整改，进行整改时，上传合格的状态一直都是不合格。初期判断：第一次检测的时候，ai已经记录这个sn号是不合格了整改上传照片ai复检时，应该还是记录不合格的状态，应该重置SN号，重新识别 | 制造_AI_高压测试电缆接线防反检测_济南_系统 | http://hvrd.inovance.com/ | 创建 | 2026/10/23 |  |  |\n| ai无法识别时，点击【人工检测】，系统提示生成待互检任务，到待处理页面，但是待处理状态是：待重新拍照；  期望：点击人工检测，直接跳转到人工检测操作页面 | 制造_AI_高压测试电缆接线防反检测_济南_系统 | http://hvrd.inovance.com/ | 创建 |  |  |  |\n[去处理](https://inovance.feishu.cn/base/AnH9bCdGKaLWa8silwccgTqLn8b?table=tblQdIGfZOL2IhUa\u0026view=vewL6AYKDe\u0026ccm_open_type=im_card_automation_button)\n---\n\u003c/card\u003e",
+        "create_time": "2026-10-26 10:15",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_b65f0fe76c977aeb934b207a067ac8d5",
+            "key": "@_user_1",
+            "name": "石峰"
+          },
+          {
+            "id": "ou_271c27ad206c31bf2b533474db2d9ef5",
+            "key": "@_user_2",
+            "name": "蔺雨桐"
+          },
+          {
+            "id": "ou_0fc158dbde9024d8ab66a892734e1196",
+            "key": "@_user_3",
+            "name": "曹丽"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_a0ce52ccdcffb0113b797fa064ef532d\u0026position=513",
+        "message_id": "om_x100b62df344648a8c05a7be6ed121aa",
+        "message_position": "513",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "ou_635008cc2affc45d23de666f2e7e7446",
+          "id_type": "open_id",
+          "name": "牛振东",
+          "sender_i18n_names": {
+            "en_us": "niuzhendong"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_a0ce52ccdcffb0113b797fa064ef532d",
+        "content": "测试问题，注意跟踪闭环",
+        "create_time": "2026-10-26 10:15",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_a0ce52ccdcffb0113b797fa064ef532d\u0026position=514",
+        "message_id": "om_x100b62df3458d8b8dd0dee4082fbc01",
+        "message_position": "514",
+        "msg_type": "text",
+        "reply_to": "om_x100b62df344648a8c05a7be6ed121aa",
+        "sender": {
+          "id": "ou_635008cc2affc45d23de666f2e7e7446",
+          "id_type": "open_id",
+          "name": "牛振东",
+          "sender_i18n_names": {
+            "en_us": "niuzhendong"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-26 10:15",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_a0ce52ccdcffb0113b797fa064ef532d",
+        "content": "我刚刚找他们说了，上周四快下班才ai流程才正式给我测试，周五测了一二十个bug，现在这些bug不解决，我都没有法测下去。雨桐在看，有争议的，一起一起沟通，没有争议他说他改",
+        "create_time": "2026-10-26 10:18",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_a0ce52ccdcffb0113b797fa064ef532d\u0026position=515",
+        "message_id": "om_x100b62dfcb5944b0cff72b4c103d586",
+        "message_position": "515",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_0fc158dbde9024d8ab66a892734e1196",
+          "id_type": "open_id",
+          "name": "曹丽",
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-26 10:18",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_a0ce52ccdcffb0113b797fa064ef532d",
+        "content": "\u003cp\u003e我今天要跟着问题解决，因为不解决这些，影响测试进度\u003c/p\u003e",
+        "create_time": "2026-10-26 10:19",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_a0ce52ccdcffb0113b797fa064ef532d\u0026position=516",
+        "message_id": "om_x100b62dfc70f48a0cf00e7c3159cd79",
+        "message_position": "516",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_0fc158dbde9024d8ab66a892734e1196",
+          "id_type": "open_id",
+          "name": "曹丽",
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-26 10:19",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_a0ce52ccdcffb0113b797fa064ef532d",
+        "content": "好的[赞]",
+        "create_time": "2026-10-26 10:26",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_a0ce52ccdcffb0113b797fa064ef532d\u0026position=517",
+        "message_id": "om_x100b62dfebb6dcb0c04875d94de6b38",
+        "message_position": "517",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_635008cc2affc45d23de666f2e7e7446",
+          "id_type": "open_id",
+          "name": "牛振东",
+          "sender_i18n_names": {
+            "en_us": "niuzhendong"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_a0ce52ccdcffb0113b797fa064ef532d",
+        "content": "\u003ccalendar_share open_calendar_id=\"feishu.cn_KEqLHIUwWfzIryYknb7Prb@group.calendar.feishu.cn\" open_event_id=\"ed31deb4-2228-4b60-bee0-2039f4cc9bf0_0\" share_token=\"cse_KZLKNBWIFF1JtAkOt4I9pw\"\u003e\n【济南AI】高压接线防反进度—测试阶段评审\n2026-10-30 09:30:00 ~ 2026-10-30 10:00:00\n\u003c/calendar_share\u003e",
+        "create_time": "2026-10-26 18:20",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_a0ce52ccdcffb0113b797fa064ef532d\u0026position=518",
+        "message_id": "om_x100b62c6d9f8cca8ce903a7f77052cc",
+        "message_position": "518",
+        "msg_type": "share_calendar_event",
+        "sender": {
+          "id": "ou_635008cc2affc45d23de666f2e7e7446",
+          "id_type": "open_id",
+          "name": "牛振东",
+          "sender_i18n_names": {
+            "en_us": "niuzhendong"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_a0ce52ccdcffb0113b797fa064ef532d",
+        "content": "曹工，周五的测试阶段评审，把测试问题、进展、建议，准备个一页ppt讲述一下吧",
+        "create_time": "2026-10-26 18:20",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_a0ce52ccdcffb0113b797fa064ef532d\u0026position=519",
+        "message_id": "om_x100b62c6d9f648a0b4ae8a96e24c7dd",
+        "message_position": "519",
+        "msg_type": "text",
+        "reply_to": "om_x100b62c6d9f8cca8ce903a7f77052cc",
+        "sender": {
+          "id": "ou_635008cc2affc45d23de666f2e7e7446",
+          "id_type": "open_id",
+          "name": "牛振东",
+          "sender_i18n_names": {
+            "en_us": "niuzhendong"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      }
+    ],
+    "page_token": "",
+    "total": 7
+  },
+  "meta": {
+    "pagination": {
+      "complete": true,
+      "pages": 1,
+      "items": 7
+    }
+  }
+}

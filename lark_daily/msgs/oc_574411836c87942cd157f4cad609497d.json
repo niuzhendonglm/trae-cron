@@ -1,0 +1,511 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "has_more": false,
+    "messages": [
+      {
+        "chat_id": "oc_574411836c87942cd157f4cad609497d",
+        "content": "@周刚 周工，OEE数据访问的权限是找穆工对接么？@穆潇",
+        "create_time": "2026-10-26 14:03",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_b1a90d1912f916b4ef287e3d3948c31f",
+            "key": "@_user_1",
+            "name": "周刚"
+          },
+          {
+            "id": "ou_c1a8a63bf361f1163e28cdf9dc77b49e",
+            "key": "@_user_2",
+            "name": "穆潇"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_574411836c87942cd157f4cad609497d\u0026position=92",
+        "message_id": "om_x100b62da9f013ca0b08a5180363d69e",
+        "message_position": "92",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_6e83d7770d6715848033736090bba3ce",
+          "id_type": "open_id",
+          "name": "李家伟",
+          "sender_i18n_names": {
+            "en_us": "lijiawei"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-26 14:03",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_574411836c87942cd157f4cad609497d",
+        "content": "\u003cp\u003e刘工宏宇吧\u003c/p\u003e",
+        "create_time": "2026-10-26 14:03",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_574411836c87942cd157f4cad609497d\u0026position=93",
+        "message_id": "om_x100b62da9d5214a4ddd153107ba6db3",
+        "message_position": "93",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_b1a90d1912f916b4ef287e3d3948c31f",
+          "id_type": "open_id",
+          "name": "周刚",
+          "sender_i18n_names": {
+            "en_us": "zhougang"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-26 14:03",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_574411836c87942cd157f4cad609497d",
+        "content": "@刘宏宇 宏宇，OEE数据的具体接口有么？或者先发我们一些实例数据，比如1天，或者1周的",
+        "create_time": "2026-10-26 14:16",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_c8afe8aab3f80a020c356c0ca46a12ce",
+            "key": "@_user_1",
+            "name": "刘宏宇"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_574411836c87942cd157f4cad609497d\u0026position=94",
+        "message_id": "om_x100b62db4deca0a0cd020d211db7739",
+        "message_position": "94",
+        "msg_type": "text",
+        "reply_to": "om_x100b62da9f013ca0b08a5180363d69e",
+        "sender": {
+          "id": "ou_6e83d7770d6715848033736090bba3ce",
+          "id_type": "open_id",
+          "name": "李家伟",
+          "sender_i18n_names": {
+            "en_us": "lijiawei"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-26 14:16",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_574411836c87942cd157f4cad609497d",
+        "content": "李工 我稍后给你发一份数据样例",
+        "create_time": "2026-10-26 14:19",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_574411836c87942cd157f4cad609497d\u0026position=95",
+        "message_id": "om_x100b62db402364b0b09f01df75e80cf",
+        "message_position": "95",
+        "msg_type": "text",
+        "reply_to": "om_x100b62db4deca0a0cd020d211db7739",
+        "sender": {
+          "id": "ou_c1a8a63bf361f1163e28cdf9dc77b49e",
+          "id_type": "open_id",
+          "name": "穆潇",
+          "sender_i18n_names": {
+            "en_us": "Michel"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_574411836c87942cd157f4cad609497d",
+        "content": "@李家伟家伟，目前OEE相关的数据还没有发布成数据服务，你们看下需要哪个颗粒度的， 底层明细数据还是汇总后的",
+        "create_time": "2026-10-26 14:19",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_6e83d7770d6715848033736090bba3ce",
+            "key": "@_user_1",
+            "name": "李家伟"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_574411836c87942cd157f4cad609497d\u0026position=96",
+        "message_id": "om_x100b62db414e144cc0974ec6563e89a",
+        "message_position": "96",
+        "msg_type": "text",
+        "reply_to": "om_x100b62db4deca0a0cd020d211db7739",
+        "sender": {
+          "id": "ou_c8afe8aab3f80a020c356c0ca46a12ce",
+          "id_type": "open_id",
+          "name": "刘宏宇",
+          "sender_i18n_names": {
+            "en_us": "liuhongyu"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-26 14:19",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_574411836c87942cd157f4cad609497d",
+        "content": "@刘宏宇 先发汇总后的，我们分析一下数据特征。",
+        "create_time": "2026-10-26 14:21",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_c8afe8aab3f80a020c356c0ca46a12ce",
+            "key": "@_user_1",
+            "name": "刘宏宇"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_574411836c87942cd157f4cad609497d\u0026position=97",
+        "message_id": "om_x100b62db5bf9d0accec57c5660eae2f",
+        "message_position": "97",
+        "msg_type": "text",
+        "reply_to": "om_x100b62db414e144cc0974ec6563e89a",
+        "sender": {
+          "id": "ou_6e83d7770d6715848033736090bba3ce",
+          "id_type": "open_id",
+          "name": "李家伟",
+          "sender_i18n_names": {
+            "en_us": "lijiawei"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-26 14:21",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_574411836c87942cd157f4cad609497d",
+        "content": "OK，那待会看下穆潇发出来的样例",
+        "create_time": "2026-10-26 14:21",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_574411836c87942cd157f4cad609497d\u0026position=98",
+        "message_id": "om_x100b62db56bcbd0cddb89e87cf70deb",
+        "message_position": "98",
+        "msg_type": "text",
+        "reply_to": "om_x100b62db402364b0b09f01df75e80cf",
+        "sender": {
+          "id": "ou_c8afe8aab3f80a020c356c0ca46a12ce",
+          "id_type": "open_id",
+          "name": "刘宏宇",
+          "sender_i18n_names": {
+            "en_us": "liuhongyu"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_574411836c87942cd157f4cad609497d",
+        "content": "@李家伟 李工，这个汇总后的是指我们oee的结果表(ads)嘛？还是说把用来计算oee所需的因子都算出来的明细表（dws），还是我们用来计算oee的所有原始数据（dwd宽表）？",
+        "create_time": "2026-10-26 14:54",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_6e83d7770d6715848033736090bba3ce",
+            "key": "@_user_1",
+            "name": "李家伟"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_574411836c87942cd157f4cad609497d\u0026position=99",
+        "message_id": "om_x100b62dbdc7758a8cea9d383d0fc653",
+        "message_position": "99",
+        "msg_type": "text",
+        "reply_to": "om_x100b62db5bf9d0accec57c5660eae2f",
+        "sender": {
+          "id": "ou_c1a8a63bf361f1163e28cdf9dc77b49e",
+          "id_type": "open_id",
+          "name": "穆潇",
+          "sender_i18n_names": {
+            "en_us": "Michel"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-26 14:54",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_574411836c87942cd157f4cad609497d",
+        "content": "看看哪个更符合你的需求？",
+        "create_time": "2026-10-26 14:54",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_574411836c87942cd157f4cad609497d\u0026position=100",
+        "message_id": "om_x100b62dbdd860880cefe771105923a5",
+        "message_position": "100",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_c1a8a63bf361f1163e28cdf9dc77b49e",
+          "id_type": "open_id",
+          "name": "穆潇",
+          "sender_i18n_names": {
+            "en_us": "Michel"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_574411836c87942cd157f4cad609497d",
+        "content": "@穆潇 穆工，参照周工写的文档，我们想获取以下几张表的实例数据\n![Image](img_v3_0216r_8f0fe521-eb56-4b7b-9024-1585b8a1d3eg)",
+        "create_time": "2026-10-26 14:56",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_c1a8a63bf361f1163e28cdf9dc77b49e",
+            "key": "@_user_1",
+            "name": "穆潇"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_574411836c87942cd157f4cad609497d\u0026position=101",
+        "message_id": "om_x100b62dbd71a70a4cf45da741838fba",
+        "message_position": "101",
+        "msg_type": "post",
+        "reply_to": "om_x100b643a2ac994b8b2e30a344f58f7e",
+        "sender": {
+          "id": "ou_6e83d7770d6715848033736090bba3ce",
+          "id_type": "open_id",
+          "name": "李家伟",
+          "sender_i18n_names": {
+            "en_us": "lijiawei"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-26 14:56",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_574411836c87942cd157f4cad609497d",
+        "content": "先进行数据质量校验飞书机器人的开发",
+        "create_time": "2026-10-26 14:56",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_574411836c87942cd157f4cad609497d\u0026position=102",
+        "message_id": "om_x100b62dbd446a4b0ce48dffe0fc4aff",
+        "message_position": "102",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_6e83d7770d6715848033736090bba3ce",
+          "id_type": "open_id",
+          "name": "李家伟",
+          "sender_i18n_names": {
+            "en_us": "lijiawei"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_574411836c87942cd157f4cad609497d",
+        "content": "好的 我导出来一些，数据量会比较大，所以会筛选一部分数据发出",
+        "create_time": "2026-10-26 14:57",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_574411836c87942cd157f4cad609497d\u0026position=103",
+        "message_id": "om_x100b62dbd3ae4ca4cf5329d5ae747f3",
+        "message_position": "103",
+        "msg_type": "text",
+        "reply_to": "om_x100b62dbd71a70a4cf45da741838fba",
+        "sender": {
+          "id": "ou_c1a8a63bf361f1163e28cdf9dc77b49e",
+          "id_type": "open_id",
+          "name": "穆潇",
+          "sender_i18n_names": {
+            "en_us": "Michel"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_574411836c87942cd157f4cad609497d",
+        "content": "好的，给我们想相关联的即可",
+        "create_time": "2026-10-26 14:59",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_574411836c87942cd157f4cad609497d\u0026position=104",
+        "message_id": "om_x100b62dbeb0ec880cfee2ccfa64c5c9",
+        "message_position": "104",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_6e83d7770d6715848033736090bba3ce",
+          "id_type": "open_id",
+          "name": "李家伟",
+          "sender_i18n_names": {
+            "en_us": "lijiawei"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_574411836c87942cd157f4cad609497d",
+        "content": "\u003cfile key=\"file_v3_0016r_ed5086d1-1b53-42a0-84c7-06db31f4865g\" name=\"CT_金山湖线指定产品编码.xlsx\"/\u003e",
+        "create_time": "2026-10-26 17:43",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_574411836c87942cd157f4cad609497d\u0026position=105",
+        "message_id": "om_x100b62c64419f0b8ce4e9f95783e985",
+        "message_position": "105",
+        "msg_type": "file",
+        "sender": {
+          "id": "ou_c1a8a63bf361f1163e28cdf9dc77b49e",
+          "id_type": "open_id",
+          "name": "穆潇",
+          "sender_i18n_names": {
+            "en_us": "Michel"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_574411836c87942cd157f4cad609497d",
+        "content": "\u003cfile key=\"file_v3_0016r_e3ea9758-5ac9-457a-9f69-ae9a57c288cg\" name=\"过站数量明细表_金山湖线10月23日指定产品编码.xlsx\"/\u003e",
+        "create_time": "2026-10-26 17:43",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_574411836c87942cd157f4cad609497d\u0026position=106",
+        "message_id": "om_x100b62c6441ae880ce4050b3e8396bf",
+        "message_position": "106",
+        "msg_type": "file",
+        "sender": {
+          "id": "ou_c1a8a63bf361f1163e28cdf9dc77b49e",
+          "id_type": "open_id",
+          "name": "穆潇",
+          "sender_i18n_names": {
+            "en_us": "Michel"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_574411836c87942cd157f4cad609497d",
+        "content": "\u003cfile key=\"file_v3_0016r_58f65678-9575-42c1-8c86-fa8a36e8ddag\" name=\"Andon延误工单明细_金山湖线10月23日.xlsx\"/\u003e",
+        "create_time": "2026-10-26 17:43",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_574411836c87942cd157f4cad609497d\u0026position=107",
+        "message_id": "om_x100b62c64415b8a0ce51771e4fbe51e",
+        "message_position": "107",
+        "msg_type": "file",
+        "sender": {
+          "id": "ou_c1a8a63bf361f1163e28cdf9dc77b49e",
+          "id_type": "open_id",
+          "name": "穆潇",
+          "sender_i18n_names": {
+            "en_us": "Michel"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_574411836c87942cd157f4cad609497d",
+        "content": "这是驱控金山湖线10月23日的oee计算所需的宽表数据，但现在还差ct表里面的工时信息，现在宽表有些问题，正找it解决，解决好了我会导出来再发这里",
+        "create_time": "2026-10-26 17:44",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_574411836c87942cd157f4cad609497d\u0026position=108",
+        "message_id": "om_x100b62c65e94fca0b1e49242a9c9ca8",
+        "message_position": "108",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_c1a8a63bf361f1163e28cdf9dc77b49e",
+          "id_type": "open_id",
+          "name": "穆潇",
+          "sender_i18n_names": {
+            "en_us": "Michel"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-26 17:44",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_574411836c87942cd157f4cad609497d",
+        "content": "@曾亚剑 @柯明仁 二位，我们先对这几张表的数据进行分析",
+        "create_time": "2026-10-26 18:56",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_bb71ad4b0b8690b7583ff3e242539e7b",
+            "key": "@_user_1",
+            "name": "曾亚剑"
+          },
+          {
+            "id": "ou_2300f5eb86d7016df5c7b14840eb55cc",
+            "key": "@_user_2",
+            "name": "柯明仁"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_574411836c87942cd157f4cad609497d\u0026position=109",
+        "message_id": "om_x100b62c7520364acce77a1a0b58487c",
+        "message_position": "109",
+        "msg_type": "text",
+        "reply_to": "om_x100b62c65e94fca0b1e49242a9c9ca8",
+        "sender": {
+          "id": "ou_6e83d7770d6715848033736090bba3ce",
+          "id_type": "open_id",
+          "name": "李家伟",
+          "sender_i18n_names": {
+            "en_us": "lijiawei"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-26 18:56",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_574411836c87942cd157f4cad609497d",
+        "content": "李家伟 invited 汪茹 to the group. New members can view all chat history.",
+        "create_time": "2026-10-26 18:56",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_574411836c87942cd157f4cad609497d\u0026position=110",
+        "message_id": "om_x100b62c75068e0b0b0e8d6b5f7568d0",
+        "message_position": "110",
+        "msg_type": "system",
+        "sender": {
+          "id": "",
+          "id_type": "",
+          "sender_type": "",
+          "tenant_key": ""
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_574411836c87942cd157f4cad609497d",
+        "content": "\u003cfile key=\"file_v3_0016r_806ec9c6-3dd3-438e-bc47-fc17f092c34g\" name=\"CT工时表_金山湖线10月23日.xlsx\"/\u003e",
+        "create_time": "2026-10-26 19:29",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_574411836c87942cd157f4cad609497d\u0026position=111",
+        "message_id": "om_x100b62c7d449b4a4cf07f0951f5781a",
+        "message_position": "111",
+        "msg_type": "file",
+        "sender": {
+          "id": "ou_c1a8a63bf361f1163e28cdf9dc77b49e",
+          "id_type": "open_id",
+          "name": "穆潇",
+          "sender_i18n_names": {
+            "en_us": "Michel"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      }
+    ],
+    "page_token": "",
+    "total": 20
+  },
+  "meta": {
+    "pagination": {
+      "complete": true,
+      "pages": 1,
+      "items": 20
+    }
+  }
+}

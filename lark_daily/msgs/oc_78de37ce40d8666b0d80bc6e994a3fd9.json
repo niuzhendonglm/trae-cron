@@ -1,0 +1,330 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "has_more": false,
+    "messages": [
+      {
+        "chat_id": "oc_78de37ce40d8666b0d80bc6e994a3fd9",
+        "content": "10月26日\n1.SCADA标志位时间差问题——工控机时间问题联系IT纠正，读取公司内网时间，自动纠正，确保时间准确，PLC时间需要通过工控机时间定期写入刷新——李岳林（10月26日）\n2.IFG平台主动获取SCADA标志位功能确认闭环情况——李家伟（10月26日）\n3.确认秒级数据采集SCADA功能适配问题——商轩赫（10月26日）\n4.数据完整传输确认——安文斌（10月26日）",
+        "create_time": "2026-10-26 11:04",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_78de37ce40d8666b0d80bc6e994a3fd9\u0026position=452",
+        "message_id": "om_x100b62d87dba3cb4b053cf2a4abb7ad",
+        "message_position": "452",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_b7b548d860d64d3f5055492f2de866da",
+          "id_type": "open_id",
+          "name": "安文斌",
+          "sender_i18n_names": {
+            "en_us": "anwenbin"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-26 11:04",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_78de37ce40d8666b0d80bc6e994a3fd9",
+        "content": "![Image](img_v3_0216r_b2a5703f-32d2-4f76-8ed5-cea4ba0924dg)\n用这个云文档里的接口试试主动获取两个标志位",
+        "create_time": "2026-10-26 11:09",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_78de37ce40d8666b0d80bc6e994a3fd9\u0026position=453",
+        "message_id": "om_x100b62d806d1211cdf6884c002a7b05",
+        "message_position": "453",
+        "msg_type": "post",
+        "reply_to": "om_x100b6590192088a0c11fe3d605cb8b1",
+        "sender": {
+          "id": "ou_47d191520c96d9714b7d16957539255f",
+          "id_type": "open_id",
+          "name": "商轩赫",
+          "sender_i18n_names": {
+            "en_us": "shangxuanhe"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_78de37ce40d8666b0d80bc6e994a3fd9",
+        "content": "@李岳林 李工，SCADA标志位推送，能否按照变化推送？比如第一次推送的是up，后面出现down也可以推送",
+        "create_time": "2026-10-26 11:13",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_29d88b28f18a436761fc67a47136d372",
+            "key": "@_user_1",
+            "name": "李岳林"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_78de37ce40d8666b0d80bc6e994a3fd9\u0026position=454",
+        "message_id": "om_x100b62d81abdd8a8cd17ddcca7bc266",
+        "message_position": "454",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_6e83d7770d6715848033736090bba3ce",
+          "id_type": "open_id",
+          "name": "李家伟",
+          "sender_i18n_names": {
+            "en_us": "lijiawei"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-26 11:13",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_78de37ce40d8666b0d80bc6e994a3fd9",
+        "content": "如果up和down之间间隔在1min内，是不是也可以推送?",
+        "create_time": "2026-10-26 11:13",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_78de37ce40d8666b0d80bc6e994a3fd9\u0026position=455",
+        "message_id": "om_x100b62d8189e40b4cd15ba9d477adb6",
+        "message_position": "455",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_6e83d7770d6715848033736090bba3ce",
+          "id_type": "open_id",
+          "name": "李家伟",
+          "sender_i18n_names": {
+            "en_us": "lijiawei"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_78de37ce40d8666b0d80bc6e994a3fd9",
+        "content": "@安文斌 安工，确认下图片参考的监控界面\n![Image](img_v3_0216r_6ca3b474-08f3-4411-a610-4bdd1c2e69cg)",
+        "create_time": "2026-10-26 11:18",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_b7b548d860d64d3f5055492f2de866da",
+            "key": "@_user_1",
+            "name": "安文斌"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_78de37ce40d8666b0d80bc6e994a3fd9\u0026position=456",
+        "message_id": "om_x100b62d826fdd4a8b075a44ceb413b2",
+        "message_position": "456",
+        "msg_type": "post",
+        "reply_to": "om_x100b62d87dba3cb4b053cf2a4abb7ad",
+        "sender": {
+          "id": "ou_6e83d7770d6715848033736090bba3ce",
+          "id_type": "open_id",
+          "name": "李家伟",
+          "sender_i18n_names": {
+            "en_us": "lijiawei"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-26 11:18",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_78de37ce40d8666b0d80bc6e994a3fd9",
+        "content": "https://inovance.feishu.cn/wiki/V46AwPuONiNxADk2oAjclZvxnNe",
+        "create_time": "2026-10-26 11:19",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_78de37ce40d8666b0d80bc6e994a3fd9\u0026position=457",
+        "message_id": "om_x100b62d823e940b0ce5168197c44453",
+        "message_position": "457",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_6e83d7770d6715848033736090bba3ce",
+          "id_type": "open_id",
+          "name": "李家伟",
+          "sender_i18n_names": {
+            "en_us": "lijiawei"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_78de37ce40d8666b0d80bc6e994a3fd9",
+        "content": "scada这边现在就是按照值变化推送",
+        "create_time": "2026-10-26 11:21",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_78de37ce40d8666b0d80bc6e994a3fd9\u0026position=458",
+        "message_id": "om_x100b62d83dc210b8ddb4c286f69eca9",
+        "message_position": "458",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_47d191520c96d9714b7d16957539255f",
+          "id_type": "open_id",
+          "name": "商轩赫",
+          "sender_i18n_names": {
+            "en_us": "shangxuanhe"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-26 11:21",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_78de37ce40d8666b0d80bc6e994a3fd9",
+        "content": "@商轩赫 商工，如果值变化在1min内，也没问题吧， 比如值按照秒级变化",
+        "create_time": "2026-10-26 11:23",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_47d191520c96d9714b7d16957539255f",
+            "key": "@_user_1",
+            "name": "商轩赫"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_78de37ce40d8666b0d80bc6e994a3fd9\u0026position=459",
+        "message_id": "om_x100b62d837816884cff9f955b568d2d",
+        "message_position": "459",
+        "msg_type": "text",
+        "reply_to": "om_x100b62d83dc210b8ddb4c286f69eca9",
+        "sender": {
+          "id": "ou_6e83d7770d6715848033736090bba3ce",
+          "id_type": "open_id",
+          "name": "李家伟",
+          "sender_i18n_names": {
+            "en_us": "lijiawei"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-26 11:23",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_78de37ce40d8666b0d80bc6e994a3fd9",
+        "content": "@李家伟 @安文斌 李工，监控界面看下是不是把数据表现优化下， 例如如果劣化了，哪些参数已经变异 超出正常范围比例是多少，可能是什么原因造成的？ 预计整体剩余寿命是多少（提前多少天备备件）",
+        "create_time": "2026-10-26 11:26",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_6e83d7770d6715848033736090bba3ce",
+            "key": "@_user_1",
+            "name": "李家伟"
+          },
+          {
+            "id": "ou_b7b548d860d64d3f5055492f2de866da",
+            "key": "@_user_2",
+            "name": "安文斌"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_78de37ce40d8666b0d80bc6e994a3fd9\u0026position=460",
+        "message_id": "om_x100b62d8c9a9bcb0df66e93f59e5553",
+        "message_position": "460",
+        "msg_type": "text",
+        "reply_to": "om_x100b62d826fdd4a8b075a44ceb413b2",
+        "sender": {
+          "id": "ou_00d6f11c81edfd7abd357ef970ffdf89",
+          "id_type": "open_id",
+          "name": "游刚",
+          "sender_i18n_names": {
+            "en_us": "yougang"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-26 11:26",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_78de37ce40d8666b0d80bc6e994a3fd9",
+        "content": "@游刚 游工，第一阶段我们把重点放在健康趋势分析和异常识别。模型是黑盒模型，是多个超参数融合计算的结果。",
+        "create_time": "2026-10-26 11:33",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_00d6f11c81edfd7abd357ef970ffdf89",
+            "key": "@_user_1",
+            "name": "游刚"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_78de37ce40d8666b0d80bc6e994a3fd9\u0026position=461",
+        "message_id": "om_x100b62d8ef4b0c90b0ec87b52996211",
+        "message_position": "461",
+        "msg_type": "text",
+        "reply_to": "om_x100b62d8c9a9bcb0df66e93f59e5553",
+        "sender": {
+          "id": "ou_6e83d7770d6715848033736090bba3ce",
+          "id_type": "open_id",
+          "name": "李家伟",
+          "sender_i18n_names": {
+            "en_us": "lijiawei"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-26 11:33",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_78de37ce40d8666b0d80bc6e994a3fd9",
+        "content": "劣化原因和剩余寿命得等劣化实验数据，以及故障案例库后，可以上线一版",
+        "create_time": "2026-10-26 11:34",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_78de37ce40d8666b0d80bc6e994a3fd9\u0026position=462",
+        "message_id": "om_x100b62d8ea3c5ca4ce5b46d5d18f601",
+        "message_position": "462",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_6e83d7770d6715848033736090bba3ce",
+          "id_type": "open_id",
+          "name": "李家伟",
+          "sender_i18n_names": {
+            "en_us": "lijiawei"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_78de37ce40d8666b0d80bc6e994a3fd9",
+        "content": "@李岳林  李工，远程断了",
+        "create_time": "2026-10-26 15:47",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_29d88b28f18a436761fc67a47136d372",
+            "key": "@_user_1",
+            "name": "李岳林"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_78de37ce40d8666b0d80bc6e994a3fd9\u0026position=463",
+        "message_id": "om_x100b62c4174c4cacdf1c98de2dc6cf7",
+        "message_position": "463",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_02c2faf25393c9f545ef1f42dfeba262",
+          "id_type": "open_id",
+          "name": "葛军",
+          "sender_i18n_names": {
+            "en_us": "gejun"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-26 15:47",
+        "updated": true
+      }
+    ],
+    "page_token": "",
+    "total": 12
+  },
+  "meta": {
+    "pagination": {
+      "complete": true,
+      "pages": 1,
+      "items": 12
+    }
+  }
+}

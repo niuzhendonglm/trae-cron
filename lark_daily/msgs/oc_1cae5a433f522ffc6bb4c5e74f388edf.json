@@ -1,0 +1,225 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "has_more": false,
+    "messages": [
+      {
+        "chat_id": "oc_1cae5a433f522ffc6bb4c5e74f388edf",
+        "content": "\u003ccard title=\"🟠 橙色预警 · 10-26 13:56\"\u003e\n**2026-10-26 13:56 触发 3 条预警**\n\n🟠 **[sector]** 行业板块 会展服务 +8.12%（领涨：兰生股份）\n🟠 **[sector]** 行业板块 其他数字媒体 +7.25%（领涨：凡拓数创）\n🟠 **[sector]** 行业板块 烘焙食品 +4.44%（领涨：青岛食品）\n\n**⚠️ 风险提示**：以上为规则触发的客观数据预警，请结合盘面独立判断。\u003e 以上为公开行情数据的客观整理，不构成投资建议。股市有风险，投资需谨慎。数据来源：东方财富/新浪/CNBC/腾讯公开接口，延迟约3-5分钟。\n\u003c/card\u003e",
+        "create_time": "2026-10-26 13:56",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_1cae5a433f522ffc6bb4c5e74f388edf\u0026position=122",
+        "message_id": "om_x100b62daf9828884de3da58d3af5eab",
+        "message_position": "122",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a9630741047a1cb1",
+          "id_type": "app_id",
+          "name": "牛振东的智能助手",
+          "open_bot_id": "ou_c8b9500a3166c6e6e7d2613c870c09d1",
+          "sender_i18n_names": {
+            "en_us": "牛振东的智能助手",
+            "zh_cn": "牛振东的智能助手"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_1cae5a433f522ffc6bb4c5e74f388edf",
+        "content": "\u003ccard title=\"🟡 黄色预警汇总 · 10-26 13:56\"\u003e\n**2026-10-26 13:56 触发 7 条预警**\n\n🟡 **[科创50]** 科创50 -2.16% 触发黄色预警（±2%）\n🟡 **[人力资源服务]** 行业板块 人力资源服务 +3.38%\n🟡 **[休闲食品]** 行业板块 休闲食品 +3.26%\n🟡 **[学历教育]** 行业板块 学历教育 +3.67%\n🟡 **[游戏Ⅲ]** 行业板块 游戏Ⅲ +3.26%\n🟡 **[线下药店]** 行业板块 线下药店 +3.09%\n🟡 **[视频媒体]** 行业板块 视频媒体 +3.27%\n\n**⚠️ 风险提示**：以上为规则触发的客观数据预警，请结合盘面独立判断。\u003e 以上为公开行情数据的客观整理，不构成投资建议。股市有风险，投资需谨慎。数据来源：东方财富/新浪/CNBC/腾讯公开接口，延迟约3-5分钟。\n\u003c/card\u003e",
+        "create_time": "2026-10-26 13:56",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_1cae5a433f522ffc6bb4c5e74f388edf\u0026position=123",
+        "message_id": "om_x100b62daf99718a0dff338f1886fe79",
+        "message_position": "123",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a9630741047a1cb1",
+          "id_type": "app_id",
+          "name": "牛振东的智能助手",
+          "open_bot_id": "ou_c8b9500a3166c6e6e7d2613c870c09d1",
+          "sender_i18n_names": {
+            "en_us": "牛振东的智能助手",
+            "zh_cn": "牛振东的智能助手"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_1cae5a433f522ffc6bb4c5e74f388edf",
+        "content": "\u003ccard title=\"🟡 黄色预警汇总 · 10-26 14:26\"\u003e\n**2026-10-26 14:26 触发 6 条预警**\n\n🟡 **[人力资源服务]** 行业板块 人力资源服务 +3.01%\n🟡 **[休闲食品]** 行业板块 休闲食品 +3.11%\n🟡 **[学历教育]** 行业板块 学历教育 +3.78%\n🟡 **[快递]** 行业板块 快递 +3.04%\n🟡 **[游戏Ⅲ]** 行业板块 游戏Ⅲ +3.05%\n🟡 **[视频媒体]** 行业板块 视频媒体 +3.06%\n\n**⚠️ 风险提示**：以上为规则触发的客观数据预警，请结合盘面独立判断。\u003e 以上为公开行情数据的客观整理，不构成投资建议。股市有风险，投资需谨慎。数据来源：东方财富/新浪/CNBC/腾讯公开接口，延迟约3-5分钟。\n\u003c/card\u003e",
+        "create_time": "2026-10-26 14:26",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_1cae5a433f522ffc6bb4c5e74f388edf\u0026position=124",
+        "message_id": "om_x100b62db66f980bcddb5b18720a91c3",
+        "message_position": "124",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a9630741047a1cb1",
+          "id_type": "app_id",
+          "name": "牛振东的智能助手",
+          "open_bot_id": "ou_c8b9500a3166c6e6e7d2613c870c09d1",
+          "sender_i18n_names": {
+            "en_us": "牛振东的智能助手",
+            "zh_cn": "牛振东的智能助手"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_1cae5a433f522ffc6bb4c5e74f388edf",
+        "content": "\u003ccard title=\"📕 A股收盘日报 · 10-26\"\u003e\n**2026-10-26 A股收盘日报**\n\n**📈 全天指数表现**\n- 🔴 **上证指数** 3,697.52（+0.19%）\n- 🟢 **深证成指** 11,534.38（-1.19%）\n- 🟢 **创业板指** 2,638.23（-1.71%）\n- 🟢 **科创50** 1,315.50（-2.23%）\n- 🟢 **沪深300** 4,103.54（-0.04%）\n- 🟢 **中证500** 6,712.73（-1.49%）\n- 🟢 **中证1000** 6,630.78（-1.54%）\n- 📊 沪市涨跌家数：1070 涨 / 1228 跌 / 57 平💰 沪深两市成交额约 **16,088 亿元**\n\n🚦 涨跌停统计（近似口径）：涨停 **76** 家 / 跌停 **0** 家\n\n**🏭 行业板块**\n- **领涨行业**：会展服务(+8.11%)、其他数字媒体(+5.35%)、烘焙食品(+4.72%)、视频媒体(+4.00%)、学历教育(+3.78%)\n- **领跌行业**：印制电路板(-6.43%)、元件(-5.71%)、半导体设备(-5.41%)、通信线缆及配套(-5.35%)、集成电路封测(-5.06%)**📋 今日量化筛选观察池（多策略规则筛选）**\n- （本次筛选数据缺省：引擎未运行或运行失败，如实标注，不编造结果）\u003e 📌 数据能力说明：北向资金实时净额自2024-08起已停止公开披露；龙虎榜/涨停池接口（datacenter-web/push2ex）在当前网络被URL过滤策略拦截。相关栏目以可得数据替代或如实缺省。\u003e 以上为公开行情数据的客观整理，不构成投资建议。股市有风险，投资需谨慎。数据来源：东方财富/新浪/CNBC/腾讯公开接口，延迟约3-5分钟。\n\u003c/card\u003e",
+        "create_time": "2026-10-26 15:10",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_1cae5a433f522ffc6bb4c5e74f388edf\u0026position=125",
+        "message_id": "om_x100b62db839e98b0df4c7b20ccc7b66",
+        "message_position": "125",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a9630741047a1cb1",
+          "id_type": "app_id",
+          "name": "牛振东的智能助手",
+          "open_bot_id": "ou_c8b9500a3166c6e6e7d2613c870c09d1",
+          "sender_i18n_names": {
+            "en_us": "牛振东的智能助手",
+            "zh_cn": "牛振东的智能助手"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_1cae5a433f522ffc6bb4c5e74f388edf",
+        "content": "\u003ccard title=\"🇭🇰 港股收盘速报 · 10-26\"\u003e\n**2026-10-26 港股收盘速报**\n\n**🇨🇳 中概/南向参考**\u003e 📌 数据能力说明：北向资金实时净额自2024-08起已停止公开披露；龙虎榜/涨停池接口（datacenter-web/push2ex）在当前网络被URL过滤策略拦截。相关栏目以可得数据替代或如实缺省。\u003e 以上为公开行情数据的客观整理，不构成投资建议。股市有风险，投资需谨慎。数据来源：东方财富/新浪/CNBC/腾讯公开接口，延迟约3-5分钟。\n\u003c/card\u003e",
+        "create_time": "2026-10-26 16:15",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_1cae5a433f522ffc6bb4c5e74f388edf\u0026position=126",
+        "message_id": "om_x100b62c48e32e0acdc0ff07d6bad992",
+        "message_position": "126",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a9630741047a1cb1",
+          "id_type": "app_id",
+          "name": "牛振东的智能助手",
+          "open_bot_id": "ou_c8b9500a3166c6e6e7d2613c870c09d1",
+          "sender_i18n_names": {
+            "en_us": "牛振东的智能助手",
+            "zh_cn": "牛振东的智能助手"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_1cae5a433f522ffc6bb4c5e74f388edf",
+        "content": "\u003ccard title=\"🔴 红色预警 · 10-26 22:26\"\u003e\n**2026-10-26 22:26 触发 5 条预警**\n\n🔴 **[index]** 巴西BOVESPA -16.44% 触发红色预警（±5%）\n🟠 **[sector]** 行业板块 会展服务 +8.11%（领涨：兰生股份）\n🟠 **[sector]** 行业板块 其他数字媒体 +5.35%（领涨：凡拓数创）\n🟠 **[sector]** 行业板块 烘焙食品 +4.72%（领涨：青岛食品）\n🟠 **[sector]** 行业板块 视频媒体 +4.00%（领涨：芒果超媒）\n\n**⚠️ 风险提示**：以上为规则触发的客观数据预警，请结合盘面独立判断。\u003e 以上为公开行情数据的客观整理，不构成投资建议。股市有风险，投资需谨慎。数据来源：东方财富/新浪/CNBC/腾讯公开接口，延迟约3-5分钟。\n\u003c/card\u003e",
+        "create_time": "2026-10-26 22:26",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_1cae5a433f522ffc6bb4c5e74f388edf\u0026position=127",
+        "message_id": "om_x100b62c2610864b0ce34a2d8bed1165",
+        "message_position": "127",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a9630741047a1cb1",
+          "id_type": "app_id",
+          "name": "牛振东的智能助手",
+          "open_bot_id": "ou_c8b9500a3166c6e6e7d2613c870c09d1",
+          "sender_i18n_names": {
+            "en_us": "牛振东的智能助手",
+            "zh_cn": "牛振东的智能助手"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_1cae5a433f522ffc6bb4c5e74f388edf",
+        "content": "\u003ccard title=\"🟡 黄色预警汇总 · 10-26 22:26\"\u003e\n**2026-10-26 22:26 触发 6 条预警**\n\n🟡 **[科创50]** 科创50 -2.23% 触发黄色预警（±2%）\n🟡 **[休闲食品]** 行业板块 休闲食品 +3.33%\n🟡 **[学历教育]** 行业板块 学历教育 +3.78%\n🟡 **[快递]** 行业板块 快递 +3.12%\n🟡 **[游戏Ⅲ]** 行业板块 游戏Ⅲ +3.26%\n🟡 **[线下药店]** 行业板块 线下药店 +3.20%\n\n**⚠️ 风险提示**：以上为规则触发的客观数据预警，请结合盘面独立判断。\u003e 以上为公开行情数据的客观整理，不构成投资建议。股市有风险，投资需谨慎。数据来源：东方财富/新浪/CNBC/腾讯公开接口，延迟约3-5分钟。\n\u003c/card\u003e",
+        "create_time": "2026-10-26 22:26",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_1cae5a433f522ffc6bb4c5e74f388edf\u0026position=128",
+        "message_id": "om_x100b62c2611cd0a8b4bc859543697cc",
+        "message_position": "128",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a9630741047a1cb1",
+          "id_type": "app_id",
+          "name": "牛振东的智能助手",
+          "open_bot_id": "ou_c8b9500a3166c6e6e7d2613c870c09d1",
+          "sender_i18n_names": {
+            "en_us": "牛振东的智能助手",
+            "zh_cn": "牛振东的智能助手"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_1cae5a433f522ffc6bb4c5e74f388edf",
+        "content": "\u003ccard title=\"🔴 红色预警 · 10-26 23:56\"\u003e\n**2026-10-26 23:56 触发 1 条预警**\n\n🔴 **[index]** 巴西BOVESPA -14.48% 触发红色预警（±5%）\n\n**⚠️ 风险提示**：以上为规则触发的客观数据预警，请结合盘面独立判断。\u003e 以上为公开行情数据的客观整理，不构成投资建议。股市有风险，投资需谨慎。数据来源：东方财富/新浪/CNBC/腾讯公开接口，延迟约3-5分钟。\n\u003c/card\u003e",
+        "create_time": "2026-10-26 23:56",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_1cae5a433f522ffc6bb4c5e74f388edf\u0026position=129",
+        "message_id": "om_x100b62c3cf8fc0a0c0948bbe2363d1b",
+        "message_position": "129",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a9630741047a1cb1",
+          "id_type": "app_id",
+          "name": "牛振东的智能助手",
+          "open_bot_id": "ou_c8b9500a3166c6e6e7d2613c870c09d1",
+          "sender_i18n_names": {
+            "en_us": "牛振东的智能助手",
+            "zh_cn": "牛振东的智能助手"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_1cae5a433f522ffc6bb4c5e74f388edf",
+        "content": "\u003ccard title=\"🟡 黄色预警汇总 · 10-26 23:56\"\u003e\n**2026-10-26 23:56 触发 6 条预警**\n\n🟡 **[科创50]** 科创50 -2.23% 触发黄色预警（±2%）\n🟡 **[休闲食品]** 行业板块 休闲食品 +3.33%\n🟡 **[学历教育]** 行业板块 学历教育 +3.78%\n🟡 **[快递]** 行业板块 快递 +3.12%\n🟡 **[游戏Ⅲ]** 行业板块 游戏Ⅲ +3.26%\n🟡 **[线下药店]** 行业板块 线下药店 +3.20%\n\n**⚠️ 风险提示**：以上为规则触发的客观数据预警，请结合盘面独立判断。\u003e 以上为公开行情数据的客观整理，不构成投资建议。股市有风险，投资需谨慎。数据来源：东方财富/新浪/CNBC/腾讯公开接口，延迟约3-5分钟。\n\u003c/card\u003e",
+        "create_time": "2026-10-26 23:56",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_1cae5a433f522ffc6bb4c5e74f388edf\u0026position=130",
+        "message_id": "om_x100b62c3cf8660a0c0cb10186bd18f9",
+        "message_position": "130",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a9630741047a1cb1",
+          "id_type": "app_id",
+          "name": "牛振东的智能助手",
+          "open_bot_id": "ou_c8b9500a3166c6e6e7d2613c870c09d1",
+          "sender_i18n_names": {
+            "en_us": "牛振东的智能助手",
+            "zh_cn": "牛振东的智能助手"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      }
+    ],
+    "page_token": "",
+    "total": 9
+  },
+  "meta": {
+    "pagination": {
+      "complete": true,
+      "pages": 1,
+      "items": 9
+    }
+  }
+}

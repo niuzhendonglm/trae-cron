@@ -1,0 +1,41 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "has_more": false,
+    "messages": [
+      {
+        "chat_id": "oc_9ecb317b3946c5d95dae8f8b707c39e3",
+        "content": "\u003ccard title=\"2026-10 行政扣款通知\"\u003e\n**扣款合计**\n¥ 189.83\n**扣款明细**\n• 餐费 · 扣款 · ¥ 189.83\n\n---\n**⚠ 通知说明**\n10月份行政类个人扣款数据已发布，请查阅。如有疑问，请于2026-10-27 22:00前反馈！如逾期未反馈，将生成最终扣款数据。\n[查看扣款明细](https://applink.feishu.cn/client/web_app/open?appId=cli_a3df519193f81013\u0026lk_target_url=https%3A%2F%2Fadmin.inovance.com%2Fadmin-app%2FcutPayment%2Flist)\n\u003c/card\u003e",
+        "create_time": "2026-10-26 14:17",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_9ecb317b3946c5d95dae8f8b707c39e3\u0026position=13",
+        "message_id": "om_x100b62db4b1074b4dd0f1e01ce945d0",
+        "message_position": "13",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a3df519193f81013",
+          "id_type": "app_id",
+          "name": "行政扣款查询",
+          "open_bot_id": "ou_10065c312fecfcb790280771d7393ee3",
+          "sender_i18n_names": {
+            "en_us": "Administrative Deduction",
+            "zh_cn": "行政扣款查询"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      }
+    ],
+    "page_token": "",
+    "total": 1
+  },
+  "meta": {
+    "pagination": {
+      "complete": true,
+      "pages": 1,
+      "items": 1
+    }
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "has_more": false,
+    "messages": [
+      {
+        "chat_id": "oc_aaae0c7199ed3529b97ab387a50de4c8",
+        "content": "\u003ccard title=\"AI检测用户判异照片\"\u003e\n**线体：**线缆车间集中包装区\n**产品编码：**q004-1\n**产品型号：**q004-2\n**任务令：**q004\n**照片：**共 1 张\n🖼️ 照片1(img_key:img_v3_0216r_9a63ccef-a60a-4e63-9264-92e7769b0fdg)\n\u003c/card\u003e",
+        "create_time": "2026-10-26 15:36",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_aaae0c7199ed3529b97ab387a50de4c8\u0026position=22",
+        "message_id": "om_x100b62c47eee30b8b08497e2c6c8af4",
+        "message_position": "22",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_c08abc1da138d00f",
+          "id_type": "app_id",
+          "name": "推送机器人",
+          "open_bot_id": "ou_e446f9280b278abc3ee3df8a5d457399",
+          "sender_i18n_names": {
+            "en_us": "推送机器人",
+            "zh_cn": "推送机器人"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_aaae0c7199ed3529b97ab387a50de4c8",
+        "content": "\u003ccard title=\"AI检测用户判异照片\"\u003e\n**线体：**大明湖2线\n**产品编码：**01283103*CB26090376\n**产品型号：**HD93S-F060/500-DB\n**任务令：**QPTO269214249\n**照片：**共 1 张\n🖼️ 照片1(img_key:img_v3_0216r_662504aa-0ca0-40a3-addb-8be348f66dcg)\n\u003c/card\u003e",
+        "create_time": "2026-10-26 16:21",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_aaae0c7199ed3529b97ab387a50de4c8\u0026position=23",
+        "message_id": "om_x100b62c496fa2080ce9e774ba2ecd92",
+        "message_position": "23",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_c08abc1da138d00f",
+          "id_type": "app_id",
+          "name": "推送机器人",
+          "open_bot_id": "ou_e446f9280b278abc3ee3df8a5d457399",
+          "sender_i18n_names": {
+            "en_us": "推送机器人",
+            "zh_cn": "推送机器人"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_aaae0c7199ed3529b97ab387a50de4c8",
+        "content": "\u003ccard title=\"AI检测用户判异照片\"\u003e\n**线体：**大明湖2线\n**产品编码：**01283103*CB26090376\n**产品型号：**HD93S-F060/500-DB\n**任务令：**QPTO269214249\n**照片：**共 1 张\n🖼️ 照片1(img_key:img_v3_0216r_be6d800e-3f88-4d72-bb64-e9c63683e9cg)\n\u003c/card\u003e",
+        "create_time": "2026-10-26 16:30",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_aaae0c7199ed3529b97ab387a50de4c8\u0026position=24",
+        "message_id": "om_x100b62c4b51448b0b0f3c63ee8fe97d",
+        "message_position": "24",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_c08abc1da138d00f",
+          "id_type": "app_id",
+          "name": "推送机器人",
+          "open_bot_id": "ou_e446f9280b278abc3ee3df8a5d457399",
+          "sender_i18n_names": {
+            "en_us": "推送机器人",
+            "zh_cn": "推送机器人"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_aaae0c7199ed3529b97ab387a50de4c8",
+        "content": "\u003ccard title=\"AI检测用户判异照片\"\u003e\n**线体：**大明湖2线\n**产品编码：**01283103*CB26090376\n**产品型号：**HD93S-F060/500-DB\n**任务令：**QPTO269214249\n**照片：**共 1 张\n🖼️ 照片1(img_key:img_v3_0216r_677b4254-1985-4819-9534-73127efbc23g)\n\u003c/card\u003e",
+        "create_time": "2026-10-26 16:31",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_aaae0c7199ed3529b97ab387a50de4c8\u0026position=25",
+        "message_id": "om_x100b62c4b003f4b4ce8583597d9f518",
+        "message_position": "25",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_c08abc1da138d00f",
+          "id_type": "app_id",
+          "name": "推送机器人",
+          "open_bot_id": "ou_e446f9280b278abc3ee3df8a5d457399",
+          "sender_i18n_names": {
+            "en_us": "推送机器人",
+            "zh_cn": "推送机器人"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_aaae0c7199ed3529b97ab387a50de4c8",
+        "content": "\u003ccard title=\"AI检测用户判异照片\"\u003e\n**线体：**青云湖线\n**产品编码：**01283158*CB26080029\n**产品型号：**HD71S-J100/2300-DB-P\n**任务令：**QPTO268200004\n**照片：**共 1 张\n🖼️ 照片1(img_key:img_v3_0216r_3c51f47d-855b-4b51-aae6-755925469c8g)\n\u003c/card\u003e",
+        "create_time": "2026-10-26 16:33",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_aaae0c7199ed3529b97ab387a50de4c8\u0026position=26",
+        "message_id": "om_x100b62c54d30a8acceff082885f8772",
+        "message_position": "26",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_c08abc1da138d00f",
+          "id_type": "app_id",
+          "name": "推送机器人",
+          "open_bot_id": "ou_e446f9280b278abc3ee3df8a5d457399",
+          "sender_i18n_names": {
+            "en_us": "推送机器人",
+            "zh_cn": "推送机器人"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_aaae0c7199ed3529b97ab387a50de4c8",
+        "content": "\u003ccard title=\"AI检测用户判异照片\"\u003e\n**线体：**大明湖2线\n**产品编码：**01283103*CB26090376\n**产品型号：**HD93S-F060/500-DB\n**任务令：**QPTO269214249\n**照片：**共 1 张\n🖼️ 照片1(img_key:img_v3_0216r_79ac31d8-b050-4262-a7e0-4f86ca7e608g)\n\u003c/card\u003e",
+        "create_time": "2026-10-26 16:34",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_aaae0c7199ed3529b97ab387a50de4c8\u0026position=27",
+        "message_id": "om_x100b62c547de74a0b326ca199c05003",
+        "message_position": "27",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_c08abc1da138d00f",
+          "id_type": "app_id",
+          "name": "推送机器人",
+          "open_bot_id": "ou_e446f9280b278abc3ee3df8a5d457399",
+          "sender_i18n_names": {
+            "en_us": "推送机器人",
+            "zh_cn": "推送机器人"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_aaae0c7199ed3529b97ab387a50de4c8",
+        "content": "\u003ccard title=\"AI检测用户判异照片\"\u003e\n**线体：**大明湖2线\n**产品编码：**01283103*CB26090376\n**产品型号：**HD93S-F060/500-DB\n**任务令：**QPTO269214249\n**照片：**共 1 张\n🖼️ 照片1(img_key:img_v3_0216r_9aff07a2-dfb5-460a-bff8-0807046da10g)\n\u003c/card\u003e",
+        "create_time": "2026-10-26 16:35",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_aaae0c7199ed3529b97ab387a50de4c8\u0026position=28",
+        "message_id": "om_x100b62c5453f0cacce4a77ddbff43ff",
+        "message_position": "28",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_c08abc1da138d00f",
+          "id_type": "app_id",
+          "name": "推送机器人",
+          "open_bot_id": "ou_e446f9280b278abc3ee3df8a5d457399",
+          "sender_i18n_names": {
+            "en_us": "推送机器人",
+            "zh_cn": "推送机器人"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      }
+    ],
+    "page_token": "",
+    "total": 7
+  },
+  "meta": {
+    "pagination": {
+      "complete": true,
+      "pages": 1,
+      "items": 7
+    }
+  }
+}

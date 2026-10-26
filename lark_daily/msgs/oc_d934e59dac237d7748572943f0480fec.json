@@ -1,0 +1,110 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "has_more": false,
+    "messages": [
+      {
+        "chat_id": "oc_d934e59dac237d7748572943f0480fec",
+        "content": "\u003ccard title=\"汇川生产质量〔2026〕54号 关于控制技术不合格品流出导致客户使用中出现COM口闪灯问题处罚的通报\"\u003e\n📝 创建时间：2026-10-26 17:33 \n创建人：刘彤\n---\n[查看详情](https://oa.inovance.com/sys/notify/sys_notify_todo/sysNotifyTodo.do?method=view\u0026fdId=1a1778e78389e22bef3bddf431c8f1ed\u0026oauth=fs2ekp)\n\u003c/card\u003e",
+        "create_time": "2026-10-26 17:34",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_d934e59dac237d7748572943f0480fec\u0026position=1079",
+        "message_id": "om_x100b62c5a7f8e0acce998920e26c614",
+        "message_position": "1079",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a3e1ef0cc0b8500d",
+          "id_type": "app_id",
+          "name": "集团公告栏",
+          "open_bot_id": "ou_3144a28e071592d19cd07d67ad905f1d",
+          "sender_i18n_names": {
+            "en_us": "Group Announcement Board",
+            "zh_cn": "集团公告栏"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_d934e59dac237d7748572943f0480fec",
+        "content": "\u003ccard title=\"苏州汇川工会〔2026〕3号 关于第三届职工代表选举结果的公示\"\u003e\n📝 创建时间：2026-10-26 17:36 \n创建人：施乐婷\n---\n[查看详情](https://oa.inovance.com/sys/notify/sys_notify_todo/sysNotifyTodo.do?method=view\u0026fdId=1a17791523bf4eeeaeb8f094a758d992\u0026oauth=fs2ekp)\n\u003c/card\u003e",
+        "create_time": "2026-10-26 17:38",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_d934e59dac237d7748572943f0480fec\u0026position=1080",
+        "message_id": "om_x100b62c5b9096ca0cd1d516a219784a",
+        "message_position": "1080",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a3e1ef0cc0b8500d",
+          "id_type": "app_id",
+          "name": "集团公告栏",
+          "open_bot_id": "ou_3144a28e071592d19cd07d67ad905f1d",
+          "sender_i18n_names": {
+            "en_us": "Group Announcement Board",
+            "zh_cn": "集团公告栏"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_d934e59dac237d7748572943f0480fec",
+        "content": "\u003ccard title=\"汇川数字能源〔2026〕34号 关于IES1200系列储能变流器和配套储能升压一体机停止销售的通知\"\u003e\n📝 创建时间：2026-10-26 18:16 \n创建人：柴燕芳\n---\n[查看详情](https://oa.inovance.com/sys/notify/sys_notify_todo/sysNotifyTodo.do?method=view\u0026fdId=1a177b5db1af0b9a227f40c4ab2b2dc2\u0026oauth=fs2ekp)\n\u003c/card\u003e",
+        "create_time": "2026-10-26 18:16",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_d934e59dac237d7748572943f0480fec\u0026position=1081",
+        "message_id": "om_x100b62c6c677f0a8cf5e629e67a84a1",
+        "message_position": "1081",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a3e1ef0cc0b8500d",
+          "id_type": "app_id",
+          "name": "集团公告栏",
+          "open_bot_id": "ou_3144a28e071592d19cd07d67ad905f1d",
+          "sender_i18n_names": {
+            "en_us": "Group Announcement Board",
+            "zh_cn": "集团公告栏"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_d934e59dac237d7748572943f0480fec",
+        "content": "\u003ccard title=\"汇川FA IPMT〔2026〕9号 关于FA IPMT下 HMI\u0026PAC-SPDT 产品部分系列退市处理的通知\"\u003e\n📝 创建时间：2026-10-26 19:23 \n创建人：曹亚玲\n---\n[查看详情](https://oa.inovance.com/sys/notify/sys_notify_todo/sysNotifyTodo.do?method=view\u0026fdId=1a177f3437d8b5692abb6994996bf965\u0026oauth=fs2ekp)\n\u003c/card\u003e",
+        "create_time": "2026-10-26 19:24",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_d934e59dac237d7748572943f0480fec\u0026position=1082",
+        "message_id": "om_x100b62c7cbc010a0c1e1aaacfe15079",
+        "message_position": "1082",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a3e1ef0cc0b8500d",
+          "id_type": "app_id",
+          "name": "集团公告栏",
+          "open_bot_id": "ou_3144a28e071592d19cd07d67ad905f1d",
+          "sender_i18n_names": {
+            "en_us": "Group Announcement Board",
+            "zh_cn": "集团公告栏"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      }
+    ],
+    "page_token": "",
+    "total": 4
+  },
+  "meta": {
+    "pagination": {
+      "complete": true,
+      "pages": 1,
+      "items": 4
+    }
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "has_more": false,
+    "messages": [
+      {
+        "chat_id": "oc_116045b976a58256400df3e6c4a57c1b",
+        "content": "\u003ccard\u003e\n收到你发的「编程时段」截图，不过这条消息里没有文字，我还不确定你想确认什么。\n\n方便说一下你希望我帮忙的方向吗？比如是想了解这个功能是什么、在哪里看，还是这个界面出现了异常（显示不对、打不开、数据不符等）。如果是异常，请顺带说明你用的是哪个产品（TRAE IDE、TRAE Work 还是 Trae 插件）、操作系统和具体现象，我好接着看。\n---\n💡 更多使用问题请转移至 [TRAE 官方社区「帮助与支持」板块](https://forum.trae.cn/c/7-category/7) 发帖询问 \n · 021792980870094fdbddc02001405304b59cb53af0000e9b34032 · \n[已解决]\n[更多问题请到「官方社区」提问](https://forum.trae.cn/c/7-category/7)\n\u003c/card\u003e",
+        "create_time": "2026-10-26 10:14",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/thread/open?open_chat_id=oc_116045b976a58256400df3e6c4a57c1b\u0026open_thread_id=omt_19bb3f4d104e1ca2\u0026openchatid=oc_116045b976a58256400df3e6c4a57c1b\u0026openthreadid=omt_19bb3f4d104e1ca2\u0026thread_position=0",
+        "message_id": "om_x100b62df36b8a8b0cf41aff40bb5a65",
+        "message_position": "-3",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a9c7f80599f8dbc4",
+          "id_type": "app_id",
+          "name": "TRAE 宝",
+          "open_bot_id": "ou_dfae499a31a17e270c3cc86c7275f2bd",
+          "sender_i18n_names": {
+            "en_us": "TRAE 宝",
+            "zh_cn": "TRAE 宝"
+          },
+          "sender_type": "app",
+          "tenant_key": "15d6d1e6e508d75e"
+        },
+        "thread_id": "omt_19bb3f4d104e1ca2",
+        "thread_message_position": "0",
+        "update_time": "2026-10-26 10:15",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_116045b976a58256400df3e6c4a57c1b",
+        "content": "我咋三四点还在干活？",
+        "create_time": "2026-10-26 10:14",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/thread/open?open_chat_id=oc_116045b976a58256400df3e6c4a57c1b\u0026open_thread_id=omt_19bb3f4d104e1ca2\u0026openchatid=oc_116045b976a58256400df3e6c4a57c1b\u0026openthreadid=omt_19bb3f4d104e1ca2\u0026thread_position=1",
+        "message_id": "om_x100b62df377838a4b1ea52da6ceccd6",
+        "message_position": "-3",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_fc8b777dc3d3eba2f3dbc904ba30d927",
+          "id_type": "open_id",
+          "name": "用户852152",
+          "sender_i18n_names": {
+            "zh_cn": "小敬"
+          },
+          "sender_type": "user",
+          "tenant_key": "1adedf9da65c1c9b"
+        },
+        "thread_id": "omt_19bb3f4d104e1ca2",
+        "thread_message_position": "1",
+        "updated": false
+      }
+    ],
+    "page_token": "",
+    "thread_id": "omt_19bb3f4d104e1ca2",
+    "total": 2
+  },
+  "meta": {
+    "pagination": {
+      "complete": true,
+      "pages": 1,
+      "items": 2
+    }
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "has_more": false,
+    "messages": [
+      {
+        "chat_id": "oc_dc8359f64a2cd32a196645a39d794736",
+        "content": "\u003cfile key=\"file_v3_0016r_c7f9786e-acea-4dd6-ae24-0015d32c5c9g\" name=\"ISC内部各中心及工厂AI需求调研计划.xlsx\"/\u003e",
+        "create_time": "2026-10-26 10:29",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_dc8359f64a2cd32a196645a39d794736\u0026position=20",
+        "message_id": "om_x100b62dffcc7c8a8c0b6275a4c34e02",
+        "message_position": "20",
+        "msg_type": "file",
+        "sender": {
+          "id": "ou_870975b0382c9b0eb131c90e8e5ac81d",
+          "id_type": "open_id",
+          "name": "柴亚通",
+          "sender_i18n_names": {
+            "en_us": "chaiyatong"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_dc8359f64a2cd32a196645a39d794736",
+        "content": "何老师，崔工，万工，列了一个初版的调研计划，我们下午一起看看。@何荣福 @崔望 @万向阳",
+        "create_time": "2026-10-26 10:29",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_e41d7538c671ace94d83136352e71f91",
+            "key": "@_user_1",
+            "name": "何荣福"
+          },
+          {
+            "id": "ou_643d94534d32e50d3a2e10a9c24a4068",
+            "key": "@_user_2",
+            "name": "崔望"
+          },
+          {
+            "id": "ou_4e63341423c72c5725811bb7d839dc1e",
+            "key": "@_user_3",
+            "name": "万向阳"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_dc8359f64a2cd32a196645a39d794736\u0026position=21",
+        "message_id": "om_x100b62dffcd9f8a8dc010ac42e69bec",
+        "message_position": "21",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_870975b0382c9b0eb131c90e8e5ac81d",
+          "id_type": "open_id",
+          "name": "柴亚通",
+          "sender_i18n_names": {
+            "en_us": "chaiyatong"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-10-26 10:29",
+        "updated": true
+      }
+    ],
+    "page_token": "",
+    "total": 2
+  },
+  "meta": {
+    "pagination": {
+      "complete": true,
+      "pages": 1,
+      "items": 2
+    }
+  }
+}

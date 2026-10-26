@@ -1,0 +1,102 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "has_more": false,
+    "messages": [
+      {
+        "chat_id": "oc_121107a99cd92e197ab315635117864d",
+        "content": "辉总，你有这位徐工的简历吗？我认识一下\n![Image](img_v3_0216r_ee423607-f792-4c9b-9520-a0342278ae8g)",
+        "create_time": "2026-10-26 16:52",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_121107a99cd92e197ab315635117864d\u0026position=103",
+        "message_id": "om_x100b62c50568b0a0cf08f71413677e9",
+        "message_position": "103",
+        "msg_type": "post",
+        "sender": {
+          "id": "ou_635008cc2affc45d23de666f2e7e7446",
+          "id_type": "open_id",
+          "name": "牛振东",
+          "sender_i18n_names": {
+            "en_us": "niuzhendong"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_121107a99cd92e197ab315635117864d",
+        "content": "你没面试吗",
+        "create_time": "2026-10-26 16:52",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_121107a99cd92e197ab315635117864d\u0026position=104",
+        "message_id": "om_x100b62c50064eca0ce37e570b4395a3",
+        "message_position": "104",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_c3442294474e569b80425926291efeb8",
+          "id_type": "open_id",
+          "name": "张辉",
+          "sender_i18n_names": {
+            "en_us": "zhanghui"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_121107a99cd92e197ab315635117864d",
+        "content": "\u003cfile key=\"file_v3_0016r_4c4a43e6-2b33-466e-a750-458e03281b6g\" name=\"C0116689-徐明志-【外包】数字化解决方案工程师-供应链3-5.pdf\"/\u003e",
+        "create_time": "2026-10-26 16:53",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_121107a99cd92e197ab315635117864d\u0026position=105",
+        "message_id": "om_x100b62c5017008b0cfcdfaefd2f5f6e",
+        "message_position": "105",
+        "msg_type": "file",
+        "sender": {
+          "id": "ou_c3442294474e569b80425926291efeb8",
+          "id_type": "open_id",
+          "name": "张辉",
+          "sender_i18n_names": {
+            "en_us": "zhanghui"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_121107a99cd92e197ab315635117864d",
+        "content": "没，这是万工团队的，我都不知道这个人[我想静静]",
+        "create_time": "2026-10-26 16:53",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_121107a99cd92e197ab315635117864d\u0026position=106",
+        "message_id": "om_x100b62c5013e48bccfbc7dd7d946fb3",
+        "message_position": "106",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_635008cc2affc45d23de666f2e7e7446",
+          "id_type": "open_id",
+          "name": "牛振东",
+          "sender_i18n_names": {
+            "en_us": "niuzhendong"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      }
+    ],
+    "page_token": "",
+    "total": 4
+  },
+  "meta": {
+    "pagination": {
+      "complete": true,
+      "pages": 1,
+      "items": 4
+    }
+  }
+}

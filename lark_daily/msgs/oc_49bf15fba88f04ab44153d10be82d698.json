@@ -1,0 +1,42 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "has_more": false,
+    "messages": [
+      {
+        "chat_id": "oc_49bf15fba88f04ab44153d10be82d698",
+        "content": "\u003ccard title=\"应用已提交审批\"\u003e\n你的应用“订单交期延误预警机器人”已提交“汇川集团”企业管理员审批。审批进展将通过“开发者小助手”机器人推送给你，请及时关注。\n[审核流程说明](https://open.feishu.cn/document/home/intro-to-custom-app-review?lang=zh-CN)\n\u003c/card\u003e",
+        "create_time": "2026-10-26 18:54",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_49bf15fba88f04ab44153d10be82d698\u0026position=68",
+        "message_id": "om_x100b62c7598faca4c09c706d507ca2f",
+        "message_position": "68",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a0bdca56edf8d013",
+          "id_type": "app_id",
+          "name": "开发者小助手",
+          "open_bot_id": "ou_6c3acfcd1480f474f5cb221886d31a47",
+          "sender_i18n_names": {
+            "en_us": "Developer Assistant",
+            "ja_jp": "開発者アシスタント",
+            "zh_cn": "开发者小助手"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      }
+    ],
+    "page_token": "",
+    "total": 1
+  },
+  "meta": {
+    "pagination": {
+      "complete": true,
+      "pages": 1,
+      "items": 1
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "has_more": false,
+    "messages": [
+      {
+        "chat_id": "oc_16e6e37edb14d6fd2c6e2c402350fdfe",
+        "content": "\u003ccard title=\"固资预入职流程，流程号:42546293\"\u003e\n电脑类型确认，徐明志(60020765) 2026-10-28\t苏州入职\n[查看详情](https://applink.feishu.cn/client/web_url/open?reload=false\u0026url=https%3A%2F%2Fwork.inovance.com%2Fasset-ui%2Femployment%2Fall%3FinstanceId%3D42546293%26taskId%3D42546312%26stepId%3Decretaryselectioncheck)\n\u003c/card\u003e",
+        "create_time": "2026-10-26 10:20",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_16e6e37edb14d6fd2c6e2c402350fdfe\u0026position=13",
+        "message_id": "om_x100b62dfc1be4ca4c1d59c2bacb77af",
+        "message_position": "13",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a3eac6538538500b",
+          "id_type": "app_id",
+          "name": "固资系统",
+          "open_bot_id": "ou_444c6faffe3ce5da3b619c64626ea08e",
+          "sender_i18n_names": {
+            "en_us": "assets system",
+            "zh_cn": "固资系统"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      }
+    ],
+    "page_token": "",
+    "total": 1
+  },
+  "meta": {
+    "pagination": {
+      "complete": true,
+      "pages": 1,
+      "items": 1
+    }
+  }
+}

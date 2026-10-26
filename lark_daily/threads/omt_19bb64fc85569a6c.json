@@ -1,0 +1,88 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "has_more": false,
+    "messages": [
+      {
+        "chat_id": "oc_116045b976a58256400df3e6c4a57c1b",
+        "content": "\u003ccard\u003e\n金山打字通是不少人学打字时的回忆。不过这里是 TRAE 产品支持，如果你有 TRAE Work、TRAE IDE 或 Trae 插件相关的问题，随时告诉我，我来看。\n---\n💡 更多使用问题请转移至 [TRAE 官方社区「帮助与支持」板块](https://forum.trae.cn/c/7-category/7) 发帖询问 \n · 021792994358989fdbddc02001405304b59cb53af0000e95efe87 · \n[已解决]\n[更多问题请到「官方社区」提问](https://forum.trae.cn/c/7-category/7)\n\u003c/card\u003e",
+        "create_time": "2026-10-26 13:59",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/thread/open?open_chat_id=oc_116045b976a58256400df3e6c4a57c1b\u0026open_thread_id=omt_19bb64fc85569a6c\u0026openchatid=oc_116045b976a58256400df3e6c4a57c1b\u0026openthreadid=omt_19bb64fc85569a6c\u0026thread_position=0",
+        "message_id": "om_x100b62da8d49c4a8dd3be48b0be549c",
+        "message_position": "-3",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a9c7f80599f8dbc4",
+          "id_type": "app_id",
+          "name": "TRAE 宝",
+          "open_bot_id": "ou_dfae499a31a17e270c3cc86c7275f2bd",
+          "sender_i18n_names": {
+            "en_us": "TRAE 宝",
+            "zh_cn": "TRAE 宝"
+          },
+          "sender_type": "app",
+          "tenant_key": "15d6d1e6e508d75e"
+        },
+        "thread_id": "omt_19bb64fc85569a6c",
+        "thread_message_position": "0",
+        "update_time": "2026-10-26 13:59",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_116045b976a58256400df3e6c4a57c1b",
+        "content": "这是30年前的产品了",
+        "create_time": "2026-10-26 14:03",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/thread/open?open_chat_id=oc_116045b976a58256400df3e6c4a57c1b\u0026open_thread_id=omt_19bb64fc85569a6c\u0026openchatid=oc_116045b976a58256400df3e6c4a57c1b\u0026openthreadid=omt_19bb64fc85569a6c\u0026thread_position=1",
+        "message_id": "om_x100b62da9c966cacdc1971d864e400c",
+        "message_position": "-3",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_50ae150cb962da355ed3a9f6f4eae567",
+          "id_type": "open_id",
+          "name": "郑堃",
+          "sender_type": "user",
+          "tenant_key": "2d2ef7cc164f175d"
+        },
+        "thread_id": "omt_19bb64fc85569a6c",
+        "thread_message_position": "1",
+        "updated": false
+      },
+      {
+        "chat_id": "oc_116045b976a58256400df3e6c4a57c1b",
+        "content": " 这是产品都是我小时候的咯",
+        "create_time": "2026-10-26 14:08",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/thread/open?open_chat_id=oc_116045b976a58256400df3e6c4a57c1b\u0026open_thread_id=omt_19bb64fc85569a6c\u0026openchatid=oc_116045b976a58256400df3e6c4a57c1b\u0026openthreadid=omt_19bb64fc85569a6c\u0026thread_position=2",
+        "message_id": "om_x100b62daa8f914a8b4cebdde474490a",
+        "message_position": "-3",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_a2261e8296918fdbb9133edaec862822",
+          "id_type": "open_id",
+          "name": "用户456741",
+          "sender_i18n_names": {
+            "zh_cn": "小木"
+          },
+          "sender_type": "user",
+          "tenant_key": "148bb84b409b574f"
+        },
+        "thread_id": "omt_19bb64fc85569a6c",
+        "thread_message_position": "2",
+        "updated": false
+      }
+    ],
+    "page_token": "",
+    "thread_id": "omt_19bb64fc85569a6c",
+    "total": 3
+  },
+  "meta": {
+    "pagination": {
+      "complete": true,
+      "pages": 1,
+      "items": 3
+    }
+  }
+}

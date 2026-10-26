@@ -1,0 +1,68 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "has_more": false,
+    "messages": [
+      {
+        "chat_id": "oc_116045b976a58256400df3e6c4a57c1b",
+        "content": "\u003ccard\u003e\n收到，活动信息已了解 🎨 有创作意向的伙伴可以抓紧 11 月 8 日前投稿参与～\n---\n💡 更多使用问题请转移至 [TRAE 官方社区「帮助与支持」板块](https://forum.trae.cn/c/7-category/7) 发帖询问 \n · 021793011062314fdbddc02000a02664559cb53af0000a64d072a · \n[已解决]\n[更多问题请到「官方社区」提问](https://forum.trae.cn/c/7-category/7)\n\u003c/card\u003e",
+        "create_time": "2026-10-26 18:37",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/thread/open?open_chat_id=oc_116045b976a58256400df3e6c4a57c1b\u0026open_thread_id=omt_19baa5bc15ce1b5e\u0026openchatid=oc_116045b976a58256400df3e6c4a57c1b\u0026openthreadid=omt_19baa5bc15ce1b5e\u0026thread_position=0",
+        "message_id": "om_x100b62c699b830a4cf15b98093ef956",
+        "message_position": "-3",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a9c7f80599f8dbc4",
+          "id_type": "app_id",
+          "name": "TRAE 宝",
+          "open_bot_id": "ou_dfae499a31a17e270c3cc86c7275f2bd",
+          "sender_i18n_names": {
+            "en_us": "TRAE 宝",
+            "zh_cn": "TRAE 宝"
+          },
+          "sender_type": "app",
+          "tenant_key": "15d6d1e6e508d75e"
+        },
+        "thread_id": "omt_19baa5bc15ce1b5e",
+        "thread_message_position": "0",
+        "update_time": "2026-10-26 18:38",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_116045b976a58256400df3e6c4a57c1b",
+        "content": "那我必须狠狠拿下大结果，其他都在生成中，先放一张试试水\n![Image](img_v3_0216r_9d430330-c659-4340-a480-9f37cdc13a3g)",
+        "create_time": "2026-10-26 19:44",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/thread/open?open_chat_id=oc_116045b976a58256400df3e6c4a57c1b\u0026open_thread_id=omt_19baa5bc15ce1b5e\u0026openchatid=oc_116045b976a58256400df3e6c4a57c1b\u0026openthreadid=omt_19baa5bc15ce1b5e\u0026thread_position=1",
+        "message_id": "om_x100b62c79c4a7b98cfbfef372487283",
+        "message_position": "-3",
+        "msg_type": "post",
+        "sender": {
+          "id": "ou_6839c496050ee092fa8b34ba96db96d0",
+          "id_type": "open_id",
+          "name": "刘畅",
+          "sender_i18n_names": {
+            "zh_cn": "Hancks"
+          },
+          "sender_type": "user",
+          "tenant_key": "126f99f3b94e175d"
+        },
+        "thread_id": "omt_19baa5bc15ce1b5e",
+        "thread_message_position": "1",
+        "updated": false
+      }
+    ],
+    "page_token": "",
+    "thread_id": "omt_19baa5bc15ce1b5e",
+    "total": 2
+  },
+  "meta": {
+    "pagination": {
+      "complete": true,
+      "pages": 1,
+      "items": 2
+    }
+  }
+}

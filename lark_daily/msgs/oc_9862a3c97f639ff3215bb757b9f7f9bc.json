@@ -1,0 +1,260 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "has_more": false,
+    "messages": [
+      {
+        "chat_id": "oc_9862a3c97f639ff3215bb757b9f7f9bc",
+        "content": "\u003ccard title=\"文档内容变更提醒\"\u003e\n@张隆灿(ou_bea951464fdca49318929ded56731834)、@郑庆云(ou_ce913959d9725774178dcf3b4bebdb91) 编辑了文档 [1.4.应用系统部周度会议记录-2026](https://inovance.feishu.cn/wiki/V4DIwW2n3ixdfDkEvO2cg2kbnu5?from=subscription)\n[查看变更详情](https://inovance.feishu.cn/wiki/V4DIwW2n3ixdfDkEvO2cg2kbnu5?subscription=1\u0026from=subscription_diff\u0026changes=CisKG0tZRTVkU2xjRm9STnVqeDYwTDNjc3dFUm5LZRIERE9DWBoGmaEC16ICCjAKG0hkdTdzSTNqWWhFMUNZdHVLU1pjd1B3R25PYxILU0hFRVRfQkxPQ0saBOgH6AcQ7Mf61gY%3D\u0026is_docx_wiki=1) [取消关注]\n\u003c/card\u003e",
+        "create_time": "2026-10-26 09:44",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_bea951464fdca49318929ded56731834",
+            "key": "@_user_1",
+            "name": "张隆灿"
+          },
+          {
+            "id": "ou_ce913959d9725774178dcf3b4bebdb91",
+            "key": "@_user_2",
+            "name": "郑庆云"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_9862a3c97f639ff3215bb757b9f7f9bc\u0026position=1092",
+        "message_id": "om_x100b62df4649cc84cf64c2023b4d91a",
+        "message_position": "1092",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a0c2cea3eef8100d",
+          "id_type": "app_id",
+          "name": "云文档助手",
+          "open_bot_id": "ou_bea63df3fdeb80b092045b7641b5b26d",
+          "sender_i18n_names": {
+            "en_us": "Docs Assistant",
+            "ja_jp": "Docs アシスタント",
+            "zh_cn": "云文档助手"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_9862a3c97f639ff3215bb757b9f7f9bc",
+        "content": "\u003ccard title=\"文档内容变更提醒\"\u003e\n@柴亚通(ou_870975b0382c9b0eb131c90e8e5ac81d)、@黄金钢(ou_81c29721acf454ac727a80623cab8fcb) 编辑了电子表格 [驾驶舱指标开发方案](https://inovance.feishu.cn/wiki/EgS3wjiw8iI0xGkTlQWcuBHinmb?from=subscription)\n[查看变更详情](https://inovance.feishu.cn/wiki/EgS3wjiw8iI0xGkTlQWcuBHinmb?subscription=1\u0026from=subscription_diff\u0026changes=CM%2BZhcTdq7LYaRADGM8FIM8FKJfZ%2BtYG) [取消关注]\n\u003c/card\u003e",
+        "create_time": "2026-10-26 09:57",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_81c29721acf454ac727a80623cab8fcb",
+            "key": "@_user_1",
+            "name": "黄金钢"
+          },
+          {
+            "id": "ou_870975b0382c9b0eb131c90e8e5ac81d",
+            "key": "@_user_2",
+            "name": "柴亚通"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_9862a3c97f639ff3215bb757b9f7f9bc\u0026position=1093",
+        "message_id": "om_x100b62df74c6a884cfc539ff8dc4700",
+        "message_position": "1093",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a0c2cea3eef8100d",
+          "id_type": "app_id",
+          "name": "云文档助手",
+          "open_bot_id": "ou_bea63df3fdeb80b092045b7641b5b26d",
+          "sender_i18n_names": {
+            "en_us": "Docs Assistant",
+            "ja_jp": "Docs アシスタント",
+            "zh_cn": "云文档助手"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_9862a3c97f639ff3215bb757b9f7f9bc",
+        "content": "\u003ccard title=\"文档内容变更提醒\"\u003e\n@孙奥迪(ou_6d7296505aad11152c1fa679a46346d1)、@袁彬(ou_ecf3da2a84219af245eead88732b741d) 编辑了电子表格 [岳阳工厂驾驶舱指标开发方案](https://inovance.feishu.cn/wiki/EgS3wjiw8iI0xGkTlQWcuBHinmb?from=subscription)\n[查看变更详情](https://inovance.feishu.cn/wiki/EgS3wjiw8iI0xGkTlQWcuBHinmb?subscription=1\u0026from=subscription_diff\u0026changes=CM%2BZhcTdq7LYaRADGNAFINAFKK%2Fx%2BtYG) [取消关注]\n\u003c/card\u003e",
+        "create_time": "2026-10-26 10:49",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_6d7296505aad11152c1fa679a46346d1",
+            "key": "@_user_1",
+            "name": "孙奥迪"
+          },
+          {
+            "id": "ou_ecf3da2a84219af245eead88732b741d",
+            "key": "@_user_2",
+            "name": "袁彬"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_9862a3c97f639ff3215bb757b9f7f9bc\u0026position=1094",
+        "message_id": "om_x100b62dfb54834a8de9c283d483b4e9",
+        "message_position": "1094",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a0c2cea3eef8100d",
+          "id_type": "app_id",
+          "name": "云文档助手",
+          "open_bot_id": "ou_bea63df3fdeb80b092045b7641b5b26d",
+          "sender_i18n_names": {
+            "en_us": "Docs Assistant",
+            "ja_jp": "Docs アシスタント",
+            "zh_cn": "云文档助手"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_9862a3c97f639ff3215bb757b9f7f9bc",
+        "content": "\u003ccard title=\"文档内容变更提醒\"\u003e\n@柴亚通(ou_870975b0382c9b0eb131c90e8e5ac81d) 编辑了电子表格 [岳阳工厂驾驶舱指标开发方案](https://inovance.feishu.cn/wiki/EgS3wjiw8iI0xGkTlQWcuBHinmb?from=subscription)\n[查看变更详情](https://inovance.feishu.cn/wiki/EgS3wjiw8iI0xGkTlQWcuBHinmb?subscription=1\u0026from=subscription_diff\u0026changes=CM%2BZhcTdq7LYaRADGNEFINEFKMSG%2B9YG) [取消关注]\n\u003c/card\u003e",
+        "create_time": "2026-10-26 11:34",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_870975b0382c9b0eb131c90e8e5ac81d",
+            "key": "@_user_1",
+            "name": "柴亚通"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_9862a3c97f639ff3215bb757b9f7f9bc\u0026position=1095",
+        "message_id": "om_x100b62d8ea14a8b4cd0c754f1b1033c",
+        "message_position": "1095",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a0c2cea3eef8100d",
+          "id_type": "app_id",
+          "name": "云文档助手",
+          "open_bot_id": "ou_bea63df3fdeb80b092045b7641b5b26d",
+          "sender_i18n_names": {
+            "en_us": "Docs Assistant",
+            "ja_jp": "Docs アシスタント",
+            "zh_cn": "云文档助手"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_9862a3c97f639ff3215bb757b9f7f9bc",
+        "content": "\u003ccard title=\"文档内容变更提醒\"\u003e\n@马海峰(ou_dc403e1c0af2aed46ecdbae406924914)、@刘宏宇(ou_c8afe8aab3f80a020c356c0ca46a12ce)、@何洁(ou_12812c1a73cd277651c05fb1d2192e92) 已编辑文档 [1.4.应用系统部周度会议记录-2026](https://inovance.feishu.cn/wiki/V4DIwW2n3ixdfDkEvO2cg2kbnu5?from=subscription)\n[查看变更详情](https://inovance.feishu.cn/wiki/V4DIwW2n3ixdfDkEvO2cg2kbnu5?subscription=1\u0026from=subscription_diff\u0026changes=CisKG0tZRTVkU2xjRm9STnVqeDYwTDNjc3dFUm5LZRIERE9DWBoG16ICqKUCCjAKG0hkdTdzSTNqWWhFMUNZdHVLU1pjd1B3R25PYxILU0hFRVRfQkxPQ0saBOgH6AcQyeT61gY%3D\u0026is_docx_wiki=1) [取消关注]\n\u003c/card\u003e",
+        "create_time": "2026-10-26 12:01",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_dc403e1c0af2aed46ecdbae406924914",
+            "key": "@_user_1",
+            "name": "马海峰"
+          },
+          {
+            "id": "ou_c8afe8aab3f80a020c356c0ca46a12ce",
+            "key": "@_user_2",
+            "name": "刘宏宇"
+          },
+          {
+            "id": "ou_12812c1a73cd277651c05fb1d2192e92",
+            "key": "@_user_3",
+            "name": "何洁"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_9862a3c97f639ff3215bb757b9f7f9bc\u0026position=1096",
+        "message_id": "om_x100b62d9461cc8a4de0adb85d5d21ae",
+        "message_position": "1096",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a0c2cea3eef8100d",
+          "id_type": "app_id",
+          "name": "云文档助手",
+          "open_bot_id": "ou_bea63df3fdeb80b092045b7641b5b26d",
+          "sender_i18n_names": {
+            "en_us": "Docs Assistant",
+            "ja_jp": "Docs アシスタント",
+            "zh_cn": "云文档助手"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_9862a3c97f639ff3215bb757b9f7f9bc",
+        "content": "\u003ccard title=\"文档内容变更提醒\"\u003e\n@黄金钢(ou_81c29721acf454ac727a80623cab8fcb) 编辑了电子表格 [岳阳工厂驾驶舱指标开发方案](https://inovance.feishu.cn/wiki/EgS3wjiw8iI0xGkTlQWcuBHinmb?from=subscription)\n[查看变更详情](https://inovance.feishu.cn/wiki/EgS3wjiw8iI0xGkTlQWcuBHinmb?subscription=1\u0026from=subscription_diff\u0026changes=CM%2BZhcTdq7LYaRADGNIFINIFKJOH%2FNYG) [取消关注]\n\u003c/card\u003e",
+        "create_time": "2026-10-26 16:09",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_81c29721acf454ac727a80623cab8fcb",
+            "key": "@_user_1",
+            "name": "黄金钢"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_9862a3c97f639ff3215bb757b9f7f9bc\u0026position=1097",
+        "message_id": "om_x100b62c4e70a84b8df6ea14c6b7d8b5",
+        "message_position": "1097",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a0c2cea3eef8100d",
+          "id_type": "app_id",
+          "name": "云文档助手",
+          "open_bot_id": "ou_bea63df3fdeb80b092045b7641b5b26d",
+          "sender_i18n_names": {
+            "en_us": "Docs Assistant",
+            "ja_jp": "Docs アシスタント",
+            "zh_cn": "云文档助手"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_9862a3c97f639ff3215bb757b9f7f9bc",
+        "content": "\u003ccard title=\"文档内容变更提醒\"\u003e\n@柴亚通(ou_870975b0382c9b0eb131c90e8e5ac81d) 编辑了电子表格 [岳阳工厂驾驶舱指标开发方案](https://inovance.feishu.cn/wiki/EgS3wjiw8iI0xGkTlQWcuBHinmb?from=subscription)\n[查看变更详情](https://inovance.feishu.cn/wiki/EgS3wjiw8iI0xGkTlQWcuBHinmb?subscription=1\u0026from=subscription_diff\u0026changes=CM%2BZhcTdq7LYaRADGNMFINMFKPec%2FNYG) [取消关注]\n\u003c/card\u003e",
+        "create_time": "2026-10-26 16:55",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_870975b0382c9b0eb131c90e8e5ac81d",
+            "key": "@_user_1",
+            "name": "柴亚通"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_9862a3c97f639ff3215bb757b9f7f9bc\u0026position=1098",
+        "message_id": "om_x100b62c516cff0acce5d6e5afdbaeed",
+        "message_position": "1098",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a0c2cea3eef8100d",
+          "id_type": "app_id",
+          "name": "云文档助手",
+          "open_bot_id": "ou_bea63df3fdeb80b092045b7641b5b26d",
+          "sender_i18n_names": {
+            "en_us": "Docs Assistant",
+            "ja_jp": "Docs アシスタント",
+            "zh_cn": "云文档助手"
+          },
+          "sender_type": "app",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      }
+    ],
+    "page_token": "",
+    "total": 7
+  },
+  "meta": {
+    "pagination": {
+      "complete": true,
+      "pages": 1,
+      "items": 7
+    }
+  }
+}

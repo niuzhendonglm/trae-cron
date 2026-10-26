@@ -1,0 +1,166 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "has_more": false,
+    "messages": [
+      {
+        "chat_id": "oc_116045b976a58256400df3e6c4a57c1b",
+        "content": "\u003ccard\u003e\n从截图能确认的只是页面上的几个数字：**首月优惠价 ¥39**、用券抵扣 ¥10 后**实付 ¥29.00**，而底部**自动续费金额显示 ¥45**。\n\n我查了当前的官方文档，没有找到关于自动续费金额如何计算、是否向上取整的直接说明，所以暂时无法确认这个 ¥45 是怎么得出的，也不适合替它下结论。首月优惠价和后续自动续费价通常是两个不同的价格，具体以页面上链接的《TRAE 自动续费服务协议》为准。\n\n如果想核实这笔自动续费金额，建议直接邮件咨询 **feedback@mail.trae.cn**（国际版 **feedback@mail.trae.ai**）确认。\n---\n💡 更多使用问题请转移至 [TRAE 官方社区「帮助与支持」板块](https://forum.trae.cn/c/7-category/7) 发帖询问 \n · 021793004964873fdbddc0200190532c659cb53af00005dad7cf7 · \n[已解决]\n[更多问题请到「官方社区」提问](https://forum.trae.cn/c/7-category/7)\n\u003c/card\u003e",
+        "create_time": "2026-10-26 16:56",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/thread/open?open_chat_id=oc_116045b976a58256400df3e6c4a57c1b\u0026open_thread_id=omt_19ba9d6a6e8f1a57\u0026openchatid=oc_116045b976a58256400df3e6c4a57c1b\u0026openthreadid=omt_19ba9d6a6e8f1a57\u0026thread_position=0",
+        "message_id": "om_x100b62c514ac3880b1e2b32d53243da",
+        "message_position": "-3",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a9c7f80599f8dbc4",
+          "id_type": "app_id",
+          "name": "TRAE 宝",
+          "open_bot_id": "ou_dfae499a31a17e270c3cc86c7275f2bd",
+          "sender_i18n_names": {
+            "en_us": "TRAE 宝",
+            "zh_cn": "TRAE 宝"
+          },
+          "sender_type": "app",
+          "tenant_key": "15d6d1e6e508d75e"
+        },
+        "thread_id": "omt_19ba9d6a6e8f1a57",
+        "thread_message_position": "0",
+        "update_time": "2026-10-26 16:57",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_116045b976a58256400df3e6c4a57c1b",
+        "content": "首次开通是有优惠的",
+        "create_time": "2026-10-26 16:57",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/thread/open?open_chat_id=oc_116045b976a58256400df3e6c4a57c1b\u0026open_thread_id=omt_19ba9d6a6e8f1a57\u0026openchatid=oc_116045b976a58256400df3e6c4a57c1b\u0026openthreadid=omt_19ba9d6a6e8f1a57\u0026thread_position=1",
+        "message_id": "om_x100b62c5132534a0cfe6dfec9d9ec34",
+        "message_position": "-3",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_201c617c8180e3a801c22a702d94700a",
+          "id_type": "open_id",
+          "name": "漫川",
+          "sender_i18n_names": {
+            "zh_cn": "汤圆"
+          },
+          "sender_type": "user",
+          "tenant_key": "11f46eabf147175e"
+        },
+        "thread_id": "omt_19ba9d6a6e8f1a57",
+        "thread_message_position": "1",
+        "updated": false
+      },
+      {
+        "chat_id": "oc_116045b976a58256400df3e6c4a57c1b",
+        "content": "[Image: img_v3_0216r_fd1d08b8-4717-44c5-8a6c-b8e2322688ag]",
+        "create_time": "2026-10-26 16:57",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/thread/open?open_chat_id=oc_116045b976a58256400df3e6c4a57c1b\u0026open_thread_id=omt_19ba9d6a6e8f1a57\u0026openchatid=oc_116045b976a58256400df3e6c4a57c1b\u0026openthreadid=omt_19ba9d6a6e8f1a57\u0026thread_position=2",
+        "message_id": "om_x100b62c5110e308cb01016f94b39b50",
+        "message_position": "-3",
+        "msg_type": "image",
+        "sender": {
+          "id": "ou_201c617c8180e3a801c22a702d94700a",
+          "id_type": "open_id",
+          "name": "漫川",
+          "sender_i18n_names": {
+            "zh_cn": "汤圆"
+          },
+          "sender_type": "user",
+          "tenant_key": "11f46eabf147175e"
+        },
+        "thread_id": "omt_19ba9d6a6e8f1a57",
+        "thread_message_position": "2",
+        "updated": false
+      },
+      {
+        "chat_id": "oc_116045b976a58256400df3e6c4a57c1b",
+        "content": "原价是49",
+        "create_time": "2026-10-26 17:03",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/thread/open?open_chat_id=oc_116045b976a58256400df3e6c4a57c1b\u0026open_thread_id=omt_19ba9d6a6e8f1a57\u0026openchatid=oc_116045b976a58256400df3e6c4a57c1b\u0026openthreadid=omt_19ba9d6a6e8f1a57\u0026thread_position=3",
+        "message_id": "om_x100b62c538c158b0b052a9fd50b2834",
+        "message_position": "-3",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_0c71c87dc58a5307751d13d5ca0bd657",
+          "id_type": "open_id",
+          "name": "使用者450515",
+          "sender_i18n_names": {
+            "en_us": "吴于飞",
+            "zh_cn": "Lab"
+          },
+          "sender_type": "user",
+          "tenant_key": "1a5fb4e7c48d5c91"
+        },
+        "thread_id": "omt_19ba9d6a6e8f1a57",
+        "thread_message_position": "3",
+        "updated": false
+      },
+      {
+        "chat_id": "oc_116045b976a58256400df3e6c4a57c1b",
+        "content": "嗯 除去首月，连续包月不是九折嘛，49x9折=44.1，后续每月45[看]",
+        "create_time": "2026-10-26 17:05",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/thread/open?open_chat_id=oc_116045b976a58256400df3e6c4a57c1b\u0026open_thread_id=omt_19ba9d6a6e8f1a57\u0026openchatid=oc_116045b976a58256400df3e6c4a57c1b\u0026openthreadid=omt_19ba9d6a6e8f1a57\u0026thread_position=4",
+        "message_id": "om_x100b62c53249a0a8c3c5d15ce77c4d8",
+        "message_position": "-3",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_36a12c4c48076356cd6c751af4c291be",
+          "id_type": "open_id",
+          "name": "商金龙",
+          "sender_type": "user",
+          "tenant_key": "1aec26fd572d1be8"
+        },
+        "thread_id": "omt_19ba9d6a6e8f1a57",
+        "thread_message_position": "4",
+        "updated": false
+      },
+      {
+        "chat_id": "oc_116045b976a58256400df3e6c4a57c1b",
+        "content": "@商金龙 哪里写了九折呀？没看到啊",
+        "create_time": "2026-10-27 00:00",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_36a12c4c48076356cd6c751af4c291be",
+            "key": "@_user_1",
+            "name": "商金龙"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/thread/open?open_chat_id=oc_116045b976a58256400df3e6c4a57c1b\u0026open_thread_id=omt_19ba9d6a6e8f1a57\u0026openchatid=oc_116045b976a58256400df3e6c4a57c1b\u0026openthreadid=omt_19ba9d6a6e8f1a57\u0026thread_position=5",
+        "message_id": "om_x100b62c3de8be0a4ce1fa2a0e9e9692",
+        "message_position": "-3",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_a8227d22139ae3261b719ea82d30b93e",
+          "id_type": "open_id",
+          "name": "电商用户3025",
+          "sender_i18n_names": {
+            "zh_cn": "终极蹭饭专家"
+          },
+          "sender_type": "user",
+          "tenant_key": "1134154ee34f175e"
+        },
+        "thread_id": "omt_19ba9d6a6e8f1a57",
+        "thread_message_position": "5",
+        "update_time": "2026-10-27 00:00",
+        "updated": true
+      }
+    ],
+    "page_token": "",
+    "thread_id": "omt_19ba9d6a6e8f1a57",
+    "total": 6
+  },
+  "meta": {
+    "pagination": {
+      "complete": true,
+      "pages": 1,
+      "items": 6
+    }
+  }
+}
