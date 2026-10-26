@@ -1,0 +1,98 @@
+import json
+
+DOC_URL = "https://inovance.feishu.cn/docx/UZqRddDCxoKy0VxxqjjcX4XZnfg"
+
+sections = [
+    ("一、操作指南", [
+        ("11. 把 TRAE 完全卸载再重装，项目文件和对话记录会丢吗？怎么保留？",
+         "1. 项目代码文件在本地磁盘，卸载重装不会丢；\n"
+         "2. AI 对话记录与本地任务数据存在缓存目录（Mac：`~/Library/Application Support/Trae/`；Windows：`%USERPROFILE%\\AppData\\Roaming\\Trae\\`），普通卸载重装不删缓存则数据仍在；\n"
+         "3. 完全卸载并手动删除数据文件夹，会丢历史对话、未接受的代码变更和回退快照；\n"
+         "4. 建议卸载前先导出重要对话，新任务开始时先让它读取导出的会话再执行。"),
+        ("12. 新版 TRAE 的 Agent 模式里怎么找插件市场？",
+         "Agent 模式的插件市场入口在**外层侧边栏**，不在设置里；IDE 模式的插件市场才在设置中。"),
+    ]),
+    ("二、产品动态", [
+        ("7. 买的 TRAE 会员积分，能用到飞书的豆包助手吗？",
+         "1. **不可以**，会员积分仅限在 TRAE 产品内使用（群内多人确认）；\n"
+         "2. 群友建议：如需接入其他软件，可走第三方 API 的方式按需选择更经济的方案（属个人经验，非官方结论）。"),
+        ("8. 为什么手机端最近没法直接查看任务产物了？",
+         "1. 移动端升级后**目前不支持查看产物**；\n"
+         "2. 官方已记录并反馈该需求，暂无恢复时间，群里暂无定论。"),
+    ]),
+    ("三、技术问答", [
+        ("40. 任务提示完成、扣了积分，但没有任何输出结果，是什么原因？",
+         "1. **官方排查**：任务实际运行约 13 分 43 秒，已完成平台访问与数据读取，最后整理结果时遇页面日期输入异常，收尾环节异常结束——不属于排队、超时、限流或输出长度限制；\n"
+         "2. **计费**：14.54 credits 对应已执行的部分，最后一次空回复被识别为失败请求，未发现重复或额外扣费；\n"
+         "3. **官方改进**：加强输入校验、异常自动恢复与完整性检查，并对「最终回复为空」增加拦截与自动重试；\n"
+         "4. **建议**：重发时写清日期范围，或拆成「先采集并确认条数、再汇总分析」两步执行。"),
+        ("41. 任务报错 3003 中断会扣积分吗？怎么看某个会话的积分消耗？",
+         "1. 正常情况下 **3003 报错不会扣积分**，新开会话或切换模型继续任务即可；\n"
+         "2. **查消耗**：在「用量管理」页面查看该会话积分，或把鼠标悬停在会话上显示对应积分消耗；\n"
+         "3. 任务被意外手动停止后持续提示「请求模型失败」的根因，群里暂无定论。"),
+        ("42. Mac 上如何让 TRAE 启动时直接打开 Agent 界面？从托盘打开为什么总是 IDE？",
+         "1. **官方指引**：目前可通过设置指定启动窗口；\n"
+         "2. **群友实测（mac）**：关闭窗口后任务后台常驻，点顶部托盘图标会直接打开 IDE 模式、不遵循启动窗口设置（最小化时托盘不改变模式）；\n"
+         "3. 官方在 Windows 未复现，mac 端暂无该能力，已记录并反馈该需求。"),
+        ("43. TRAE 连续包月价格为什么向上取整成 45 元？",
+         "1. 原价 **49 元**，首次开通有优惠；\n"
+         "2. 连续包月九折：49 × 0.9 = 44.1，**向上取整为 45 元/月**。"),
+    ]),
+]
+
+total = sum(len(items) for _, items in sections)
+
+elements = [{
+    "tag": "div",
+    "text": {
+        "tag": "lark_md",
+        "content": "**数据日期**：2026-10-26（周一）\n**本次新增**：%d 条QA（含回答要点）" % total,
+    },
+}]
+
+for idx, (name, items) in enumerate(sections):
+    elements.append({"tag": "hr"})
+    lines = ["**%s**" % name, ""]
+    for q, a in items:
+        lines.append("**%s**" % q)
+        lines.append("**回答**：%s" % a)
+        lines.append("")
+    elements.append({"tag": "div", "text": {"tag": "lark_md", "content": "\n".join(lines).rstrip() + "\n"}})
+
+elements.append({"tag": "hr"})
+elements.append({
+    "tag": "action",
+    "actions": [{
+        "tag": "button",
+        "text": {"tag": "plain_text", "content": "查看完整文档"},
+        "url": DOC_URL,
+        "type": "primary",
+    }],
+})
+
+card = {
+    "config": {"wide_screen_mode": True, "enable_forward": True},
+    "header": {
+        "title": {"tag": "plain_text", "content": "Inoclaw 精选消息 · 每日QA精选"},
+        "template": "blue",
+    },
+    "elements": elements,
+}
+
+payload = {
+    "receive_id": "oc_5c11ab5f3bd43008d8e58cdd2d62199b",
+    "msg_type": "interactive",
+    "content": json.dumps(card, ensure_ascii=False),
+}
+
+with open("card_payload.json", "w", encoding="utf-8") as f:
+    json.dump(payload, f, ensure_ascii=False)
+
+print("total QA:", total)
+print("elements:", len(elements), "| divs:", sum(1 for e in elements if e["tag"] == "div"),
+      "| hr:", sum(1 for e in elements if e["tag"] == "hr"),
+      "| action:", sum(1 for e in elements if e["tag"] == "action"))
+print("card json chars:", len(payload["content"]), "| payload file chars:", len(json.dumps(payload, ensure_ascii=False)))
+# sanity: every QA has an answer
+bad = [q for _, items in sections for q, a in items if not a.strip()]
+print("QA missing answer:", bad if bad else "none")
