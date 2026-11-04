@@ -1,0 +1,11 @@
+{
+  "ok": false,
+  "identity": "user",
+  "error": {
+    "type": "validation",
+    "subtype": "invalid_argument",
+    "message": "--content: invalid file path \"./\": not a regular file (directories, devices, FIFOs, and sockets are refused)",
+    "hint": "this flag also reads stdin: pipe the file contents into this command and pass --content -",
+    "param": "--content"
+  }
+}
