@@ -1,0 +1,109 @@
+{
+  "manifest_version": "v1",
+  "format": "ndjson",
+  "base_token": "KezfbQ2fDaNBonskSTZcM3YVnWf",
+  "table_id": "tblrHaPTUI8x71ot",
+  "rev": 424,
+  "timezone": "Asia/Shanghai",
+  "query_context": {
+    "field_scope": "all_fields",
+    "record_scope": "filtered_records"
+  },
+  "requested_limit": 2000,
+  "records_count": 93,
+  "page_count": 1,
+  "has_more": false,
+  "record_file": "/workspace/lark-ops/dup_check.ndjson",
+  "record_file_size_bytes": 58588,
+  "manifest_file": "/workspace/lark-ops/dup_check.manifest.json",
+  "columns": {
+    "AI回复": {
+      "field_id": "fldtSg9R3M",
+      "field_type": "text",
+      "physical_type": "string|null",
+      "stats": {
+        "null_count": 77,
+        "max_length": 197
+      },
+      "example": "建议直接给出结论式回复：当前进展 / 是否可参与 / 需要的时间点。若信息不足，说明需要哪些输入才能答复并约定回复时间，避免开放式追问导致沟通轮次增加。"
+    },
+    "Answer": {
+      "field_id": "fldGVRHmev",
+      "field_type": "text",
+      "physical_type": "string|null",
+      "stats": {
+        "null_count": 0,
+        "max_length": 771
+      },
+      "example": "周明明：稍等"
+    },
+    "Question": {
+      "field_id": "flduTpz0TC",
+      "field_type": "text",
+      "physical_type": "string|null",
+      "stats": {
+        "null_count": 0,
+        "max_length": 500
+      },
+      "example": "我来问下"
+    },
+    "record_id": {
+      "physical_type": "string",
+      "stats": {
+        "max_length": 16
+      },
+      "example": "reczz28VPepo54DX"
+    },
+    "回复人": {
+      "field_id": "fldL8QOn5x",
+      "field_type": "text",
+      "physical_type": "string|null",
+      "stats": {
+        "null_count": 0,
+        "max_length": 8
+      },
+      "example": "Weide"
+    },
+    "提问人": {
+      "field_id": "fldY017GaS",
+      "field_type": "text",
+      "physical_type": "string|null",
+      "stats": {
+        "null_count": 0,
+        "max_length": 14
+      },
+      "example": "石峰"
+    },
+    "文本": {
+      "field_id": "fldyixshzh",
+      "field_type": "text",
+      "physical_type": "string|null",
+      "stats": {
+        "null_count": 0,
+        "max_length": 412
+      },
+      "example": "[15:59 方智] 申请啥？"
+    },
+    "问题日期": {
+      "field_id": "fldVyCiJ2m",
+      "field_type": "datetime",
+      "physical_type": "string|null",
+      "stats": {
+        "null_count": 0,
+        "min": "2026-11-03T08:46:00.000+08:00",
+        "max": "2026-11-03T21:10:00.000+08:00"
+      },
+      "example": "2026-11-03T08:46:00.000+08:00"
+    },
+    "问题类型": {
+      "field_id": "fldZ8OCMiW",
+      "field_type": "text",
+      "physical_type": "string|null",
+      "stats": {
+        "null_count": 0,
+        "max_length": 4
+      },
+      "example": "工具使用"
+    }
+  }
+}
