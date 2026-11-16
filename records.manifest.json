@@ -1,0 +1,129 @@
+{
+  "manifest_version": "v1",
+  "format": "ndjson",
+  "base_token": "KezfbQ2fDaNBonskSTZcM3YVnWf",
+  "table_id": "tblmbeQPFVKFR2Tb",
+  "rev": 355,
+  "timezone": "Asia/Shanghai",
+  "query_context": {
+    "field_scope": "selected_fields",
+    "record_scope": "filtered_records"
+  },
+  "requested_limit": 2000,
+  "records_count": 77,
+  "page_count": 1,
+  "has_more": false,
+  "record_file": "/workspace/records.ndjson",
+  "record_file_size_bytes": 39899,
+  "manifest_file": "/workspace/records.manifest.json",
+  "columns": {
+    "record_id": {
+      "physical_type": "string",
+      "stats": {
+        "max_length": 16
+      },
+      "example": "reczz28aD5OhS3rS"
+    },
+    "会话ID": {
+      "field_id": "fldSIPaBuS",
+      "field_type": "text",
+      "physical_type": "string|null",
+      "stats": {
+        "null_count": 0,
+        "max_length": 35
+      },
+      "example": "oc_116045b976a58256400df3e6c4a57c1b"
+    },
+    "会话名称": {
+      "field_id": "fldJmdIXFN",
+      "field_type": "text",
+      "physical_type": "string|null",
+      "stats": {
+        "null_count": 0,
+        "max_length": 20
+      },
+      "example": "TRAE 用户交流群 1️⃣2️⃣｜官方"
+    },
+    "会话类型": {
+      "field_id": "fld4yEnM3S",
+      "field_type": "text",
+      "physical_type": "string|null",
+      "stats": {
+        "null_count": 0,
+        "max_length": 2
+      },
+      "example": "群聊"
+    },
+    "发送人": {
+      "field_id": "fld8wx5td9",
+      "field_type": "text",
+      "physical_type": "string|null",
+      "stats": {
+        "null_count": 0,
+        "max_length": 8
+      },
+      "example": "刘畅"
+    },
+    "发送人ID": {
+      "field_id": "fldgZzxWbm",
+      "field_type": "text",
+      "physical_type": "string|null",
+      "stats": {
+        "null_count": 0,
+        "max_length": 35
+      },
+      "example": "ou_f7c1d047112bcada3ec1fbbf6c98a9c3"
+    },
+    "发送时间": {
+      "field_id": "fldXHvmm4n",
+      "field_type": "datetime",
+      "physical_type": "string|null",
+      "stats": {
+        "null_count": 0,
+        "min": "2026-11-15T07:59:00.000+08:00",
+        "max": "2026-11-15T20:08:00.000+08:00"
+      },
+      "example": "2026-11-15T07:59:00.000+08:00"
+    },
+    "消息ID": {
+      "field_id": "fld4pWFTiC",
+      "field_type": "text",
+      "physical_type": "string|null",
+      "stats": {
+        "null_count": 0,
+        "max_length": 35
+      },
+      "example": "om_x100b60bb121ccca4cfe4e10054143a9"
+    },
+    "消息内容": {
+      "field_id": "fldWkNP9nu",
+      "field_type": "text",
+      "physical_type": "string|null",
+      "stats": {
+        "null_count": 0,
+        "max_length": 150
+      },
+      "example": "以上上电照片中标签确认无误"
+    },
+    "消息类型": {
+      "field_id": "fldVDUJsMZ",
+      "field_type": "text",
+      "physical_type": "string|null",
+      "stats": {
+        "null_count": 0,
+        "max_length": 5
+      },
+      "example": "text"
+    },
+    "话题ID": {
+      "field_id": "fldhzVM8Ri",
+      "field_type": "text",
+      "physical_type": "string|null",
+      "stats": {
+        "null_count": 69,
+        "max_length": 20
+      },
+      "example": "omt_199d7d04320f5b52"
+    }
+  }
+}
