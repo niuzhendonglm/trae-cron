@@ -1,0 +1,39 @@
+{
+  "manifest_version": "v1",
+  "format": "ndjson",
+  "base_token": "KezfbQ2fDaNBonskSTZcM3YVnWf",
+  "table_id": "tblrHaPTUI8x71ot",
+  "rev": 433,
+  "timezone": "Asia/Shanghai",
+  "query_context": {
+    "field_scope": "selected_fields",
+    "record_scope": "filtered_records"
+  },
+  "requested_limit": 2000,
+  "records_count": 4,
+  "page_count": 1,
+  "has_more": false,
+  "record_file": "/workspace/group-report/tmp/existing_qa2.ndjson",
+  "record_file_size_bytes": 320,
+  "manifest_file": "/workspace/group-report/tmp/existing_qa2.manifest.json",
+  "columns": {
+    "record_id": {
+      "physical_type": "string",
+      "stats": {
+        "max_length": 16
+      },
+      "example": "reczz28aD931KSl3"
+    },
+    "问题日期": {
+      "field_id": "fldVyCiJ2m",
+      "field_type": "datetime",
+      "physical_type": "string|null",
+      "stats": {
+        "null_count": 0,
+        "min": "2026-11-14T02:48:00.000+08:00",
+        "max": "2026-11-15T18:42:00.000+08:00"
+      },
+      "example": "2026-11-14T02:48:00.000+08:00"
+    }
+  }
+}

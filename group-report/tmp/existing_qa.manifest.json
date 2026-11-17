@@ -1,0 +1,99 @@
+{
+  "manifest_version": "v1",
+  "format": "ndjson",
+  "base_token": "KezfbQ2fDaNBonskSTZcM3YVnWf",
+  "table_id": "tblrHaPTUI8x71ot",
+  "rev": 433,
+  "timezone": "Asia/Shanghai",
+  "query_context": {
+    "field_scope": "selected_fields",
+    "record_scope": "filtered_records"
+  },
+  "requested_limit": 2000,
+  "records_count": 4,
+  "page_count": 1,
+  "has_more": false,
+  "record_file": "/workspace/group-report/tmp/existing_qa.ndjson",
+  "record_file_size_bytes": 2366,
+  "manifest_file": "/workspace/group-report/tmp/existing_qa.manifest.json",
+  "columns": {
+    "AI回复": {
+      "field_id": "fldtSg9R3M",
+      "field_type": "text",
+      "physical_type": "string|null",
+      "stats": {
+        "null_count": 0,
+        "max_length": 63
+      },
+      "example": "可在「设置 → 通用」关闭自动更新改为手动检查；新版包体增大可定期清理旧版本缓存目录释放空间。"
+    },
+    "Answer": {
+      "field_id": "fldGVRHmev",
+      "field_type": "text",
+      "physical_type": "string|null",
+      "stats": {
+        "null_count": 0,
+        "max_length": 63
+      },
+      "example": "可在「设置 → 通用」关闭自动更新改为手动检查；新版包体增大可定期清理旧版本缓存目录释放空间。"
+    },
+    "Question": {
+      "field_id": "flduTpz0TC",
+      "field_type": "text",
+      "physical_type": "string|null",
+      "stats": {
+        "null_count": 0,
+        "max_length": 32
+      },
+      "example": "我靠，trae宝卡和模型相应速度有关？"
+    },
+    "record_id": {
+      "physical_type": "string",
+      "stats": {
+        "max_length": 16
+      },
+      "example": "reczz28aD931KSl3"
+    },
+    "回复人": {
+      "field_id": "fldL8QOn5x",
+      "field_type": "text",
+      "physical_type": "string|null",
+      "stats": {
+        "null_count": 0,
+        "max_length": 4
+      },
+      "example": "AI助手"
+    },
+    "提问人": {
+      "field_id": "fldY017GaS",
+      "field_type": "text",
+      "physical_type": "string|null",
+      "stats": {
+        "null_count": 0,
+        "max_length": 15
+      },
+      "example": "初学者"
+    },
+    "问题日期": {
+      "field_id": "fldVyCiJ2m",
+      "field_type": "datetime",
+      "physical_type": "string|null",
+      "stats": {
+        "null_count": 0,
+        "min": "2026-11-14T02:48:00.000+08:00",
+        "max": "2026-11-15T18:42:00.000+08:00"
+      },
+      "example": "2026-11-14T02:48:00.000+08:00"
+    },
+    "问题类型": {
+      "field_id": "fldZ8OCMiW",
+      "field_type": "text",
+      "physical_type": "string|null",
+      "stats": {
+        "null_count": 0,
+        "max_length": 4
+      },
+      "example": "工具使用"
+    }
+  }
+}

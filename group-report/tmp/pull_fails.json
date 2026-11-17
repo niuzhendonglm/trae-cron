@@ -1,0 +1,6 @@
+[
+ {
+  "chat_id": "oc_b676b6ebb9100c3b052b5ecc7d5bfb39",
+  "error": "{\n  \"ok\": false,\n  \"identity\": \"user\",\n  \"error\": {\n    \"type\": \"api\",\n    \"subtype\": \"unknown\",\n    \"code\": 231203,\n    \"message\": \"The chat type is not supported, ext=Chat open Restricted Mode, don'"
+ }
+]

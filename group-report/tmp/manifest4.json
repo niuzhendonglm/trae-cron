@@ -1,0 +1,49 @@
+{
+  "manifest_version": "v1",
+  "format": "ndjson",
+  "base_token": "KezfbQ2fDaNBonskSTZcM3YVnWf",
+  "table_id": "tblmbeQPFVKFR2Tb",
+  "rev": 359,
+  "timezone": "Asia/Shanghai",
+  "query_context": {
+    "field_scope": "selected_fields",
+    "record_scope": "filtered_records"
+  },
+  "requested_limit": 2000,
+  "records_count": 237,
+  "page_count": 1,
+  "has_more": false,
+  "record_file": "/workspace/group-report/tmp/existing_msg4.ndjson",
+  "record_file_size_bytes": 30573,
+  "manifest_file": "/workspace/group-report/tmp/existing_msg4.manifest.json",
+  "columns": {
+    "record_id": {
+      "physical_type": "string",
+      "stats": {
+        "max_length": 16
+      },
+      "example": "reczz28aD5OhS3rS"
+    },
+    "发送时间": {
+      "field_id": "fldXHvmm4n",
+      "field_type": "datetime",
+      "physical_type": "string|null",
+      "stats": {
+        "null_count": 0,
+        "min": "2026-11-15T07:59:00.000+08:00",
+        "max": "2026-11-16T23:15:00.000+08:00"
+      },
+      "example": "2026-11-15T07:59:00.000+08:00"
+    },
+    "消息ID": {
+      "field_id": "fld4pWFTiC",
+      "field_type": "text",
+      "physical_type": "string|null",
+      "stats": {
+        "null_count": 0,
+        "max_length": 35
+      },
+      "example": "om_x100b60bb121ccca4cfe4e10054143a9"
+    }
+  }
+}

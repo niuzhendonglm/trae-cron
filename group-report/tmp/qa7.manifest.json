@@ -1,0 +1,79 @@
+{
+  "manifest_version": "v1",
+  "format": "ndjson",
+  "base_token": "KezfbQ2fDaNBonskSTZcM3YVnWf",
+  "table_id": "tblrHaPTUI8x71ot",
+  "rev": 434,
+  "timezone": "Asia/Shanghai",
+  "query_context": {
+    "field_scope": "selected_fields",
+    "record_scope": "filtered_records"
+  },
+  "requested_limit": 2000,
+  "records_count": 192,
+  "page_count": 1,
+  "has_more": false,
+  "record_file": "/workspace/group-report/tmp/qa7.ndjson",
+  "record_file_size_bytes": 45797,
+  "manifest_file": "/workspace/group-report/tmp/qa7.manifest.json",
+  "columns": {
+    "AI回复": {
+      "field_id": "fldtSg9R3M",
+      "field_type": "text",
+      "physical_type": "string|null",
+      "stats": {
+        "null_count": 132,
+        "max_length": 153
+      },
+      "example": "在「用量与账单」对该笔扣费提交申诉工单并附会话 ID，核实为限免期误扣的会返还积分。"
+    },
+    "record_id": {
+      "physical_type": "string",
+      "stats": {
+        "max_length": 16
+      },
+      "example": "reczz28XQU0TOLXm"
+    },
+    "回复人": {
+      "field_id": "fldL8QOn5x",
+      "field_type": "text",
+      "physical_type": "string|null",
+      "stats": {
+        "null_count": 0,
+        "max_length": 8
+      },
+      "example": "方健"
+    },
+    "提问人": {
+      "field_id": "fldY017GaS",
+      "field_type": "text",
+      "physical_type": "string|null",
+      "stats": {
+        "null_count": 0,
+        "max_length": 15
+      },
+      "example": "meng"
+    },
+    "问题日期": {
+      "field_id": "fldVyCiJ2m",
+      "field_type": "datetime",
+      "physical_type": "string|null",
+      "stats": {
+        "null_count": 0,
+        "min": "2026-11-08T09:35:00.000+08:00",
+        "max": "2026-11-16T19:28:00.000+08:00"
+      },
+      "example": "2026-11-08T09:35:00.000+08:00"
+    },
+    "问题类型": {
+      "field_id": "fldZ8OCMiW",
+      "field_type": "text",
+      "physical_type": "string|null",
+      "stats": {
+        "null_count": 0,
+        "max_length": 4
+      },
+      "example": "开发问题"
+    }
+  }
+}

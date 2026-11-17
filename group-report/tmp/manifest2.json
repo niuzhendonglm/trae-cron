@@ -1,0 +1,12 @@
+{
+  "ok": false,
+  "identity": "user",
+  "error": {
+    "type": "api",
+    "subtype": "unknown",
+    "code": 800010506,
+    "message": "invalid_request",
+    "hint": "Field fldXHvmm4n(\"发送时间\") has type datetime. Use one of these operators: ==, >, <, empty, non_empty.",
+    "log_id": "2026111710271924138D43F91ECF15FD36"
+  }
+}

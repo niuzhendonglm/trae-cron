@@ -1,0 +1,1 @@
+{"logic":"and","conditions":[["问题日期",">","ExactDate(2026-11-08)"],["问题日期","<","ExactDate(2026-11-17)"]]}

@@ -1,0 +1,2392 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "has_more": false,
+    "messages": [
+      {
+        "chat_id": "oc_3a5089c00ab83c544f8b8cfeb6f4ec3e",
+        "content": "济南工厂大传动高压测试上电前自检通报11月16日\n一、项目名称：青岛科钛\n二、SN:01283197PUB10062（第1台）\n三、自检内容\n 1、变压器接地线，高压线输入、输出已接好\n 2、线缆相序正确且紧固正常\n以上内容已自检完成请复检确认无误批准上电",
+        "create_time": "2026-11-16 10:09",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_3a5089c00ab83c544f8b8cfeb6f4ec3e\u0026position=81806",
+        "message_id": "om_x100b609213f718accd101cefe1b0961",
+        "message_position": "81806",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_6ec8d0067fd213a2ac2972be9013aa82",
+          "id_type": "open_id",
+          "is_agent": false,
+          "name": "蒲旭东",
+          "sender_i18n_names": {
+            "en_us": "puxudong"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-11-16 10:09",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_3a5089c00ab83c544f8b8cfeb6f4ec3e",
+        "content": "[Image: img_v3_0217g_4e88b168-62b6-40a0-bd23-45e3fe50b45g]",
+        "create_time": "2026-11-16 10:10",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_3a5089c00ab83c544f8b8cfeb6f4ec3e\u0026position=81807",
+        "message_id": "om_x100b60922e62bcb4ce7bfc4eb306e99",
+        "message_position": "81807",
+        "msg_type": "image",
+        "sender": {
+          "id": "ou_6ec8d0067fd213a2ac2972be9013aa82",
+          "id_type": "open_id",
+          "is_agent": false,
+          "name": "蒲旭东",
+          "sender_i18n_names": {
+            "en_us": "puxudong"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-11-16 10:10",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_3a5089c00ab83c544f8b8cfeb6f4ec3e",
+        "content": "[Image: img_v3_0217g_3e322e6d-a39b-489d-ac13-1997a11a9ccg]",
+        "create_time": "2026-11-16 10:10",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_3a5089c00ab83c544f8b8cfeb6f4ec3e\u0026position=81808",
+        "message_id": "om_x100b60922e113ca8ce5557a90c76394",
+        "message_position": "81808",
+        "msg_type": "image",
+        "sender": {
+          "id": "ou_6ec8d0067fd213a2ac2972be9013aa82",
+          "id_type": "open_id",
+          "is_agent": false,
+          "name": "蒲旭东",
+          "sender_i18n_names": {
+            "en_us": "puxudong"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-11-16 10:10",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_3a5089c00ab83c544f8b8cfeb6f4ec3e",
+        "content": "[Image: img_v3_0217g_21e70f84-82dd-4d82-b3fa-377a5ea4248g]",
+        "create_time": "2026-11-16 10:10",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_3a5089c00ab83c544f8b8cfeb6f4ec3e\u0026position=81809",
+        "message_id": "om_x100b60922fc48134cd0968215aa7897",
+        "message_position": "81809",
+        "msg_type": "image",
+        "sender": {
+          "id": "ou_6ec8d0067fd213a2ac2972be9013aa82",
+          "id_type": "open_id",
+          "is_agent": false,
+          "name": "蒲旭东",
+          "sender_i18n_names": {
+            "en_us": "puxudong"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_3a5089c00ab83c544f8b8cfeb6f4ec3e",
+        "content": "济南工厂大传动高压测试上电前自检通报11月16日\n一、项目名称：罗斯达\n二、SN:01283116PUB10016（第2台）\n三、自检内容\n 1、变压器接地线，高压线输入、输出已接好\n 2、线缆相序正确且紧固正常\n以上内容已自检完成请复检确认无误批准上电",
+        "create_time": "2026-11-16 10:10",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_3a5089c00ab83c544f8b8cfeb6f4ec3e\u0026position=81810",
+        "message_id": "om_x100b60922c416080b4cbac2d4b00c2c",
+        "message_position": "81810",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_6ec8d0067fd213a2ac2972be9013aa82",
+          "id_type": "open_id",
+          "is_agent": false,
+          "name": "蒲旭东",
+          "sender_i18n_names": {
+            "en_us": "puxudong"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-11-16 10:10",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_3a5089c00ab83c544f8b8cfeb6f4ec3e",
+        "content": "[Image: img_v3_0217g_5b3df378-6ca8-4eb4-980a-808a6cbcdf6g]",
+        "create_time": "2026-11-16 10:11",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_3a5089c00ab83c544f8b8cfeb6f4ec3e\u0026position=81811",
+        "message_id": "om_x100b60922da62caccf64b7155f1a8d6",
+        "message_position": "81811",
+        "msg_type": "image",
+        "sender": {
+          "id": "ou_6ec8d0067fd213a2ac2972be9013aa82",
+          "id_type": "open_id",
+          "is_agent": false,
+          "name": "蒲旭东",
+          "sender_i18n_names": {
+            "en_us": "puxudong"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-11-16 10:11",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_3a5089c00ab83c544f8b8cfeb6f4ec3e",
+        "content": "[Image: img_v3_0217g_7ad69e83-2e68-4018-9729-eeb824fc057g]",
+        "create_time": "2026-11-16 10:11",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_3a5089c00ab83c544f8b8cfeb6f4ec3e\u0026position=81812",
+        "message_id": "om_x100b60922ba92ca8b3cad82f798b8f4",
+        "message_position": "81812",
+        "msg_type": "image",
+        "sender": {
+          "id": "ou_6ec8d0067fd213a2ac2972be9013aa82",
+          "id_type": "open_id",
+          "is_agent": false,
+          "name": "蒲旭东",
+          "sender_i18n_names": {
+            "en_us": "puxudong"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-11-16 10:11",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_3a5089c00ab83c544f8b8cfeb6f4ec3e",
+        "content": "[Image: img_v3_0217g_b136111a-88c6-4713-b89d-85a2a3767f6g]",
+        "create_time": "2026-11-16 10:11",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_3a5089c00ab83c544f8b8cfeb6f4ec3e\u0026position=81813",
+        "message_id": "om_x100b60922b4a24b8cfc90197f66388d",
+        "message_position": "81813",
+        "msg_type": "image",
+        "sender": {
+          "id": "ou_6ec8d0067fd213a2ac2972be9013aa82",
+          "id_type": "open_id",
+          "is_agent": false,
+          "name": "蒲旭东",
+          "sender_i18n_names": {
+            "en_us": "puxudong"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-11-16 10:11",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_3a5089c00ab83c544f8b8cfeb6f4ec3e",
+        "content": "济南工厂大传动高压测试上电前自检通报11月16日\n一、项目名称：   温州赢合\n二、SN:01283598PUB10004（第3台）\n三、自检内容\n 1、变压器接地线，高压线输入、输出已接好\n 2、线缆相序正确且紧固正常\n以上内容已自检完成请复检确认无误批准上电",
+        "create_time": "2026-11-16 11:04",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_3a5089c00ab83c544f8b8cfeb6f4ec3e\u0026position=81814",
+        "message_id": "om_x100b609364ec2480ceaa1001e5a4aab",
+        "message_position": "81814",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_9b6e322dc3e44d41a16f2e46762a0563",
+          "id_type": "open_id",
+          "is_agent": false,
+          "name": "文亚鑫",
+          "sender_i18n_names": {
+            "en_us": "wenyaxin"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-11-16 11:04",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_3a5089c00ab83c544f8b8cfeb6f4ec3e",
+        "content": "[Image: img_v3_0217g_11008fc8-1a00-4fe9-94b5-f5db37c9a9cg]",
+        "create_time": "2026-11-16 11:04",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_3a5089c00ab83c544f8b8cfeb6f4ec3e\u0026position=81815",
+        "message_id": "om_x100b609365ec54b8b1e46b716409e0e",
+        "message_position": "81815",
+        "msg_type": "image",
+        "sender": {
+          "id": "ou_9b6e322dc3e44d41a16f2e46762a0563",
+          "id_type": "open_id",
+          "is_agent": false,
+          "name": "文亚鑫",
+          "sender_i18n_names": {
+            "en_us": "wenyaxin"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-11-16 11:04",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_3a5089c00ab83c544f8b8cfeb6f4ec3e",
+        "content": "[Image: img_v3_0217g_201ae5a6-a9c1-4840-897c-b520d844597g]",
+        "create_time": "2026-11-16 11:04",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_3a5089c00ab83c544f8b8cfeb6f4ec3e\u0026position=81816",
+        "message_id": "om_x100b609365ea90bccd0995c5aff01f8",
+        "message_position": "81816",
+        "msg_type": "image",
+        "sender": {
+          "id": "ou_9b6e322dc3e44d41a16f2e46762a0563",
+          "id_type": "open_id",
+          "is_agent": false,
+          "name": "文亚鑫",
+          "sender_i18n_names": {
+            "en_us": "wenyaxin"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-11-16 11:04",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_3a5089c00ab83c544f8b8cfeb6f4ec3e",
+        "content": "[Image: img_v3_0217g_8872acb7-33dc-45d0-a137-9eba293f665g]",
+        "create_time": "2026-11-16 11:04",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_3a5089c00ab83c544f8b8cfeb6f4ec3e\u0026position=81817",
+        "message_id": "om_x100b609365e05ca0cf2b0c40c3df24a",
+        "message_position": "81817",
+        "msg_type": "image",
+        "sender": {
+          "id": "ou_9b6e322dc3e44d41a16f2e46762a0563",
+          "id_type": "open_id",
+          "is_agent": false,
+          "name": "文亚鑫",
+          "sender_i18n_names": {
+            "en_us": "wenyaxin"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_3a5089c00ab83c544f8b8cfeb6f4ec3e",
+        "content": "济南工厂大传动高压测试上电前自检通报11月16日\n一、项目名称：   烟台欧能\n二、SN:01283197PUB10060（第4台）\n三、自检内容\n 1、变压器接地线，高压线输入、输出已接好\n 2、线缆相序正确且紧固正常\n以上内容已自检完成请复检确认无误批准上电",
+        "create_time": "2026-11-16 11:04",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_3a5089c00ab83c544f8b8cfeb6f4ec3e\u0026position=81818",
+        "message_id": "om_x100b609363c9a0a4b4c0d9e16348712",
+        "message_position": "81818",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_9b6e322dc3e44d41a16f2e46762a0563",
+          "id_type": "open_id",
+          "is_agent": false,
+          "name": "文亚鑫",
+          "sender_i18n_names": {
+            "en_us": "wenyaxin"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-11-16 11:04",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_3a5089c00ab83c544f8b8cfeb6f4ec3e",
+        "content": "[Image: img_v3_0217g_99d798f7-e5f4-4fa5-9883-5168c506770g]",
+        "create_time": "2026-11-16 11:04",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_3a5089c00ab83c544f8b8cfeb6f4ec3e\u0026position=81819",
+        "message_id": "om_x100b609363a46cb4cfbd4a309f7875a",
+        "message_position": "81819",
+        "msg_type": "image",
+        "sender": {
+          "id": "ou_9b6e322dc3e44d41a16f2e46762a0563",
+          "id_type": "open_id",
+          "is_agent": false,
+          "name": "文亚鑫",
+          "sender_i18n_names": {
+            "en_us": "wenyaxin"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-11-16 11:04",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_3a5089c00ab83c544f8b8cfeb6f4ec3e",
+        "content": "[Image: img_v3_0217g_8e5b8cc9-13f2-4c3f-88d1-19942c3fa42g]",
+        "create_time": "2026-11-16 11:04",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_3a5089c00ab83c544f8b8cfeb6f4ec3e\u0026position=81820",
+        "message_id": "om_x100b609363bcdc98b1e76b244a0b228",
+        "message_position": "81820",
+        "msg_type": "image",
+        "sender": {
+          "id": "ou_9b6e322dc3e44d41a16f2e46762a0563",
+          "id_type": "open_id",
+          "is_agent": false,
+          "name": "文亚鑫",
+          "sender_i18n_names": {
+            "en_us": "wenyaxin"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_3a5089c00ab83c544f8b8cfeb6f4ec3e",
+        "content": "[Image: img_v3_0217g_2922ea95-35c5-4fe3-9784-e6b8d015720g]",
+        "create_time": "2026-11-16 11:04",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_3a5089c00ab83c544f8b8cfeb6f4ec3e\u0026position=81821",
+        "message_id": "om_x100b609363b5b8a4cef6ee9c4559251",
+        "message_position": "81821",
+        "msg_type": "image",
+        "sender": {
+          "id": "ou_9b6e322dc3e44d41a16f2e46762a0563",
+          "id_type": "open_id",
+          "is_agent": false,
+          "name": "文亚鑫",
+          "sender_i18n_names": {
+            "en_us": "wenyaxin"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_3a5089c00ab83c544f8b8cfeb6f4ec3e",
+        "content": "以上上电照片中标签确认无误",
+        "create_time": "2026-11-16 11:10",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_3a5089c00ab83c544f8b8cfeb6f4ec3e\u0026position=81822",
+        "message_id": "om_x100b60930af47cb8dfdcca85a4069c0",
+        "message_position": "81822",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_51bf794a870c16f2bdffc111429359de",
+          "id_type": "open_id",
+          "is_agent": false,
+          "name": "陈秀迪",
+          "sender_i18n_names": {
+            "en_us": "chenxiudi"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-11-16 11:10",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_3a5089c00ab83c544f8b8cfeb6f4ec3e",
+        "content": "济南工厂大传动高压测试上电前自检通报11月16日\n一、项目名称：   温州赢合\n二、SN:01283598PUB10005（第5台）\n三、自检内容\n 1、变压器接地线，高压线输入、输出已接好\n 2、线缆相序正确且紧固正常\n以上内容已自检完成请复检确认无误批准上电",
+        "create_time": "2026-11-16 12:09",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_3a5089c00ab83c544f8b8cfeb6f4ec3e\u0026position=81823",
+        "message_id": "om_x100b609c5056aca4ce5214313390452",
+        "message_position": "81823",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_d2fe5679fb674b5bc122af59311b5559",
+          "id_type": "open_id",
+          "is_agent": false,
+          "name": "李双云",
+          "sender_i18n_names": {
+            "en_us": "lishuangyun"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-11-16 12:09",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_3a5089c00ab83c544f8b8cfeb6f4ec3e",
+        "content": "[Image: img_v3_0217g_df7a5216-f7de-4660-b559-86afb6f1f9cg]",
+        "create_time": "2026-11-16 12:09",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_3a5089c00ab83c544f8b8cfeb6f4ec3e\u0026position=81824",
+        "message_id": "om_x100b609c516b0cb0cd3305e7aca2974",
+        "message_position": "81824",
+        "msg_type": "image",
+        "sender": {
+          "id": "ou_d2fe5679fb674b5bc122af59311b5559",
+          "id_type": "open_id",
+          "is_agent": false,
+          "name": "李双云",
+          "sender_i18n_names": {
+            "en_us": "lishuangyun"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-11-16 12:09",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_3a5089c00ab83c544f8b8cfeb6f4ec3e",
+        "content": "[Image: img_v3_0217g_1dab0c43-d587-485e-bae8-0f47c1712a5g]",
+        "create_time": "2026-11-16 12:09",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_3a5089c00ab83c544f8b8cfeb6f4ec3e\u0026position=81825",
+        "message_id": "om_x100b609c6fe844accf1149ae9a3831a",
+        "message_position": "81825",
+        "msg_type": "image",
+        "sender": {
+          "id": "ou_d2fe5679fb674b5bc122af59311b5559",
+          "id_type": "open_id",
+          "is_agent": false,
+          "name": "李双云",
+          "sender_i18n_names": {
+            "en_us": "lishuangyun"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-11-16 12:09",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_3a5089c00ab83c544f8b8cfeb6f4ec3e",
+        "content": "[Image: img_v3_0217g_dc048b5c-fcc9-473c-933a-783fa81318bg]",
+        "create_time": "2026-11-16 12:09",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_3a5089c00ab83c544f8b8cfeb6f4ec3e\u0026position=81826",
+        "message_id": "om_x100b609c6f9210b0cff50f786336f99",
+        "message_position": "81826",
+        "msg_type": "image",
+        "sender": {
+          "id": "ou_d2fe5679fb674b5bc122af59311b5559",
+          "id_type": "open_id",
+          "is_agent": false,
+          "name": "李双云",
+          "sender_i18n_names": {
+            "en_us": "lishuangyun"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-11-16 12:10",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_3a5089c00ab83c544f8b8cfeb6f4ec3e",
+        "content": "济南工厂大传动高压测试上电前自检通报11月16日\n一、项目名称：长沙建慧\n二、SN:01283336PUB10001（第6台）\n三、自检内容\n 1、变压器接地线，高压线输入、输出已接好\n 2、线缆相序正确且紧固正常\n以上内容已自检完成请复检确认无误批准上电",
+        "create_time": "2026-11-16 12:10",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_3a5089c00ab83c544f8b8cfeb6f4ec3e\u0026position=81827",
+        "message_id": "om_x100b609c6daf00a4cfc1563010685e3",
+        "message_position": "81827",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_d2fe5679fb674b5bc122af59311b5559",
+          "id_type": "open_id",
+          "is_agent": false,
+          "name": "李双云",
+          "sender_i18n_names": {
+            "en_us": "lishuangyun"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-11-16 12:10",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_3a5089c00ab83c544f8b8cfeb6f4ec3e",
+        "content": "[Image: img_v3_0217g_4a494998-4565-4f60-a2f8-5139c822661g]",
+        "create_time": "2026-11-16 12:10",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_3a5089c00ab83c544f8b8cfeb6f4ec3e\u0026position=81828",
+        "message_id": "om_x100b609c6ac084a0b0f7f05944e0e05",
+        "message_position": "81828",
+        "msg_type": "image",
+        "sender": {
+          "id": "ou_d2fe5679fb674b5bc122af59311b5559",
+          "id_type": "open_id",
+          "is_agent": false,
+          "name": "李双云",
+          "sender_i18n_names": {
+            "en_us": "lishuangyun"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-11-16 12:10",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_3a5089c00ab83c544f8b8cfeb6f4ec3e",
+        "content": "[Image: img_v3_0217g_b27440c6-8432-4ada-9789-92edf76fafcg]",
+        "create_time": "2026-11-16 12:10",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_3a5089c00ab83c544f8b8cfeb6f4ec3e\u0026position=81829",
+        "message_id": "om_x100b609c6ae630a4cf96e9a216988d5",
+        "message_position": "81829",
+        "msg_type": "image",
+        "sender": {
+          "id": "ou_d2fe5679fb674b5bc122af59311b5559",
+          "id_type": "open_id",
+          "is_agent": false,
+          "name": "李双云",
+          "sender_i18n_names": {
+            "en_us": "lishuangyun"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-11-16 12:10",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_3a5089c00ab83c544f8b8cfeb6f4ec3e",
+        "content": "[Image: img_v3_0217g_6bfee706-073e-4611-bb57-bc624d32d20g]",
+        "create_time": "2026-11-16 12:10",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_3a5089c00ab83c544f8b8cfeb6f4ec3e\u0026position=81830",
+        "message_id": "om_x100b609c6a96aca0dd3393f37e05dd0",
+        "message_position": "81830",
+        "msg_type": "image",
+        "sender": {
+          "id": "ou_d2fe5679fb674b5bc122af59311b5559",
+          "id_type": "open_id",
+          "is_agent": false,
+          "name": "李双云",
+          "sender_i18n_names": {
+            "en_us": "lishuangyun"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-11-16 12:10",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_3a5089c00ab83c544f8b8cfeb6f4ec3e",
+        "content": "[Image: img_v3_0217g_f8f63368-ec35-4f75-b1e7-73f147019c8g]",
+        "create_time": "2026-11-16 12:10",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_3a5089c00ab83c544f8b8cfeb6f4ec3e\u0026position=81831",
+        "message_id": "om_x100b609c6a593cacc0c621f40fdaa82",
+        "message_position": "81831",
+        "msg_type": "image",
+        "sender": {
+          "id": "ou_d2fe5679fb674b5bc122af59311b5559",
+          "id_type": "open_id",
+          "is_agent": false,
+          "name": "李双云",
+          "sender_i18n_names": {
+            "en_us": "lishuangyun"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-11-16 12:10",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_3a5089c00ab83c544f8b8cfeb6f4ec3e",
+        "content": "[Image: img_v3_0217g_7ce3aa6e-6d5f-4711-8a61-34afc0cd73fg]",
+        "create_time": "2026-11-16 12:10",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_3a5089c00ab83c544f8b8cfeb6f4ec3e\u0026position=81832",
+        "message_id": "om_x100b609c6a1d10b4cefb881d3a4e82f",
+        "message_position": "81832",
+        "msg_type": "image",
+        "sender": {
+          "id": "ou_d2fe5679fb674b5bc122af59311b5559",
+          "id_type": "open_id",
+          "is_agent": false,
+          "name": "李双云",
+          "sender_i18n_names": {
+            "en_us": "lishuangyun"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_3a5089c00ab83c544f8b8cfeb6f4ec3e",
+        "content": "[Image: img_v3_0217g_f660d955-9bcb-4bf1-9e6e-033419236aag]",
+        "create_time": "2026-11-16 12:10",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_3a5089c00ab83c544f8b8cfeb6f4ec3e\u0026position=81833",
+        "message_id": "om_x100b609c6a22f4bcce33f4072546f8a",
+        "message_position": "81833",
+        "msg_type": "image",
+        "sender": {
+          "id": "ou_d2fe5679fb674b5bc122af59311b5559",
+          "id_type": "open_id",
+          "is_agent": false,
+          "name": "李双云",
+          "sender_i18n_names": {
+            "en_us": "lishuangyun"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-11-16 12:10",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_3a5089c00ab83c544f8b8cfeb6f4ec3e",
+        "content": "[Invalid text JSON]",
+        "create_time": "2026-11-16 13:01",
+        "deleted": true,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_3a5089c00ab83c544f8b8cfeb6f4ec3e\u0026position=81834",
+        "message_id": "om_x100b609cac3c78a4dfb52d100feb566",
+        "message_position": "81834",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_51bf794a870c16f2bdffc111429359de",
+          "id_type": "open_id",
+          "is_agent": false,
+          "name": "陈秀迪",
+          "sender_i18n_names": {
+            "en_us": "chenxiudi"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-11-16 13:09",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_3a5089c00ab83c544f8b8cfeb6f4ec3e",
+        "content": "济南工厂大传动高压测试上电前自检通报11月16日\n一、项目名称：湖南江荣\n二、SN:01283158PUB10001（第7台）\n三、自检内容\n 1、变压器接地线，高压线输入、输出已接好\n 2、线缆相序正确且紧固正常\n以上内容已自检完成请复检确认无误批准上电",
+        "create_time": "2026-11-16 13:09",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_3a5089c00ab83c544f8b8cfeb6f4ec3e\u0026position=81835",
+        "message_id": "om_x100b609d4e85e0a8dde0c9246c7078b",
+        "message_position": "81835",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_de2beff48abad55aead9d594e1671e7d",
+          "id_type": "open_id",
+          "is_agent": false,
+          "name": "赵力",
+          "sender_i18n_names": {
+            "en_us": "zhaoli"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-11-16 13:09",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_3a5089c00ab83c544f8b8cfeb6f4ec3e",
+        "content": "[Image: img_v3_0217g_aa20e14e-4f62-49f5-8e38-27131c41c83g]",
+        "create_time": "2026-11-16 13:10",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_3a5089c00ab83c544f8b8cfeb6f4ec3e\u0026position=81836",
+        "message_id": "om_x100b609d4bc640a4dd7cc0aa703823a",
+        "message_position": "81836",
+        "msg_type": "image",
+        "sender": {
+          "id": "ou_de2beff48abad55aead9d594e1671e7d",
+          "id_type": "open_id",
+          "is_agent": false,
+          "name": "赵力",
+          "sender_i18n_names": {
+            "en_us": "zhaoli"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-11-16 13:10",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_3a5089c00ab83c544f8b8cfeb6f4ec3e",
+        "content": "[Image: img_v3_0217g_264a9066-0946-4f88-afae-8b0d5d6d955g]",
+        "create_time": "2026-11-16 13:10",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_3a5089c00ab83c544f8b8cfeb6f4ec3e\u0026position=81837",
+        "message_id": "om_x100b609d4bdddcacdf8e5200bce9018",
+        "message_position": "81837",
+        "msg_type": "image",
+        "sender": {
+          "id": "ou_de2beff48abad55aead9d594e1671e7d",
+          "id_type": "open_id",
+          "is_agent": false,
+          "name": "赵力",
+          "sender_i18n_names": {
+            "en_us": "zhaoli"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_3a5089c00ab83c544f8b8cfeb6f4ec3e",
+        "content": "[Image: img_v3_0217g_bff25322-c89c-42d5-9912-ce57deacb33g]",
+        "create_time": "2026-11-16 13:10",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_3a5089c00ab83c544f8b8cfeb6f4ec3e\u0026position=81838",
+        "message_id": "om_x100b609d4bd9fca8ddbdf922170c1e6",
+        "message_position": "81838",
+        "msg_type": "image",
+        "sender": {
+          "id": "ou_de2beff48abad55aead9d594e1671e7d",
+          "id_type": "open_id",
+          "is_agent": false,
+          "name": "赵力",
+          "sender_i18n_names": {
+            "en_us": "zhaoli"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_3a5089c00ab83c544f8b8cfeb6f4ec3e",
+        "content": "[Image: img_v3_0217g_6a51c7fa-9442-4349-bdc2-fd9d4504177g]",
+        "create_time": "2026-11-16 13:10",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_3a5089c00ab83c544f8b8cfeb6f4ec3e\u0026position=81839",
+        "message_id": "om_x100b609d4bd5e0a4de43b67bd250b0a",
+        "message_position": "81839",
+        "msg_type": "image",
+        "sender": {
+          "id": "ou_de2beff48abad55aead9d594e1671e7d",
+          "id_type": "open_id",
+          "is_agent": false,
+          "name": "赵力",
+          "sender_i18n_names": {
+            "en_us": "zhaoli"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_3a5089c00ab83c544f8b8cfeb6f4ec3e",
+        "content": "以上上电照片中标签确认无误",
+        "create_time": "2026-11-16 13:11",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_3a5089c00ab83c544f8b8cfeb6f4ec3e\u0026position=81840",
+        "message_id": "om_x100b609d47bf64a4c3c33b8f37b2ed2",
+        "message_position": "81840",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_51bf794a870c16f2bdffc111429359de",
+          "id_type": "open_id",
+          "is_agent": false,
+          "name": "陈秀迪",
+          "sender_i18n_names": {
+            "en_us": "chenxiudi"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-11-16 13:11",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_3a5089c00ab83c544f8b8cfeb6f4ec3e",
+        "content": "济南工厂大传动高压测试上电前自检通报11月16日\n一、项目名称：青岛科钛\n二、SN:01283197PUB10063（第8台）\n三、自检内容\n 1、变压器接地线，高压线输入、输出已接好\n 2、线缆相序正确且紧固正常\n以上内容已自检完成请复检确认无误批准上电",
+        "create_time": "2026-11-16 13:53",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_3a5089c00ab83c544f8b8cfeb6f4ec3e\u0026position=81841",
+        "message_id": "om_x100b609dea54eca8b37e223a7fb4825",
+        "message_position": "81841",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_6ec8d0067fd213a2ac2972be9013aa82",
+          "id_type": "open_id",
+          "is_agent": false,
+          "name": "蒲旭东",
+          "sender_i18n_names": {
+            "en_us": "puxudong"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-11-16 13:53",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_3a5089c00ab83c544f8b8cfeb6f4ec3e",
+        "content": "[Image: img_v3_0217g_aa3edde9-fdcd-43f6-a511-f8168df249dg]",
+        "create_time": "2026-11-16 13:54",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_3a5089c00ab83c544f8b8cfeb6f4ec3e\u0026position=81842",
+        "message_id": "om_x100b609de9574884ce45cb1263c9a30",
+        "message_position": "81842",
+        "msg_type": "image",
+        "sender": {
+          "id": "ou_6ec8d0067fd213a2ac2972be9013aa82",
+          "id_type": "open_id",
+          "is_agent": false,
+          "name": "蒲旭东",
+          "sender_i18n_names": {
+            "en_us": "puxudong"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-11-16 13:54",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_3a5089c00ab83c544f8b8cfeb6f4ec3e",
+        "content": "[Image: img_v3_0217g_fd393256-d8e0-47ef-99ae-045954c20adg]",
+        "create_time": "2026-11-16 13:54",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_3a5089c00ab83c544f8b8cfeb6f4ec3e\u0026position=81843",
+        "message_id": "om_x100b609de9738480ce7716cbfbaa0f1",
+        "message_position": "81843",
+        "msg_type": "image",
+        "sender": {
+          "id": "ou_6ec8d0067fd213a2ac2972be9013aa82",
+          "id_type": "open_id",
+          "is_agent": false,
+          "name": "蒲旭东",
+          "sender_i18n_names": {
+            "en_us": "puxudong"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-11-16 13:54",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_3a5089c00ab83c544f8b8cfeb6f4ec3e",
+        "content": "[Image: img_v3_0217g_47d911f2-6526-472b-92ad-f25b2310673g]",
+        "create_time": "2026-11-16 13:54",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_3a5089c00ab83c544f8b8cfeb6f4ec3e\u0026position=81844",
+        "message_id": "om_x100b609de92d04accf1a3319d964abf",
+        "message_position": "81844",
+        "msg_type": "image",
+        "sender": {
+          "id": "ou_6ec8d0067fd213a2ac2972be9013aa82",
+          "id_type": "open_id",
+          "is_agent": false,
+          "name": "蒲旭东",
+          "sender_i18n_names": {
+            "en_us": "puxudong"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-11-16 13:54",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_3a5089c00ab83c544f8b8cfeb6f4ec3e",
+        "content": "济南工厂大传动高压测试上电前自检通报11月16日\n一、项目名称：江苏盛宏\n二、SN:01283297PUB10008（第9台）\n三、自检内容\n 1、变压器接地线，高压线输入、输出已接好\n 2、线缆相序正确且紧固正常\n以上内容已自检完成请复检确认无误批准上电",
+        "create_time": "2026-11-16 13:54",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_3a5089c00ab83c544f8b8cfeb6f4ec3e\u0026position=81845",
+        "message_id": "om_x100b609de75824a0b0e421d254bea09",
+        "message_position": "81845",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_6ec8d0067fd213a2ac2972be9013aa82",
+          "id_type": "open_id",
+          "is_agent": false,
+          "name": "蒲旭东",
+          "sender_i18n_names": {
+            "en_us": "puxudong"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-11-16 13:54",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_3a5089c00ab83c544f8b8cfeb6f4ec3e",
+        "content": "[Image: img_v3_0217g_a60a2e40-6f0f-4dd7-89a4-0f6bda72ad6g]",
+        "create_time": "2026-11-16 13:55",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_3a5089c00ab83c544f8b8cfeb6f4ec3e\u0026position=81846",
+        "message_id": "om_x100b609de59770b8b4b8b9eb6860668",
+        "message_position": "81846",
+        "msg_type": "image",
+        "sender": {
+          "id": "ou_6ec8d0067fd213a2ac2972be9013aa82",
+          "id_type": "open_id",
+          "is_agent": false,
+          "name": "蒲旭东",
+          "sender_i18n_names": {
+            "en_us": "puxudong"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-11-16 13:55",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_3a5089c00ab83c544f8b8cfeb6f4ec3e",
+        "content": "[Image: img_v3_0217g_f1327d82-dda8-4bcb-864e-5f680a5422cg]",
+        "create_time": "2026-11-16 13:55",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_3a5089c00ab83c544f8b8cfeb6f4ec3e\u0026position=81847",
+        "message_id": "om_x100b609de5bee4accf18927a079bd17",
+        "message_position": "81847",
+        "msg_type": "image",
+        "sender": {
+          "id": "ou_6ec8d0067fd213a2ac2972be9013aa82",
+          "id_type": "open_id",
+          "is_agent": false,
+          "name": "蒲旭东",
+          "sender_i18n_names": {
+            "en_us": "puxudong"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-11-16 13:55",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_3a5089c00ab83c544f8b8cfeb6f4ec3e",
+        "content": "[Image: img_v3_0217g_8192533c-123c-41a8-ad38-d81c52abd3bg]",
+        "create_time": "2026-11-16 13:55",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_3a5089c00ab83c544f8b8cfeb6f4ec3e\u0026position=81848",
+        "message_id": "om_x100b609de5407ca8b3cd8c11a47f7f9",
+        "message_position": "81848",
+        "msg_type": "image",
+        "sender": {
+          "id": "ou_6ec8d0067fd213a2ac2972be9013aa82",
+          "id_type": "open_id",
+          "is_agent": false,
+          "name": "蒲旭东",
+          "sender_i18n_names": {
+            "en_us": "puxudong"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_3a5089c00ab83c544f8b8cfeb6f4ec3e",
+        "content": "济南工厂大传动高压测试上电前自检通报11月16日\n一、项目名称：   广东东然\n二、SN:01283197PUB10067（第10台）\n三、自检内容\n 1、变压器接地线，高压线输入、输出已接好\n 2、线缆相序正确且紧固正常\n以上内容已自检完成请复检确认无误批准上电",
+        "create_time": "2026-11-16 14:20",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_3a5089c00ab83c544f8b8cfeb6f4ec3e\u0026position=81849",
+        "message_id": "om_x100b609e47443080b08cdc4ee0f687f",
+        "message_position": "81849",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_9b6e322dc3e44d41a16f2e46762a0563",
+          "id_type": "open_id",
+          "is_agent": false,
+          "name": "文亚鑫",
+          "sender_i18n_names": {
+            "en_us": "wenyaxin"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-11-16 14:20",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_3a5089c00ab83c544f8b8cfeb6f4ec3e",
+        "content": "[Image: img_v3_0217g_ab7a3302-c99e-4844-b2c0-42bd235935fg]",
+        "create_time": "2026-11-16 14:20",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_3a5089c00ab83c544f8b8cfeb6f4ec3e\u0026position=81850",
+        "message_id": "om_x100b609e444e6ca8b0b7c4f07eb2d13",
+        "message_position": "81850",
+        "msg_type": "image",
+        "sender": {
+          "id": "ou_9b6e322dc3e44d41a16f2e46762a0563",
+          "id_type": "open_id",
+          "is_agent": false,
+          "name": "文亚鑫",
+          "sender_i18n_names": {
+            "en_us": "wenyaxin"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-11-16 14:20",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_3a5089c00ab83c544f8b8cfeb6f4ec3e",
+        "content": "[Image: img_v3_0217g_7756a886-7ee0-4ab6-8d06-827d43fdf62g]",
+        "create_time": "2026-11-16 14:20",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_3a5089c00ab83c544f8b8cfeb6f4ec3e\u0026position=81851",
+        "message_id": "om_x100b609e4446e4b4b4bad578dca1ef8",
+        "message_position": "81851",
+        "msg_type": "image",
+        "sender": {
+          "id": "ou_9b6e322dc3e44d41a16f2e46762a0563",
+          "id_type": "open_id",
+          "is_agent": false,
+          "name": "文亚鑫",
+          "sender_i18n_names": {
+            "en_us": "wenyaxin"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-11-16 14:20",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_3a5089c00ab83c544f8b8cfeb6f4ec3e",
+        "content": "[Image: img_v3_0217g_893b59f0-9622-444b-ab29-6d371510583g]",
+        "create_time": "2026-11-16 14:20",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_3a5089c00ab83c544f8b8cfeb6f4ec3e\u0026position=81852",
+        "message_id": "om_x100b609e445d70a0cefa20808e1286a",
+        "message_position": "81852",
+        "msg_type": "image",
+        "sender": {
+          "id": "ou_9b6e322dc3e44d41a16f2e46762a0563",
+          "id_type": "open_id",
+          "is_agent": false,
+          "name": "文亚鑫",
+          "sender_i18n_names": {
+            "en_us": "wenyaxin"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_3a5089c00ab83c544f8b8cfeb6f4ec3e",
+        "content": "济南工厂大传动高压测试上电前自检通报11月16日\n一、项目名称：   广东东然\n二、SN:01283197PUB10066（第11台）\n三、自检内容\n 1、变压器接地线，高压线输入、输出已接好\n 2、线缆相序正确且紧固正常\n以上内容已自检完成请复检确认无误批准上电",
+        "create_time": "2026-11-16 14:21",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_3a5089c00ab83c544f8b8cfeb6f4ec3e\u0026position=81853",
+        "message_id": "om_x100b609e421fb504ce4df2e1ee5099a",
+        "message_position": "81853",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_9b6e322dc3e44d41a16f2e46762a0563",
+          "id_type": "open_id",
+          "is_agent": false,
+          "name": "文亚鑫",
+          "sender_i18n_names": {
+            "en_us": "wenyaxin"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-11-16 14:21",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_3a5089c00ab83c544f8b8cfeb6f4ec3e",
+        "content": "[Image: img_v3_0217g_ed38cbfa-2c24-42fb-adcb-09d2f6e1eccg]",
+        "create_time": "2026-11-16 14:21",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_3a5089c00ab83c544f8b8cfeb6f4ec3e\u0026position=81854",
+        "message_id": "om_x100b609e404a74acb4b6be724198bbf",
+        "message_position": "81854",
+        "msg_type": "image",
+        "sender": {
+          "id": "ou_9b6e322dc3e44d41a16f2e46762a0563",
+          "id_type": "open_id",
+          "is_agent": false,
+          "name": "文亚鑫",
+          "sender_i18n_names": {
+            "en_us": "wenyaxin"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-11-16 14:21",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_3a5089c00ab83c544f8b8cfeb6f4ec3e",
+        "content": "[Image: img_v3_0217g_e7f8c939-0804-47a6-860e-c20aa9e12d9g]",
+        "create_time": "2026-11-16 14:21",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_3a5089c00ab83c544f8b8cfeb6f4ec3e\u0026position=81855",
+        "message_id": "om_x100b609e40417888cd15c92f45f8a23",
+        "message_position": "81855",
+        "msg_type": "image",
+        "sender": {
+          "id": "ou_9b6e322dc3e44d41a16f2e46762a0563",
+          "id_type": "open_id",
+          "is_agent": false,
+          "name": "文亚鑫",
+          "sender_i18n_names": {
+            "en_us": "wenyaxin"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-11-16 14:21",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_3a5089c00ab83c544f8b8cfeb6f4ec3e",
+        "content": "[Image: img_v3_0217g_54b0cb1d-736a-4b76-a136-951cbb045c9g]",
+        "create_time": "2026-11-16 14:21",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_3a5089c00ab83c544f8b8cfeb6f4ec3e\u0026position=81856",
+        "message_id": "om_x100b609e405f6900cf6b833ff1c6982",
+        "message_position": "81856",
+        "msg_type": "image",
+        "sender": {
+          "id": "ou_9b6e322dc3e44d41a16f2e46762a0563",
+          "id_type": "open_id",
+          "is_agent": false,
+          "name": "文亚鑫",
+          "sender_i18n_names": {
+            "en_us": "wenyaxin"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_3a5089c00ab83c544f8b8cfeb6f4ec3e",
+        "content": "以上上电照片中标签确认无误",
+        "create_time": "2026-11-16 14:24",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_3a5089c00ab83c544f8b8cfeb6f4ec3e\u0026position=81857",
+        "message_id": "om_x100b609e55f790bcc492398e6496e79",
+        "message_position": "81857",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_51bf794a870c16f2bdffc111429359de",
+          "id_type": "open_id",
+          "is_agent": false,
+          "name": "陈秀迪",
+          "sender_i18n_names": {
+            "en_us": "chenxiudi"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-11-16 14:24",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_3a5089c00ab83c544f8b8cfeb6f4ec3e",
+        "content": "济南工厂大传动高压测试上电前自检通报11月16日\n一、项目名称：   浙江安鑫\n二、SN:01283123PUB10009（第12台）\n三、自检内容\n 1、变压器接地线，高压线输入、输出已接好\n 2、线缆相序正确且紧固正常\n以上内容已自检完成请复检确认无误批准上电",
+        "create_time": "2026-11-16 14:55",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_3a5089c00ab83c544f8b8cfeb6f4ec3e\u0026position=81858",
+        "message_id": "om_x100b609ec2b7c088b054a7484b309e8",
+        "message_position": "81858",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_d2fe5679fb674b5bc122af59311b5559",
+          "id_type": "open_id",
+          "is_agent": false,
+          "name": "李双云",
+          "sender_i18n_names": {
+            "en_us": "lishuangyun"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-11-16 14:55",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_3a5089c00ab83c544f8b8cfeb6f4ec3e",
+        "content": "[Image: img_v3_0217g_aa1f9e2f-2013-49c4-ab01-131a3045960g]",
+        "create_time": "2026-11-16 14:55",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_3a5089c00ab83c544f8b8cfeb6f4ec3e\u0026position=81859",
+        "message_id": "om_x100b609ec3ea10b0b49952b756ce753",
+        "message_position": "81859",
+        "msg_type": "image",
+        "sender": {
+          "id": "ou_d2fe5679fb674b5bc122af59311b5559",
+          "id_type": "open_id",
+          "is_agent": false,
+          "name": "李双云",
+          "sender_i18n_names": {
+            "en_us": "lishuangyun"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-11-16 14:55",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_3a5089c00ab83c544f8b8cfeb6f4ec3e",
+        "content": "[Image: img_v3_0217g_f11d01f4-ea4e-450c-b281-54d2c8fb22fg]",
+        "create_time": "2026-11-16 14:55",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_3a5089c00ab83c544f8b8cfeb6f4ec3e\u0026position=81860",
+        "message_id": "om_x100b609ec396c4b4cf694586ba6505b",
+        "message_position": "81860",
+        "msg_type": "image",
+        "sender": {
+          "id": "ou_d2fe5679fb674b5bc122af59311b5559",
+          "id_type": "open_id",
+          "is_agent": false,
+          "name": "李双云",
+          "sender_i18n_names": {
+            "en_us": "lishuangyun"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-11-16 14:55",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_3a5089c00ab83c544f8b8cfeb6f4ec3e",
+        "content": "[Image: img_v3_0217g_6b2105e3-5fd4-41dd-9708-4ba7414ecaeg]",
+        "create_time": "2026-11-16 14:55",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_3a5089c00ab83c544f8b8cfeb6f4ec3e\u0026position=81861",
+        "message_id": "om_x100b609ec3503898cf312965292a697",
+        "message_position": "81861",
+        "msg_type": "image",
+        "sender": {
+          "id": "ou_d2fe5679fb674b5bc122af59311b5559",
+          "id_type": "open_id",
+          "is_agent": false,
+          "name": "李双云",
+          "sender_i18n_names": {
+            "en_us": "lishuangyun"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-11-16 14:55",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_3a5089c00ab83c544f8b8cfeb6f4ec3e",
+        "content": "[Image: img_v3_0217g_6360ce5a-18f8-468c-8df9-c4bfd1c348ag]",
+        "create_time": "2026-11-16 14:55",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_3a5089c00ab83c544f8b8cfeb6f4ec3e\u0026position=81862",
+        "message_id": "om_x100b609ec31388a4cef68643cdc5e57",
+        "message_position": "81862",
+        "msg_type": "image",
+        "sender": {
+          "id": "ou_d2fe5679fb674b5bc122af59311b5559",
+          "id_type": "open_id",
+          "is_agent": false,
+          "name": "李双云",
+          "sender_i18n_names": {
+            "en_us": "lishuangyun"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-11-16 14:55",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_3a5089c00ab83c544f8b8cfeb6f4ec3e",
+        "content": "济南工厂大传动高压测试上电前自检通报11月16日\n一、项目名称：上海宝信\n二、SN:01283197PUB10065（第13台）\n三、自检内容\n 1、变压器接地线，高压线输入、输出已接好\n 2、线缆相序正确且紧固正常\n以上内容已自检完成请复检确认无误批准上电",
+        "create_time": "2026-11-16 18:10",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_3a5089c00ab83c544f8b8cfeb6f4ec3e\u0026position=81863",
+        "message_id": "om_x100b6099279398a8b375b075b2d951c",
+        "message_position": "81863",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_6ec8d0067fd213a2ac2972be9013aa82",
+          "id_type": "open_id",
+          "is_agent": false,
+          "name": "蒲旭东",
+          "sender_i18n_names": {
+            "en_us": "puxudong"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-11-16 18:10",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_3a5089c00ab83c544f8b8cfeb6f4ec3e",
+        "content": "[Image: img_v3_0217g_d483ed97-b353-4a5c-9280-4b4045cf9c1g]",
+        "create_time": "2026-11-16 18:10",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_3a5089c00ab83c544f8b8cfeb6f4ec3e\u0026position=81864",
+        "message_id": "om_x100b609925d5d4a4b4a1977d31f6f34",
+        "message_position": "81864",
+        "msg_type": "image",
+        "sender": {
+          "id": "ou_6ec8d0067fd213a2ac2972be9013aa82",
+          "id_type": "open_id",
+          "is_agent": false,
+          "name": "蒲旭东",
+          "sender_i18n_names": {
+            "en_us": "puxudong"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-11-16 18:10",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_3a5089c00ab83c544f8b8cfeb6f4ec3e",
+        "content": "[Image: img_v3_0217g_744bf1d3-0d04-472d-aaa2-ba1840efeb9g]",
+        "create_time": "2026-11-16 18:11",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_3a5089c00ab83c544f8b8cfeb6f4ec3e\u0026position=81865",
+        "message_id": "om_x100b6099258fd0a4cfeef417258232d",
+        "message_position": "81865",
+        "msg_type": "image",
+        "sender": {
+          "id": "ou_6ec8d0067fd213a2ac2972be9013aa82",
+          "id_type": "open_id",
+          "is_agent": false,
+          "name": "蒲旭东",
+          "sender_i18n_names": {
+            "en_us": "puxudong"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-11-16 18:11",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_3a5089c00ab83c544f8b8cfeb6f4ec3e",
+        "content": "[Image: img_v3_0217g_439e7167-4b81-40d5-a5ee-361c01f0347g]",
+        "create_time": "2026-11-16 18:11",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_3a5089c00ab83c544f8b8cfeb6f4ec3e\u0026position=81866",
+        "message_id": "om_x100b609925a770a4cf2b6756af3fd05",
+        "message_position": "81866",
+        "msg_type": "image",
+        "sender": {
+          "id": "ou_6ec8d0067fd213a2ac2972be9013aa82",
+          "id_type": "open_id",
+          "is_agent": false,
+          "name": "蒲旭东",
+          "sender_i18n_names": {
+            "en_us": "puxudong"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-11-16 18:11",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_3a5089c00ab83c544f8b8cfeb6f4ec3e",
+        "content": "济南工厂大传动高压测试上电前自检通报11月16日\n一、项目名称：上海宝信\n二、SN:01283197PUB10064（第14台）\n三、自检内容\n 1、变压器接地线，高压线输入、输出已接好\n 2、线缆相序正确且紧固正常\n以上内容已自检完成请复检确认无误批准上电",
+        "create_time": "2026-11-16 18:11",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_3a5089c00ab83c544f8b8cfeb6f4ec3e\u0026position=81867",
+        "message_id": "om_x100b609922a930a4cea47dee9e5c5bf",
+        "message_position": "81867",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_6ec8d0067fd213a2ac2972be9013aa82",
+          "id_type": "open_id",
+          "is_agent": false,
+          "name": "蒲旭东",
+          "sender_i18n_names": {
+            "en_us": "puxudong"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-11-16 18:11",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_3a5089c00ab83c544f8b8cfeb6f4ec3e",
+        "content": "[Image: img_v3_0217g_6b731f57-8bdf-4f0a-bb3b-a894395234ag]",
+        "create_time": "2026-11-16 19:01",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_3a5089c00ab83c544f8b8cfeb6f4ec3e\u0026position=81868",
+        "message_id": "om_x100b609a673b90a0cf52a40aa741f66",
+        "message_position": "81868",
+        "msg_type": "image",
+        "sender": {
+          "id": "ou_6ec8d0067fd213a2ac2972be9013aa82",
+          "id_type": "open_id",
+          "is_agent": false,
+          "name": "蒲旭东",
+          "sender_i18n_names": {
+            "en_us": "puxudong"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-11-16 19:01",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_3a5089c00ab83c544f8b8cfeb6f4ec3e",
+        "content": "[Image: img_v3_0217g_cf0b5f9d-460f-44a8-99d0-15fe64c3006g]",
+        "create_time": "2026-11-16 19:01",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_3a5089c00ab83c544f8b8cfeb6f4ec3e\u0026position=81869",
+        "message_id": "om_x100b609a64eed100b054b6a33ddd86a",
+        "message_position": "81869",
+        "msg_type": "image",
+        "sender": {
+          "id": "ou_6ec8d0067fd213a2ac2972be9013aa82",
+          "id_type": "open_id",
+          "is_agent": false,
+          "name": "蒲旭东",
+          "sender_i18n_names": {
+            "en_us": "puxudong"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-11-16 19:01",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_3a5089c00ab83c544f8b8cfeb6f4ec3e",
+        "content": "[Image: img_v3_0217g_cc687915-24dd-46b6-8d16-ad9a16795dbg]",
+        "create_time": "2026-11-16 19:02",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_3a5089c00ab83c544f8b8cfeb6f4ec3e\u0026position=81870",
+        "message_id": "om_x100b609a647edca4cf2ca39c8f4a6ff",
+        "message_position": "81870",
+        "msg_type": "image",
+        "sender": {
+          "id": "ou_6ec8d0067fd213a2ac2972be9013aa82",
+          "id_type": "open_id",
+          "is_agent": false,
+          "name": "蒲旭东",
+          "sender_i18n_names": {
+            "en_us": "puxudong"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-11-16 19:02",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_3a5089c00ab83c544f8b8cfeb6f4ec3e",
+        "content": "济南工厂大传动高压测试上电前自检通报11月16日\n一、项目名称：南京库法特\n二、SN:01283123PUB10013（第15台）\n三、自检内容\n 1、变压器接地线，高压线输入、输出已接好\n 2、线缆相序正确且紧固正常\n以上内容已自检完成请复检确认无误批准上电",
+        "create_time": "2026-11-16 19:02",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_3a5089c00ab83c544f8b8cfeb6f4ec3e\u0026position=81871",
+        "message_id": "om_x100b609a62820cb8ce524a4cc0b7591",
+        "message_position": "81871",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_d2fe5679fb674b5bc122af59311b5559",
+          "id_type": "open_id",
+          "is_agent": false,
+          "name": "李双云",
+          "sender_i18n_names": {
+            "en_us": "lishuangyun"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-11-16 19:02",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_3a5089c00ab83c544f8b8cfeb6f4ec3e",
+        "content": "[Image: img_v3_0217g_19c558df-9303-4199-ace7-154530854f4g]",
+        "create_time": "2026-11-16 19:02",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_3a5089c00ab83c544f8b8cfeb6f4ec3e\u0026position=81872",
+        "message_id": "om_x100b609a6396b8a4cfd71660d71c05c",
+        "message_position": "81872",
+        "msg_type": "image",
+        "sender": {
+          "id": "ou_d2fe5679fb674b5bc122af59311b5559",
+          "id_type": "open_id",
+          "is_agent": false,
+          "name": "李双云",
+          "sender_i18n_names": {
+            "en_us": "lishuangyun"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-11-16 19:02",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_3a5089c00ab83c544f8b8cfeb6f4ec3e",
+        "content": "[Image: img_v3_0217g_50e555a7-4897-4b7e-83ae-7cc111b4bafg]",
+        "create_time": "2026-11-16 19:02",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_3a5089c00ab83c544f8b8cfeb6f4ec3e\u0026position=81873",
+        "message_id": "om_x100b609a633698a8b4c9bc2cea92607",
+        "message_position": "81873",
+        "msg_type": "image",
+        "sender": {
+          "id": "ou_d2fe5679fb674b5bc122af59311b5559",
+          "id_type": "open_id",
+          "is_agent": false,
+          "name": "李双云",
+          "sender_i18n_names": {
+            "en_us": "lishuangyun"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-11-16 19:02",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_3a5089c00ab83c544f8b8cfeb6f4ec3e",
+        "content": "[Image: img_v3_0217g_979284f9-ebd5-4363-997b-c355d41887cg]",
+        "create_time": "2026-11-16 19:03",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_3a5089c00ab83c544f8b8cfeb6f4ec3e\u0026position=81874",
+        "message_id": "om_x100b609a607074a4cec3df8b3fd5595",
+        "message_position": "81874",
+        "msg_type": "image",
+        "sender": {
+          "id": "ou_d2fe5679fb674b5bc122af59311b5559",
+          "id_type": "open_id",
+          "is_agent": false,
+          "name": "李双云",
+          "sender_i18n_names": {
+            "en_us": "lishuangyun"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-11-16 19:03",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_3a5089c00ab83c544f8b8cfeb6f4ec3e",
+        "content": "济南工厂大传动高压测试上电前自检通报11月16日\n一、项目名称：南京库法特\n二、SN:01283123PUB10012（第16台）\n三、自检内容\n 1、变压器接地线，高压线输入、输出已接好\n 2、线缆相序正确且紧固正常\n以上内容已自检完成请复检确认无误批准上电",
+        "create_time": "2026-11-16 19:12",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_3a5089c00ab83c544f8b8cfeb6f4ec3e\u0026position=81875",
+        "message_id": "om_x100b609a1c9b84a4cf1096cd116a5ff",
+        "message_position": "81875",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_9b6e322dc3e44d41a16f2e46762a0563",
+          "id_type": "open_id",
+          "is_agent": false,
+          "name": "文亚鑫",
+          "sender_i18n_names": {
+            "en_us": "wenyaxin"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-11-16 19:12",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_3a5089c00ab83c544f8b8cfeb6f4ec3e",
+        "content": "[Image: img_v3_0217g_0a5ac37f-70a1-4fb1-beb7-aacc0b5571cg]",
+        "create_time": "2026-11-16 19:12",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_3a5089c00ab83c544f8b8cfeb6f4ec3e\u0026position=81876",
+        "message_id": "om_x100b609a1d8084b4b4b06b16d197c8e",
+        "message_position": "81876",
+        "msg_type": "image",
+        "sender": {
+          "id": "ou_9b6e322dc3e44d41a16f2e46762a0563",
+          "id_type": "open_id",
+          "is_agent": false,
+          "name": "文亚鑫",
+          "sender_i18n_names": {
+            "en_us": "wenyaxin"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-11-16 19:12",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_3a5089c00ab83c544f8b8cfeb6f4ec3e",
+        "content": "[Image: img_v3_0217g_59d1baab-909b-49d7-ae1d-e035a3ae81cg]",
+        "create_time": "2026-11-16 19:12",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_3a5089c00ab83c544f8b8cfeb6f4ec3e\u0026position=81877",
+        "message_id": "om_x100b609a1d9fc108b0f35ab6d1b3643",
+        "message_position": "81877",
+        "msg_type": "image",
+        "sender": {
+          "id": "ou_9b6e322dc3e44d41a16f2e46762a0563",
+          "id_type": "open_id",
+          "is_agent": false,
+          "name": "文亚鑫",
+          "sender_i18n_names": {
+            "en_us": "wenyaxin"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-11-16 19:12",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_3a5089c00ab83c544f8b8cfeb6f4ec3e",
+        "content": "[Image: img_v3_0217g_c87242eb-f022-493b-aa2c-02e8c32b719g]",
+        "create_time": "2026-11-16 19:12",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_3a5089c00ab83c544f8b8cfeb6f4ec3e\u0026position=81878",
+        "message_id": "om_x100b609a1d9b58bcb0f51713695a0d1",
+        "message_position": "81878",
+        "msg_type": "image",
+        "sender": {
+          "id": "ou_9b6e322dc3e44d41a16f2e46762a0563",
+          "id_type": "open_id",
+          "is_agent": false,
+          "name": "文亚鑫",
+          "sender_i18n_names": {
+            "en_us": "wenyaxin"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_3a5089c00ab83c544f8b8cfeb6f4ec3e",
+        "content": "济南工厂大传动高压测试上电前自检通报11月16日\n一、项目名称：温州赢合\n二、SN:01283365PUB10000（第17台）\n三、自检内容\n 1、变压器接地线，高压线输入、输出已接好\n 2、线缆相序正确且紧固正常\n以上内容已自检完成请复检确认无误批准上电",
+        "create_time": "2026-11-16 19:13",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_3a5089c00ab83c544f8b8cfeb6f4ec3e\u0026position=81879",
+        "message_id": "om_x100b609a1b2ed4b4b07f5f234130949",
+        "message_position": "81879",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_9b6e322dc3e44d41a16f2e46762a0563",
+          "id_type": "open_id",
+          "is_agent": false,
+          "name": "文亚鑫",
+          "sender_i18n_names": {
+            "en_us": "wenyaxin"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-11-16 19:13",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_3a5089c00ab83c544f8b8cfeb6f4ec3e",
+        "content": "[Image: img_v3_0217g_1e0a9f27-5c53-4e10-bfca-0e190b79f4ag]",
+        "create_time": "2026-11-16 19:13",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_3a5089c00ab83c544f8b8cfeb6f4ec3e\u0026position=81880",
+        "message_id": "om_x100b609a18443ca0cfc9eaa2bcf2d19",
+        "message_position": "81880",
+        "msg_type": "image",
+        "sender": {
+          "id": "ou_9b6e322dc3e44d41a16f2e46762a0563",
+          "id_type": "open_id",
+          "is_agent": false,
+          "name": "文亚鑫",
+          "sender_i18n_names": {
+            "en_us": "wenyaxin"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-11-16 19:13",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_3a5089c00ab83c544f8b8cfeb6f4ec3e",
+        "content": "[Image: img_v3_0217g_742ca9a5-7d30-41a6-92b0-5b67beda2f0g]",
+        "create_time": "2026-11-16 19:13",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_3a5089c00ab83c544f8b8cfeb6f4ec3e\u0026position=81881",
+        "message_id": "om_x100b609a1843b8a4cfd344dcdfdc7da",
+        "message_position": "81881",
+        "msg_type": "image",
+        "sender": {
+          "id": "ou_9b6e322dc3e44d41a16f2e46762a0563",
+          "id_type": "open_id",
+          "is_agent": false,
+          "name": "文亚鑫",
+          "sender_i18n_names": {
+            "en_us": "wenyaxin"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-11-16 19:13",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_3a5089c00ab83c544f8b8cfeb6f4ec3e",
+        "content": "[Image: img_v3_0217g_6a6a1584-0291-4ee8-a2ed-3ba7d978f9fg]",
+        "create_time": "2026-11-16 19:13",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_3a5089c00ab83c544f8b8cfeb6f4ec3e\u0026position=81882",
+        "message_id": "om_x100b609a185ee4a8b0e28c50fce1f1f",
+        "message_position": "81882",
+        "msg_type": "image",
+        "sender": {
+          "id": "ou_9b6e322dc3e44d41a16f2e46762a0563",
+          "id_type": "open_id",
+          "is_agent": false,
+          "name": "文亚鑫",
+          "sender_i18n_names": {
+            "en_us": "wenyaxin"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_3a5089c00ab83c544f8b8cfeb6f4ec3e",
+        "content": "以上上电照片中标签确认无误",
+        "create_time": "2026-11-16 19:27",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_3a5089c00ab83c544f8b8cfeb6f4ec3e\u0026position=81883",
+        "message_id": "om_x100b609ac4ff8504de50d7cd1ab59ef",
+        "message_position": "81883",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_51bf794a870c16f2bdffc111429359de",
+          "id_type": "open_id",
+          "is_agent": false,
+          "name": "陈秀迪",
+          "sender_i18n_names": {
+            "en_us": "chenxiudi"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-11-16 19:27",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_3a5089c00ab83c544f8b8cfeb6f4ec3e",
+        "content": "济南工厂大传动高压测试上电前自检通报11月16日\n一、项目名称：重庆骁翼\n二、SN:01283199PUB10001（第18台）\n三、自检内容\n 1、变压器接地线，高压线输入、输出已接好\n 2、线缆相序正确且紧固正常\n以上内容已自检完成请复检确认无误批准上电",
+        "create_time": "2026-11-16 21:16",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_3a5089c00ab83c544f8b8cfeb6f4ec3e\u0026position=81884",
+        "message_id": "om_x100b60846f8ee8a4c0acf1d8acdfef6",
+        "message_position": "81884",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_d2fe5679fb674b5bc122af59311b5559",
+          "id_type": "open_id",
+          "is_agent": false,
+          "name": "李双云",
+          "sender_i18n_names": {
+            "en_us": "lishuangyun"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-11-16 21:16",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_3a5089c00ab83c544f8b8cfeb6f4ec3e",
+        "content": "[Image: img_v3_0217g_38c46ffc-9237-45aa-b64a-16eebeef532g]",
+        "create_time": "2026-11-16 21:16",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_3a5089c00ab83c544f8b8cfeb6f4ec3e\u0026position=81885",
+        "message_id": "om_x100b60846ca0f8acdf1a5f1a2d5498d",
+        "message_position": "81885",
+        "msg_type": "image",
+        "sender": {
+          "id": "ou_d2fe5679fb674b5bc122af59311b5559",
+          "id_type": "open_id",
+          "is_agent": false,
+          "name": "李双云",
+          "sender_i18n_names": {
+            "en_us": "lishuangyun"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_3a5089c00ab83c544f8b8cfeb6f4ec3e",
+        "content": "[Image: img_v3_0217g_f9d3e956-6e70-4d58-9425-c61e1d98e06g]",
+        "create_time": "2026-11-16 21:16",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_3a5089c00ab83c544f8b8cfeb6f4ec3e\u0026position=81886",
+        "message_id": "om_x100b60846de678a0cd0c1cb39e69a26",
+        "message_position": "81886",
+        "msg_type": "image",
+        "sender": {
+          "id": "ou_d2fe5679fb674b5bc122af59311b5559",
+          "id_type": "open_id",
+          "is_agent": false,
+          "name": "李双云",
+          "sender_i18n_names": {
+            "en_us": "lishuangyun"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-11-16 21:16",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_3a5089c00ab83c544f8b8cfeb6f4ec3e",
+        "content": "[Image: img_v3_0217g_efce24b7-8191-4146-ac52-ed43510a3c7g]",
+        "create_time": "2026-11-16 21:16",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_3a5089c00ab83c544f8b8cfeb6f4ec3e\u0026position=81887",
+        "message_id": "om_x100b60846d8b98b0cfc166946b18fe5",
+        "message_position": "81887",
+        "msg_type": "image",
+        "sender": {
+          "id": "ou_d2fe5679fb674b5bc122af59311b5559",
+          "id_type": "open_id",
+          "is_agent": false,
+          "name": "李双云",
+          "sender_i18n_names": {
+            "en_us": "lishuangyun"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-11-16 21:16",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_3a5089c00ab83c544f8b8cfeb6f4ec3e",
+        "content": "[Image: img_v3_0217g_43239384-111f-471b-a72c-19340666b0eg]",
+        "create_time": "2026-11-16 21:16",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_3a5089c00ab83c544f8b8cfeb6f4ec3e\u0026position=81888",
+        "message_id": "om_x100b60846d0114a4de1e8cc307fb0fb",
+        "message_position": "81888",
+        "msg_type": "image",
+        "sender": {
+          "id": "ou_d2fe5679fb674b5bc122af59311b5559",
+          "id_type": "open_id",
+          "is_agent": false,
+          "name": "李双云",
+          "sender_i18n_names": {
+            "en_us": "lishuangyun"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_3a5089c00ab83c544f8b8cfeb6f4ec3e",
+        "content": "济南工厂大传动高压测试上电前自检通报11月16日\n一、项目名称：青岛科钛\n二、SN:01283197PUB10072（第19台）\n三、自检内容\n 1、变压器接地线，高压线输入、输出已接好\n 2、线缆相序正确且紧固正常\n以上内容已自检完成请复检确认无误批准上电",
+        "create_time": "2026-11-16 21:51",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_3a5089c00ab83c544f8b8cfeb6f4ec3e\u0026position=81889",
+        "message_id": "om_x100b6084e826e0a0cf3b17e1a61c212",
+        "message_position": "81889",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_6ec8d0067fd213a2ac2972be9013aa82",
+          "id_type": "open_id",
+          "is_agent": false,
+          "name": "蒲旭东",
+          "sender_i18n_names": {
+            "en_us": "puxudong"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-11-16 21:51",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_3a5089c00ab83c544f8b8cfeb6f4ec3e",
+        "content": "[Image: img_v3_0217g_2dfbe14c-23b9-4ec6-ab36-94e9e791e0eg]",
+        "create_time": "2026-11-16 21:51",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_3a5089c00ab83c544f8b8cfeb6f4ec3e\u0026position=81890",
+        "message_id": "om_x100b6084e90fb8a0b09b9356ec82c63",
+        "message_position": "81890",
+        "msg_type": "image",
+        "sender": {
+          "id": "ou_6ec8d0067fd213a2ac2972be9013aa82",
+          "id_type": "open_id",
+          "is_agent": false,
+          "name": "蒲旭东",
+          "sender_i18n_names": {
+            "en_us": "puxudong"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-11-16 21:51",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_3a5089c00ab83c544f8b8cfeb6f4ec3e",
+        "content": "[Image: img_v3_0217g_d465940b-2b0a-48d5-9cd4-d3b3395c129g]",
+        "create_time": "2026-11-16 21:52",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_3a5089c00ab83c544f8b8cfeb6f4ec3e\u0026position=81891",
+        "message_id": "om_x100b6084e73f50a0b0f4479fa9f1bef",
+        "message_position": "81891",
+        "msg_type": "image",
+        "sender": {
+          "id": "ou_6ec8d0067fd213a2ac2972be9013aa82",
+          "id_type": "open_id",
+          "is_agent": false,
+          "name": "蒲旭东",
+          "sender_i18n_names": {
+            "en_us": "puxudong"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-11-16 21:52",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_3a5089c00ab83c544f8b8cfeb6f4ec3e",
+        "content": "[Image: img_v3_0217g_eef37859-6fd8-4f1d-9ac9-79ce9c7c59ag]",
+        "create_time": "2026-11-16 21:52",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_3a5089c00ab83c544f8b8cfeb6f4ec3e\u0026position=81892",
+        "message_id": "om_x100b6084e4d644b8cec78dc057c0040",
+        "message_position": "81892",
+        "msg_type": "image",
+        "sender": {
+          "id": "ou_6ec8d0067fd213a2ac2972be9013aa82",
+          "id_type": "open_id",
+          "is_agent": false,
+          "name": "蒲旭东",
+          "sender_i18n_names": {
+            "en_us": "puxudong"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-11-16 21:52",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_3a5089c00ab83c544f8b8cfeb6f4ec3e",
+        "content": "济南工厂大传动高压测试上电前自检通报11月16日\n一、项目名称：青岛科钛\n二、SN:01283197PUB10073（第20台）\n三、自检内容\n 1、变压器接地线，高压线输入、输出已接好\n 2、线缆相序正确且紧固正常\n以上内容已自检完成请复检确认无误批准上电",
+        "create_time": "2026-11-16 21:52",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_3a5089c00ab83c544f8b8cfeb6f4ec3e\u0026position=81893",
+        "message_id": "om_x100b6084e5d8e8a0b0e100e38ecd834",
+        "message_position": "81893",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_6ec8d0067fd213a2ac2972be9013aa82",
+          "id_type": "open_id",
+          "is_agent": false,
+          "name": "蒲旭东",
+          "sender_i18n_names": {
+            "en_us": "puxudong"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-11-16 21:52",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_3a5089c00ab83c544f8b8cfeb6f4ec3e",
+        "content": "[Image: img_v3_0217g_1bde47eb-91b1-401f-9f1c-72e2cd89bd6g]",
+        "create_time": "2026-11-16 21:53",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_3a5089c00ab83c544f8b8cfeb6f4ec3e\u0026position=81894",
+        "message_id": "om_x100b6084e3cce8b0cfd9895d840243d",
+        "message_position": "81894",
+        "msg_type": "image",
+        "sender": {
+          "id": "ou_6ec8d0067fd213a2ac2972be9013aa82",
+          "id_type": "open_id",
+          "is_agent": false,
+          "name": "蒲旭东",
+          "sender_i18n_names": {
+            "en_us": "puxudong"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-11-16 21:53",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_3a5089c00ab83c544f8b8cfeb6f4ec3e",
+        "content": "[Image: img_v3_0217g_a8e03ec0-ddcd-4f80-a6f3-673d75b0029g]",
+        "create_time": "2026-11-16 21:53",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_3a5089c00ab83c544f8b8cfeb6f4ec3e\u0026position=81895",
+        "message_id": "om_x100b6084e3e438a0cd125b9d0606e75",
+        "message_position": "81895",
+        "msg_type": "image",
+        "sender": {
+          "id": "ou_6ec8d0067fd213a2ac2972be9013aa82",
+          "id_type": "open_id",
+          "is_agent": false,
+          "name": "蒲旭东",
+          "sender_i18n_names": {
+            "en_us": "puxudong"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-11-16 21:53",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_3a5089c00ab83c544f8b8cfeb6f4ec3e",
+        "content": "[Image: img_v3_0217g_4ff81dd5-5ae3-4456-9a15-5c4284e6f73g]",
+        "create_time": "2026-11-16 21:53",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_3a5089c00ab83c544f8b8cfeb6f4ec3e\u0026position=81896",
+        "message_id": "om_x100b6084e3aefcb0ce708357abdc235",
+        "message_position": "81896",
+        "msg_type": "image",
+        "sender": {
+          "id": "ou_6ec8d0067fd213a2ac2972be9013aa82",
+          "id_type": "open_id",
+          "is_agent": false,
+          "name": "蒲旭东",
+          "sender_i18n_names": {
+            "en_us": "puxudong"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-11-16 21:53",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_3a5089c00ab83c544f8b8cfeb6f4ec3e",
+        "content": "济南工厂大传动高压测试上电前自检通报11月16日\n一、项目名称：温州赢合\n二、SN:01283598PUB10006（第21台）\n三、自检内容\n 1、变压器接地线，高压线输入、输出已接好\n 2、线缆相序正确且紧固正常\n以上内容已自检完成请复检确认无误批准上电",
+        "create_time": "2026-11-16 21:58",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_3a5089c00ab83c544f8b8cfeb6f4ec3e\u0026position=81897",
+        "message_id": "om_x100b60848eb5fca0c4671bd6ea5982d",
+        "message_position": "81897",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_de2beff48abad55aead9d594e1671e7d",
+          "id_type": "open_id",
+          "is_agent": false,
+          "name": "赵力",
+          "sender_i18n_names": {
+            "en_us": "zhaoli"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-11-16 21:58",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_3a5089c00ab83c544f8b8cfeb6f4ec3e",
+        "content": "[Image: img_v3_0217g_69da8fdd-0420-41a1-886d-23247606f2dg]",
+        "create_time": "2026-11-16 21:58",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_3a5089c00ab83c544f8b8cfeb6f4ec3e\u0026position=81898",
+        "message_id": "om_x100b60848e11b4a4c04cc4649b6f6c4",
+        "message_position": "81898",
+        "msg_type": "image",
+        "sender": {
+          "id": "ou_de2beff48abad55aead9d594e1671e7d",
+          "id_type": "open_id",
+          "is_agent": false,
+          "name": "赵力",
+          "sender_i18n_names": {
+            "en_us": "zhaoli"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-11-16 21:58",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_3a5089c00ab83c544f8b8cfeb6f4ec3e",
+        "content": "[Image: img_v3_0217g_6e852659-23ee-452d-828e-304214d9124g]",
+        "create_time": "2026-11-16 21:58",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_3a5089c00ab83c544f8b8cfeb6f4ec3e\u0026position=81899",
+        "message_id": "om_x100b60848e2dc0a0df7c30d1dc1d551",
+        "message_position": "81899",
+        "msg_type": "image",
+        "sender": {
+          "id": "ou_de2beff48abad55aead9d594e1671e7d",
+          "id_type": "open_id",
+          "is_agent": false,
+          "name": "赵力",
+          "sender_i18n_names": {
+            "en_us": "zhaoli"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-11-16 21:58",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_3a5089c00ab83c544f8b8cfeb6f4ec3e",
+        "content": "[Image: img_v3_0217g_f490674c-7d70-465e-8a10-c60a9419b04g]",
+        "create_time": "2026-11-16 21:58",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_3a5089c00ab83c544f8b8cfeb6f4ec3e\u0026position=81900",
+        "message_id": "om_x100b60848e2954a0c1fef0677f3585b",
+        "message_position": "81900",
+        "msg_type": "image",
+        "sender": {
+          "id": "ou_de2beff48abad55aead9d594e1671e7d",
+          "id_type": "open_id",
+          "is_agent": false,
+          "name": "赵力",
+          "sender_i18n_names": {
+            "en_us": "zhaoli"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_3a5089c00ab83c544f8b8cfeb6f4ec3e",
+        "content": "济南工厂大传动高压测试上电前自检通报11月16日\n一、项目名称：广东东然\n二、SN:01283117PUB10007（第22台）\n三、自检内容\n 1、变压器接地线，高压线输入、输出已接好\n 2、线缆相序正确且紧固正常\n以上内容已自检完成请复检确认无误批准上电",
+        "create_time": "2026-11-16 22:13",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_3a5089c00ab83c544f8b8cfeb6f4ec3e\u0026position=81901",
+        "message_id": "om_x100b6084b6b640a4cfc4d7833fd49bf",
+        "message_position": "81901",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_9b6e322dc3e44d41a16f2e46762a0563",
+          "id_type": "open_id",
+          "is_agent": false,
+          "name": "文亚鑫",
+          "sender_i18n_names": {
+            "en_us": "wenyaxin"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-11-16 22:13",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_3a5089c00ab83c544f8b8cfeb6f4ec3e",
+        "content": "[Image: img_v3_0217g_8712b4cf-6eb7-415d-8869-ed6fb0f0a5ag]",
+        "create_time": "2026-11-16 22:13",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_3a5089c00ab83c544f8b8cfeb6f4ec3e\u0026position=81902",
+        "message_id": "om_x100b6084b62de0a4b32ace106142bd2",
+        "message_position": "81902",
+        "msg_type": "image",
+        "sender": {
+          "id": "ou_9b6e322dc3e44d41a16f2e46762a0563",
+          "id_type": "open_id",
+          "is_agent": false,
+          "name": "文亚鑫",
+          "sender_i18n_names": {
+            "en_us": "wenyaxin"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-11-16 22:13",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_3a5089c00ab83c544f8b8cfeb6f4ec3e",
+        "content": "[Image: img_v3_0217g_9e5ba7a8-e3c5-447b-8ca8-e715ffc5111g]",
+        "create_time": "2026-11-16 22:13",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_3a5089c00ab83c544f8b8cfeb6f4ec3e\u0026position=81903",
+        "message_id": "om_x100b6084b6293ca0b3ca12ce21da54c",
+        "message_position": "81903",
+        "msg_type": "image",
+        "sender": {
+          "id": "ou_9b6e322dc3e44d41a16f2e46762a0563",
+          "id_type": "open_id",
+          "is_agent": false,
+          "name": "文亚鑫",
+          "sender_i18n_names": {
+            "en_us": "wenyaxin"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-11-16 22:13",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_3a5089c00ab83c544f8b8cfeb6f4ec3e",
+        "content": "[Image: img_v3_0217g_09ba91da-cd15-488c-b6b5-4d7d734a676g]",
+        "create_time": "2026-11-16 22:13",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_3a5089c00ab83c544f8b8cfeb6f4ec3e\u0026position=81904",
+        "message_id": "om_x100b6084b62544acb0954f7f0a7974a",
+        "message_position": "81904",
+        "msg_type": "image",
+        "sender": {
+          "id": "ou_9b6e322dc3e44d41a16f2e46762a0563",
+          "id_type": "open_id",
+          "is_agent": false,
+          "name": "文亚鑫",
+          "sender_i18n_names": {
+            "en_us": "wenyaxin"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_3a5089c00ab83c544f8b8cfeb6f4ec3e",
+        "content": "济南工厂大传动高压测试上电前自检通报11月16日\n一、项目名称：广东东然\n二、SN:01283117PUB10008（第23台）\n三、自检内容\n 1、变压器接地线，高压线输入、输出已接好\n 2、线缆相序正确且紧固正常\n以上内容已自检完成请复检确认无误批准上电",
+        "create_time": "2026-11-16 22:13",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_3a5089c00ab83c544f8b8cfeb6f4ec3e\u0026position=81905",
+        "message_id": "om_x100b6084b71630a8ce9cc01ad36ef5d",
+        "message_position": "81905",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_9b6e322dc3e44d41a16f2e46762a0563",
+          "id_type": "open_id",
+          "is_agent": false,
+          "name": "文亚鑫",
+          "sender_i18n_names": {
+            "en_us": "wenyaxin"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-11-16 22:13",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_3a5089c00ab83c544f8b8cfeb6f4ec3e",
+        "content": "[Image: img_v3_0217g_d05b42f2-c19b-469b-bba5-4e0abbf6eceg]",
+        "create_time": "2026-11-16 22:13",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_3a5089c00ab83c544f8b8cfeb6f4ec3e\u0026position=81906",
+        "message_id": "om_x100b6084b489a8a0ce3672a85885c6d",
+        "message_position": "81906",
+        "msg_type": "image",
+        "sender": {
+          "id": "ou_9b6e322dc3e44d41a16f2e46762a0563",
+          "id_type": "open_id",
+          "is_agent": false,
+          "name": "文亚鑫",
+          "sender_i18n_names": {
+            "en_us": "wenyaxin"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-11-16 22:13",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_3a5089c00ab83c544f8b8cfeb6f4ec3e",
+        "content": "[Image: img_v3_0217g_a85c312e-1b18-476e-8a93-dee4b55383dg]",
+        "create_time": "2026-11-16 22:13",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_3a5089c00ab83c544f8b8cfeb6f4ec3e\u0026position=81907",
+        "message_id": "om_x100b6084b485d8a4b32992a1eb14cca",
+        "message_position": "81907",
+        "msg_type": "image",
+        "sender": {
+          "id": "ou_9b6e322dc3e44d41a16f2e46762a0563",
+          "id_type": "open_id",
+          "is_agent": false,
+          "name": "文亚鑫",
+          "sender_i18n_names": {
+            "en_us": "wenyaxin"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-11-16 22:13",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_3a5089c00ab83c544f8b8cfeb6f4ec3e",
+        "content": "[Image: img_v3_0217g_d3ae9bfb-e32b-4b51-b650-9cf95df097cg]",
+        "create_time": "2026-11-16 22:13",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_3a5089c00ab83c544f8b8cfeb6f4ec3e\u0026position=81908",
+        "message_id": "om_x100b6084b48114accef66b31e6b553d",
+        "message_position": "81908",
+        "msg_type": "image",
+        "sender": {
+          "id": "ou_9b6e322dc3e44d41a16f2e46762a0563",
+          "id_type": "open_id",
+          "is_agent": false,
+          "name": "文亚鑫",
+          "sender_i18n_names": {
+            "en_us": "wenyaxin"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_3a5089c00ab83c544f8b8cfeb6f4ec3e",
+        "content": "以上上电照片中标签确认无误",
+        "create_time": "2026-11-16 22:19",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_3a5089c00ab83c544f8b8cfeb6f4ec3e\u0026position=81909",
+        "message_id": "om_x100b60855edb88a8de0a00e5b54f574",
+        "message_position": "81909",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_51bf794a870c16f2bdffc111429359de",
+          "id_type": "open_id",
+          "is_agent": false,
+          "name": "陈秀迪",
+          "sender_i18n_names": {
+            "en_us": "chenxiudi"
+          },
+          "sender_type": "user",
+          "tenant_key": "2cdb9633accfd75d"
+        },
+        "update_time": "2026-11-16 22:19",
+        "updated": true
+      }
+    ],
+    "page_token": "",
+    "total": 104
+  },
+  "meta": {
+    "pagination": {
+      "complete": true,
+      "pages": 3,
+      "items": 104
+    }
+  }
+}

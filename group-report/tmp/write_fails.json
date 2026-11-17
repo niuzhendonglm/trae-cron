@@ -1,0 +1,14 @@
+[
+ {
+  "chunk": 0,
+  "error": "{\n  \"ok\": false,\n  \"identity\": \"user\",\n  \"error\": {\n    \"type\": \"api\",\n    \"subtype\": \"unknown\",\n    \"code\": 800010406,\n    \"message\": \"The user open_id is invalid.\",\n    \"hint\": \"Provide a valid user open_id in the cell item id field, for example [{\\\"id\\\":\\\"ou_123\\\"}]. The current open_id cannot be converted by OpenAPI.\",\n    \"log_id\": \"202611171029041DA3AEF224B80A118E0B\"\n  }\n}\n"
+ },
+ {
+  "chunk": 3,
+  "error": "{\n  \"ok\": false,\n  \"identity\": \"user\",\n  \"error\": {\n    \"type\": \"api\",\n    \"subtype\": \"unknown\",\n    \"code\": 800010406,\n    \"message\": \"The user open_id is invalid.\",\n    \"hint\": \"Provide a valid user open_id in the cell item id field, for example [{\\\"id\\\":\\\"ou_123\\\"}]. The current open_id cannot be converted by OpenAPI.\",\n    \"log_id\": \"2026111710291411A79C9D7F1E1F140E97\"\n  }\n}\n"
+ },
+ {
+  "chunk": 0,
+  "error": "{\n  \"ok\": false,\n  \"identity\": \"user\",\n  \"error\": {\n    \"type\": \"api\",\n    \"subtype\": \"unknown\",\n    \"code\": 800010406,\n    \"message\": \"The user open_id is invalid.\",\n    \"hint\": \"Provide a valid user open_id in the cell item id field, for example [{\\\"id\\\":\\\"ou_123\\\"}]. The current open_id cannot be converted by OpenAPI.\",\n    \"log_id\": \"202611171029243D985746E242630B36A2\"\n  }\n}\n"
+ }
+]
