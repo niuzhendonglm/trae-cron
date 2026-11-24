@@ -1,0 +1,58 @@
+{
+  "manifest_version": "v1",
+  "format": "ndjson",
+  "base_token": "KezfbQ2fDaNBonskSTZcM3YVnWf",
+  "table_id": "tblGYhAz6u12BRPZ",
+  "rev": 245,
+  "timezone": "Asia/Shanghai",
+  "query_context": {
+    "field_scope": "selected_fields",
+    "record_scope": "all_records"
+  },
+  "requested_limit": 2000,
+  "records_count": 102,
+  "page_count": 1,
+  "has_more": false,
+  "record_file": "/workspace/zaobao_all.ndjson",
+  "record_file_size_bytes": 14235,
+  "manifest_file": "/workspace/zaobao_all.manifest.json",
+  "columns": {
+    "record_id": {
+      "physical_type": "string",
+      "stats": {
+        "max_length": 16
+      },
+      "example": "recvw2AWMzuQ7X"
+    },
+    "推送时间": {
+      "field_id": "fldczxexmz",
+      "field_type": "text",
+      "physical_type": "string|null",
+      "stats": {
+        "null_count": 11,
+        "max_length": 19
+      },
+      "example": "2026-09-23 19:50"
+    },
+    "来源": {
+      "field_id": "fldg4INo8R",
+      "field_type": "text",
+      "physical_type": "string|null",
+      "stats": {
+        "null_count": 1,
+        "max_length": 8
+      },
+      "example": "Trae"
+    },
+    "标题": {
+      "field_id": "fld6GidRN3",
+      "field_type": "text",
+      "physical_type": "string|null",
+      "stats": {
+        "null_count": 0,
+        "max_length": 41
+      },
+      "example": "测试记录"
+    }
+  }
+}

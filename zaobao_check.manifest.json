@@ -1,0 +1,89 @@
+{
+  "manifest_version": "v1",
+  "format": "ndjson",
+  "base_token": "KezfbQ2fDaNBonskSTZcM3YVnWf",
+  "table_id": "tblGYhAz6u12BRPZ",
+  "rev": 246,
+  "timezone": "Asia/Shanghai",
+  "query_context": {
+    "field_scope": "selected_fields",
+    "record_scope": "filtered_records"
+  },
+  "requested_limit": 2000,
+  "records_count": 1,
+  "page_count": 1,
+  "has_more": false,
+  "record_file": "/workspace/zaobao_check.ndjson",
+  "record_file_size_bytes": 5427,
+  "manifest_file": "/workspace/zaobao_check.manifest.json",
+  "columns": {
+    "record_id": {
+      "physical_type": "string",
+      "stats": {
+        "max_length": 16
+      },
+      "example": "reczz28dXfS1ydfd"
+    },
+    "内容": {
+      "field_id": "fldGXq3fd5",
+      "field_type": "text",
+      "physical_type": "string|null",
+      "stats": {
+        "null_count": 0,
+        "max_length": 2502
+      },
+      "example": "# 每日 AI 新闻简报【Trae】\n\n**数据日期**：2026-11-24（周二）　**本次收录**：9 条新闻　**覆盖时段**：最近 24 小时\n\n---\n\n## 1. 【融资】亚马逊收购 Decart AI 优化栈与核心团队，作价约 75 亿美元",
+      "example_truncated": true
+    },
+    "推送时间": {
+      "field_id": "fldczxexmz",
+      "field_type": "text",
+      "physical_type": "string|null",
+      "stats": {
+        "null_count": 0,
+        "max_length": 19
+      },
+      "example": "2026-11-24 22:06:58"
+    },
+    "本地文件地址": {
+      "field_id": "fldDQ7NZhu",
+      "field_type": "text",
+      "physical_type": "string|null",
+      "stats": {
+        "null_count": 0,
+        "max_length": 48
+      },
+      "example": "/workspace/ai-briefing/2026-11-24-ai-briefing.md"
+    },
+    "来源": {
+      "field_id": "fldg4INo8R",
+      "field_type": "text",
+      "physical_type": "string|null",
+      "stats": {
+        "null_count": 0,
+        "max_length": 4
+      },
+      "example": "Trae"
+    },
+    "标题": {
+      "field_id": "fld6GidRN3",
+      "field_type": "text",
+      "physical_type": "string|null",
+      "stats": {
+        "null_count": 0,
+        "max_length": 30
+      },
+      "example": "每日 AI 新闻简报 · 2026-11-24 【Trae】"
+    },
+    "群聊": {
+      "field_id": "fldW6uMGtt",
+      "field_type": "text",
+      "physical_type": "string|null",
+      "stats": {
+        "null_count": 0,
+        "max_length": 17
+      },
+      "example": "【Claw】牛振东的AI架构师群聊"
+    }
+  }
+}
