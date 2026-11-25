@@ -1,0 +1,79 @@
+{
+  "manifest_version": "v1",
+  "format": "ndjson",
+  "base_token": "KezfbQ2fDaNBonskSTZcM3YVnWf",
+  "table_id": "tblGYhAz6u12BRPZ",
+  "rev": 251,
+  "timezone": "Asia/Shanghai",
+  "query_context": {
+    "field_scope": "selected_fields",
+    "record_scope": "filtered_records"
+  },
+  "requested_limit": 2000,
+  "records_count": 1,
+  "page_count": 1,
+  "has_more": false,
+  "record_file": "/workspace/ai-briefing/zaobao_verify.ndjson",
+  "record_file_size_bytes": 4694,
+  "manifest_file": "/workspace/ai-briefing/zaobao_verify.manifest.json",
+  "columns": {
+    "record_id": {
+      "physical_type": "string",
+      "stats": {
+        "max_length": 16
+      },
+      "example": "reczz28dvPbMlMDQ"
+    },
+    "内容": {
+      "field_id": "fldGXq3fd5",
+      "field_type": "text",
+      "physical_type": "string|null",
+      "stats": {
+        "null_count": 0,
+        "max_length": 2165
+      },
+      "example": "# 每日 AI 新闻简报【Trae】\n\n**数据日期**：2026-11-25（周三） ｜ **本次收录**：10 条新闻 ｜ **覆盖时段**：最近 24 小时\n\n---\n\n**1.【融资】Anthropic 上市第四个交易日跌破发行价，市值一度失守 1",
+      "example_truncated": true
+    },
+    "推送时间": {
+      "field_id": "fldczxexmz",
+      "field_type": "text",
+      "physical_type": "string|null",
+      "stats": {
+        "null_count": 0,
+        "max_length": 19
+      },
+      "example": "2026-11-25 21:21:05"
+    },
+    "本地文件地址": {
+      "field_id": "fldDQ7NZhu",
+      "field_type": "text",
+      "physical_type": "string|null",
+      "stats": {
+        "null_count": 0,
+        "max_length": 48
+      },
+      "example": "/workspace/ai-briefing/2026-11-25-ai-briefing.md"
+    },
+    "标题": {
+      "field_id": "fld6GidRN3",
+      "field_type": "text",
+      "physical_type": "string|null",
+      "stats": {
+        "null_count": 0,
+        "max_length": 30
+      },
+      "example": "每日 AI 新闻简报 · 2026-11-25 【Trae】"
+    },
+    "消息ID": {
+      "field_id": "fldHe8LrEy",
+      "field_type": "text",
+      "physical_type": "string|null",
+      "stats": {
+        "null_count": 0,
+        "max_length": 35
+      },
+      "example": "om_x100b7f5a42c6ccaccff93ac08831b38"
+    }
+  }
+}
