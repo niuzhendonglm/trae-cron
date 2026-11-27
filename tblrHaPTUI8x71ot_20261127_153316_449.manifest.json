@@ -1,0 +1,109 @@
+{
+  "manifest_version": "v1",
+  "format": "ndjson",
+  "base_token": "KezfbQ2fDaNBonskSTZcM3YVnWf",
+  "table_id": "tblrHaPTUI8x71ot",
+  "rev": 441,
+  "timezone": "Asia/Shanghai",
+  "query_context": {
+    "field_scope": "all_fields",
+    "record_scope": "filtered_records"
+  },
+  "requested_limit": 2000,
+  "records_count": 3,
+  "page_count": 1,
+  "has_more": false,
+  "record_file": "/workspace/tblrHaPTUI8x71ot_20261127_153316_449.ndjson",
+  "record_file_size_bytes": 2126,
+  "manifest_file": "/workspace/tblrHaPTUI8x71ot_20261127_153316_449.manifest.json",
+  "columns": {
+    "AI回复": {
+      "field_id": "fldtSg9R3M",
+      "field_type": "text",
+      "physical_type": "string|null",
+      "stats": {
+        "null_count": 2,
+        "max_length": 112
+      },
+      "example": "trae-design、Seedream、Seedance 插件仍在插件市场提供：在「插件市场」搜索插件名安装后，在对话中上传参考图并选择对应图像/视频模型即可图生图；若搜索不到，请升级 TRAE 到最新版并切换官方插件源。"
+    },
+    "Answer": {
+      "field_id": "fldGVRHmev",
+      "field_type": "text",
+      "physical_type": "string|null",
+      "stats": {
+        "null_count": 0,
+        "max_length": 112
+      },
+      "example": "查下后端日志"
+    },
+    "Question": {
+      "field_id": "flduTpz0TC",
+      "field_type": "text",
+      "physical_type": "string|null",
+      "stats": {
+        "null_count": 0,
+        "max_length": 82
+      },
+      "example": "@曹丽 曹工，刚业务人员发现一个问题，看起来像网络问题，你周一看看能否复现下"
+    },
+    "record_id": {
+      "physical_type": "string",
+      "stats": {
+        "max_length": 16
+      },
+      "example": "reczz28d17SUriLp"
+    },
+    "回复人": {
+      "field_id": "fldL8QOn5x",
+      "field_type": "text",
+      "physical_type": "string|null",
+      "stats": {
+        "null_count": 0,
+        "max_length": 4
+      },
+      "example": "AI助手"
+    },
+    "提问人": {
+      "field_id": "fldY017GaS",
+      "field_type": "text",
+      "physical_type": "string|null",
+      "stats": {
+        "null_count": 0,
+        "max_length": 10
+      },
+      "example": "石峰"
+    },
+    "文本": {
+      "field_id": "fldyixshzh",
+      "field_type": "text",
+      "physical_type": "string|null",
+      "stats": {
+        "null_count": 0,
+        "max_length": 82
+      },
+      "example": "@曹丽 曹工，刚业务人员发现一个问题，看起来像网络问题，你周一看看能否复现下"
+    },
+    "问题日期": {
+      "field_id": "fldVyCiJ2m",
+      "field_type": "datetime",
+      "physical_type": "string|null",
+      "stats": {
+        "null_count": 0,
+        "min": "2026-11-21T14:15:00.000+08:00",
+        "max": "2026-11-21T20:00:00.000+08:00"
+      },
+      "example": "2026-11-21T17:51:00.000+08:00"
+    },
+    "问题类型": {
+      "field_id": "fldZ8OCMiW",
+      "field_type": "text",
+      "physical_type": "string|null",
+      "stats": {
+        "null_count": 0,
+        "max_length": 4
+      },
+      "example": "工具使用"
+    }
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "manifest_version": "v1",
+  "format": "ndjson",
+  "base_token": "KezfbQ2fDaNBonskSTZcM3YVnWf",
+  "table_id": "tblrHaPTUI8x71ot",
+  "rev": 440,
+  "timezone": "Asia/Shanghai",
+  "query_context": {
+    "field_scope": "all_fields",
+    "record_scope": "filtered_records"
+  },
+  "requested_limit": 2000,
+  "records_count": 49,
+  "page_count": 1,
+  "has_more": false,
+  "record_file": "/workspace/tblrHaPTUI8x71ot_20261127_151434_027.ndjson",
+  "record_file_size_bytes": 26244,
+  "manifest_file": "/workspace/tblrHaPTUI8x71ot_20261127_151434_027.manifest.json",
+  "columns": {
+    "AI回复": {
+      "field_id": "fldtSg9R3M",
+      "field_type": "text",
+      "physical_type": "string|null",
+      "stats": {
+        "null_count": 32,
+        "max_length": 107
+      },
+      "example": "这是合理的会话管理需求，建议通过官方反馈渠道提交，产品可评估按文件夹/项目分组的会话组织能力。"
+    },
+    "Answer": {
+      "field_id": "fldGVRHmev",
+      "field_type": "text",
+      "physical_type": "string|null",
+      "stats": {
+        "null_count": 0,
+        "max_length": 135
+      },
+      "example": "收到。"
+    },
+    "Question": {
+      "field_id": "flduTpz0TC",
+      "field_type": "text",
+      "physical_type": "string|null",
+      "stats": {
+        "null_count": 0,
+        "max_length": 77
+      },
+      "example": "遇到啥问题了？"
+    },
+    "record_id": {
+      "physical_type": "string",
+      "stats": {
+        "max_length": 16
+      },
+      "example": "reczz28dvdzDAoWu"
+    },
+    "回复人": {
+      "field_id": "fldL8QOn5x",
+      "field_type": "text",
+      "physical_type": "string|null",
+      "stats": {
+        "null_count": 0,
+        "max_length": 4
+      },
+      "example": "何洁"
+    },
+    "提问人": {
+      "field_id": "fldY017GaS",
+      "field_type": "text",
+      "physical_type": "string|null",
+      "stats": {
+        "null_count": 0,
+        "max_length": 8
+      },
+      "example": "May"
+    },
+    "文本": {
+      "field_id": "fldyixshzh",
+      "field_type": "text",
+      "physical_type": "string|null",
+      "stats": {
+        "null_count": 0,
+        "max_length": 77
+      },
+      "example": "遇到啥问题了？"
+    },
+    "问题日期": {
+      "field_id": "fldVyCiJ2m",
+      "field_type": "datetime",
+      "physical_type": "string|null",
+      "stats": {
+        "null_count": 0,
+        "min": "2026-11-24T08:59:00.000+08:00",
+        "max": "2026-11-24T22:31:00.000+08:00"
+      },
+      "example": "2026-11-24T14:15:00.000+08:00"
+    },
+    "问题类型": {
+      "field_id": "fldZ8OCMiW",
+      "field_type": "text",
+      "physical_type": "string|null",
+      "stats": {
+        "null_count": 0,
+        "max_length": 4
+      },
+      "example": "工具使用"
+    }
+  }
+}
